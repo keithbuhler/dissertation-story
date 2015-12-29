@@ -2,7 +2,7 @@
 
 ## Introduction
 
-## What is virtue?[@dupre2004miracle test2]
+## What is virtue?
 
 Foot's account of virtue unfolds across five points: Virtue is
 
@@ -14,7 +14,6 @@ Foot's account of virtue unfolds across five points: Virtue is
 
 
 [^10]: She recommends examining Aristotle and Aquinas (and others) for their view on virtue, but cautions against terminological misunderstandings. *Arete* for them refers “also to arts, and even to excellences of the speculative intellect whose domain is theory rather than practice” (@foot2002virtues 2). *Arete ethikai* (or virtues morales) do not correspond to our moral virtues. For us, there are four moral virtues: courage, temperance, wisdom, and justice. For them, wisdom or *phronesis/prudentia* is an intellectual virtue.] 
-
 
 She begins with necessary conditions: A virtue is beneficial.[^10] She says, “Human beings do not get on well without them. Nobody can get on well if he lacks courage, and does not have some measure of temperance and wisdom, while communities where justice and charity re lacking are apt to be wretched places to live, as Russia was under the Stalinist terror.”[@foot2002virtues 2-3] But whom is benefited? Does a person possessing a virtue benefit the virtuous person or the society in which the virtuous person lives? For some virtues, the answer is more clearly “both”: temperance benefits oneself and one’s family or community. For other virtues, such as justice or charity, the answer is less clear. “It is a reasonable opinion that on the whole a man is better off for being charitable and just, but this is not to say that circumstances may not arise in which he will have to sacrifice everything for charity or justice.”[@foot2002virtues 3]
 
@@ -116,4 +115,3 @@ Virtues for humans are like stings for bees, swiftness for deer, solidarity for 
 
 10. Some object that Foot is unclear across three levels: logic, language, and morality. This is somewhat true but drawing a clear distinction between the three need not suggest a sharp *division* between the three. 
 12. Some object that Foot is not clear (James Lenman, for example). This is not true; she is clear enough to expose the readers' modern prejudices. 
-
