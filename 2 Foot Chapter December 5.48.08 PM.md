@@ -1,8 +1,6 @@
 # Foot: Virtue as Natural Goodness
 
-## Introduction
-
-## What is virtue?[@dupre2004miracle test2]
+## What is virtue?
 
 Foot's account of virtue unfolds across five points: Virtue is
 
@@ -13,10 +11,12 @@ Foot's account of virtue unfolds across five points: Virtue is
 - natural goodness.
 
 
+She begins with necessary conditions: A virtue is beneficial.[^10] She says, “Human beings do not get on well without them. Nobody can get on well if he lacks courage, and does not have some measure of temperance and wisdom, while communities where justice and charity re lacking are apt to be wretched places to live, as Russia was under the Stalinist terror.”[@foot2002virtues 2-3] But whom is benefited? Does a person possessing a virtue benefit the virtuous person or the society in which the virtuous person lives? For some virtues, the answer is more clearly “both”: temperance benefits oneself and one’s family or community. For other virtues, such as justice or charity, the answer is less clear. She says, “It is a reasonable opinion that on the whole a man is better off for being charitable and just, but this is not to say that circumstances may not arise in which he will have to sacrifice everything for charity or justice.”[@foot2002virtues 3] The cases in which virtuous deeds necessitate the loss of other goods are not so devestating as they might appear; if on occasion it is better (say) for my family that I sacrifice my health in working hard to earn wages,
+
+The alternative to allowing that virtues are necessarily beneficial even if they are not necessarily beneficial to the possessor in every respect is to believe that every quality may be good or bad. Some qualities (say persistance) certainly do seem to be good or bad depending on other factors. But to deny that some qualities (kindness, cruelty) are really good and really bad is absurd. Furthermore, the assumed metaphysical disparity between my good and my neighbor's good is one of the sacred cows of modern ethical philoosophy we must question.
+
 [^10]: She recommends examining Aristotle and Aquinas (and others) for their view on virtue, but cautions against terminological misunderstandings. *Arete* for them refers “also to arts, and even to excellences of the speculative intellect whose domain is theory rather than practice” (@foot2002virtues 2). *Arete ethikai* (or virtues morales) do not correspond to our moral virtues. For us, there are four moral virtues: courage, temperance, wisdom, and justice. For them, wisdom or *phronesis/prudentia* is an intellectual virtue.] 
 
-
-She begins with necessary conditions: A virtue is beneficial.[^10] She says, “Human beings do not get on well without them. Nobody can get on well if he lacks courage, and does not have some measure of temperance and wisdom, while communities where justice and charity re lacking are apt to be wretched places to live, as Russia was under the Stalinist terror.”[@foot2002virtues 2-3] But whom is benefited? Does a person possessing a virtue benefit the virtuous person or the society in which the virtuous person lives? For some virtues, the answer is more clearly “both”: temperance benefits oneself and one’s family or community. For other virtues, such as justice or charity, the answer is less clear. “It is a reasonable opinion that on the whole a man is better off for being charitable and just, but this is not to say that circumstances may not arise in which he will have to sacrifice everything for charity or justice.”[@foot2002virtues 3]
 
 > Let us say then, leaving unsolved problems behind us, that virtues are in general beneficial characteristics, and indeed ones that a human being needs to have, for his own sake and that of his fellows. This will not, however, take us far towards a definition of a virtue, since there are many other qualities of a man that may be similarly beneficial, as for instance bodily characteristics such as health and physical strength, and mental powers such as those of memory and concentration.[@foot2002virtues 4]
 
@@ -84,6 +84,7 @@ Contrast 'good' with other predicates like 'red' or 'beautiful.' In a statement 
 
 
 ### On practical rationality ###
+
 Another false assumption "finds its deepest roots in David Hume..."[@footnatural 6] It is the premise of almost all non-cognitivist thinkers isa way of dividing facts from values, "that the meaning of moral terms was to be explained in terms of a speaker’s attitude, intentions, or state of mind. And this opened up a gap between moral judgments and assertions... Fact, complementary to assertion, had been distinguished from value, complementary to the expression of feeling, attitude, or commitment to action."[@footnatural 8] There is a real distinction in the offing, but it is not the distinction between facts and values; it is the distinction between practical and theoretical. 
 
 >Their theories were devised to take account of something that really is a feature of moral judgment: the ‘action-guiding’ character of morality, which Hume had insisted on and taken as the foundation of his moral philosophy. Morality, Hume had said, is necessarily practical, serving to produce and prevent action, and I shall call this ‘Hume’s practicality requirement.’ Emotivism satisfies the requirement in the wrong way. (9). 
@@ -95,25 +96,45 @@ For example, the greenness of home-grown kale is reason to believe the leaves co
 To deny that moral judgments are action guiding would be clearly wrong. But she aims to capture this "practicality requirement" in a far different way.
 Perhaps it is wrong also to think that only subjective states can be action-guiding; perhaps evaluative properties, too, can be action-guiding. 
 
+### Lifeform specific facts: biology and value
+
 What are the action-guiding facts in the case of natural goodness? Facts about humans and facts about objects in the world and facts about our relation to those objects.
 
+Virtue ethicists like Philippa Foot, and Peter Geach before her, express their thesis in statements like "virtues are necessary for human beings." The kind of necessity invoked here is not a sui generis ethical necessity but an instance of a familiar kind. That is, virtues for humans are like stings for bees, swiftness for deer, solidarity for wolves; there is a fundamental parity between natural goodness in nonhumans and humans. The parity is due to a common (metaphysical) structure shared by all living things as such. When we observe and examine living things we rightly employ some shared categories and our conclusions rightly share a logical structure. 
 
-### Biology and value ###
+What is the common structure? Every individual living being is a member of a species or life-form. And different life-forms are subject to different normative appraisals. 
 
-Virtues for humans are like stings for bees, swiftness for deer, solidarity for wolves; there is a fundamental parity between natural goodness in nonhumans and humans. 
-
-
->What is so helpful for ethics from this kind of biological naturalism is that we find that the normativity of our ethical discourse is not something which emerges mysteriously with humans and can only be projected back, in an anthropomorphic way, onto trees and their roots. Rather, we find normativity in the realm of living things, plants and animals, already. It is part of the great merit of the work of Philippa Foot and Rosalind Hursthouse to have stressed this point. Like many important philosophical points, it is obvious once pointed out…[@](Annas 1996)
+Thompson's groundbreaking *Representation of Life* argues that "life" is a fundamental concept. "Life" is not, as it may seem to some, a property of some beings where being is the fundamental concept. 
 
 
-4. Immorality can be answered.
-5. Virtues benefit their possessor by definition; but they can cause harm and suffering.
-6. Happiness is deep satisfaction.
-7. Unhappiness is in some way compatible with virtue. 
-8. Some object that Foot is not a "naturalist." This is to misunderstand Foot and to beg the question as to what nature is. 
+Julia Annas says: 
+>What is so helpful for ethics from this kind of biological naturalism is that we find that the normativity of our ethical discourse is not something which emerges mysteriously with humans and can only be projected back, in an anthropomorphic way, onto trees and their roots. Rather, we find normativity in the realm of living things, plants and animals, already. It is part of the great merit of the work of Philippa Foot and Rosalind Hursthouse to have stressed this point. Like many important philosophical points, it is obvious once pointed out…[@Annas 1996)(find book)
+
+
+## 4. Immorality can be answered.
+
+## 5. Virtues benefit their possessor by definition; but they can cause harm and suffering.
+
+## 6. Happiness is deep satisfaction.
+
+## 7. Unhappiness is in some way compatible with virtue. 
+
+## 8. Some object that Foot is not a "naturalist." This is to misunderstand Foot and to beg the question as to what nature is. 
 
 “…we can see that Foot’s naturalism offers a fresh approach to objectivism in ethics. Yet, in spite of such attractions, Natural Goodness is in the midst of a cool reception. Here, I will argue that this reception is due to the fact that Foot’s naturalism draws on a picture of the biological world that is at odds with the view embraced by most contemporary scientists and philosophers. Foot’s readers commonly assume that the account of the biological world that she must want to adhere to, and that she nevertheless mistakenly departs from, is the account offered by contemporary neo-Darwinian biological sciences.”[@hacker2009natural 309]
 
 10. Some object that Foot is unclear across three levels: logic, language, and morality. This is somewhat true but drawing a clear distinction between the three need not suggest a sharp *division* between the three. 
 12. Some object that Foot is not clear (James Lenman, for example). This is not true; she is clear enough to expose the readers' modern prejudices. 
 
+
+>The objection I think I understand and want to take seriously
+starts from the thought that in employing such notions as life and organism
+and life-form or species we introduce something foreign, in particular
+something ‘biological’, or crudely empirical, into the elements of
+ethical theory. Any such view, one thinks, must involve either a vulgar
+scientistic dissolution of the ethical, tending maybe toward an ‘evolutionary
+ethics’, or else the covert substitution of an outdated metaphysics
+for what we know to be empirical. Each path leads to its own absurdities.
+Together they may be thought to betray a yearning to view our
+practices ‘from outside’ or ‘from sideways on’ in hope perhaps of providing
+them with a foundation or an external grounding.[@@thompson2008life]
