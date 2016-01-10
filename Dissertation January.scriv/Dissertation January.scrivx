@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-01-04 10:09:20 -0800" ModID="3BDE6F53-E99D-4586-A3FA-D867E7A17534">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-01-05 17:15:21 -0800" ModID="82D12FF1-A84C-49B9-8554-0E17A2049457">
     <Binder>
         <BinderItem ID="802" UUID="2DAA506D-945F-453B-9F43-C3056C4EAD4F" Type="Text" Created="2015-06-07 06:24:20 -0700" Modified="2016-01-04 09:39:23 -0800">
             <Title>January</Title>
@@ -246,7 +246,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6329,0</TextSelection>
+                                <TextSelection>89,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -611,7 +611,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2457,638</TextSelection>
+                                <TextSelection>2195,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="317" UUID="35F81A23-04D8-4187-927B-8A7FDB713413" Type="Text" Created="2015-06-22 08:30:56 -0700" Modified="2015-07-01 20:09:46 -0700">
@@ -1021,14 +1021,14 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="349" UUID="533591F8-750F-45CF-A4DA-2ABB1226BC11" Type="Text" Created="2015-06-23 18:43:24 -0700" Modified="2015-06-23 18:43:32 -0700">
+                <BinderItem ID="349" UUID="533591F8-750F-45CF-A4DA-2ABB1226BC11" Type="Text" Created="2015-06-23 18:43:24 -0700" Modified="2016-01-05 10:31:50 -0800">
                     <Title>Philosopher Info Sheets</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>30592,0</TextSelection>
+                        <TextSelection>30591,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="451" UUID="FD47B75F-AFF9-4A87-BEBE-80F7CB68E7FE" Type="Text" Created="2015-07-16 05:16:31 -0700" Modified="2015-07-16 06:47:33 -0700">
@@ -1194,23 +1194,6 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-            </Children>
-        </BinderItem>
-        <BinderItem ID="82" UUID="F18801D7-23FD-40D9-B885-D5E1C4F3794C" Type="Text" Created="2015-05-15 10:41:04 -0700" Modified="2015-06-22 08:27:07 -0700">
-            <Title>Now Reading</Title>
-            <MetaData>
-                <LabelID>6</LabelID>
-                <StatusID>2</StatusID>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <NotesTextSelection>0,0</NotesTextSelection>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>0,0</TextSelection>
-            </TextSettings>
-            <Keywords>
-                <KeywordID>6</KeywordID>
-            </Keywords>
-            <Children>
                 <BinderItem ID="502" UUID="CAE46F45-18DD-458B-B2B5-2FA2B8EBDA3D" Type="Text" Created="2015-09-01 18:21:29 -0700" Modified="2015-09-08 14:51:30 -0700">
                     <Title>Mackie, The Subjectivity of Values</Title>
                     <MetaData>
@@ -1218,7 +1201,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>174,0</TextSelection>
+                        <TextSelection>247,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem ID="507" UUID="D764D20B-34C0-4B4E-A97A-7D5A480AD0C8" Type="Text" Created="2015-09-03 11:12:33 -0700" Modified="2015-09-03 11:12:56 -0700">
@@ -1264,16 +1247,6 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="508" UUID="20C94E5F-114A-4116-9F1E-CE557AE9219B" Type="Text" Created="2015-09-05 02:06:38 -0700" Modified="2015-09-07 11:28:32 -0700">
-                    <Title>Mackie Markdown</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>122,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem ID="509" UUID="D34B426B-3C2A-4B8C-B5A9-E03DEDD4369D" Type="Text" Created="2015-09-05 09:02:06 -0700" Modified="2015-09-07 13:19:48 -0700">
                     <Title>Joyce, the Myth of Morality </Title>
                     <MetaData>
@@ -1284,16 +1257,23 @@
                         <TextSelection>1558,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="411" UUID="3630741B-73CA-4790-B739-3BD07FB9570A" Type="Text" Created="2015-07-01 13:56:58 -0700" Modified="2015-07-01 13:57:05 -0700">
-                    <Title>Geach, the Virtues</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="82" UUID="F18801D7-23FD-40D9-B885-D5E1C4F3794C" Type="Text" Created="2015-05-15 10:41:04 -0700" Modified="2015-06-22 08:27:07 -0700">
+            <Title>Now Reading</Title>
+            <MetaData>
+                <LabelID>6</LabelID>
+                <StatusID>2</StatusID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Keywords>
+                <KeywordID>6</KeywordID>
+            </Keywords>
+            <Children>
                 <BinderItem ID="296" UUID="C785915C-FE91-45B9-B600-EA6F06B8A873" Type="Text" Created="2015-06-20 10:16:23 -0700" Modified="2015-07-16 05:16:22 -0700">
                     <Title>Brown, Moral Virtue and Nature </Title>
                     <MetaData>
@@ -1305,6 +1285,250 @@
                         <Target Type="Words" Notify="No">5000</Target>
                     </TextSettings>
                     <Children>
+                        <BinderItem ID="366" UUID="D7C1EEF7-A904-4455-93DA-E228278741AD" Type="Text" Created="2015-06-23 19:12:12 -0700" Modified="2015-06-24 16:31:53 -0700">
+                            <Title>To Read - On Naturalism &amp; Nonnaturalism</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="357" UUID="7F4FD2DB-D7FA-4AA3-A6D9-30EACE53D969" Type="Text" Created="2015-06-23 18:53:27 -0700" Modified="2015-06-23 18:53:36 -0700">
+                                    <Title>Morgan, Seiriol. “Naturalism and Normativity”. Philosophy</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>123,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="274" UUID="D4B906D0-D9AB-45F4-8355-CD9552958ABB" Type="Text" Created="2015-06-17 14:23:51 -0700" Modified="2015-06-23 17:19:34 -0700">
+                                    <Title>Crosby, The Specter of the Absurd</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,105</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="291" UUID="CE957803-26A4-415C-9A6E-AD096878E868" Type="Text" Created="2015-06-20 05:25:56 -0700" Modified="2015-06-20 05:26:07 -0700">
+                                    <Title>Hempel, Aspects of Scientific Explanation</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>17,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="261" UUID="132F5FA6-DEBE-41FC-845E-0B55FB42DE58" Type="Text" Created="2015-06-17 14:17:39 -0700" Modified="2015-06-17 14:19:03 -0700">
+                                    <Title>Nature of Nature</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>67,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="234" UUID="63113BFC-BEE0-4D77-B695-A677C46F8C30" Type="Text" Created="2015-06-17 12:36:41 -0700" Modified="2015-06-20 05:31:50 -0700">
+                                    <Title>Frederick, Naturalism and the Human Condition: Against Scientism</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>4108,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="312" UUID="E64819D8-EA3F-4410-870C-2901FE19B39F" Type="Text" Created="2015-06-22 08:17:23 -0700" Modified="2015-06-22 08:18:06 -0700">
+                                    <Title>Jantzen, Becoming Divine</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="257" UUID="6779BF65-B10D-4DF9-ADE2-D63D61507526" Type="Text" Created="2015-06-17 14:17:35 -0700" Modified="2015-06-17 14:18:05 -0700">
+                                    <Title>Modernity and the Spirit of Naturalism</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>43,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="299" UUID="DF54631E-C74A-4747-94ED-AD25EFC11BD1" Type="Text" Created="2015-06-22 06:48:55 -0700" Modified="2015-06-22 06:49:14 -0700">
+                                    <Title>Mendola, Joseph - Human interests, ethics for physicalists</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>530,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="215" UUID="B43744E7-FD87-4E02-BC93-4D7A5A8C2C5A" Type="Text" Created="2015-06-15 15:47:13 -0700" Modified="2015-06-15 15:47:22 -0700">
+                                    <Title>Defining Naturalism (a blog) </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="263" UUID="850BBDB9-33E6-4061-A84A-84653D4203A1" Type="Text" Created="2015-06-17 14:19:18 -0700" Modified="2015-06-17 14:21:29 -0700">
+                                    <Title>Pinker, Blank Slate</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>82,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="298" UUID="9CDBCFDB-73DA-4851-AC13-9B7628B0379D" Type="Text" Created="2015-06-20 19:29:23 -0700" Modified="2015-06-20 19:36:38 -0700">
+                                    <Title>Poirier, Understanding Human Evolution</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>100,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="230" UUID="C0BCFE2F-4558-41CD-93C1-91B9B246CB72" Type="Text" Created="2015-06-17 12:27:43 -0700" Modified="2015-06-17 12:29:14 -0700">
+                                    <Title>Ruse, Taking Darwin Seriously </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>96,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="303" UUID="1AABF7B4-81C8-4E8E-B51A-97CEE4E37617" Type="Text" Created="2015-06-22 06:55:03 -0700" Modified="2015-06-22 06:55:25 -0700">
+                                    <Title>Rea, Michael, World Without Design</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>933,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="345" UUID="737D6847-3DF0-4423-B454-F40DE43236C0" Type="Text" Created="2015-06-23 17:30:38 -0700" Modified="2015-06-23 17:31:09 -0700">
+                                    <Title>Slote, Ethics Naturalized</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>258,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="211" UUID="CCDE8ECE-A7D0-4D47-A29F-B3B6B7659202" Type="Text" Created="2015-06-15 15:44:41 -0700" Modified="2015-06-17 12:23:05 -0700">
+                                    <Title>Sellars, Roy, Naturalism and Not Materialism</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="165" UUID="2DF4C85E-28EA-495B-829B-DCC69E9D4D03" Type="Text" Created="2015-06-09 05:13:14 -0700" Modified="2015-06-09 05:13:28 -0700">
+                                    <Title>Stephen Finlay</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="405" UUID="313DFDAF-6868-4AAF-BED8-2D08D08F6F14" Type="Text" Created="2015-07-01 06:06:38 -0700" Modified="2015-07-01 06:09:17 -0700">
+                                    <Title>Mayr, Ernst What Evolution Is</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>168,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="418" UUID="BFD44082-78FB-4C5A-A6EB-B3610442BBFE" Type="Text" Created="2015-07-05 14:46:15 -0700" Modified="2015-07-05 14:46:33 -0700">
+                                    <Title>Scanlon, TM, Realistic about reasons</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>79,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="120" UUID="1DE49EFA-8D21-4698-8C79-8D8C46C00163" Type="Text" Created="2015-06-07 06:19:23 -0700" Modified="2015-06-28 06:13:40 -0700">
+                                    <Title>Schaber, Normativity and naturalism</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="358" UUID="CB62577B-0E2F-45BD-9271-EE34CCE9DE7C" Type="Text" Created="2015-06-23 18:53:40 -0700" Modified="2015-08-19 06:47:22 -0700">
+                                    <Title>How Successful is Naturalism?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="488" UUID="B485399F-6F11-4802-A4ED-D2D9EF077187" Type="Text" Created="2015-08-17 08:15:03 -0700" Modified="2015-08-17 08:27:47 -0700">
+                                            <Title>Rea, How Successful is Naturalism</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1934,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="487" UUID="EBBCBDE9-5727-4A89-AE0F-F9B2E679F600" Type="Text" Created="2015-08-17 08:13:32 -0700" Modified="2015-08-17 08:13:42 -0700">
+                                            <Title>The Heavy Burden of Proof</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="353" UUID="B3054F0B-E291-471D-94FD-46925B190057" Type="Text" Created="2015-06-23 18:46:17 -0700" Modified="2015-06-23 18:46:23 -0700">
+                                    <Title>Goodness and Nature, Peter Simpson</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                         <BinderItem ID="407" UUID="E5DDC7BC-0040-479D-B413-F8E0E5639171" Type="Text" Created="2015-07-01 06:33:18 -0700" Modified="2015-09-11 11:59:50 -0700">
                             <Title>Annas, Intelligent Virtue</Title>
                             <MetaData>
@@ -1347,16 +1571,6 @@
                         <TextSelection>64,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="352" UUID="A041C1FF-1179-4874-984B-5725BB7CBD00" Type="Text" Created="2015-06-23 18:46:04 -0700" Modified="2015-06-23 18:46:16 -0700">
-                            <Title>Ethical Naturalism: Current Debates</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem ID="354" UUID="D2AE13B8-8BE2-4024-BC4F-8AA19EF87E2C" Type="Text" Created="2015-06-23 18:46:24 -0700" Modified="2015-06-23 18:46:33 -0700">
                             <Title>Smith, Scott. Virtue Ethics and Moral Knowlede</Title>
                             <MetaData>
@@ -1377,6 +1591,130 @@
                                 <TextSelection>137,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="365" UUID="AC18D95A-0CD5-411B-AA20-A8BB5A7AB596" Type="Text" Created="2015-06-23 19:12:02 -0700" Modified="2015-06-24 16:31:48 -0700">
+                            <Title>To Read - On Realism &amp; Antirealism</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="423" UUID="F4B07F9F-A349-4376-8458-EA961D6AC2A3" Type="Text" Created="2015-07-10 09:34:32 -0700" Modified="2015-07-10 09:35:12 -0700">
+                                    <Title>David Copp, Darwinian Skepticism</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>207,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="426" UUID="F5267383-4992-4D38-8150-FCA5F0BE4E1F" Type="Text" Created="2015-07-10 09:37:21 -0700" Modified="2015-07-10 09:37:36 -0700">
+                                    <Title>David Copp, Critique of Shafer-Landau</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>17,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="480" UUID="1C046F2B-D151-4C3A-BD9B-5A64EF6A05D0" Type="Text" Created="2015-08-03 02:21:05 -0700" Modified="2015-08-03 02:22:11 -0700">
+                                    <Title>Dreier, Contemporary Debates in Moral Theory (Contemporary</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>233,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="452" UUID="FB5B5E77-DDEB-44BD-96B7-CC9CED705DEA" Type="Text" Created="2015-07-16 06:50:30 -0700" Modified="2015-07-16 06:51:42 -0700">
+                                    <Title>Copp, Skeptical Challeng to Moral Non-Naturalism and a Defense of Constructivist Naturalism</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="223" UUID="A02F35ED-8F22-415A-8DC6-BC2799D1102D" Type="Text" Created="2015-06-17 12:18:14 -0700" Modified="2015-08-19 06:42:16 -0700">
+                                    <Title>TUESDAY 1. Shafer-Landeau, Moral Realism, a Defense</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2197,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="118" UUID="02F4B8B0-5E53-4293-B04E-6AF4E11E05EE" Type="Text" Created="2015-06-01 12:27:40 -0700" Modified="2015-08-27 06:48:24 -0700">
+                                    <Title>Finish Finlay’s article on Moral Realism’s Four Faces</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3526,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="491" UUID="79304E59-7D82-4AED-924A-E61EF0C42CFB" Type="Text" Created="2015-08-20 06:57:28 -0700" Modified="2015-08-20 06:59:14 -0700">
+                                            <Title>Explanatory Priority Thesis</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>262,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="408" UUID="33446288-C3A6-4793-AF62-47B21B98A46F" Type="Text" Created="2015-07-01 06:33:42 -0700" Modified="2015-08-27 06:48:36 -0700">
+                                    <Title>Timmons (ed), Metaethics After Moore</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="378" UUID="54722FCF-1928-476E-BED3-0EABEDA9C3AC" Type="Text" Created="2015-06-24 16:56:25 -0700" Modified="2015-06-24 17:11:54 -0700">
+                                    <Title>Sayre-McCord, on Moral Realism</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>16,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="351" UUID="20BB96CA-647B-4DFF-8155-32E8B93F83E3" Type="Text" Created="2015-06-23 18:45:47 -0700" Modified="2015-06-23 18:46:03 -0700">
+                                    <Title>Thompson, Michael, What is it to wrong someone?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="356" UUID="30CDF05B-4454-4C0D-A65E-641854CC0591" Type="Text" Created="2015-06-23 18:53:12 -0700" Modified="2015-06-23 18:53:30 -0700">
+                                    <Title>Heinaman, R. “Aristotle and moral realism” 1995.</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>49,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="364" UUID="D7241B0B-25C5-4E8B-A1C6-9A075EA89577" Type="Text" Created="2015-06-23 19:12:00 -0700" Modified="2015-08-19 06:46:33 -0700">
@@ -1389,24 +1727,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="424" UUID="655E9C46-E28E-49CE-BE0E-20EC9C3279C1" Type="Text" Created="2015-07-10 09:35:36 -0700" Modified="2015-07-10 09:36:40 -0700">
-                            <Title>Rist, John, Plato's Moral Realism</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>72,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="259" UUID="78404D0D-791B-419E-9483-E351DE80BA2A" Type="Text" Created="2015-06-17 14:17:38 -0700" Modified="2015-06-23 17:14:33 -0700">
-                            <Title>Annas, Plato's Ethics: Old and New</Title>
+                        <BinderItem ID="468" UUID="888EE9CF-832F-4698-A30F-D47A0B4F212D" Type="Text" Created="2015-07-22 21:21:54 -0700" Modified="2015-07-22 21:28:28 -0700">
+                            <Title>Brewer, Talbot the Retrieval of Ethics</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2279,0</TextSelection>
+                                <TextSelection>290,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="231" UUID="0FA3AF0C-F90B-4636-BDD3-37EB81D2F6B2" Type="Text" Created="2015-06-17 12:29:08 -0700" Modified="2015-07-14 06:51:53 -0700">
@@ -1416,7 +1744,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4596,0</TextSelection>
+                                <TextSelection>5250,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="301" UUID="5A2CC92C-D105-4F36-B38C-C0285E00840F" Type="Text" Created="2015-06-22 06:50:22 -0700" Modified="2015-06-22 06:50:27 -0700">
@@ -1447,16 +1775,6 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>23,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="468" UUID="888EE9CF-832F-4698-A30F-D47A0B4F212D" Type="Text" Created="2015-07-22 21:21:54 -0700" Modified="2015-07-22 21:28:28 -0700">
-                            <Title>Brewer, Talbot the Retrieval of Ethics</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>290,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="469" UUID="E8063E15-F0DB-4903-A71A-EE62AE1BA743" Type="Text" Created="2015-07-22 21:34:23 -0700" Modified="2015-07-22 21:35:01 -0700">
@@ -1771,372 +2089,14 @@
                                 <TextSelection>105,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="365" UUID="AC18D95A-0CD5-411B-AA20-A8BB5A7AB596" Type="Text" Created="2015-06-23 19:12:02 -0700" Modified="2015-06-24 16:31:48 -0700">
-                    <Title>To Read - On Realism &amp; Antirealism</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="423" UUID="F4B07F9F-A349-4376-8458-EA961D6AC2A3" Type="Text" Created="2015-07-10 09:34:32 -0700" Modified="2015-07-10 09:35:12 -0700">
-                            <Title>David Copp, Darwinian Skepticism</Title>
+                        <BinderItem ID="259" UUID="78404D0D-791B-419E-9483-E351DE80BA2A" Type="Text" Created="2015-06-17 14:17:38 -0700" Modified="2015-06-23 17:14:33 -0700">
+                            <Title>Annas, Plato's Ethics: Old and New</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>207,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="426" UUID="F5267383-4992-4D38-8150-FCA5F0BE4E1F" Type="Text" Created="2015-07-10 09:37:21 -0700" Modified="2015-07-10 09:37:36 -0700">
-                            <Title>David Copp, Critique of Shafer-Landau</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>17,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="480" UUID="1C046F2B-D151-4C3A-BD9B-5A64EF6A05D0" Type="Text" Created="2015-08-03 02:21:05 -0700" Modified="2015-08-03 02:22:11 -0700">
-                            <Title>Dreier, Contemporary Debates in Moral Theory (Contemporary</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>233,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="452" UUID="FB5B5E77-DDEB-44BD-96B7-CC9CED705DEA" Type="Text" Created="2015-07-16 06:50:30 -0700" Modified="2015-07-16 06:51:42 -0700">
-                            <Title>Copp, Skeptical Challeng to Moral Non-Naturalism and a Defense of Constructivist Naturalism</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="223" UUID="A02F35ED-8F22-415A-8DC6-BC2799D1102D" Type="Text" Created="2015-06-17 12:18:14 -0700" Modified="2015-08-19 06:42:16 -0700">
-                            <Title>TUESDAY 1. Shafer-Landeau, Moral Realism, a Defense</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2197,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="118" UUID="02F4B8B0-5E53-4293-B04E-6AF4E11E05EE" Type="Text" Created="2015-06-01 12:27:40 -0700" Modified="2015-08-27 06:48:24 -0700">
-                            <Title>Finish Finlay’s article on Moral Realism’s Four Faces</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>3526,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="491" UUID="79304E59-7D82-4AED-924A-E61EF0C42CFB" Type="Text" Created="2015-08-20 06:57:28 -0700" Modified="2015-08-20 06:59:14 -0700">
-                                    <Title>Explanatory Priority Thesis</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>262,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="408" UUID="33446288-C3A6-4793-AF62-47B21B98A46F" Type="Text" Created="2015-07-01 06:33:42 -0700" Modified="2015-08-27 06:48:36 -0700">
-                            <Title>Timmons (ed), Metaethics After Moore</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="378" UUID="54722FCF-1928-476E-BED3-0EABEDA9C3AC" Type="Text" Created="2015-06-24 16:56:25 -0700" Modified="2015-06-24 17:11:54 -0700">
-                            <Title>Sayre-McCord, on Moral Realism</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>16,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="351" UUID="20BB96CA-647B-4DFF-8155-32E8B93F83E3" Type="Text" Created="2015-06-23 18:45:47 -0700" Modified="2015-06-23 18:46:03 -0700">
-                            <Title>Thompson, Michael, What is it to wrong someone?</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="356" UUID="30CDF05B-4454-4C0D-A65E-641854CC0591" Type="Text" Created="2015-06-23 18:53:12 -0700" Modified="2015-06-23 18:53:30 -0700">
-                            <Title>Heinaman, R. “Aristotle and moral realism” 1995.</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>49,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="366" UUID="D7C1EEF7-A904-4455-93DA-E228278741AD" Type="Text" Created="2015-06-23 19:12:12 -0700" Modified="2015-06-24 16:31:53 -0700">
-                    <Title>To Read - On Naturalism &amp; Nonnaturalism</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="357" UUID="7F4FD2DB-D7FA-4AA3-A6D9-30EACE53D969" Type="Text" Created="2015-06-23 18:53:27 -0700" Modified="2015-06-23 18:53:36 -0700">
-                            <Title>Morgan, Seiriol. “Naturalism and Normativity”. Philosophy</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>123,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="274" UUID="D4B906D0-D9AB-45F4-8355-CD9552958ABB" Type="Text" Created="2015-06-17 14:23:51 -0700" Modified="2015-06-23 17:19:34 -0700">
-                            <Title>Crosby, The Specter of the Absurd</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,105</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="291" UUID="CE957803-26A4-415C-9A6E-AD096878E868" Type="Text" Created="2015-06-20 05:25:56 -0700" Modified="2015-06-20 05:26:07 -0700">
-                            <Title>Hempel, Aspects of Scientific Explanation</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>17,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="261" UUID="132F5FA6-DEBE-41FC-845E-0B55FB42DE58" Type="Text" Created="2015-06-17 14:17:39 -0700" Modified="2015-06-17 14:19:03 -0700">
-                            <Title>Nature of Nature</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>67,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="234" UUID="63113BFC-BEE0-4D77-B695-A677C46F8C30" Type="Text" Created="2015-06-17 12:36:41 -0700" Modified="2015-06-20 05:31:50 -0700">
-                            <Title>Frederick, Naturalism and the Human Condition: Against Scientism</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>4108,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="312" UUID="E64819D8-EA3F-4410-870C-2901FE19B39F" Type="Text" Created="2015-06-22 08:17:23 -0700" Modified="2015-06-22 08:18:06 -0700">
-                            <Title>Jantzen, Becoming Divine</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="257" UUID="6779BF65-B10D-4DF9-ADE2-D63D61507526" Type="Text" Created="2015-06-17 14:17:35 -0700" Modified="2015-06-17 14:18:05 -0700">
-                            <Title>Modernity and the Spirit of Naturalism</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>43,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="299" UUID="DF54631E-C74A-4747-94ED-AD25EFC11BD1" Type="Text" Created="2015-06-22 06:48:55 -0700" Modified="2015-06-22 06:49:14 -0700">
-                            <Title>Mendola, Joseph - Human interests, ethics for physicalists</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>530,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="215" UUID="B43744E7-FD87-4E02-BC93-4D7A5A8C2C5A" Type="Text" Created="2015-06-15 15:47:13 -0700" Modified="2015-06-15 15:47:22 -0700">
-                            <Title>Defining Naturalism (a blog) </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="263" UUID="850BBDB9-33E6-4061-A84A-84653D4203A1" Type="Text" Created="2015-06-17 14:19:18 -0700" Modified="2015-06-17 14:21:29 -0700">
-                            <Title>Pinker, Blank Slate</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>82,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="298" UUID="9CDBCFDB-73DA-4851-AC13-9B7628B0379D" Type="Text" Created="2015-06-20 19:29:23 -0700" Modified="2015-06-20 19:36:38 -0700">
-                            <Title>Poirier, Understanding Human Evolution</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>100,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="230" UUID="C0BCFE2F-4558-41CD-93C1-91B9B246CB72" Type="Text" Created="2015-06-17 12:27:43 -0700" Modified="2015-06-17 12:29:14 -0700">
-                            <Title>Ruse, Taking Darwin Seriously </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>96,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="303" UUID="1AABF7B4-81C8-4E8E-B51A-97CEE4E37617" Type="Text" Created="2015-06-22 06:55:03 -0700" Modified="2015-06-22 06:55:25 -0700">
-                            <Title>Rea, Michael, World Without Design</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>933,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="345" UUID="737D6847-3DF0-4423-B454-F40DE43236C0" Type="Text" Created="2015-06-23 17:30:38 -0700" Modified="2015-06-23 17:31:09 -0700">
-                            <Title>Slote, Ethics Naturalized</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>258,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="211" UUID="CCDE8ECE-A7D0-4D47-A29F-B3B6B7659202" Type="Text" Created="2015-06-15 15:44:41 -0700" Modified="2015-06-17 12:23:05 -0700">
-                            <Title>Sellars, Roy, Naturalism and Not Materialism</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="165" UUID="2DF4C85E-28EA-495B-829B-DCC69E9D4D03" Type="Text" Created="2015-06-09 05:13:14 -0700" Modified="2015-06-09 05:13:28 -0700">
-                            <Title>Stephen Finlay</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="405" UUID="313DFDAF-6868-4AAF-BED8-2D08D08F6F14" Type="Text" Created="2015-07-01 06:06:38 -0700" Modified="2015-07-01 06:09:17 -0700">
-                            <Title>Mayr, Ernst What Evolution Is</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>168,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="418" UUID="BFD44082-78FB-4C5A-A6EB-B3610442BBFE" Type="Text" Created="2015-07-05 14:46:15 -0700" Modified="2015-07-05 14:46:33 -0700">
-                            <Title>Scanlon, TM, Realistic about reasons</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>79,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="120" UUID="1DE49EFA-8D21-4698-8C79-8D8C46C00163" Type="Text" Created="2015-06-07 06:19:23 -0700" Modified="2015-06-28 06:13:40 -0700">
-                            <Title>Schaber, Normativity and naturalism</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="358" UUID="CB62577B-0E2F-45BD-9271-EE34CCE9DE7C" Type="Text" Created="2015-06-23 18:53:40 -0700" Modified="2015-08-19 06:47:22 -0700">
-                            <Title>How Successful is Naturalism?</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="488" UUID="B485399F-6F11-4802-A4ED-D2D9EF077187" Type="Text" Created="2015-08-17 08:15:03 -0700" Modified="2015-08-17 08:27:47 -0700">
-                                    <Title>Rea, How Successful is Naturalism</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1934,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="487" UUID="EBBCBDE9-5727-4A89-AE0F-F9B2E679F600" Type="Text" Created="2015-08-17 08:13:32 -0700" Modified="2015-08-17 08:13:42 -0700">
-                                    <Title>The Heavy Burden of Proof</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="353" UUID="B3054F0B-E291-471D-94FD-46925B190057" Type="Text" Created="2015-06-23 18:46:17 -0700" Modified="2015-06-23 18:46:23 -0700">
-                            <Title>Goodness and Nature, Peter Simpson</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2279,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -9129,6 +9089,46 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="508" UUID="20C94E5F-114A-4116-9F1E-CE557AE9219B" Type="Text" Created="2015-09-05 02:06:38 -0700" Modified="2015-09-07 11:28:32 -0700">
+                    <Title>Mackie Markdown</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>122,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="411" UUID="3630741B-73CA-4790-B739-3BD07FB9570A" Type="Text" Created="2015-07-01 13:56:58 -0700" Modified="2015-07-01 13:57:05 -0700">
+                    <Title>Geach, the Virtues</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="352" UUID="A041C1FF-1179-4874-984B-5725BB7CBD00" Type="Text" Created="2015-06-23 18:46:04 -0700" Modified="2015-06-23 18:46:16 -0700">
+                    <Title>Ethical Naturalism: Current Debates</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="424" UUID="655E9C46-E28E-49CE-BE0E-20EC9C3279C1" Type="Text" Created="2015-07-10 09:35:36 -0700" Modified="2015-07-10 09:36:40 -0700">
+                    <Title>Rist, John, Plato's Moral Realism</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>72,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -9274,7 +9274,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 05:24:39 -0700" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-01-04 09:36:00 -0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-01-05 10:16:49 -0800"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
