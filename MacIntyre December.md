@@ -6,7 +6,7 @@ Two of MacIntyre's recurring themes are history and tradition. For example, he a
 
 [^1]: MacIntyre's ethical theory is best presented in the “*After Virtue* Project”, which consists of four books: *After Virtue* (1984), *Whose Justice? Which Rationality?* (1988); *Three Rival Versions of Moral Enquiry* (1990); and *Dependent Rational Animals* (1999). 
 
-[^2]: Though he is classified as a "virtue ethicist", MacIntyre rejects the label insofar as it does not necessitate a real restoration of the Aristotelian tradition of virtue. Nevertheless, he has contributed to virtue ethics, as well as a surprising number of other fields: the history of philosophy, political science, epistemology, the philosophy of education, sociology, and more. 
+
 
 ### Chapter outline ###
 
@@ -228,7 +228,7 @@ These four criticisms arise from a worry that is ultimately unjustified. Below, 
 
 ### Tradition-constituted rationality objections ###
 
-The second family of objections pertain to the way MacIntyre's ethical theory appeals to tradition-constituted rationality. MacIntyre argues that we should return to the Aristotelian tradition of virtue and practical reason. We must beware one misunderstanding. Any talk of “returning” is liable to sound nostalgic. At the risk of sounding paradoxical, we might put it this way: MacIntyre's positive ethical positions are *traditional* but not *nostalgic.* In fact, his definition of tradition is *progressive*.  Tradition is an ongoing, socially-embedded argument over time, which necessarily entails that moral enquiry is dynamic -- even *modern*. To be traditional is not to be past-oriented; to be traditional is to be staunchly future-oriented, since the business of life is not only the pursuit of our *telos* but the transmission of everything valuable and precious to the next generation. 
+One family of objections pertain to the way MacIntyre's ethical theory appeals to tradition-constituted rationality. MacIntyre argues that we should return to the Aristotelian tradition of virtue and practical reason. We must beware one misunderstanding. Any talk of “returning” is liable to sound nostalgic. At the risk of sounding paradoxical, we might put it this way: MacIntyre's positive ethical positions are *traditional* but not *nostalgic.* In fact, his definition of tradition is *progressive*.  Tradition is an ongoing, socially-embedded argument over time, which necessarily entails that moral enquiry is dynamic -- even *modern*. To be traditional is not to be past-oriented; to be traditional is to be staunchly future-oriented, since the business of life is not only the pursuit of our *telos* but the transmission of everything valuable and precious to the next generation. 
 
 One critic who misunderstands MacIntyre along these lines is Martha Nussbaum.[@nussbaum1989recoiling] She begins her review of *Whose Justice? Which Rationality?* with an age-old dilemma between the social stability afforded by tradition (with its danger of hidebound error) and the social volatility endemic to critical reflection (with its opportunity of progress toward truth). She alludes to this dilemma as articulated by Aristotle: 
 
