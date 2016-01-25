@@ -13,6 +13,8 @@
 	</dict>
 	<key>DisableFileRecoveryOnOpen</key>
 	<true/>
+	<key>MainWindowIsFullScreen</key>
+	<true/>
 	<key>QRPanelSettings</key>
 	<dict>
 		<key>136</key>
@@ -1234,9 +1236,9 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{66.82679, 58806.914}, {384.1546, 580.32031}}</string>
+	<string>{{0, 84633.273}, {595, 616.23438}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{201743, 0}</string>
+	<string>{303547, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -1253,7 +1255,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>-59 32 720 827 0 0 1440 877 </string>
+	<string>0 50 720 827 0 0 1440 877 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>projectStatsSheet</key>
