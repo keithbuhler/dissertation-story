@@ -1251,7 +1251,7 @@
 	<key>mainDocumentView</key>
 	<string>supportingDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>645 50 795 827 0 0 1440 877 </string>
+	<string>-720 50 720 827 -1440 0 1440 877 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>projectStatsSheet</key>
@@ -1416,15 +1416,15 @@
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 23600.713}, {595, 580.17578}}</string>
+	<string>{{0, 4710.6616}, {595, 658.70801}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{87141, 0}</string>
+	<string>{7976, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
 		<true/>
 		<key>textScale</key>
-		<integer>125</integer>
+		<integer>110</integer>
 		<key>usesFacingPages</key>
 		<false/>
 	</dict>
