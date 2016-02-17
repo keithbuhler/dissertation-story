@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-02-16 09:39:21 -0500" ModID="E0D3E619-3638-42DC-B3EC-5417D77CBFE6">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-02-16 17:21:21 -0500" ModID="2F8B849F-73ED-446D-9EDF-A7059C629C09">
     <Binder>
         <BinderItem ID="802" UUID="2DAA506D-945F-453B-9F43-C3056C4EAD4F" Type="Text" Created="2015-06-07 09:24:20 -0400" Modified="2016-01-04 12:39:23 -0500">
             <Title>January</Title>
@@ -588,14 +588,14 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="888" UUID="FCF34AE0-3B37-42D5-8894-7B6481B0DCBC" Type="Text" Created="2016-01-13 14:41:07 -0500" Modified="2016-02-16 06:56:32 -0500">
+        <BinderItem ID="888" UUID="FCF34AE0-3B37-42D5-8894-7B6481B0DCBC" Type="Text" Created="2016-01-13 14:41:07 -0500" Modified="2016-02-16 17:21:02 -0500">
             <Title>February</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <TextSettings>
-                <TextSelection>94119,0</TextSelection>
+                <TextSelection>155669,0</TextSelection>
                 <Target Type="Words" Notify="Yes">90000</Target>
             </TextSettings>
         </BinderItem>
@@ -9375,7 +9375,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-02-16 06:28:46 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-02-16 13:53:28 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
