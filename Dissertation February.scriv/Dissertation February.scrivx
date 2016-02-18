@@ -1,602 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-02-16 17:21:21 -0500" ModID="2F8B849F-73ED-446D-9EDF-A7059C629C09">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-02-18 18:49:49 -0500" ModID="875A5D49-A982-4C22-930B-5E6705C5FAE1">
     <Binder>
-        <BinderItem ID="802" UUID="2DAA506D-945F-453B-9F43-C3056C4EAD4F" Type="Text" Created="2015-06-07 09:24:20 -0400" Modified="2016-01-04 12:39:23 -0500">
-            <Title>January</Title>
+        <BinderItem ID="899" UUID="8A7FA99C-CAD0-4ECD-BDC0-D5931D172BF4" Type="Text" Created="2016-02-18 18:48:48 -0500" Modified="2016-02-18 18:49:17 -0500">
+            <Title>February </Title>
             <MetaData>
-                <StatusID>2</StatusID>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
-                <IconFileName>Book (Blue Book).tiff</IconFileName>
             </MetaData>
             <TextSettings>
                 <TextSelection>0,0</TextSelection>
-            </TextSettings>
-            <CorkboardAndOutliner>
-                <SelectedSubdocumentIDs>682</SelectedSubdocumentIDs>
-                <OutlinerExpandedState></OutlinerExpandedState>
-            </CorkboardAndOutliner>
-            <Children>
-                <BinderItem ID="803" UUID="C662715C-1D2B-445A-BB77-D006D8503526" Type="Text" Created="2015-10-29 11:43:41 -0400" Modified="2015-11-03 11:39:35 -0500">
-                    <Title>Introduction</Title>
-                    <MetaData>
-                        <LabelID>2</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="804" UUID="EBEC6DED-482E-49F3-B975-233B5DE1FE82" Type="Text" Created="2015-10-29 21:31:03 -0400" Modified="2015-11-05 15:49:07 -0500">
-                            <Title>Front Matter </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>3907,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="805" UUID="2786C871-FD53-4547-A495-FF6034FBD497" Type="Text" Created="2015-10-15 09:43:02 -0400" Modified="2015-11-06 12:13:03 -0500">
-                            <Title>## Thesis ##</Title>
-                            <MetaData>
-                                <LabelID>4</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2886,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="806" UUID="2F977563-7CC3-46FB-8FE9-B2B4C43428FF" Type="Text" Created="2015-10-15 09:58:26 -0400" Modified="2015-11-06 12:32:36 -0500">
-                            <Title>## Why virtue ethics</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="807" UUID="8A6CC239-2788-4D9F-AE58-0A256839FD82" Type="Text" Created="2015-10-30 11:20:27 -0400" Modified="2015-11-05 15:49:07 -0500">
-                            <Title>## Some themes ## </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>3874,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="808" UUID="9ACF5377-B14A-4DB4-A22D-88762ACFCB48" Type="Text" Created="2015-10-15 10:02:21 -0400" Modified="2015-11-06 12:10:57 -0500">
-                            <Title>## Why these </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2423,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="809" UUID="E7DFCEBE-F0FC-4670-A0F7-FFA13F3A104B" Type="Text" Created="2015-10-15 11:07:25 -0400" Modified="2015-11-05 15:50:04 -0500">
-                            <Title>## Other Disclaimers and Miscellany</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,36</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="810" UUID="DEBB1C1D-C6CC-4E61-84B5-749B2013D662" Type="Text" Created="2015-10-15 14:00:16 -0400" Modified="2015-10-30 11:40:08 -0400">
-                            <Title>## How I deal with Objections</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,30</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="811" UUID="3FA68979-FA7C-4066-9DF0-7A03B034C9A2" Type="Text" Created="2015-10-15 10:59:34 -0400" Modified="2015-11-06 12:12:23 -0500">
-                            <Title>## Flow of book</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>953,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="812" UUID="EAF9C336-986C-467A-B0AF-79222D2312FF" Type="Text" Created="2015-07-14 08:55:52 -0400" Modified="2015-11-05 15:50:04 -0500">
-                            <Title>## Chapter Outline</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>9565,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="813" UUID="BD12C57D-C89C-4EFF-8918-4409209E7B17" Type="Text" Created="2015-09-19 10:27:20 -0400" Modified="2016-01-04 12:40:17 -0500">
-                    <Title>MacIntyre</Title>
-                    <MetaData>
-                        <LabelID>2</LabelID>
-                        <StatusID>2</StatusID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                        <Target Type="Words" Notify="No">3000</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="835" UUID="5B3B8DA2-CB04-42EF-B97C-41E798B8F51C" Type="Text" Created="2015-09-06 08:40:03 -0400" Modified="2016-01-04 13:03:58 -0500">
-                    <Title>Foot</Title>
-                    <MetaData>
-                        <LabelID>2</LabelID>
-                        <StatusID>1</StatusID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>650,0</TextSelection>
-                        <Target Type="Words" Notify="No">12000</Target>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="836" UUID="F3DE1D46-CD8F-4B27-9032-3368EEE97884" Type="Text" Created="2015-10-16 00:27:40 -0400" Modified="2016-01-11 14:53:51 -0500">
-                            <Title>Virtue as Natural Excellence</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>402,0</TextSelection>
-                                <Target Type="Words" Notify="Yes">3000</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="880" UUID="08534D7A-32DE-48BF-9E1A-9D3BE4E53850" Type="Text" Created="2016-01-04 12:51:50 -0500" Modified="2016-01-04 12:56:32 -0500">
-                            <Title>### Immorality can be answered</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>37,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="885" UUID="8C241281-AFEE-44F4-9683-049AE7FB587D" Type="Text" Created="2016-01-04 12:56:22 -0500" Modified="2016-01-04 12:56:32 -0500">
-                            <Title>### 5. Virtues benefit their possessor by definition</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="884" UUID="05A1B1AB-2424-4A85-9BA2-CA13A2D0C844" Type="Text" Created="2016-01-04 12:55:33 -0500" Modified="2016-01-04 12:55:38 -0500">
-                            <Title>## 6. Happiness is deep satisfaction.</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,37</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="883" UUID="1F603F3B-A6BB-4ECF-9FB3-8D65561F0684" Type="Text" Created="2016-01-04 12:55:21 -0500" Modified="2016-01-04 12:55:23 -0500">
-                            <Title>## 7. Unhappiness is in some way compatible with virtue. </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,58</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="845" UUID="8E7C7659-FB03-4354-9195-04CADD1B50ED" Type="Text" Created="2015-10-16 00:30:35 -0400" Modified="2016-01-04 12:55:41 -0500">
-                            <Title>Objections &amp; Replies</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>144,0</TextSelection>
-                                <Target Type="Words" Notify="No">3000</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="846" UUID="C16BE0A8-1EF6-42EC-AEED-5480B750B8D1" Type="Text" Created="2015-06-17 15:20:51 -0400" Modified="2016-01-11 11:31:55 -0500">
-                            <Title>### Empirical Naturalism cannot justify ethics</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1865,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="882" UUID="6C030F83-01CC-420E-9490-1C1E7EBA1D6A" Type="Text" Created="2016-01-04 12:52:38 -0500" Modified="2016-01-04 12:53:32 -0500">
-                            <Title>### Unclear </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>151,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="851" UUID="0A32BA20-DD38-4CB6-BF83-DEFC639F8C1A" Type="Text" Created="2016-01-04 12:37:04 -0500" Modified="2016-01-04 12:54:48 -0500">
-                            <Title>### Not naturalistic</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>6597,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="841" UUID="11BB4657-DDFB-4EB0-844C-0C2D99D63979" Type="Text" Created="2015-07-14 08:57:25 -0400" Modified="2016-01-04 12:56:49 -0500">
-                            <Title>### There are no natural ntorms</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>89,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="886" UUID="441FD01F-3FCB-450F-AD25-587A8EAE290D" Type="Text" Created="2016-01-11 11:28:39 -0500" Modified="2016-01-11 11:29:04 -0500">
-                            <Title>### Starting Premise - some generics are true</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>21805,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="887" UUID="5051E1C3-F0CB-4D54-8F00-29C6CE9E31CB" Type="Text" Created="2016-01-11 11:28:59 -0500" Modified="2016-01-11 11:29:39 -0500">
-                            <Title>### Happiness</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="852" UUID="DC1767BC-211A-4B75-A480-66B8EF17DE54" Type="Text" Created="2015-07-02 18:52:48 -0400" Modified="2015-11-26 20:45:51 -0500">
-                    <Title>McDowell </Title>
-                    <MetaData>
-                        <LabelID>2</LabelID>
-                        <StatusID>1</StatusID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>53,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="853" UUID="CDE1797D-FF99-4770-A7DF-4D1D8A1B7CE7" Type="Text" Created="2015-10-16 00:39:30 -0400" Modified="2015-10-29 14:55:57 -0400">
-                            <Title>## Virtue as Practical Reason; Reason as Second Nature</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="854" UUID="E34FDB7E-ADEF-412D-B8A6-6B3CDCC7B0FF" Type="Text" Created="2015-10-15 13:29:34 -0400" Modified="2015-10-29 21:46:31 -0400">
-                            <Title>Rosalind Hursthouse - virtue as excellence</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>807,250</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="855" UUID="992BE06F-1B69-4952-BDFC-BCC722DFAB07" Type="Text" Created="2015-10-16 00:39:37 -0400" Modified="2015-10-29 14:19:08 -0400">
-                            <Title>## Objections</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="856" UUID="5C28E8A1-C24F-49D6-B73F-6266331E0B06" Type="Text" Created="2015-10-16 00:39:48 -0400" Modified="2015-10-29 14:19:15 -0400">
-                            <Title>## Dialectic</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="857" UUID="1AD5F715-EAB0-41FB-A156-FFC406A560FB" Type="Text" Created="2015-06-30 09:16:48 -0400" Modified="2015-11-26 20:45:54 -0500">
-                    <Title>Adams</Title>
-                    <MetaData>
-                        <LabelID>2</LabelID>
-                        <StatusID>1</StatusID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>26,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="858" UUID="78CAC205-E5F9-492F-8679-F14A85BF90EE" Type="Text" Created="2015-07-14 09:54:00 -0400" Modified="2015-10-29 21:46:31 -0400">
-                            <Title>## Section I: Excellence in Being For the Good</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>442,4</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="859" UUID="3ED3F69B-A4BF-4DE2-96AA-BF755923059A" Type="Text" Created="2015-07-23 21:56:53 -0400" Modified="2015-10-29 21:46:31 -0400">
-                                    <Title>Love and Virtue</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>2456,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="860" UUID="47D9E8F7-F05C-40B0-A2E4-C9A0F67F00DC" Type="Text" Created="2015-07-14 09:54:09 -0400" Modified="2015-10-29 21:46:31 -0400">
-                            <Title>## Section II: Objections and Critical Discussion</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,29</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="861" UUID="DC34CF52-A8B7-4980-82E4-A558AA75B309" Type="Text" Created="2015-06-07 09:39:38 -0400" Modified="2015-10-13 17:09:48 -0400">
-                                    <Title>Stephen Brown and Darwinian Telos</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="862" UUID="29290BE1-28D3-4214-A51D-D8C89916FC85" Type="Text" Created="2015-07-14 09:54:14 -0400" Modified="2015-10-16 00:41:30 -0400">
-                            <Title>## Section III: Responses</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="863" UUID="1CA506A9-86D8-46B5-82CE-1E3374D25AD1" Type="Text" Created="2015-06-07 09:39:24 -0400" Modified="2015-11-26 20:46:00 -0500">
-                    <Title>Philosophical Ethics</Title>
-                    <MetaData>
-                        <LabelID>2</LabelID>
-                        <StatusID>2</StatusID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <CustomMetaData>
-                            <MetaDataItem>
-                                <FieldID>chaptertitle</FieldID>
-                                <Value>Introduction</Value>
-                            </MetaDataItem>
-                        </CustomMetaData>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <CorkboardAndOutliner>
-                        <SelectedSubdocumentIDs>683, 685-686, 688-690, 695, 745-746</SelectedSubdocumentIDs>
-                    </CorkboardAndOutliner>
-                    <Children>
-                        <BinderItem ID="864" UUID="AC48E895-FF23-4F94-BBA6-E95BB1C1DEFF" Type="Text" Created="2015-10-15 07:17:30 -0400" Modified="2015-11-19 17:27:28 -0500">
-                            <Title>## How do we live well? ##</Title>
-                            <MetaData>
-                                <LabelID>4</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2019,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="865" UUID="18440B47-2F10-4155-8C52-CAEDB99A3C43" Type="Text" Created="2015-08-31 09:33:11 -0400" Modified="2015-11-03 11:38:22 -0500">
-                            <Title>### Moral education, end of life</Title>
-                            <MetaData>
-                                <LabelID>4</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>110,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="866" UUID="9F327110-AC74-4429-89C3-D19E267310AA" Type="Text" Created="2015-10-15 09:57:36 -0400" Modified="2015-11-05 17:28:48 -0500">
-                            <Title>### The Great Platitudes </Title>
-                            <MetaData>
-                                <LabelID>4</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>6333,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="867" UUID="793A5B8E-FDEF-4956-BCDD-2A5C054B68C0" Type="Text" Created="2015-10-15 07:17:15 -0400" Modified="2015-11-06 12:11:10 -0500">
-                            <Title>## Metaethics and Ethics</Title>
-                            <MetaData>
-                                <LabelID>4</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>9630,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="868" UUID="D182624F-2C51-42A5-86FD-21CBABFB45DF" Type="Text" Created="2015-06-30 09:14:21 -0400" Modified="2015-11-05 15:51:18 -0500">
-                            <Title>### Elizabeth Anscombe, Moral Psychology?</Title>
-                            <MetaData>
-                                <LabelID>4</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1458,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="869" UUID="5650C5A9-DC78-4FF0-B82B-87A0BD09367C" Type="Text" Created="2015-06-30 10:54:00 -0400" Modified="2015-11-03 11:38:22 -0500">
-                            <Title>### Moral Realism and non-Realism</Title>
-                            <MetaData>
-                                <LabelID>4</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="870" UUID="15B63A51-9397-4058-8675-E38A6636DA75" Type="Text" Created="2015-06-30 10:54:10 -0400" Modified="2015-10-15 09:42:07 -0400">
-                                    <Title>### Cognitivism and non-Cognitivism</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="871" UUID="0FFE4D24-D172-42ED-8500-E5611A71E8A8" Type="Text" Created="2015-06-30 10:54:17 -0400" Modified="2015-10-15 09:42:12 -0400">
-                                    <Title>### Naturalism and non-Naturalism</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="872" UUID="37756D6D-29EA-4D5B-BD18-48003814CDC5" Type="Text" Created="2015-08-20 13:32:56 -0400" Modified="2015-10-15 09:42:15 -0400">
-                                    <Title>### Finlay's 4 faces, 2 poles, 6 schools of thought</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="873" UUID="19D6B35E-6478-4C23-855E-6DF475702E34" Type="Text" Created="2015-10-30 11:34:58 -0400" Modified="2015-11-03 11:38:22 -0500">
-                            <Title>### Virtue ethics opportunities and challenges</Title>
-                            <MetaData>
-                                <LabelID>4</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="874" UUID="F899CB82-227A-446D-8597-005A1A8815B8" Type="Text" Created="2015-10-30 11:36:16 -0400" Modified="2015-11-03 11:38:22 -0500">
-                            <Title>### Relations between themes</Title>
-                            <MetaData>
-                                <LabelID>4</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="875" UUID="AF538338-DF1C-44FB-AD36-CF7F9BD85F13" Type="Text" Created="2015-10-15 10:05:23 -0400" Modified="2015-11-03 11:38:22 -0500">
-                            <Title>## Conclusion</Title>
-                            <MetaData>
-                                <LabelID>4</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="876" UUID="5CAEDF90-101F-4E39-BDF7-64C64F6C5D3D" Type="Text" Created="2015-10-14 07:58:45 -0400" Modified="2015-10-29 21:46:31 -0400">
-                            <Title>## Notes 10/14/15</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2990,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="877" UUID="CFB3A36C-CD76-418D-AE97-20771BF9F1F0" Type="Text" Created="2015-10-16 00:41:35 -0400" Modified="2015-10-16 00:41:41 -0400">
-                            <Title>## Careful summary of discussion</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="878" UUID="A215569D-C711-4D55-A78E-6BEAA735A719" Type="Text" Created="2015-10-16 00:41:41 -0400" Modified="2015-10-16 00:41:56 -0400">
-                            <Title>## Final Conclusion</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-            </Children>
-        </BinderItem>
-        <BinderItem ID="888" UUID="FCF34AE0-3B37-42D5-8894-7B6481B0DCBC" Type="Text" Created="2016-01-13 14:41:07 -0500" Modified="2016-02-16 17:21:02 -0500">
-            <Title>February</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <NotesTextSelection>0,0</NotesTextSelection>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>155669,0</TextSelection>
-                <Target Type="Words" Notify="Yes">90000</Target>
             </TextSettings>
         </BinderItem>
         <BinderItem ID="895" UUID="9A21015C-CCDE-49A3-9637-05C0AC20106E" Type="Text" Created="2016-02-08 16:28:17 -0500" Modified="2016-02-08 16:28:31 -0500">
@@ -606,7 +18,7 @@
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <TextSettings>
-                <TextSelection>0,0</TextSelection>
+                <TextSelection>409,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem ID="1" UUID="94B3D459-7293-4841-BBDB-090365245744" Type="ResearchFolder" Created="2015-05-15 13:02:51 -0400" Modified="2015-07-14 05:59:42 -0400">
@@ -635,14 +47,14 @@
                                 <TextSelection>24625,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="339" UUID="9497800D-AEB4-4AA7-AECE-FE37EB8B1632" Type="Text" Created="2015-06-23 20:18:04 -0400" Modified="2015-06-23 20:18:23 -0400">
+                        <BinderItem ID="339" UUID="9497800D-AEB4-4AA7-AECE-FE37EB8B1632" Type="Text" Created="2015-06-23 20:18:04 -0400" Modified="2016-02-17 16:56:31 -0500">
                             <Title>McDowell, Virtue and Reason</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1054,0</TextSelection>
+                                <TextSelection>32,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="334" UUID="C71FB9C0-E2C3-4627-A83F-745EF6716E19" Type="Text" Created="2015-06-23 20:13:09 -0400" Modified="2015-12-28 19:10:52 -0500">
@@ -765,7 +177,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>75,1603</TextSelection>
+                                <TextSelection>1509,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="229" UUID="EA2102A4-CB66-4004-B868-B3845841E7E6" Type="Text" Created="2015-06-17 15:27:32 -0400" Modified="2015-06-22 11:27:52 -0400">
@@ -785,7 +197,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2582,0</TextSelection>
+                                <TextSelection>803,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="344" UUID="366553B9-6CFB-43C1-B998-0A91C5D092E6" Type="Text" Created="2015-06-23 20:30:18 -0400" Modified="2015-06-23 20:31:09 -0400">
@@ -935,7 +347,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5970,0</TextSelection>
+                                <TextSelection>4899,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="348" UUID="473946E0-1FCA-4EFA-B1A7-27000A59C9C0" Type="Text" Created="2015-06-23 21:35:22 -0400" Modified="2015-06-23 21:35:31 -0400">
@@ -948,6 +360,16 @@
                                 <TextSelection>491,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="316" UUID="BCC3574E-92AA-435E-AE18-70A7BC1E1F6E" Type="Text" Created="2015-06-22 11:29:01 -0400" Modified="2016-02-17 17:03:01 -0500">
+                            <Title>Street, Sharon A Darwinian Dilemma for Moral Realism</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6524,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="386" UUID="4C208D7B-DA2E-4127-B076-B42B167F5780" Type="Text" Created="2015-06-28 09:07:37 -0400" Modified="2015-06-28 09:08:03 -0400">
                             <Title>Wielenburg, Value and Virtue in a Godless </Title>
                             <MetaData>
@@ -958,24 +380,14 @@
                                 <TextSelection>94,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="316" UUID="BCC3574E-92AA-435E-AE18-70A7BC1E1F6E" Type="Text" Created="2015-06-22 11:29:01 -0400" Modified="2015-07-01 09:32:15 -0400">
-                            <Title>Street, Sharon A Darwinian Dilemma for Moral Realism</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2113,1031</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="289" UUID="6DE1BBBF-AB22-4FE1-B830-DCF55AADCCDB" Type="Text" Created="2015-06-20 08:13:27 -0400" Modified="2015-07-01 09:32:11 -0400">
+                        <BinderItem ID="289" UUID="6DE1BBBF-AB22-4FE1-B830-DCF55AADCCDB" Type="Text" Created="2015-06-20 08:13:27 -0400" Modified="2016-02-17 16:59:48 -0500">
                             <Title>Wielenberg, Erik, A Defense of Non-Theistic Moral Realism</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4895,0</TextSelection>
+                                <TextSelection>220,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="406" UUID="4EAD4D06-F052-4FD6-ABC2-33BE93C36EB1" Type="Text" Created="2015-07-01 09:32:01 -0400" Modified="2015-07-01 09:42:04 -0400">
@@ -1326,6 +738,16 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>1558,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="897" UUID="C8ACF036-A87E-4963-A829-869789C29977" Type="Text" Created="2016-02-18 17:18:55 -0500" Modified="2016-02-18 17:19:00 -0500">
+                    <Title>Hegel</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>865,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -2847,6 +2269,17 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>7127,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="888" UUID="FCF34AE0-3B37-42D5-8894-7B6481B0DCBC" Type="Text" Created="2016-01-13 14:41:07 -0500" Modified="2016-02-18 18:49:31 -0500">
+                    <Title>February 15</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,331988</TextSelection>
+                        <Target Type="Words" Notify="Yes">90000</Target>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -6753,6 +6186,593 @@
                 </BinderItem>
             </Children>
         </BinderItem>
+        <BinderItem ID="802" UUID="2DAA506D-945F-453B-9F43-C3056C4EAD4F" Type="Text" Created="2015-06-07 09:24:20 -0400" Modified="2016-01-04 12:39:23 -0500">
+            <Title>January</Title>
+            <MetaData>
+                <StatusID>2</StatusID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Book (Blue Book).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>682</SelectedSubdocumentIDs>
+                <OutlinerExpandedState></OutlinerExpandedState>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="803" UUID="C662715C-1D2B-445A-BB77-D006D8503526" Type="Text" Created="2015-10-29 11:43:41 -0400" Modified="2015-11-03 11:39:35 -0500">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="804" UUID="EBEC6DED-482E-49F3-B975-233B5DE1FE82" Type="Text" Created="2015-10-29 21:31:03 -0400" Modified="2015-11-05 15:49:07 -0500">
+                            <Title>Front Matter </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3907,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="805" UUID="2786C871-FD53-4547-A495-FF6034FBD497" Type="Text" Created="2015-10-15 09:43:02 -0400" Modified="2015-11-06 12:13:03 -0500">
+                            <Title>## Thesis ##</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2886,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="806" UUID="2F977563-7CC3-46FB-8FE9-B2B4C43428FF" Type="Text" Created="2015-10-15 09:58:26 -0400" Modified="2015-11-06 12:32:36 -0500">
+                            <Title>## Why virtue ethics</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="807" UUID="8A6CC239-2788-4D9F-AE58-0A256839FD82" Type="Text" Created="2015-10-30 11:20:27 -0400" Modified="2015-11-05 15:49:07 -0500">
+                            <Title>## Some themes ## </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3874,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="808" UUID="9ACF5377-B14A-4DB4-A22D-88762ACFCB48" Type="Text" Created="2015-10-15 10:02:21 -0400" Modified="2015-11-06 12:10:57 -0500">
+                            <Title>## Why these </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2423,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="809" UUID="E7DFCEBE-F0FC-4670-A0F7-FFA13F3A104B" Type="Text" Created="2015-10-15 11:07:25 -0400" Modified="2015-11-05 15:50:04 -0500">
+                            <Title>## Other Disclaimers and Miscellany</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,36</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="810" UUID="DEBB1C1D-C6CC-4E61-84B5-749B2013D662" Type="Text" Created="2015-10-15 14:00:16 -0400" Modified="2015-10-30 11:40:08 -0400">
+                            <Title>## How I deal with Objections</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,30</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="811" UUID="3FA68979-FA7C-4066-9DF0-7A03B034C9A2" Type="Text" Created="2015-10-15 10:59:34 -0400" Modified="2015-11-06 12:12:23 -0500">
+                            <Title>## Flow of book</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>953,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="812" UUID="EAF9C336-986C-467A-B0AF-79222D2312FF" Type="Text" Created="2015-07-14 08:55:52 -0400" Modified="2015-11-05 15:50:04 -0500">
+                            <Title>## Chapter Outline</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9565,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="813" UUID="BD12C57D-C89C-4EFF-8918-4409209E7B17" Type="Text" Created="2015-09-19 10:27:20 -0400" Modified="2016-01-04 12:40:17 -0500">
+                    <Title>MacIntyre</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                        <Target Type="Words" Notify="No">3000</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="835" UUID="5B3B8DA2-CB04-42EF-B97C-41E798B8F51C" Type="Text" Created="2015-09-06 08:40:03 -0400" Modified="2016-01-04 13:03:58 -0500">
+                    <Title>Foot</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>650,0</TextSelection>
+                        <Target Type="Words" Notify="No">12000</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="836" UUID="F3DE1D46-CD8F-4B27-9032-3368EEE97884" Type="Text" Created="2015-10-16 00:27:40 -0400" Modified="2016-01-11 14:53:51 -0500">
+                            <Title>Virtue as Natural Excellence</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>402,0</TextSelection>
+                                <Target Type="Words" Notify="Yes">3000</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="880" UUID="08534D7A-32DE-48BF-9E1A-9D3BE4E53850" Type="Text" Created="2016-01-04 12:51:50 -0500" Modified="2016-01-04 12:56:32 -0500">
+                            <Title>### Immorality can be answered</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>37,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="885" UUID="8C241281-AFEE-44F4-9683-049AE7FB587D" Type="Text" Created="2016-01-04 12:56:22 -0500" Modified="2016-01-04 12:56:32 -0500">
+                            <Title>### 5. Virtues benefit their possessor by definition</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="884" UUID="05A1B1AB-2424-4A85-9BA2-CA13A2D0C844" Type="Text" Created="2016-01-04 12:55:33 -0500" Modified="2016-01-04 12:55:38 -0500">
+                            <Title>## 6. Happiness is deep satisfaction.</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,37</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="883" UUID="1F603F3B-A6BB-4ECF-9FB3-8D65561F0684" Type="Text" Created="2016-01-04 12:55:21 -0500" Modified="2016-01-04 12:55:23 -0500">
+                            <Title>## 7. Unhappiness is in some way compatible with virtue. </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,58</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="845" UUID="8E7C7659-FB03-4354-9195-04CADD1B50ED" Type="Text" Created="2015-10-16 00:30:35 -0400" Modified="2016-01-04 12:55:41 -0500">
+                            <Title>Objections &amp; Replies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>144,0</TextSelection>
+                                <Target Type="Words" Notify="No">3000</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="846" UUID="C16BE0A8-1EF6-42EC-AEED-5480B750B8D1" Type="Text" Created="2015-06-17 15:20:51 -0400" Modified="2016-01-11 11:31:55 -0500">
+                            <Title>### Empirical Naturalism cannot justify ethics</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1865,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="882" UUID="6C030F83-01CC-420E-9490-1C1E7EBA1D6A" Type="Text" Created="2016-01-04 12:52:38 -0500" Modified="2016-01-04 12:53:32 -0500">
+                            <Title>### Unclear </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>151,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="851" UUID="0A32BA20-DD38-4CB6-BF83-DEFC639F8C1A" Type="Text" Created="2016-01-04 12:37:04 -0500" Modified="2016-01-04 12:54:48 -0500">
+                            <Title>### Not naturalistic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6597,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="841" UUID="11BB4657-DDFB-4EB0-844C-0C2D99D63979" Type="Text" Created="2015-07-14 08:57:25 -0400" Modified="2016-01-04 12:56:49 -0500">
+                            <Title>### There are no natural ntorms</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>89,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="886" UUID="441FD01F-3FCB-450F-AD25-587A8EAE290D" Type="Text" Created="2016-01-11 11:28:39 -0500" Modified="2016-01-11 11:29:04 -0500">
+                            <Title>### Starting Premise - some generics are true</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>21805,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="887" UUID="5051E1C3-F0CB-4D54-8F00-29C6CE9E31CB" Type="Text" Created="2016-01-11 11:28:59 -0500" Modified="2016-01-11 11:29:39 -0500">
+                            <Title>### Happiness</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="852" UUID="DC1767BC-211A-4B75-A480-66B8EF17DE54" Type="Text" Created="2015-07-02 18:52:48 -0400" Modified="2015-11-26 20:45:51 -0500">
+                    <Title>McDowell </Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>53,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="853" UUID="CDE1797D-FF99-4770-A7DF-4D1D8A1B7CE7" Type="Text" Created="2015-10-16 00:39:30 -0400" Modified="2015-10-29 14:55:57 -0400">
+                            <Title>## Virtue as Practical Reason; Reason as Second Nature</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="854" UUID="E34FDB7E-ADEF-412D-B8A6-6B3CDCC7B0FF" Type="Text" Created="2015-10-15 13:29:34 -0400" Modified="2015-10-29 21:46:31 -0400">
+                            <Title>Rosalind Hursthouse - virtue as excellence</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>807,250</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="855" UUID="992BE06F-1B69-4952-BDFC-BCC722DFAB07" Type="Text" Created="2015-10-16 00:39:37 -0400" Modified="2015-10-29 14:19:08 -0400">
+                            <Title>## Objections</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="856" UUID="5C28E8A1-C24F-49D6-B73F-6266331E0B06" Type="Text" Created="2015-10-16 00:39:48 -0400" Modified="2015-10-29 14:19:15 -0400">
+                            <Title>## Dialectic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="857" UUID="1AD5F715-EAB0-41FB-A156-FFC406A560FB" Type="Text" Created="2015-06-30 09:16:48 -0400" Modified="2015-11-26 20:45:54 -0500">
+                    <Title>Adams</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>26,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="858" UUID="78CAC205-E5F9-492F-8679-F14A85BF90EE" Type="Text" Created="2015-07-14 09:54:00 -0400" Modified="2015-10-29 21:46:31 -0400">
+                            <Title>## Section I: Excellence in Being For the Good</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>442,4</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="859" UUID="3ED3F69B-A4BF-4DE2-96AA-BF755923059A" Type="Text" Created="2015-07-23 21:56:53 -0400" Modified="2015-10-29 21:46:31 -0400">
+                                    <Title>Love and Virtue</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2456,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="860" UUID="47D9E8F7-F05C-40B0-A2E4-C9A0F67F00DC" Type="Text" Created="2015-07-14 09:54:09 -0400" Modified="2015-10-29 21:46:31 -0400">
+                            <Title>## Section II: Objections and Critical Discussion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,29</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="861" UUID="DC34CF52-A8B7-4980-82E4-A558AA75B309" Type="Text" Created="2015-06-07 09:39:38 -0400" Modified="2015-10-13 17:09:48 -0400">
+                                    <Title>Stephen Brown and Darwinian Telos</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="862" UUID="29290BE1-28D3-4214-A51D-D8C89916FC85" Type="Text" Created="2015-07-14 09:54:14 -0400" Modified="2015-10-16 00:41:30 -0400">
+                            <Title>## Section III: Responses</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="863" UUID="1CA506A9-86D8-46B5-82CE-1E3374D25AD1" Type="Text" Created="2015-06-07 09:39:24 -0400" Modified="2015-11-26 20:46:00 -0500">
+                    <Title>Philosophical Ethics</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>chaptertitle</FieldID>
+                                <Value>Introduction</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>683, 685-686, 688-690, 695, 745-746</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="864" UUID="AC48E895-FF23-4F94-BBA6-E95BB1C1DEFF" Type="Text" Created="2015-10-15 07:17:30 -0400" Modified="2015-11-19 17:27:28 -0500">
+                            <Title>## How do we live well? ##</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2019,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="865" UUID="18440B47-2F10-4155-8C52-CAEDB99A3C43" Type="Text" Created="2015-08-31 09:33:11 -0400" Modified="2015-11-03 11:38:22 -0500">
+                            <Title>### Moral education, end of life</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>110,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="866" UUID="9F327110-AC74-4429-89C3-D19E267310AA" Type="Text" Created="2015-10-15 09:57:36 -0400" Modified="2015-11-05 17:28:48 -0500">
+                            <Title>### The Great Platitudes </Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6333,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="867" UUID="793A5B8E-FDEF-4956-BCDD-2A5C054B68C0" Type="Text" Created="2015-10-15 07:17:15 -0400" Modified="2015-11-06 12:11:10 -0500">
+                            <Title>## Metaethics and Ethics</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9630,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="868" UUID="D182624F-2C51-42A5-86FD-21CBABFB45DF" Type="Text" Created="2015-06-30 09:14:21 -0400" Modified="2015-11-05 15:51:18 -0500">
+                            <Title>### Elizabeth Anscombe, Moral Psychology?</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1458,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="869" UUID="5650C5A9-DC78-4FF0-B82B-87A0BD09367C" Type="Text" Created="2015-06-30 10:54:00 -0400" Modified="2015-11-03 11:38:22 -0500">
+                            <Title>### Moral Realism and non-Realism</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="870" UUID="15B63A51-9397-4058-8675-E38A6636DA75" Type="Text" Created="2015-06-30 10:54:10 -0400" Modified="2015-10-15 09:42:07 -0400">
+                                    <Title>### Cognitivism and non-Cognitivism</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="871" UUID="0FFE4D24-D172-42ED-8500-E5611A71E8A8" Type="Text" Created="2015-06-30 10:54:17 -0400" Modified="2015-10-15 09:42:12 -0400">
+                                    <Title>### Naturalism and non-Naturalism</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="872" UUID="37756D6D-29EA-4D5B-BD18-48003814CDC5" Type="Text" Created="2015-08-20 13:32:56 -0400" Modified="2015-10-15 09:42:15 -0400">
+                                    <Title>### Finlay's 4 faces, 2 poles, 6 schools of thought</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="873" UUID="19D6B35E-6478-4C23-855E-6DF475702E34" Type="Text" Created="2015-10-30 11:34:58 -0400" Modified="2015-11-03 11:38:22 -0500">
+                            <Title>### Virtue ethics opportunities and challenges</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="874" UUID="F899CB82-227A-446D-8597-005A1A8815B8" Type="Text" Created="2015-10-30 11:36:16 -0400" Modified="2015-11-03 11:38:22 -0500">
+                            <Title>### Relations between themes</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="875" UUID="AF538338-DF1C-44FB-AD36-CF7F9BD85F13" Type="Text" Created="2015-10-15 10:05:23 -0400" Modified="2015-11-03 11:38:22 -0500">
+                            <Title>## Conclusion</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="876" UUID="5CAEDF90-101F-4E39-BDF7-64C64F6C5D3D" Type="Text" Created="2015-10-14 07:58:45 -0400" Modified="2015-10-29 21:46:31 -0400">
+                            <Title>## Notes 10/14/15</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2990,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="877" UUID="CFB3A36C-CD76-418D-AE97-20771BF9F1F0" Type="Text" Created="2015-10-16 00:41:35 -0400" Modified="2015-10-16 00:41:41 -0400">
+                            <Title>## Careful summary of discussion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="878" UUID="A215569D-C711-4D55-A78E-6BEAA735A719" Type="Text" Created="2015-10-16 00:41:41 -0400" Modified="2015-10-16 00:41:56 -0400">
+                            <Title>## Final Conclusion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
         <BinderItem ID="2" UUID="08606A54-6186-4105-800C-08D0F3D624D6" Type="TrashFolder" Created="2015-05-15 13:02:51 -0400" Modified="2015-05-15 13:02:51 -0400">
             <Title>Trash</Title>
             <MetaData>
@@ -9230,6 +9250,27 @@
                         <TextSelection>2990,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="896" UUID="5D3734D5-5FDA-496B-9B13-9D82918E5317" Type="Text" Created="2016-02-18 07:13:34 -0500" Modified="2016-02-18 07:14:02 -0500">
+                    <Title> </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                        <Target Type="Words" Notify="Yes">90000</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="898" UUID="51C94F2C-66FB-45CA-A1FB-513837C8A390" Type="Text" Created="2016-02-18 18:00:53 -0500" Modified="2016-02-18 18:03:48 -0500">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -9375,7 +9416,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-02-16 13:53:28 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-02-18 07:13:22 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
