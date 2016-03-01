@@ -502,9 +502,9 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 72.17112}, {595, 684.552}}</string>
+	<string>{{0, 36465.07}, {595, 684.36328}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{0, 69887}</string>
+	<string>{90953, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
