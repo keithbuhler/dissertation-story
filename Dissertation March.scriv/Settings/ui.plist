@@ -13,6 +13,8 @@
 	</dict>
 	<key>DisableFileRecoveryOnOpen</key>
 	<true/>
+	<key>MainWindowIsFullScreen</key>
+	<true/>
 	<key>MainWindowShowsFormatBar</key>
 	<false/>
 	<key>QRPanelSettings</key>
@@ -221,11 +223,13 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {239, 805}}</string>
-		<string>{{240, 0}, {480, 805}}</string>
+		<string>{{0, 0}, {239, 900}}</string>
+		<string>{{240, 0}, {1200, 900}}</string>
 	</array>
 	<key>binderState</key>
-	<array/>
+	<array>
+		<integer>901</integer>
+	</array>
 	<key>binderWidth</key>
 	<real>239</real>
 	<key>closedSuccessfully</key>
@@ -324,7 +328,7 @@
 	<integer>1</integer>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>899</integer>
+		<integer>901</integer>
 	</array>
 	<key>mainDocumentEditor.corkboardVisible</key>
 	<false/>
@@ -361,7 +365,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>13</integer>
+		<integer>32</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -476,6 +480,158 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>901</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>899</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>895</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>901</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>902</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>901</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>902</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>901</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>902</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>901</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>902</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>901</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>903</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>901</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>903</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>902</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>901</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>902</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>901</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.outlinerColumnsState</key>
@@ -551,9 +707,9 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 81627.273}, {595, 684.55469}}</string>
+	<string>{{0, 42792}, {595, 849}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{206250, 0}</string>
+	<string>{107750, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -563,7 +719,7 @@
 		<key>lineNumberingInterval</key>
 		<integer>1</integer>
 		<key>textScale</key>
-		<integer>110</integer>
+		<integer>100</integer>
 		<key>usesFacingPages</key>
 		<false/>
 	</dict>
@@ -572,7 +728,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>720 50 720 827 0 0 1440 877 </string>
+	<string>708 325 732 552 0 0 1440 877 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>projectStatsSheet</key>
@@ -617,7 +773,7 @@
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>showInvisibles</key>
 	<false/>
 	<key>supportingDocumentEditor.binderDocuments</key>
