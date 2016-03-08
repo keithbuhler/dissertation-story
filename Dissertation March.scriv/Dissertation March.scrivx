@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-03-05 00:55:14 -0500" ModID="9D21007C-CF04-44D0-8808-0FF6DBB8B8C1">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-03-07 17:36:35 -0500" ModID="7E1BEA6D-D481-4364-B579-9B7E2257F0AE">
     <Binder>
-        <BinderItem ID="901" UUID="2B98B3C8-1637-48F3-83E0-96D8F7869514" Type="Text" Created="2016-02-18 18:48:48 -0500" Modified="2016-03-05 00:55:13 -0500">
+        <BinderItem ID="901" UUID="2B98B3C8-1637-48F3-83E0-96D8F7869514" Type="Text" Created="2016-02-18 18:48:48 -0500" Modified="2016-03-07 17:28:39 -0500">
             <Title>March</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <TextSettings>
-                <TextSelection>107750,0</TextSelection>
+                <TextSelection>59718,0</TextSelection>
+                <Target Type="Words" Notify="No">100000</Target>
             </TextSettings>
             <CorkboardAndOutliner>
                 <SelectedSubdocumentIDs>903</SelectedSubdocumentIDs>
             </CorkboardAndOutliner>
         </BinderItem>
-        <BinderItem ID="902" UUID="AF2A9866-BA13-483C-8C06-970B994F9886" Type="Text" Created="2016-03-03 23:32:33 -0500" Modified="2016-03-04 11:50:10 -0500">
-            <Title>Abstract</Title>
+        <BinderItem ID="902" UUID="AF2A9866-BA13-483C-8C06-970B994F9886" Type="Text" Created="2016-03-03 23:32:33 -0500" Modified="2016-03-07 10:56:01 -0500">
+            <Title>Abstract &amp; Title</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <TextSettings>
-                <TextSelection>2257,0</TextSelection>
+                <TextSelection>1650,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem ID="895" UUID="9A21015C-CCDE-49A3-9637-05C0AC20106E" Type="Text" Created="2016-02-08 16:28:17 -0500" Modified="2016-02-08 16:28:31 -0500">
@@ -138,7 +139,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1391,0</TextSelection>
+                                <TextSelection>20312,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="893" UUID="297AEEC3-991D-4F24-9314-B7A288EE696F" Type="Text" Created="2016-01-18 08:33:51 -0500" Modified="2016-01-18 08:38:19 -0500">
@@ -998,7 +999,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1,0</TextSelection>
+                                        <TextSelection>991,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem ID="488" UUID="B485399F-6F11-4802-A4ED-D2D9EF077187" Type="Text" Created="2015-08-17 11:15:03 -0400" Modified="2015-08-17 11:27:47 -0400">
@@ -6427,14 +6428,14 @@
                                 <TextSelection>151,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="851" UUID="0A32BA20-DD38-4CB6-BF83-DEFC639F8C1A" Type="Text" Created="2016-01-04 12:37:04 -0500" Modified="2016-01-04 12:54:48 -0500">
+                        <BinderItem ID="851" UUID="0A32BA20-DD38-4CB6-BF83-DEFC639F8C1A" Type="Text" Created="2016-01-04 12:37:04 -0500" Modified="2016-03-07 12:11:39 -0500">
                             <Title>### Not naturalistic</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6597,0</TextSelection>
+                                <TextSelection>6695,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="841" UUID="11BB4657-DDFB-4EB0-844C-0C2D99D63979" Type="Text" Created="2015-07-14 08:57:25 -0400" Modified="2016-01-04 12:56:49 -0500">
@@ -9323,7 +9324,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">natural goodness</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">fink</SearchSettings>
         </Collection>
         <Collection Type="Arbitrary" ID="69E55ED7-2213-4D4B-926B-E167EB17D7F2" Color="0.962712 0.843627 0.714212">
             <Title>Virtue</Title>
@@ -9459,7 +9460,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-03-05 00:50:56 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-03-07 10:10:12 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
