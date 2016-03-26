@@ -576,7 +576,6 @@ Although it seems practical reason is not natural, it is part of human nature (w
 
 *‘Reason is, and ought only to be the slave of the passions’* (Hume 1978, 415).
 
-
 The first reason, argued above, is that rationality in part defines our nature. We are animals of a particular sort: practical, rational animals. We identify ourselves as creatures about human generic truths obtain (though with exceptions), such as that we have rational capacities. We our identify ourselves in this way whether scientifically, philosophically, religiously, anthropologically, psychologically, or what have you. And our 'rational capacities' include language, abstract thought, argumentation, mathematics, philosophy, natural science, and so on. 
 
 A second reason is that we are not merely rational but also practical: we *practice*. One can conceive of rational creatures (gods, martians, angelic intelligences, artificial intelligences) that are not also "practical" creatures -- that do not practice anything. Deep Thought, the computer from Douglas Adams's *Hitchhiker's Guide*, is a mere *knower*. 
