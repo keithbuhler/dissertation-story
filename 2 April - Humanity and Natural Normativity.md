@@ -50,21 +50,43 @@ To make this case, first, I shall examine our three key neo-Aristotelian for the
 
 
 
+### outline 2
 
+
+**Syllogism 1**\\ 
+
+1. If some propositions are genuinely both natural and normative, then ethical naturalism is possible. 
+2. Generic propositions are genuinely both natural and normative. 
+3. Therefore, ethical naturalism is possible. \\
+
+
+**Syllogism 2**\\
+
+1. If some generic statements describing natural entities are true, then some facts are both genuinely natural and normative -- there are "natural norms." 
+2. Some generic statements describing natural entities are true. 
+3. Therefore, some facts are genuinely both natural and normative -- there are "natural norms."
+
+
+**Syllogism 3** \\
+1. On ethical naturalism, all generics can be used as premises in arguments with normative conclusions. 
+2. Some true generics are about humans. 
+3. So, there are some human natural norms. 
+
+**Syllogism 4** \\
+3. All natural norms can be used as premises in arguments with normative ethical conclusions.
+4. Some true generics about humans are natural norms. 
+5. Therefore, some true generics about humans can be used as premises in arguments with normative ethical conclusions.
 
 
 
 ### Types of Teloi
-The thesis of this chapter is not that *all* of nature is teleological, of course; I do not wish to defend the notion that everything -- including stars and rocks -- "has a purpose", as if the cosmos were an orchestra being played, though such natural normativity in the form of natural teleology has received a windfall of recent defenders.[@johnson2005; @leunissen2010explanation; @barham2011; @nagel2012mind; @huneman2006naturalising; @arnhart1988; @mulgan2015purpose; @perlman2009modern] There is enough natural normativity to ground a theory of ethics in observations of human nature as practical, rational animals. At least some natural entities -- especially living organisms -- have ineliminable, irreducible, normative properties.[Compare with @nagel2012mind, 117. The existence of life can "give rise to beings of the kind that have a good-—beings for which things can be good or bad."]
 
 
 ## Scientific Realism and Empirical Naturalism: Foot on Natural Goodness, Natural Normativity -- value realism
 
-Let's begin with Philippa Foot. 
+Let's begin with Philippa Foot. Foot argues that human virtues are instances of a broader class of natural properties: 'natural goodness.'[@foot2001natural; cf. @levy2009philippa] to earn an audience for her argument, her first chapter (which she call a "fresh start") clears some shaky assumptions inherited from Hume and Moore. Instead of treating human valuations as sui generis, a miraculous new appearance in the cosmos that only appears with the existence of humans, hat we should expand our scope to examine our status as natural entities. She is well aware that her offering is likely to offend the ears of some listeners. Her defense is the thought (drawn from Wittgenstein) that crude beginnings are often a necessary first step on the way something refined. 
 
-Foot argues that human virtues are instances of a broader class of natural properties: 'natural goodness.'[@foot2001natural; cf. @levy2009philippa] to earn an audience for her argument, her first chapter (which she call a "fresh start") clears some shaky assumptions inherited from Hume and Moore. For example, Moore assumed that "good" was the ultimate predicate under review in ethics; but statements like "pleasure is good" are not good paradigms for philosophical reflection. Foot argues, instead, that we should expand our scope to examine our status as natural entities. She is well aware that her offering is likely to offend the ears of some listeners. Her defense is the thought (drawn from Wittgenstein) that crude beginnings are often a necessary first step on the way something refined. 
-
-Evaluation of human creatures, she argues, follows the same logical pattern as evaluation of plants and animals. In such evaluations, good is good *for*. To see why, contrast 'good' with other predicates like 'red' or 'beautiful.' In a statement such as 'the house is beautiful', the predicate 'beautiful' doesn't need a complement. The house is *beautiful* -- full stop. But 'good' (like 'useful') has a different logical function. 'The house is useful' does need a complement -- the house is useful *for a mom of six, or useful for an artist,* or what have you.  Similarly, 'good' always means *good for someone* or *for something.* 'Good' always needs a complement. If this crude beginning is anywhere near to correct, we can distance ourselves from Moore's starting point and build on another starting point: the life-form of human beings. 
+THe kind of "shaky assumption" she means is this: Moore assumed that "good" was the ultimate ethical predicate under review. By contrast, she argues that statements like "pleasure is good" are not good paradigms for philosophical reflection. Evaluation of human creatures and evaluation of plants and animals follow *the same logical pattern*. In such evaluations, good is good *for*. Contrast 'good' with other predicates like 'red' or 'beautiful.' In a statement such as 'the house is beautiful', the predicate 'beautiful' doesn't need a complement. The house is *beautiful* -- full stop. But 'good' (like 'useful') has a different logical function. 'The house is useful' does need a complement -- the house is useful *for a mom of six, or useful for an artist,* or what have you.  Similarly, 'good' always means *good for someone* or *for something.* 'Good' always needs a complement. If this crude beginning is anywhere near to correct, we can distance ourselves from Moore's starting point and build on another starting point: the life-form of human beings. 
 
 In this Foot agrees with Thompson's groundbreaking *Representation of Life*. There, he argues that the concept of "life" is not, as it may seem to some, a property of some beings where *being* is the fundamental concept; rather "life" is a fundamental concept.[@thompson1995representation]  Thompson reviews and refutes a variety of biological definitions of life such as reproduction, growth, metabolisis, etc., for these properties depend on a prior understanding of life. He says, "Vital description of individual organisms is itself the primitive expression of a conception of things in terms of 'life-form' or 'species', and if we want to understand these categories in philosophy we must bring them back to that form of description."[@thompson2008life 57] When we observe and examine living things we rightly employ some shared categories and our conclusions rightly share a logical structure. What is that common structure? Every individual living being is a member of a species or life-form. And different life-forms are subject to different normative appraisals. 
 
@@ -108,7 +130,9 @@ He is not a realist; he is an "anti-anti-realist". McDowell is always fighting o
 #### Not primary qualities
 McDowell argues that values are not primary qualities. 
 
-On this (Footian) view, normative facts are response-independent features of nature. He says that the naive realist view (that moral values are response-independent) is "impossible -- at least on reflection -- to take seriously..."[@shafer2007foundations 137]  The reason McDowell can't take naive realism seriously is that he finds one sort of internalism absurd. He points to a "worry about how something that is brutely *there* could nevertheless stand in an internal relation to some exercise of human sensibility."[@shafer2007foundations  143] In this McDowell agrees with Mackie: the central doctrine of European moral philosophy is a mistake; it is wrong to think that some things *merit* certain responses by virtue of what they are and what we are. The doctrine of natural normativity runs afoul of the modern doctrine that nature is a manifold of pure fact without any normativity 'built in', and without any internal relation to evaluators like ourselves; but, as I shall argue, the modern doctrine is the mistake. 
+On this (Footian) view, normative facts are response-independent features of nature. He says that the naive realist view (that moral values are response-independent) is "impossible -- at least on reflection -- to take seriously..."[@shafer2007foundations 137]  The reason McDowell can't take naive realism seriously is that he finds one sort of internalism absurd. He points to a "worry about how something that is brutely *there* could nevertheless stand in an internal relation to some exercise of human sensibility."[@shafer2007foundations  143] In this McDowell agrees with Mackie: the "central doctrine of European moral philosophy" is a mistake;[@mackie] it is wrong to think that some things *merit* certain responses by virtue of what they are and what we are. 
+
+The doctrine of natural normativity runs afoul of the modern doctrine that nature is a manifold of pure fact without any normativity 'built in', and without any internal relation to evaluators like ourselves.
 
 Thinking of colors as primary qualities is not even coherent. If it were true that colors were qualities adequately conceived apart from their essentially phenomenal subjective aspects, then suddenly the concept of red becomes opaque. If we exclude the phenomenal aspect of redness and attempt to define 'red', we are at a loss. So it seems that redness is as a primary quality is not "common sense" and not even coherent. Redness, rather, is an essentially phenomenal concept; its subjectivity is so to speak 'built in.' That is not to say all essentially phenomenal concepts are nonveridical; just that they are not 'thoroughly objective'.[@shafer2007foundations 138, quoting Mackie]
 
@@ -117,7 +141,11 @@ Thinking of colors as primary qualities is not even coherent. If it were true th
 
 McDowell also disagrees with the opposite extreme of Foot's view, as represented by those (such as J.L. Mackie, Alan Gibbard, and Simon Blackburn) who believe that normativity is "projected" by philosophers and scientists onto the natural facts.
 
-Mackie's error theory gets right the common sense view that "ordinary evaluative thought [is] a matter of sensitivity to aspects of the world."[@shafer2007foundations 137] Ironically, the view that moral facts are real, objective facts has been both praised as "common sense" and alternately blamed as "platonism".[@gibbard1992wise 155: "It might be thought ordinary conceptions of rationality Platonistic or intuitionistic. On the Platonistic Picture coma among the facts of the world are facts of what is rational and what is not. A person of normal mental powers can discern these facts. Judgments of nationality are thus straightforward apprehensions of fact, not through sense perception through a mental faculty analogous to sense perception..." ] 
+Mackie's error theory gets right the common sense view that "ordinary evaluative thought [is] a matter of sensitivity to aspects of the world."[@shafer2007foundations 137] 
+
+Ironically, the view that moral facts are real, objective facts has been both praised as "common sense" and alternately blamed as "platonism".^
+
+[@gibbard1992wise 155: "It might be thought ordinary conceptions of rationality Platonistic or intuitionistic. On the Platonistic Picture coma among the facts of the world are facts of what is rational and what is not. A person of normal mental powers can discern these facts. Judgments of nationality are thus straightforward apprehensions of fact, not through sense perception through a mental faculty analogous to sense perception..." ] 
 
 Why not treat redness and other secondary qualities as purely "projective"? Secondary qualities are "subjective" in that they cannot be adequately conceived "except in terms of certain subjective states"[@shafer2007foundations  139] but not in that they are therefore illusory. A secondary quality is not "a mere figment of the subjective state that purports to be an experience of it."[@shafer2007foundations  139] 
 
@@ -143,9 +171,21 @@ The disagreement between Foot and McDowell represents a broader disagreement bet
 
 ## My Argument
 
+### Problems for McDowell (Fink, Toner)
+
+1. McDowell accepts the discredited, non-scientific Laplacian picture of restricted nature.Despite their differences, McDowell shares with Mackie and Blackburn a radically reductive, disenchanted, Laplacian picture[@plantinga2011conflict 84] of material nature as a manifold of bald descriptive facts. 
+2. McDowell rejects scientific realism of *many* kinds. It is hard to be asked to reject scientific knowledge from biology and anthropology on behalf of "science". It makes one wonder whether the term "science" is here being deployed as a kind of sociological cudgel with which to belabor one's interlocuter. 
+3. McDowell's own form of naturalism is not unrestricted (which would include supernaturalism) but not restricted to materialism, and so is indeterminate.[@sellars1927naturalism]
+
+## An Argument for Natural Normativity from Generics
+
+Must one base the theory on the broadest class of natural facts -- facts about biological life forms -- or only on facts of human nature, if at all? Who has the upper hand between these three? My view is that the kind of naturalism upon which neo-Aristotelian virtue concepts (such as will be explored in a later chapter) is best supplied by a synthesis of Foot's and McDowell's views. Before I defend the synthesis, however, I need to defend Foot's view against the McDowellian worry that "given" natural facts can be normative and teleological. 
+
+My postulate builds on a little utilized linguistic and conceptual feature of human thought we shall call "generics" propositions. I shall suggest that, when true, generics cut up nature at the joints. Michael Thompson is one of the first to work out "the special logic of judgments we make about living things, and then to indicate its application to ethics." That 'special logic' is variously called "Aristotelian categoricals"[@foot2001natural], "natural-historical judgements"[@thompson1995representation; @thompson2008life] "norms"[@anscombe1958 14-15. Anscombe is not very optimistic about the project Thompson, Foot, and I are undertaking.] "bare plurals"[@carlson1977unified]. (I prefer the shorter and less adorned term 'generic' for reasons of economy.)
+
+
 What are we to make of the prospects for basing one's ethical theory on natural facts? Must one base the theory on the broadest class of natural facts -- facts about biological life forms -- or only on facts of human nature, if at all? Who has the upper hand between these three? My view is that the kind of naturalism upon which neo-Aristotelian virtue concepts (such as will be explored in a later chapter) is best supplied by a synthesis of Foot's and McDowell's views. Before I defend the synthesis, however, I need to defend Foot's view against the McDowellian worry that "given" natural facts can be normative and teleological. 
 
-My postulate builds on a little utilized linguistic and conceptual feature of human thought that, I suggest, cuts up nature at the joints. Michael Thompson is one of the first to work out "the special logic of judgments we make about living things, and then to indicate its application to ethics." That 'special logic' is variously called "Aristotelian categoricals"[@foot2001natural], "natural-historical judgements"[@thompson1995representation; @thompson2008life] "norms"[@anscombe1958 14-15. Anscombe is not very optimistic about the project Thompson, Foot, and I are undertaking.] "bare plurals"[@carlson1977unified]. I prefer the shorter and less adorned term 'generic'. 
 
 My postulate is this: **some generics about human beings are true.**^[Cf. @carlson1977unified. Carlson’s essay is an early attempt to account for a variety of linguistic forms under one concept of reference to kinds; @pelletier1995generic; @leslie2008generics; @bailey2015animalism for a discussion of a specific generic: "we are animals" in metaphysics and philosophical anthropology; cimpian2010generic for an experiment in cognitive psychology that seeks to quantify the prevalence levels at which subjects tend to agree to generics, i.e., how many birds have to lay eggs before we agree to the assertion that “birds lay eggs”? @krifka2003bare; @cohen2001generic.] What is a generic? Andrew Bailey's recent paper arguing for animalism defines the thesis "we are animals" as a generic. His summary is this:
 
@@ -257,6 +297,11 @@ I must hasten to add that "humans are practical, rational animals" is a generic.
 
 ### From Nature to Virtue
 
+
+
+>It might remain to look for "norms" in human virtues: just as man has so many teeth, which is certainly not the average number of teeth men have, but is the number of teeth for the species, so perhaps the species man, regarded not just biologically, but from the point of view of the activity of thought and choice in regard to the various departments of life-powers and faculties and use of things needed- "has" such-and-such virtues: and this "man" with the complete set of virtues is the "norm," as "man" with, e.g., a complete set of teeth is a norm.[@anscombe1958 14-15]
+
+
 What does all of this have to do with virtue? Peter Geach says “Men need virtues as bees need stings."[@geach1977virtues 17] Philippa Foot echoes Geach's statement about "need" and "necessity" as well. Alasdair MacIntyre subtitled his most recent monograph: "human beings need the virtues."[@macintyre1999dependent] The kind of necessity being predicated here is the same kind of necessity with which a bee needs a sting. It is a formal and teleological necessity. Virtues are those qualities needed by us as members of the human species, each member of which exemplifies the same human nature of being a potentially practical, rational animals. 
 
 Here is one: 'Human beings are practical, rational animals'. This is a generic, hence it is both descriptive and normative; it is a "thick" term. Initially, we can conclude that if human beings *really are* rational animals that an *irrational* human is ipso facto defective.^[To call a human 'defective' sounds like a schoolyard insult; but it is a straightforward, evaluative description of some people.] Again, I do not here intend to discuss mental illness, disability, birth defect, chromosomal disorders, and other such exceptions to 'normal' functional humans. 
@@ -328,3 +373,15 @@ We can see how this renewed attention to our animal nature has implications for 
 
 
 
+Hursthouse agrees with McDowell: 
+
+>I shall assume, without argument, that McDowell is right ... [that] the pretensions of an Aristotelian naturalism are not, in any ordinary understanding of the terms, either ‘scientific’ or ‘foundational’. It does not seek to establish its conclusions from ‘a neutral point of view’. Hence it does not expect what it says to convince anyone whose ethical outlook or perspective is largely different from the ethical outlook from within which the naturalistic conclusions are argued for.[@hursthouse2001virtue]
+
+
+>Now, as in the preceding chapter, I shall assume, without argument, that McDowell is right to claim that the Neurathian procedure in ethics provides a way between the horns of this dilemma. The pretensions of an Aristotelian naturalism are not, in any ordinary understanding of the terms, either ‘scientific’ or ‘foundational’. It does not seek to establish its conclusions from ‘a neutral point of view’. Hence it does not expect what it says to convince anyone whose ethical outlook or perspective is largely different from the ethical outlook from within which the naturalistic conclusions are argued for. (So the mafioso drug baron, or whatever other wicked character we imagine being unconvinced, is largely irrelevant.)[@hursthouse2001virtue]
+
+
+
+>It might remain to look for "norms" in human virtues: just as man has so many teeth, which is certainly not the average number of teeth men have, but is the number of teeth for the species, so perhaps the species man, regarded not just biologically, but from the point of view of the activity of thought and choice in regard to the various departments of life-powers and faculties and use of things needed- "has" such-and-such virtues: and this "man" with the complete set of virtues is the "norm," as "man" with, e.g., a complete set of teeth is a norm.[@anscombe1958 14-15]
+
+>In this sense the notion of a "norm"brings us nearer to an Aristotelian than a law conception of ethics. There is, I think, no harm in that; but if someone looked in this direction to give "norm" a sense, then he ought to recognize what has happened to the notion "norm," which he wanted to mean "law-without bringing God in" -- it has ceased to mean "law" at all; and so the notions of "moral obligation," "the moral ought," and "duty" are best put on the Index, if he can manage it."[@anscombe1958 14-15]
