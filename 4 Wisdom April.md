@@ -2,9 +2,13 @@
 
 # Wisdom: Virtue in Excellent, Practically Reasoning, Social Animals
 
-"This is the first precept of [practical reason], that 'good is to be done and pursued, and evil is to be avoided.'"[Aquinsa, *Summa Theologica* IIa. Q.94. Art. 2]
+*"This is the first precept of [practical reason], that 'good is to be done and pursued, and evil is to be avoided.'"* \
 
-*“It is evident that it is impossible to be practically wise without being good.”* (*Nicomachean Ethics*, 1144a, 36–37). 
+Aquinas, *Summa Theologica* IIa. Q.94. Art. 2. \
+
+*“It is evident that it is impossible to be practically wise without being good.”* \
+
+Aristotle, *Nicomachean Ethics*, 1144a, 36–37. \
 
 
 

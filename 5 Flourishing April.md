@@ -6,8 +6,6 @@
 
 **Quotation**  *“What use would it be if a man had the wisdom of Nestor and wanted the necessaries of life, food and drink and clothes and the like? Where would be the advantage of wisdom then?” Eryxias (attributed to Plato)*
 
-**Quotation**  *"The human virtues make their possessor good qua human being, one who is as ordinarily well fitted as a human being can be in not merely physical respects to live well, to flourish—in a characteristically human way."*[@hursthouse1998virtue 208]
-
 **Quotation**. *"It was not man who made the myths but the myths, or the archetypal substance they reveal, which made man. We shall have to come, I am sure, to think of the archetypal element in myth in terms of the wind that breathed through the harp-strings of individual brains and nerves and fluids, rather as the blood still today pervades and sustains them."* Owen Barfield, "The Harp and the Camera," in *The Rediscovery of Meaning and Other Essays*.
 
 
