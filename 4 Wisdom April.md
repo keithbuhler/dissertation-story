@@ -18,9 +18,9 @@ The theme of this dissertation is virtue in relation to practical reason and nat
 
 ### The Centrality of Practical Reason
 
-Practical reason (or practical rationality, which I shall use synonymously)^[Warren Quinn uses 'practical reason' to mean the faculty and 'practical rationality' to mean the excellence use of the faculty. I prefer to treat 'practical reason' and 'practical rationality' as synonymous, contrasting them with 'practical wisdom', which is the excellence thereof. Cf. @quinn1992rationality] occupies a place of importance in the theories of many virtue ethicists. Specifically, the neo-Aristotelians have each thematized practical reason in their own way.[Cf. Especially @foot2001natural, chapter 4; @mcdowell1979virtue; @@macintyre1988whose] Why? What is practical reason and what is excellence in regard to it?
+Practical reason (or practical rationality, which I shall use synonymously)^[Warren Quinn uses 'practical reason' to mean the faculty and 'practical rationality' to mean the excellence use of the faculty. I prefer to treat 'practical reason' and 'practical rationality' as synonymous, contrasting them with 'practical wisdom', which is the excellence thereof. Cf. @quinn1992rationality] occupies a place of importance in the theories of many virtue ethicists. Specifically, the neo-Aristotelians have each thematized practical reason in their own way.[Cf. Especially @foot2001natural, chapter 4; @mcdowell1979virtue; @macintyre1988whose] Why? What is practical reason and what is excellence in regard to it?
 
-This chapter presents a theory of practical reason -- what it is, what it's worth, and whether it is objective and significant, and what this all implies about nature as a whole. I draw significantly from the recent work of Jennifer Frey.[@frey2012will]
+This chapter presents a theory of practical reason -- what it is, what it's worth, and whether it is objective and significant, and what this all implies about nature as a whole. I draw significantly from the recent work of Jennifer Frey.[@frey]
 
 ### Questions in Brief
 

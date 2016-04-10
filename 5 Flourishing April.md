@@ -125,6 +125,7 @@ MacIntyre is retiring and coy about what he thinks our telos might be. All he wi
 >Happiness” in this sense concerns what benefits a person, is good for her, makes her better off, serves her interests, or is desirable for her for her sake. To be high in well-being is to be faring well, doing well, fortunate, or in an enviable condition. Ill-being, or doing badly, may call for sympathy or pity, whereas we envy or rejoice in the good fortune of others, and feel gratitude for our own. Being good for someone differs from simply being good, period: perhaps it is always good, period, for you to be honest; yet it may not always be good for you, as when it entails self-sacrifice. Not coincidentally, the word ‘happiness’ derives from the term for good fortune, or “good hap,” and indeed the terms used to translate it in other languages have similar roots. In this sense of the term—call it the “well-being sense”—happiness refers to a life of well-being or flourishing: a life that goes well for you.[@sephappiness]
 
 
+
 ## Discussion: Our Natural Telos
 
 
