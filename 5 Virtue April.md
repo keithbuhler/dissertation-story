@@ -5,7 +5,7 @@
 Wisdom 8:5-7 \
 
 
-### Introduction
+### Virtue for Rational Animals
 
 Above, I have argued that human nature is fixed and stable -- stable enough, at least,  provide good grounding for an account of human virtues. We are potentially *rational* animals. Three criteria determine our goals for this chapter.  
 
@@ -23,6 +23,11 @@ In short, my thesis in this chapter is the thesis of the dissertation as a whole
 This builds on the thesis of the last chapter -- that humans need virtues -- and shows how, as humans mature, the need for particular virtues and for virtue in general increases, especially for traits that enable one to engage in successful practical reasoning. Such acquired character traits dispose us to do well at accomplishing the universal projects of human life (such as sustaining friendships) and to react well to the universal challenges of human life, such as the death of loved ones. The absence of virtues, and the presence of vices, corrupt practical reasoning and stultify the realization of our natural telos. Vices dispose us to succomb to common temptations and to fail at universal projects. Thirdly, and finally, I shall defend the resulting synthesis against various objections. 
 
 ## Neo-Aristotelians on Virtue
+
+
+### Hursthouse
+
+>In response, it is worth pointing out that, if I know that I am far from perfect, and am quite unclear what a virtuous agent would do in the circumstances in which I find myself, the obvious thing to do is to go and ask one, should this be possible. This is far from being a trivial point, for it gives a straightforward explanation of an important aspect of our moral life, namely the fact that we do not always act as ‘autonomous’, utterly self‐determining agents, but quite often seek moral guidance from people we think are morally better than ourselves. When I am looking for an excuse to do something I have a horrid suspicion is wrong, I ask my moral inferiors (or peers if I am bad enough), ‘Wouldn't you do such‐and‐such if you were in my shoes?’ But when I am anxious to do what is right, and do not see my way clear, I go to people I respect and admire: people who I think are kinder, more honest, more just, wiser, than I am myself, and ask them what they would do in my circumstances. How, or indeed whether, utilitarianism and deontology can explain this fact, I do not know, but, as I said, the explanation within the terms of virtue ethics is straightforward. If you want to do what is right, and doing what is right is doing what the virtuous agent would do in the circumstances, then you should find out what she would do if you do not already know.[@hursthouse1998virtue 35]
 
 ### Philippa Foot on Virtue: Excellence of the Rational Will
 
@@ -103,7 +108,7 @@ McDowell argues that the virtues are various "sensitivities" to the salient fact
 
 The first point is that ethical reflection aims at answering the ever relevant question "How should one live?"[@mcdowell1979virtue 331] We notice that ethical reflection is *reflection* about *practice*. It seems to me that this obvious truth is almost too close to be seen, like one’s nose. It is far too often overlooked. We do not *merely* act (like a deer or a dog) nor do we *merely* calculate (like a computer or an angel); we reflect upon what we ought to do, how we ought to live. Such reflection only makes sense concerning issues within my control. Insofar as one cannot but sleep sometimes, the question of whether or not to sleep at all is not an ethical question; it is not in my control. Insofar as one can either stay or go, pursue or avoid, harm or help, such decisions are ethical decisions and the question of how to live is an ethical question. One must decide which larger, longer-term projects to pursue and which objects are worthwhile to obtain; and one must, along the way of these long-term pursuits, decide rather extemporaneously how to react to the vicissitudes of circumstance.  Each of us must decide how to react to the “slings and arrows of outrageous fortune.”^[*Hamlet* III.1]
 
-### Virtue is knowledge?
+### Virtue is Knowledge?
 
 As for the thesis that virtue is a kind of knowledge, McDowell argues that morality is *practical knowledge* (a “disposition to act well”). Such practical knowledge (and this is the third point) seems to demand "a moral outlook" to act well.[@mcdowell1979virtue 331] To see why it makes sense to conceive of virtue as practical knowledge, suppose that some platitudinous value (say, kindness) is really a virtue. The kind person is reliably kind and is kind *on purpose*. A person who merely happens to be kind or who commits acts of kindness resulting from blind instinct does not seem to merit the ascription of a virtue. A person who is kind once, or even every now and then, likewise does not seem to merit the ascription of a virtue. Rather, a kind person is one who is regularly sensitive to a range of reasons for behaving in a particular way. The kind person, McDowell adduces, "has a reliable sensitivity to a certain sort of requirement which situations impose on behavior" and such "deliverances of a reliable sensitivity are cases of knowledge."[@mcdowell1979virtue 332] The kind person *knows* what is called for, is intentional about avoiding cruel or indifferent behavior, and so on. 
 
