@@ -326,5 +326,10 @@ The natural norm must be something that justifies itself, either to all rational
 >Although I have tried to anticipate and turn aside some important objections, whether the MacIntyrean sort of naturalism is acceptable ultimately depends on answers to some rather large questions involving the nature of rationality (for example, whether it is tradition-constituted in something like the way MacIntyre says), moral psychology (for example, whether McDowell and MacIntyre are right in rejecting the ‘‘hydraulic’’ psychology of neo-Humeans like Arnhart), and even metaphysics (for example, whether and how moral philosophy is related to theology). But such interdependences are what we must expect for an ethic purporting to be based on a true understanding of human nature. 
 
 In a later chapter, I shall take up one of Toner’s challenges: to defend a notion of practical reason as importantly constituted by “tradition” — that is, by particular cultural methods, facts, doctrines, and emphases transmitted within a particular people group over time. 
+<<<<<<< HEAD
+
 
 ## Conclusion
+
+=======
+>>>>>>> origin/master
