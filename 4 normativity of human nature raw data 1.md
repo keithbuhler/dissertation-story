@@ -5,7 +5,7 @@
 Wisdom 8:5-7 \
 
 
-### Virtue for Rational Animals
+### Excellence for Rational Animals
 
 Above, I have argued that human nature is fixed and stable -- stable enough, at least,  provide good grounding for an account of human virtues. We are potentially *rational* animals. Three criteria determine our goals for this chapter.  
 
@@ -15,15 +15,13 @@ Secondly, we are rational *animals*. So our account will have to show how our ex
 
 Thirdly, we act for many reasons: instinct, desire, fear, intention, plans, hopes, habits, etc. Some of these actions may not be excellent, or may not be excellent in the way that accords without our pre-reflective moral intuitions. So our account must allow us distinguish between various kinds of excellence.  The Greek word usually translated 'virtue' (*αρετή*) can also be translated 'excellence'. But not all excellence is *moral* excellence. So, we ought not to assume that the terms 'excellence' or even 'moral excellence' can be a short-cut for understanding the concept of virtue. We must, instead, construct our account with care and attention. 
 
-
 In order to construct this account, I shall first work through the virtue accounts of Foot, McDowell, and MacIntyre. Secondly, I shall attempt to point out the discrepancies, harmonize the commonalities, and synthesize what is good in each. 
 
-In short, my thesis in this chapter is the thesis of the dissertation as a whole: % **virtue is the plurality of acquirable excellent character traits (such as moderation, tolerance, and wisdom) that are necessary for practical, rational animals because virtue partly constitutes natural human flourishing.** 
+In short, my thesis in this chapter is the thesis of the dissertation as a whole: **virtue is the plurality of acquirable excellent character traits (such as moderation, tolerance, and wisdom) that are necessary for practical, rational animals because virtue partly constitutes natural human flourishing.** 
 
 This builds on the thesis of the last chapter -- that humans need virtues -- and shows how, as humans mature, the need for particular virtues and for virtue in general increases, especially for traits that enable one to engage in successful practical reasoning. Such acquired character traits dispose us to do well at accomplishing the universal projects of human life (such as sustaining friendships) and to react well to the universal challenges of human life, such as the death of loved ones. The absence of virtues, and the presence of vices, corrupt practical reasoning and stultify the realization of our natural telos. Vices dispose us to succomb to common temptations and to fail at universal projects. Thirdly, and finally, I shall defend the resulting synthesis against various objections. 
 
 ## Neo-Aristotelians on Virtue
-
 
 ### Hursthouse
 

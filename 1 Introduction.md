@@ -1,5 +1,10 @@
 # Introduction: Virtue, Reason, and Flourishing
 
+*"The concept of purpose, together with the closely related concepts of normativity and agency, stand at the crossroads of three academic disciplines: the philosophy of action, the philosophy of biology, and the nexus of theoretical biology and cognitive science that is concerned with the theory of the “self-organization” of 'autonomous agents.'"* \
+
+-- James Barham, *Teleological Realism in Biology,* 1. \
+
+
 *"Men need virtues as bees need stings."* \
 
 --Peter Geach, *The Virtues*

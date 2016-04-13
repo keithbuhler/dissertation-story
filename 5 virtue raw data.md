@@ -3,7 +3,6 @@
 
 **Quotation** *"Man alone of the animals possesses speech."* (Aristotle, *Politics*, 1.1253a)
 
-*"Now I come face to face with an apparently unanswerable objection, which is that human beings as rational creatures can ask why what has so far been said should have any effect on their conduct. For let us suppose that the normative pattern that I called ‘natural normativity’ does govern our evaluations of human beings as human beings. Suppose that human beings are defective as human beings unless they do what is needed for human good, including such things as refraining from murder and keeping promises. The sceptic will surely ask ‘But what if I do not care about being a good human being?’"* Foot
 
 ## Introduction: Human Generics
 
