@@ -30,7 +30,7 @@ In this dissertation, I defend the broadly Footian/MacIntyrean project of aiming
 
 Specifically, I shall defend the following thesis:  **virtue is the plurality of acquirable excellent character traits (such as moderation, tolerance, and wisdom) that are necessary for human beings qua practical, rational animals, because virtue partly constitutes natural human flourishing.**
 
-The main components of this thesis are virtue ('acquirable excellent character traits') human nature (our life form as  'practical, rational animals') and human flourishing. In the course of these chapters, I will defend this thesis in parts and as a whole. As Christopher Toner says, this kind of virtue ethics proposes a close tie between one's species or life-form and the flourishing that constitutes "the good life" for creatures like us: "human nature is normative, such that to be morally good is to fulﬁll one’s nature."[@toner2008sorts 221] Hence, it is clear that these three concepts are not only individually interesting but constitute single, three-part schema, which I call the "virtue triangle." 
+The main components of this thesis are virtue ('acquirable excellent character traits') human nature (our life form as  'practical, rational animals') and human flourishing. In the course of these chapters, I will defend this thesis in parts and as a whole. As Christopher Toner says, this kind of virtue ethics proposes a close tie between one's species or life-form and the flourishing that constitutes "the good life" for creatures like us. Hence, these three concepts are not only individually interesting but interesting in so far as they constitute a single, three-part schema, which (for lack of a better term) I shall call the "virtue triangle." 
 
 ### The Virtue Triangle
 

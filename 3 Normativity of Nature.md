@@ -15,7 +15,7 @@ This chapter addresses and challenges the widespread prejudice against scientifi
 Rosalind Hursthouse argues that ethical evaluations (of humans) and non-ethical evaluations (of plants and animals) "both depend upon our identifying what is characteristic of the species in question."[@hursthouse1998virtue chapter 10, abstract.] In other words, *normative* evaluations depend on *descriptive* facts about a species. If true, this notion would be momentous: "is" statements would underwrite "ought" statements. The notion that natural, descriptive propositions can serve as premises in arguments with normative conclusions is central to the project of ethical naturalism.  But many have posed an obvious challenge to this notion. We can put the challenge in this form: 
 
 
-**Is-Ought Gap Challenge to Ethical Naturalism**
+**Is-Ought Gap Challenge**
 
 1. If ethical naturalism is possibly true, then "ought" conclusions can be derived from "is" premises. 
 2. But no "ought" conclusions can be derived from "is" premises.
@@ -31,7 +31,7 @@ At its best, a descriptive ethics might identify universal moral approbations an
 
 The is-ought gap objection is fatal to some forms of ethical naturalism, but not to the neo-Aristotelian type Hursthouse and others are pursuing.^[I suspect the is-ought gap has not been adequately overcome by Peter Railton's and Richard Boyd's theories. I do not have space here to explore the suspicision.] For there exists a second, and more promising way to underwrite "ought" statements. From basic, fundamental, scientifically respectable *natural norms*. Call this the possibility of natural normativity.^[The concept of 'natural normativity' is indeterminate, which means I run the risk of unclarity; that indeterminacy is necessary for us to discuss these issues without begging the question in favor of the view that all norms are unnatural and all nature is non-normative. If natural norms could be discovered, then it would be *at least possible* that the is-ought gap is not a fatal problem for all types of ethical naturalism.] We can put the challenge, in the following form:
 
-**Bald Nature Challenge to Ethical Naturalism**
+**Bald Nature Challenge**
 
 1. If ethical naturalism is possibly true, then some facts are genuinely both natural and normative. 
 2. But no facts are genuinely both natural and normative. 
@@ -43,8 +43,7 @@ The candidates for natural normative facts I shall defend are natural formal and
 
 
 
-
-### Natural, Biological Norms or Cultural, Rational Norms?
+### Biological Norms or Cultural/Rational Norms?
 
 Although the neo-Aristotelians are united in the affirmation that some natural norms can serve as a grounding for ethical facts, there are two or three competing strategies as to which "norms" are up to the task. The strategies go under many names.^[Annas distinguishes two sorts of naturalism, one that emphasizes the biological nature of humanity (at the expense of the odd normativity of reason) and another that emphasizes the rational nature of humanity (at the expense of the mundane descriptivity of biology). Christopher Toner distinguishes between the “biological naturalism” of Thompson and Foot (and later MacIntyre) from the “second naturalism” or “excellence naturalism” or ‘culturalism’ of McDowell and (early) MacIntyre, each of which has its strengths and problems. Cf. @mcdowell1998two; @fink; @toner2008sorts; Julia Annas, "Virtue Ethics: What Kind of Naturalism?" in @gardiner2005virtue.] 
 

@@ -1,16 +1,74 @@
-# Normativity of Human Nature: Philestine Scientism and The Practical Point of View
+# Normativity of Human Nature
 
-*"Human nature is normative, such that to be morally good is to fulﬁll one’s nature."* \
+"Plants need water." \
 
--- Chris Toner, "Sorts of Naturalism", 221.\ 
+--Renan Limjuco, et al.[@limjuco2016quality] \
 
-*"The concept of purpose, together with the closely related concepts of normativity and agency, stand at the crossroads of three academic disciplines: the philosophy of action, the philosophy of biology, and the nexus of theoretical biology and cognitive science that is concerned with the theory of the “self-organization” of 'autonomous agents.'"* -- James Barham, *Teleological Realism in Biology,* 1
+
+*"The human virtues make their possessor good qua human being, one who is as ordinarily well fitted as a human being can be in not merely physical respects to live well, to flourish—in a characteristically human way."*\
+
+--Rosalind Hursthouse, *On Virtue Ethics*, 208. \
+
+
 
 ## The Task of Generics about Humanity
 
-We saw above that although the is-ought gap blocks ethical naturalisms attempting to derive 'ought' statements from baldly natural facts, Foot's brand of neo-Aristotelian naturalism pre-emptively undercut this problem by drawing on the thousands of perfectly scientifically respectable natural normative facts that obtain in many -- perhaps all --  living things.  Natural formal and functional (or teleological facts) are natural norms. They are, if you like,  natural "oughts". And generic truths about those living things are genuinely normative, and therefore can be used to derive genuinely normative conclusions. If these natural norms expressible in generics are to be be a source of ethical insight, we must assume that human beings are natural entities importantly similar to animals and plants, even though they be importantly different in exhibiting rational activity. For example, 'Humans are language using primates' is a generic scientific statement. Hence, we must go further and specify what kind of life it is we as human beings live arising from what kind of creatures we are. 
+Human beings are natural entities importantly similar to animals and plants, though importantly different in exhibiting rational activity. We saw above that although the is-ought gap blocks ethical naturalisms attempting to derive 'ought' statements from baldly natural facts, Foot's brand of neo-Aristotelian naturalism pre-emptively undercut this problem by drawing on the thousands of perfectly scientifically respectable natural normative facts that obtain in many -- perhaps all --  living things. 
 
-### Foot's Human Normativity
+Natural formal and functional (or teleological facts) are natural norms. They are, if you like,  natural "oughts". And generic truths about those living things are genuinely normative, and therefore can be used to derive genuinely normative conclusions. 
+
+Now we must go further and specify what kind of life it is we as human beings live arising from what kind of creatures we are. Of course, the difficulty comes in attempting to move from such vague statements to particular moral statements: 'Human beings make and keep promises.' To recall Hursthouse's statement from the beginning, ethical evaluations of *human beings* "depend upon our identifying what is characteristic of the species in question." So the success of our endeavor depends on finding true generic propositions about 'human beings' qua natural kind. That success depends further on examining whether the normativity in question is genuinely *ethical*.  If successful, such generics will give us initial insight into the concept of virtue, which is our main theme. The subsequent chapters will provide more detail into the nature of virtue. 
+
+### Two criteria 
+
+Supposing there were a way to overcome the is-ought gap, two objections provide us with criteria our natural normativity theory will have to satisify The first objection is that there is no such thing as a universal human nature from which we might derive normative conclusions. Even the singular noun phrase "human nature" is liable to sound mystical and too abstract, like a platonic universal underlying all human beings. Bernard Williams summarizes the antiquated worldview that many are suspicious of:
+
+> The idea of a naturalistic ethics was born of a deeply teleological outlook, and its best expression, in many ways, is still to be found in Aristotle's philosophy, a philosophy according to which there is inherent in each natural kind of thing an appropriate way for things of that kind to behave.[Cf. @williams1995making 109] 
+
+The problem, of course, is that if human beings are a "mess" (as Williams puts it) then the normative conclusions to be derived would be equally messy. And indeed, humans are occasionally irrational and always variable, positing themselves in various ways, defining various values, charting various destinies. Ernst Mayr puts the alleged tension between the flexibility of evolutionary species and a fixed human nature in this way: 
+
+>The concepts of unchanging essences and of complete discontinuities between every *eidos* (type) and all others make genuine evolutionary thinking impossible. I agree with those who claim that the essentialist philosophies of Aristotle and Plato are incompatible with evolutionary thinking.[@mayr1970populations 4]
+
+A second, related, objection is that if there is such thing as "human nature", it is nothing more or less than our biological and physiological makeup. Tim Lewins argues that: 
+
+> the only biologically respectable notion of human nature that remains is an extremely permissive one that names the reliable dispositions of the human species as a whole. This conception offers no ethical guidance...[@lewens2012human]
+
+On Lewins' view, the only scientific talk about our "nature" is an indetermiante series of complicated stories about our genetics, evolutionary history, and neurophysiology, perhaps even including cultural, geographical, and ecological settings. The problem, of course, is that an empirical "scientific" conception of human nature has nothing to do with *ethics*. All of the complicated stories we could tell -- if they are genuinely scientific -- would be purely *descriptive*. In response to this worry, Rosalind Hursthouse's response is to reassure us that: "Ethical naturalism is not to be construed as the attempt to ground ethical evaluations in a scientific account of human nature."[@hursthouse1998virtue especially chapter 10] Nevertheless, she *does* endorse the project of grounding ethical evaluations in human nature. If this grounding is not *scientific*, then how is a grounding of ethics going to work? 
+
+These objections can be overcome, but they are important framing tools for our answer. Generic statements about 'the human being' or the human life form have to capture what is genuinely true of the human life form, if there is such a thing. But generic statements about 'the human being' or the human life form cannot *merely* be descriptions of our genes, organ systems, 30 billion brain neurons, and so on. 
+
+So, for example, 'Humans are language users' is a generic scientific statement; as is 'human beings are practical, rational animals'. Initially, we can hypothesize that if human beings *really are* rational animals that an *irrational* human is ipso facto defective.^[To call a human 'defective' sounds like a schoolyard insult; but it is a straightforward, evaluative description of some people.]  (As above, I do not here intend to discuss mental illness, disability, birth defect, chromosomal disorders, and other such exceptions to 'normal' functional humans.)
+
+### Generic Truths about humans
+
+To satisfy these criteria, let's first assemble a sample of scientific generics about humanity. What can we -- by careful observation and inductive generalization -- confidently say about genetically modern humans without much scientific controversy? Examining ourselves "from the outside" as it were, from an external, objective, cool, scientific view point, what is a human being?
+
+Human beings are *homo sapiens sapiens*. The species emigrated from Africa about 200,000 years ago, and are the only extant members of the hominin clade. They are language users whose language is a formal structure of open-ended, productive, recursive system allowing potentially limitless combinations of meaningful words; they are symbol users, communicating with signs and symbols; they are bipedal and walk upright; have opposable thumbs; have large brains relative to other primates, with a neocortex and prefrontal cortex that correlate with abstract thinking, problem solving, society, and culture; are creative; self-reflective; establish social relations upon biological grounds (some children growing up with natural parents) and upon normative grounds (some orphans growing up in orphanages created by philanthropists); are moral[@joyce2013ethics]; are curious and gather knowledge into sciences; don't just hunt and gather but farm, store, combine, ferment, and cook food; eat vegetables, red meat, fish, nuts, seeds, berries, fruits, mushroom, mollusks, herbs, and more; don't just live on the ground or under ground, but build houses and shleters; don't just Humans don't just build shelters of one particular type; they invent new shelters and structures in new places, such as caves, trees, hills, mountains, etc.; human females go through menopause; have 32 teeth; 4' 7" to 6' 3" tall (plus or minus), and weigh 120-180 pounds (plus or minus); have two sets of 23 chromosomes in each somatic cell, and about 22,000 total genes; reproduce sexually. 
+
+Is there anything of potential ethical significance in this collection of commonplaces? I think so. 
+
+If we had to gather these various features into categories, we could capture most of them under two categories: animal (of a particular sort) and rational. The very concept of 'reason' is our abstraction of a set of capacities we notice in ourselves, such as the capacities to observe, perceive as, create, reflect, decide, determine, abstract, infer, explain, deduce, remember, predict, criticize, praise, blame, admonish, and so on. All of these activities are (a) actions or practices consciously performed or conducted by an agent, that (b) aim to know what is true, what the world is like, and what to do about it, and (c) are essential social activities in that they are essentially linguistic and language is acquired only with a social context (such as family or culture).
+
+### Potentially Practical, Rational
+
+There is much truth to the old formula, that human nature is to be a rational animal. We might say that our species is an intentional primate, the only language-using semiotic primate or a self-concious mammal. 
+
+> The nature of x is both what is special about this x and what makes this x one of the x’s as opposed to the y’s. When x is defined per genus et differentiam both the genus and the differentiating characteristic and their combination could be taken to express what is the nature of x.... Human nature is what differentiates us from the animals and the plants. By nature we are rational beings. Our human nature, however, is also that in virtue of which we belong to the animal kingdom and to the living organisms. By nature we are mammals. We may thus use the concept of nature to differentiate rather than include, but also to include rather than differentiate. And we may use the concept of nature to express that differentiation and inclusion should not be seen as incompatible.[@fink 207]
+
+
+Suppose that the earth was formed about 4.5 billion years ago and that life arose on earth 3.5 billion years ago. Suppose that anatomically modern humans arose about 200,000 years ago. 
+
+What defines us? What characterizes us? The old formulation of human nature was that humans are rational, featherless, bipedal, animals. I argue that this is still the best, emprically verifiable, scientific, and philosophical formulation of human nature. That we are animals is plain to anyone who wishes to examine the facts. Clearly, something changes when we examine human beings compared to all other animals or all other natural kinds.[@hawley2011natural] We continue to evaluate humans on the basis of their species, but we evaluate not just their health and normal developmental stages, and their maturity, but their *actions*. The fact that our being potentially rational differentiates us from whales and chimps and cauliflower is just as plain.  I do not wish to assume that all species have *only one* differentium. (There may be a thousand other rational animals out in the cosmos somewhere else.) I only urge the point that we happen to be the only ones on earth. 
+
+So the attempt to characterize human nature, however broadly, must not only cite our *physicality* -- our relation to the physical world -- but our animality -- our relation to the living world as a whole. What property or set of properties differentiates humans from any other animal, or any other physical object? So the property of being an animal encompasses a whole range of biological and neurophysiological facts that obtain in each normal human being. And the property of being potentially rational encompasses a range of psychological, intellectual, and cultural facts that obtain in each normal human being. 
+
+### Initial hypothesis
+
+Initially, then, we should expect that the qualities that count as virtues for practical rational animals are those that enable us to actualize our life form and fulill our natural functions. 
+
+But what kinds of ends animals have except survival and reproduction? And what kinds of ends do *rational* animals have? 
+
+### Foot on Applying Generics to Rational Animals
 
 Foot is well aware that the imposition of normativity onto brute nature, or the derivation of normativity from brute nature, is likely to seem absurd: 
 
@@ -26,115 +84,10 @@ The point here is that 'goodness' is not a sui-generis, non-natural property pro
 
 The task in discovering true generics about human beings is capturing what is common between us and other animals and what is unique about rational animals. 
 
+>Our common human nature again is both what is special and what is generic about us as a kind. Human nature is what differentiates us from the animals and the plants. By nature we are rational beings. Our human nature, however, is also that in virtue of which we belong to the animal kingdom and to the living organisms. By nature we are mammals. We may thus use the concept of nature to differentiate rather than include, but also to include rather than differentiate. And we may use the concept of nature to express that differentiation and inclusion should not be seen as incompatible.[@fink 207]
 
 
-
-### Obstacles to the task
-
-1. Irrelevance objection: do such norms exist? To recall Hursthouse's statement from the beginning, ethical evaluations of *human beings* "depend upon our identifying what is characteristic of the species in question." So the success of our endeavor depends on finding true generic propositions about 'human beings' qua natural kind. Does such a thing as a universal human nature exist, from which we might derive normative conclusions?
-2. Polyanna Objection: Even if such norms exist, are they ethical? Can we move from vague statements such as "human beings are language users" to particular moral statements: 'Human beings make and keep promises.' Even if ethical norms can be discovered, how are they to be distinguished from unethical, vile behaviors also statistically common among human behaviors? 
-3. Social Teleology Objection: Even if successful, Rosalind Hursthouse and John McDowell are going to object to this project. Hursthouse says that, "Ethical naturalism is not to be construed as the attempt to ground ethical evaluations in a scientific account of human nature."[@hursthouse1998virtue especially chapter 10] Their alternative is still naturalistic, but grounds ethical norms in the intrinsic ends that belong to practical reasoning creatures.
-
-These objections can be overcome, but they are important framing tools for our answer. Generic statements about 'the human being' or the human life form have to capture what is genuinely true of the human life form, if there is such a thing. But generic statements about 'the human being' or the human life form cannot *merely* be descriptions of our genes, organ systems, 30 billion brain neurons, and so on. If successful, such generics will give us initial insight into the concept of virtue, which is our main theme. The subsequent chapters will provide more detail into the nature of virtue. 
-
-
-## Generic Truths about humans
-
-To overcome these objections, let's first assemble a sample of scientific generics about humanity. What can we -- by careful observation and inductive generalization -- confidently say about genetically modern humans without much scientific controversy? Suppose that the earth was formed about 4.5 billion years ago and that life arose on earth 3.5 billion years ago. Suppose that anatomically modern humans arose about 200,000 years ago. 
-Examining ourselves "from the outside" as it were, from an external, objective, cool, scientific view point, what is a *homo sapiens sapiens*?
-
-
-### Physical Animals
-The species emigrated from Africa about 200,000 years ago, and are the only extant members of the hominin clade. 
-have 32 teeth; 4' 7" to 6' 3" tall (plus or minus), and weigh 120-180 pounds (plus or minus); 
-have two sets of 23 chromosomes in each somatic cell, and about 22,000 total genes; reproduce sexually. 
-human females go through menopause; 
-survive and thrive in climates between freezing and 105 farenheit;
-live on planet earth;
-
-### Rational, Cultural
-They are language users whose language is a formal structure of open-ended, productive, recursive system allowing potentially limitless combinations of meaningful words; 
-live in cultures;
-live in societies;
-they are symbol users, communicating with signs and symbols; 
-are moral[@joyce2013ethics]; 
-are curious and gather knowledge into sciences;
-
-
-### Both
-act on reasons; 
-have opposable thumbs; 
-have large brains relative to other primates, with a neocortex and prefrontal cortex that correlate with abstract thinking, problem solving, society, and culture; 
-don't just hunt and gather but farm, store, combine, ferment, and cook food; 
-eat vegetables, red meat, fish, nuts, seeds, berries, fruits, mushroom, mollusks, herbs, and more; 
-don't just live on the ground or under ground, but build houses and shleters; 
-Humans don't just build shelters of one particular type; 
-they invent new shelters and structures in new places, such as caves, trees, hills, mountains, etc.; 
-they are bipedal and walk upright;
-are creative; self-reflective; establish social relations upon biological grounds (some children growing up with natural parents) and upon normative grounds (some orphans growing up in orphanages created by philanthropists); 
-
-Is there anything of potential ethical significance in this collection of commonplaces? I think so. Indeed, this collection admits of patterns. If we had to gather up the individual features into categories, we could capture most of them under two categories: animal (of a particular sort) and rational. Even the upright posture, opposable thumbs, and large neocortex of genetically modern humans are intimately tied to our language use, symbol use, creativity, science, and sociality. Without the hands that we have, we could not create nearly as much as we do. Without the brains that we have, we could not think, speak, organize into language-groups and create culture. 
-
-### Physical, Animal, Rational, Practical
-
-The concept of an 'animal', as I argued above, entails the presence of certain natural teleological and formal facts. This also entails the notion of *potential*. Even single celled organisms have the potential to reproduce and develop. Mammals begin life as tiny cells and progress through gestation to infancy, maturation, and adulthood, at which point they typically reproduce themselves before dying. All of these phases we notice in human animals as well. Attempt to characterize human nature, however broadly, must not only cite our *physicality* -- our relation to the physical world -- but our *animality* -- our relation to the living world as a whole. What property or set of properties differentiates humans from any other animal, or any other physical object? So the property of being an animal encompasses a whole range of biological and neurophysiological facts that obtain in each normal human being. 
-
-
-However, the concept of 'rationality' is new. We use terms like 'reason' and ratio as abstractions to describe a set of capacities we notice in ourselves. For example, activities that get called 'rational' are activities such as to observe, perceive as, create, reflect, decide, determine, abstract, infer, explain, deduce, remember, predict, criticize, praise, blame, admonish, and so on. And the property of being potentially rational encompasses a range of psychological, intellectual, and cultural facts that obtain in each normal human being. More specifically, all of these activities are (a) actions or practices consciously performed or conducted by an agent, that (b) aim to know what is true, what the world is like, and what to do about it, and (c) are essential social activities in that they are essentially linguistic and language is acquired only with a social context (such as family or culture). 
-
-
-### Hypotheis: Practical, Rational Animal
-
-The generic we were looking for at the beginning needed to be *relevant*, *ethical* (or potentially ethical), and needed to go beyond its legitimate rival -- the McDowellian objection that rational, social teleology is all that is needed for a grounding of virtue. 
-
-The hypothesis we have discovered is simply this: 'human beings are practical, rational animals'. There is, it seems, a great deal of truth to the old formula, that to be human is to be a rational animal. Or, if you prefer to dress up the matter in more detailed and scientific terminology, we might say that our species is an intentional primate, the only language-using semiotic, self-concious, intentional, primates. 
-
-If human beings *really are* rational animals, we may initially hypothesize that that an *irrational* human is ipso facto defective.^[To call a human 'defective' sounds like a schoolyard insult; but it is a straightforward, evaluative description of some people.]  (As above, I do not here intend to discuss mental illness, disability, birth defect, chromosomal disorders, and other such exceptions to 'normal' functional humans.) Initially, then, we should expect that the qualities that count as virtues for practical rational animals are those that enable us to actualize our life form and fulill our natural functions. 
-
-Hans Fink agrees with my hypothesis:
-
-> The nature of x is both what is special about this x and what makes this x one of the x’s as opposed to the y’s. When x is defined per genus et differentiam both the genus and the differentiating characteristic and their combination could be taken to express what is the nature of x.... Human nature is what differentiates us from the animals and the plants. By nature we are rational beings. Our human nature, however, is also that in virtue of which we belong to the animal kingdom and to the living organisms. By nature we are mammals. We may thus use the concept of nature to differentiate rather than include, but also to include rather than differentiate. And we may use the concept of nature to express that differentiation and inclusion should not be seen as incompatible.[@fink 207]
-
-### Three Criteria
-
-Initially, then, we should expect that the qualities that count as virtues for practical rational animals are those that enable us to actualize our life form and fulill our natural functions, especially, the development of rationality. 
-
-1. Rational 
-        - Social
-        - Practical
-        - Linguistic
-        - Cultural
-2. Animals
-        - Physical
-        - Chemical
-        - Emotional 
-3. Practical 
-        - Taking all of 2 up into 1 and making something of it
-
-These criteria I shall attempt to satisfy in a later chapter. For now, I need to address the three obstacles stated above: irrelevance of human generics to ethics, the mixture of "positive" and "negative" generics or the ignoring of negative ones; and the "rationalistic" social teleology versus "scientiifc" biological teleology.
-
-Our language is unique. Other animals that communicate use non-grammatical closed systems with a small, finite set of symbols.^[Communication systems used by other animals such as bees or apes are closed systems that consist of a finite, usually very limited, number of possible ideas that can be expressed. In contrast, human language is open-ended and productive, meaning that it allows humans to produce a vast range of utterances from a finite set of elements, and to create new words and sentences.''
-
-I would add to this formulation that we are *practical*, rational animals. That is, we do not just act but act on reasons. Micah Lott says: "Human form is characterized by practical reason. This is the capacity to act in light of an awareness of the ground of our actions, to recognize and respond to practical reasons."[@lott2012moral] We set goals and act in order to achieve goals. In the unity of reason between theoretical and practical that I shall ground both moral and intellectual virtue. All the acts of reason (whether theoretical or practical) are acts of *reason.* (I shall pick up the theme of practical rationality in a later chapter.) 
-
-I must hasten to add that "humans are practical, rational animals" is a generic. It admits of exceptions. Anacephalic babies are not even potentially rational, for they lack the subvenient brain structure necessary for rational consciousness, yet they are recognizably *human* (they are not opossums), just defectively so. (A war veterans is still human even if he or she is no longer bipedal!) Injury, illness, genetic defect, radiation poisoning, and any number of other negative factors may render a human being sub-rational. Coma, mental illness, and other factors may render a human being non-practical (unable to direct his or her own life to a normal degree). The point of the argument above was that generic truths about humans inform us about the lifeform of the species. 
-
-Furthermore, Aristotle observed that, "Man alone of the animals possesses speech." (Politics*, 1.1253a) Nothing in modern science has superceded or contradicted this.
-
-Someone might be wondering: What does all of this have to do with virtue? Peter Geach says “Men need virtues as bees need stings."[@geach1977virtues 17] Philippa Foot echoes Geach's statement about "need" and "necessity" as well. Alasdair MacIntyre subtitled his most recent monograph: "human beings need the virtues."[@macintyre1999dependent] The kind of necessity being predicated here is the same kind of necessity with which a bee needs a sting. It is a formal and teleological necessity. Virtues are those qualities needed by us as members of the human species, each member of which exemplifies the same human nature of being a potentially practical, rational animals. 
-
-## Objections
-
-### MacIntyre's early view agrees with McDowell
-
-Alasdair MacIntyre's position on natural normativity has shifted over the decades. I would like to mention both his earlier view (defending social teleology), which is closer to that of McDowell than that of Foot. 
-
-In *After Virtue*, he emphasizes "second nature" far more than primary nature. That is, he finds a ground of normativity not in our life-form but in us: in our social identities, our culture, our rationality. For example, he says his account of virtue  "happily not Aristotelian" for "although this account of the virtues is teleological, it does not require any allegiance to Aristotle's metaphysical biology."[@macintyre1984after 197] The "metaphysical biology" MacIntyre refers to here is that metaphysically realist view that formal and final causes inhere (and in fact constitute) biological species.^[These causes may be understood by metaphysical realists as intelligible forms or universals which the intellect, by virtue of its intelligible powers, can be abstracted. As John Haldane says: content-determining principles of perception are one and the same as the character-determining principles of the objects of perception — the identity of act and object." Intellection, in turn, is a distinctly human (rational) activity. While animals can not only sense but *perceive*, humans have the capacity of intellection, the power of abstracting the forms themselves from percepts. An animal can sense an informed, organized object; an animal can be affected by the object. But the human animal can *acquire information* from the organized object. The ability to perceive something *as*, or even to perceive something big and brown with a smudge on its nose, does not imply the ability to perceive that thing as a cat. Cf. @haldane1996coming]  That said, MacIntyre does most emphatically argue for a teleological form of ethics based on the normativity of *human* nature. He grounds teleology not in non-human nature but in human nature, specifically our practical, social nature. He calls this notion "social teleology." 
-
-The notion of social teleology builds on the apparently obvious truth that *human society is teleological.* That is, we do not just act randomly. We do not only act according to the promptings of instinct (that too). Rather, we act *on reasons,* both individually and in groups. We act to achieve goals. Whether we arise from bed *in order to* give a talk, or drive to work *in order to* do a good job, or pursue a career *for* satisfaction and a profitable retirement, we are directing ourselves toward ends. In groups, too, we pursue shared goals, deliberate about *what is to be done*: Congress aims to pass just and beneficial laws. The school board aims to increase enrollment and balance the budget. Expanding our focus from individual actions or projects, we can put the point more strongly: all of human life is a practice. It can be brought under the concept of either one, unified, whole practice or pluralistic set of practices. Even when Iris Murdoch assumed[@murdoch1998sovereignty] that human life has “no external point or τελος”, she argues that it has a point *from within.* It is impossible, in other words, to bring our own human life under the concept of an *event.* Human life must be brought under the concept of a practice, which is teleological and essentially so.This insight has important implications for ethics, as well as other fields: action theory, sociology, anthropology, philosophy of mind, and so on.[Cf. @thompson2008life.] But the point here is that, since we act in groups and for reasons, teleology is a real feature of our social nature. They cannot be understood without teleology. So if the critic of natural normativity rejects teleological realism (as did the early MacIntyre), it is enough if she accepts social teleology. 
-
-
-### McDowell's Social Teleology Objection
+### McDowell's initial objection
 
 McDowell's major objection to Foot is an objection to the over-zealous application of empirical methods to ethics. 
 
@@ -158,6 +111,18 @@ The view I am defending, and which I find in Foot, may be seen as demanding that
 In a different context, Hacker-Wright articulates much the same worry: 
 
 > …we can see that Foot’s naturalism offers a fresh approach to objectivism in ethics. Yet, in spite of such attractions, *Natural Goodness* is in the midst of a cool reception. Here, I will argue that this reception is due to the fact that Foot’s naturalism draws on a picture of the biological world that is at odds with the view embraced by most contemporary scientists and philosophers. Foot’s readers commonly assume that the account of the biological world that she must want to adhere to, and that she nevertheless mistakenly departs from, is the account offered by contemporary neo-Darwinian biological sciences.[@hacker2009natural 309] 
+
+
+## MacIntyre: Social Teleology
+
+Alasdair MacIntyre's position on natural normativity has shifted over the decades. I would like to mention both his earlier view (defending social teleology), which is closer to that of McDowell than that of Foot. 
+
+In *After Virtue*, he emphasizes "second nature" far more than primary nature. That is, he finds a ground of normativity not in our life-form but in us: in our social identities, our culture, our rationality. For example, he says his account of virtue  "happily not Aristotelian" for "although this account of the virtues is teleological, it does not require any allegiance to Aristotle's metaphysical biology."[@macintyre1984after 197] The "metaphysical biology" MacIntyre refers to here is that metaphysically realist view that formal and final causes inhere (and in fact constitute) biological species.^[These causes may be understood by metaphysical realists as intelligible forms or universals which the intellect, by virtue of its intelligible powers, can be abstracted. As John Haldane says: content-determining principles of perception are one and the same as the character-determining principles of the objects of perception — the identity of act and object." Intellection, in turn, is a distinctly human (rational) activity. While animals can not only sense but *perceive*, humans have the capacity of intellection, the power of abstracting the forms themselves from percepts. An animal can sense an informed, organized object; an animal can be affected by the object. But the human animal can *acquire information* from the organized object. The ability to perceive something *as*, or even to perceive something big and brown with a smudge on its nose, does not imply the ability to perceive that thing as a cat. Cf. @haldane1996coming]  That said, MacIntyre does most emphatically argue for a teleological form of ethics based on the normativity of *human* nature. He grounds teleology not in non-human nature but in human nature, specifically our practical, social nature. He calls this notion "social teleology." 
+
+The notion of social teleology builds on the apparently obvious truth that *human society is teleological.* That is, we do not just act randomly. We do not only act according to the promptings of instinct (that too). Rather, we act *on reasons,* both individually and in groups. We act to achieve goals. Whether we arise from bed *in order to* give a talk, or drive to work *in order to* do a good job, or pursue a career *for* satisfaction and a profitable retirement, we are directing ourselves toward ends. In groups, too, we pursue shared goals, deliberate about *what is to be done*: Congress aims to pass just and beneficial laws. The school board aims to increase enrollment and balance the budget. Expanding our focus from individual actions or projects, we can put the point more strongly: all of human life is a practice. It can be brought under the concept of either one, unified, whole practice or pluralistic set of practices. Even when Iris Murdoch assumed[@murdoch1998sovereignty] that human life has “no external point or τελος”, she argues that it has a point *from within.* It is impossible, in other words, to bring our own human life under the concept of an *event.* Human life must be brought under the concept of a practice, which is teleological and essentially so.This insight has important implications for ethics, as well as other fields: action theory, sociology, anthropology, philosophy of mind, and so on.[Cf. @thompson2008life.] But the point here is that, since we act in groups and for reasons, teleology is a real feature of our social nature. They cannot be understood without teleology. So if the critic of natural normativity rejects teleological realism (as did the early MacIntyre), it is enough if she accepts social teleology. 
+
+
+
 
 ## McDowell: Social Teleology
 
@@ -203,7 +168,7 @@ To see the dilemma McDowell faces, consider that there are at least two kinds of
 
 >Such a ninth conception of nature would be an unrestricted conception. It would express the idea that there is one world only, and that that world is the realm of nature, which is taken to include the cultural, artificial, mental, abstract and whatever else there may prove to be. There are no realms above or beyond nature. To be is to be in nature and to be in continuity with everything else in nature. Even the greatest and deepest differences are differences within nature rather than differences between nature and something else.[@fink 206]
 
-With these distinctions in hand, we can observe a crucial point that no one philosophical view has copyright on the term 'naturalism.' For example, classical materialism is perhaps a paradigmatic form of 'naturalism'.[@sellars1927naturalism] By Fink's lights, classical materialism is a form a restricted naturalism for it affirms that whatever is material is part of nature, and so that the label 'not-natural' applies to whatever is not material (or not obviously material, such as ghosts, souls, and fairies). But classical materialism is not the *only* form of restricted nature. Rather, *the idealist, too, can rightly lay claim to the title of naturalism.* 
+With these distinctions in hand, we can observe a crucial point that no one philosophical view has copyright on the term 'naturalism.' For example, classical materialism is perhaps a paradigmatic form of 'naturalism'.[@@sellars1927naturalism] By Fink's lights, classical materialism is a form a restricted naturalism for it affirms that whatever is material is part of nature, and so that the label 'not-natural' applies to whatever is not material (or not obviously material, such as ghosts, souls, and fairies). But classical materialism is not the *only* form of restricted nature. Rather, *the idealist, too, can rightly lay claim to the title of naturalism.* 
 
 To see why idealism is a form of restricted naturalism, Fink takes a highly informative detour to analyze Plato's *Laws*. There he finds a Greek trichotomy between events that come about by nature (*physis*), chance, and art. 'Nature' and 'chance' explain why plants grow, why the sun moves, and so on. 'Art' explains why houses have roofs, why humans wear clothes, and anything else that we do and that nature and chance could *not* have done. The "natural" pair in this trichotomy consists of the first two: that which comes about, so to speak, on its own, *prior to* and *independent of* intelligent intervenion from humans or gods. This conception of nature excludes not only the supernatural but also the cultural, the fictional or imaginative, and so on. The Athenian does not accept this "dangerous" conception of nature. Rather, he argues that "soul is necessarily prior in origin to things which belong to body, seeing that soul is older than body."[@plato, *Laws* 891cff] Fink comments on this passage: 
 
@@ -242,14 +207,16 @@ Nevertheless, McDowell is of two minds. He rejects the restricted conceptions of
 
 I conclude that, despite their differences, McDowell shares with Mackie and other subjectivists radically reductive, disenchanted, Laplacian picture of material nature as a manifold of bald descriptive facts. The richer -- and more scientific -- unrestricted conception of nature is the one Foot (and MacIntyre) can help us to recover. McDowell merely asserts, without additional argument, the common prejudice that "modern science" somehow disenchants nature, when in fact the "partial re-enchantment" he himself endeavors to recover is already present *within modern science*. 
 
-James Barham captures the dualism into which McDowell unwitting falls: 
 
->the philosophical literature tends to work with a scientifically outdated image of living things as rigid “machines.” This results in a picture in which only human beings (or at most the higher animals) can be properly ascribed purposes and agency in the full normative sense. From this perspective, we appear to be faced with an unappealing choice between eliminating teleology and normativity from our picture of nature altogether and understanding these phenomena as they are manifested in our own human form of life as floating free from any grounding in the natural world.[@barham2011 1]
+### Another objection to McDowell: Dualism
 
+> The concept of purpose, together with the closely related concepts of normativity and agency, stand at the crossroads of three academic disciplines: the philosophy of action, the philosophy of biology, and the nexus of theoretical biology and cognitive science that is concerned with the theory of the “self-organization” of “autonomous agents.” Unfortunately, there has been very little cross-fertilization among the liteatures of these three disciplines. As a result, the philosophical literature tends to work with a scientifically outdated image of living things as rigid “machines.” This results in a picture in which only human beings (or at most the higher animals) can be properly ascribed purposes and agency in the full normative sense. From this perspective, we appear to be faced with an unappealing choice between eliminating teleology and normativity from our picture of nature altogether and understanding these phenomena as they are manifested in our own human form of life as floating free from any grounding in the natural world.[@barham2011 1]
 
-## MacIntyre on Natural Teleology
+### Response to McDowell 2: MacIntyre
 
-MacIntyre's later view is a helpful synthesis of the biological and rational aspects of human nature I am aiming for. While he does not go in for Foot's putative realism about "metaphysical biology", he does allow that the facts of our biological nature provide limits on what actions are ethical and what qualities count as virtues. 
+### MacIntyre on Natural Teleology
+
+MacIntyre's later view is a bit more ambitious. While he does not go in for Foot's putative realism about "metaphysical biology", he does allow that the facts of our biological nature provide limits on what actions are ethical and what qualities count as virtues. 
 
 The project of *Dependent Rational Animals* is to insist that even if we are animals of a particular and unusual sort human beings are animals. This basic truth has significant implications. As animals, our dependence and vulnerability are as morally significant as our independence, autonomy, or self-sufficiency. Virtues of independence are, in the writings of Aristotle and others, related to our powers of rational reflection; we can rise above our animal nature, command, direct, and manage our bodies, our farms, our cities, and so on. But since we are *both* animals and *rational*, there are virtues of both autonomy *and* dependence. The book also contends that certain social arrangements are conducive to the transmission and sustenance of both kinds of virtue.  
 
@@ -273,7 +240,95 @@ We can see how this renewed attention to our animal nature has implications for 
 
 
 
-## Toner on Polyanna and Irrelevance Objections
+## Hursthouse
+
+
+Hursthouse agrees with McDowell: 
+
+>I shall assume, without argument, that McDowell is right ... [that] the pretensions of an Aristotelian naturalism are not, in any ordinary understanding of the terms, either ‘scientific’ or ‘foundational’. It does not seek to establish its conclusions from ‘a neutral point of view’. Hence it does not expect what it says to convince anyone whose ethical outlook or perspective is largely different from the ethical outlook from within which the naturalistic conclusions are argued for.[@hursthouse1998virtue]
+
+
+ 
+
+>It might remain to look for "norms" in human virtues: just as man has so many teeth, which is certainly not the average number of teeth men have, but is the number of teeth for the species, so perhaps the species man, regarded not just biologically, but from the point of view of the activity of thought and choice in regard to the various departments of life-powers and faculties and use of things needed- "has" such-and-such virtues: and this "man" with the complete set of virtues is the "norm," as "man" with, e.g., a complete set of teeth is a norm.[@anscombe1958 14-15]
+
+>In this sense the notion of a "norm" brings us nearer to an Aristotelian than a law conception of ethics. There is, I think, no harm in that; but if someone looked in this direction to give "norm" a sense, then he ought to recognize what has happened to the notion "norm," which he wanted to mean "law-without bringing God in" -- it has ceased to mean "law" at all; and so the notions of "moral obligation," "the moral ought," and "duty" are best put on the Index, if he can manage it."[@anscombe1958 14-15]
+
+
+
+
+For now, it is not vacuous to conclude that the virtues needed to achieve this (extremely indeterminate) goal themselves indirectly make room for and might directly illumine “what else” our telos consists in. The virtues needed to preserve the quest for the good, he suggests, may illumine “what else” our telos consists in. It may turn out (and his later writings are more explicit about it) that the determinate telos of a given tradition is a more determinate conception of eudaimonia. 
+
+
+“Teleological ethics” was taken, especially a decade or two ago, to contrast with deontological ethics and to refer to utilitarianism.[@louden1984vices 227; @schroeder2007teleology] Teleology then means simply that the utilitarian aims to achieve some end — happiness, pleasure, utility, or what have you. Thus understood, virtue theorists seem to be utilitarians whose primary concern is the character of moral agents rather than the acts moral agents perform or the rules they obey. But this is a misunderstanding. 
+
+Teleological ethics of the sort that concerns Anscombe (and concerns us in these chapters) is not a matter of a posteriori, statistical analyses of character traits or actions or rules and their respective consequences aimed at reliably hitting the target by consistently bringing about the cause. Teleological ethics is about unfolding the inner form of a thing; actualizing its inherent or intrinsic telos. This process of self-realization occurs in all living things, from the smallest bacterium to the largest whale. It does not (at least I shall assume it does not) occur in any non-living thing; there is no teleological, goal-oriented process guiding the development of new solar systems or the destructions of old ones; there is no “cosmic ecology” because there is no cosmic ecosystem. The cosmic relation between star and asteroid is more akin to the terrestrial relation between gas and matter than the terrestrial relation between bear and butterfly. 
+
+My thesis is simply that virtues, especially intellectual virtues like practical wisdom, are partially constitutive of human eudaimonia; that these truths are solid enough foundation to build an ethical theory on, even without appealing to divine revelation; and that no worries from Darwinism, metaphysical naturalism, or Moorman non-naturalism are enough to crack that foundation. 
+
+## Telos objections
+
+One family of objections pertains to teleology. If MacIntyre's suggestion that we need to recover the Aristotelian tradition of the virtues is to be taken as a serious plan, then we must recover telos, for without a clear telos even a high moral earnestness attached to virtues devolves into an unintelligible set of rules or traditions. Virtue without telos literally has no point.[^4] This constellation of objections is, I think, most potentially disastrous for MacIntyre's theory, and the objections are powerful. In addition to the real philosophical difficulty of the matter, the prejudices and misconceptions surrounding teleology are so thick one would need several chapters to dig through the muck and mire. I think an adequate response can, ultimately, be made. 
+
+[^4]:A society that enforces chaste behavior and honors chastity as a virtue but does so without any understanding of how such chastity fits into the fulfilled life of a fully virtuous human being and a fully virtuous community will be open to the criticism that such behaviors and virtues are prohibiting a whole range of pleasurable activities.
+
+In this section I shall present three objections from teleology that are especially problematic for MacIntyre's narrative. The first objection regarding teleology is to deny MacIntyre's historical narrative. Oakes above eloquently summarized MacIntyre's criticism of  the loss of telos in modern moral philosophy, natural science, psychology, and ethics. But perhaps modern moral philosophy is not so anti-teleological as all that. Kant's categorical imperative, much vaunted for its austere duty for the sake of duty, is actually aimed at perfection.[@ward1971kant] Keith Ward argued with some impatience almost 40 years ago (10 years before *After Virtue*'s first edition) that Kant should not be interpreted as commending duty as some abstract, context-free obligation. He says: 
+
+>Kant's position is not merely that one must conceive oneself as setting up a purposive order of Nature, according to universal laws, as though one could arbitrarily choose anything whatsoever as one's purpose. One can see this if one takes Kant's list of examples of moral duties in the *Metaphysic of Morals* [sic]. Masturbation is against the *purposes of Nature*, in forming the sexual organs; suicide contravenes *Nature's purpose* in establishing self-love in order to preserve life... Finally, "holiness of will" must be pursued, as this expresses the absolute worth of the human person, in its freedom from sensuous impulses and its transcendence of Nature.[@ward1971kant 341] 
+
+These quotes from the allegedly dour-faced deontologist certainly sound awfully similar to Aristotle (not to mention St. Paul). Along similar lines, Kantian ethicist David Cummiskey has argued that Kant can be understood as a consequentialist of sorts.[@cummiskey1996kantian] The proposal is that Kant's *justification* for moral normative principles was a brute, formal, categorical imperative, but the *content* of such normative principles included agents and the goods they aim to attain. Happiness can be valued as an imperfect duty, though rational agency must be valued as a perfect duty. Without entering into all the interesting details at this juncture, the thought is that perhaps a (thoroughly modern) moral philosophy like deontology can be synthesized with natural teleology. 
+
+The other putatively modern moral philosophy that comes in for criticism for MacIntyre, Anscombe, et. al., is Mill's utilitarianism. But isn't consequentialism teleological in the proper sense of telos. Clearly, consequences are *ends* of actions -- I go to work *in order to* earn a paycheck at the end of the month; the consequence (my paycheck) is the goal or purpose or point of the action (going to work). For consequentialism, the great intrinsic value is happiness, or pleasure. On the surface, this sounds like a kind of Aristotelian eudaimonism. But Aristotle's eudaimonia is the necessary end of all action and all practical reasoning. The proof that we pursue eudaimonia (something vague) is as robust as the proof that we pursue *anything at all*.[@aristotle Book I.1] Similarly, all that Mill can say to the enquirer who wants to hear about *why* happiness is desirable is that people desire it.[@mill chapter 4. *Of what sort of Proof the Principle of Utility is Susceptible*. He says, "The only proof capable of being given that an object is visible, is that people actually see it. The only proof that a sound is audible, is that people hear it: and so of the other sources of our experience. In like manner, I apprehend, the sole evidence it is possible to produce that anything is desirable, is that people do actually desire it. If the end which the utilitarian doctrine proposes to itself were not, in theory and in practice, acknowledged to be an end, nothing could ever convince any person that it was so. No reason can be given why the general happiness is desirable, except that each person, so far as he believes it to be attainable, desires his own happiness."] So perhaps virtue ethics can be synthesized with consequentialism. 
+
+A second objection regarding teleology grants MacIntyre's pessimistic narrative. Ethics can get along well enough without intrinsic *teloi*. We cannot accept natural teleology since this notion has been exorcised from natural science (and from all rational philosophy) by Darwin and Newton. Bernard Williams summarizes this feeling well: 
+
+>It seems to me that a correct understanding of evolution is relevant to projects of this kind, but that the effect of that understanding is largely discouraging to them... the idea of a naturalistic ethics was born of a deeply teleological outlook, and its best expression, in many ways, is to be found in Aristotle's philosophy, a philosophy according to which there is inherent in each natural kind of thing an appropriate way for things of that kind to behave... The first and hardest lesson of Darwinism, that there is no such teleology at all, and that there is no orchestral score provided from anywhere according to which human beings have a special part to play, still has to find its way fully into ethical thought.[@williams1995making]
+
+Williams' objection is a general objection from metaphysical naturalism to *any* form of naturalistic ethics. Rosalind Hursthouse says that, "From early on, Williams has expressed pessimism about the project of Aristotelian naturalism on the grounds that Aristotle's conception of nature, and thereby human nature, was normative, and that, in a scientific age, this is not a conception that we can take on board."[@hursthouse1998virtue 256] His objection is ostensibly against the notion of natural teleology but also against a realist notion of human nature as well. If humanity as it is today is a more or less jumbled "bricolage" of adaptive parts, it is hardly a secure enough entity to ground ethical obligations. 
+
+Thankfully, morality can function without it. The moral law *by itself* guides or forms our actions without a natural telos performing that function. For example, Christine Korsgaard [@korsgaard1996sources] builds a case that human autonomy -- the ability to be a law to oneself -- is the source of normative authority. How does this work? My own identity as a human being obligates me to behave morally. She argues that "autonomy is the source of obligation" and that "we have *moral* obligations... to humanity as such."[@korsgaard1996sources 93] Because I am self-reflective, I am accountable for what I do. Also because I am self-reflective, I have a self-conception. She says the "thinking self" regulates the "acting self." Korsgaard's notion of practical identity is that we assume identities such as human being, child, parent, teacher, etc. Each identity is functional; it grounds obligations. If I am really to be a teacher, I must show up for class. If I really am to be a parent, I must feed and educate my child. Practical identities may be more or less contingent. All of us are children; not all of us educators. At least one practical identity is necessary. That is our practical identity *as humans*. Humans "need to have practical conceptions of our identity in order to act and live."[@korsgaard1996sources 106] The fact is, we do act and live. Therefore we do have a moral identity. Put another way, she says: “Rational action is possible only if human beings find their own humanity to be valuable.”[@korsgaard1996sources 106] The moral identity is one in which I take up a viewpoint as a member of the "Kingdom of Ends", the community of those who also have a moral identity. So the moral law delivers content-full moral duties derived from my own autonomously legislated rules prescribed by my valuing humanity; these rules are not teleological in that they require any future fulfillment of an end to validate them. 
+
+The point of these objections is to push back on MacIntyre's narrative in which our modern liberal tradition excised telos. Either we did not do so, or (even if we did) we could get along without it. 
+
+These three objections -- about relativism, tradition-constituted rationality, and teleology -- are some of the most telling against MacIntyre's theory. In the discussion section I shall attempt to answer each one. 
+
+>It has often been suggested -- by J. L. Austin, for example -- that either we can admit the existence of rival and contingently incompatible goods which make incompatible claims to our practical allegiance or we can believe in some determinate conception of the good life for man, but that these are mutually exclusive alternatives. No one can consistently hold both these views. What this contention is blind to is that there may be better or worse ways for individuals to live through the tragic confrontation of good with good. And that to know what the good life for man is may require knowing what are the better and what are the worse ways of living in and through such situations. Nothing a priori rules out this possibility; and this suggests that within a view such as Austin's there is concealed an unacknowledged empirical premise about the character of tragic situations.[@macintyre1984after 223-4]
+
+
+
+### Telos is needed ###
+
+One objection above stated that telos is indeed a necessary part of morality, but that it can be found in modern morality, for instance, in Kantian or consequentialist morality. If the sense of teleology we are using here is merely social and not natural, then MacIntyre would respond, "so much the better for Kant." Moral rules are unintelligible without an understanding of the *internal* or *necessary* relation between some actions and some outcomes. Kant himself, perhaps, understood this better than many of his contemporary readers give him credit. 
+
+
+### Telos is not needed ###
+
+Consequentialism, however, cannot be made to be "teleological" in the Aristotelian or the MacIntyrean sense. The first reason is that, For Mill, happiness is something too specific: pleasure, or freedom from pain. He offers precious little justification for this. Mill's definition of happiness cannot be that thing we all necessarily pursue whenever we act, because then moral rules (guiding us toward the happiness of the greatest number) would be unnecessary. We would all, already, pursue happiness. 
+
+The second reason is more important: The reason is that Mill and others define "consequences" so as to be always contingent. Mill, like Moore, sees the relation between the end (happiness) and the means (actions that bring about happiness) as statistical, contingent, and probable. There is no internal relation between some actions (such as virtues) and the proper end of human life.
+
+Take as a few examples this statement from G.E. Moore: 
+
+>What ought we to do?  The answering of this question constitutes the third great division of ethical enquiry; and its nature was briefly explained in Chap. I (§§ 15—17). It introduces into Ethics, as was there pointed out, an entirely new question—the question what things are related as *causes* to that which is good in itself; and this question can only be answered by an entirely new method—the method of empirical investigation; by means of which causes are discovered in the other sciences. *To ask what kind of actions we ought to perform, or what kind of conduct is right, is to ask what kind of effects such action and conduct will produce.* Not a single question in practical Ethics can be answered except by a causal generalization. All such questions do, indeed, also involve an ethical judgment proper—the judgment that certain effects are better, in themselves, than others. But they do assert that these better things are effects—are causally connected with the actions in question. Every judgment in practical Ethics may be reduced to the form: This is a cause of that good thing.[@moore Chapter 5, Section 89, my emphasis.]
+
+Moore is explicit here that there are no acts that have intrinsic value (qua duty or qua virtuous deed); acts only have value insofar as they cause good effects. This good effects are, for Moore, aesthetic enjoyments, knowledge, and friendships.[@moore Chapter 6.] 
+
+I said above that the refusal to treat the means/end distinction as clean and absolute is liable to cause his critics to misunderstand his position. Charles Taylor endorses the notion that “the place accorded the virtues [is] a kind of litmus test for discriminating Aristotelian from modern ethical theory.”[@taylor 25] He explains this feature of modern moral theories:
+
+>...They cannot abide this kind of relation, in which one element is both cause and constituent of another. It is a central demand of one influential construal of modern reason that one clearly sort out means from ends. For utilitarians, the good is happiness, and virtues can only be good instrumentally... If the basic point of morality is to do the right actions, then the virtues must be seen as purely executive. They cannot also be seen as part of the end, because the end is not defined that way.[@taylor 25] 
+
+What could this mean? Behind the means/end distinction is a peculiarly modern assumption that formal and final causes are either not related or not *necessarily* related. But the assumption is unreasonable. Exercise *causes* (efficient causes) health; but it is partly constitutive of health. In other words, exercise *causes* (formal causes) health.  The relation between a formal cause and a final cause is an internal, natural, and necessary relation. In biology, the distinction between form and function is a real one but the two are related.^[@huneman2006naturalising. Huneman summarizes the "two poles" in the history of biology: "the concept of form and the concept of function." For Huneman, anatomy studies form and physiology studies function. He explains how Kant understood both poles and tried to give due weight to the mechanistic understanding of organisms *and* to the distinctive features of organic life. Humean, Kant, and evolutionary biologists are obliged to explain both form and function as real without reducing one to the other.] The relation between the species *gorilla gorilla* as instantiated in an infant gorilla and a fully grown, mature one is an internal and natural and (given the proper circumstances) a necessary relation. To deny that there are formal causes, or to deny that there are final causes, is simply to beg the question against teleological ethics. 
+
+For these reasons, consequentialism of the typical sort that *reduces* the question of what actions, rules, or character traits are good to a question that cannot "be answered except by a causal generalization" is not teleological in the required sense. The character traits that tend to bring about happiness must also be, in a sense, pre-payments on that happiness. 
+
+
+### Section conclusion ###
+
+In sum, the rebuttal of the “no teleology objection" is that the sort of teleology we need is defensible: social teleology. Social teleology does not *necessarily* offend against Darwinian biology, evolutionary psychology, or metaphysical naturalism, but can (and must) be accommodated by them. Furthermore, Kantian philosophy may be able to accommodate social teleology, and so would escape the brunt of MacIntyre's criticism laid out in his narrative. On the other hand, the rebuttal of consequentialism, is that it has not often been taken to allow for a necessary relation between some means and their ends. Virtuous action both *causes* and *partly constitutes* virtuous character. Virtuous character traits both *cause* and *partly constitute* the kind of achievement of our human telos that makes life worth living. 
+
+
+## Toner
+
 
 Toner attempts to draw out the distinction between the kinds of naturalism.[@toner2008sorts] Toner agrees with Hursthouse that the term 'Aristotelian naturalism' "implies that human nature is normative, such that to be morally good is to fulfill one's nature."[@toner2008sorts 221.] McDowell too believe that it is possible to "formulate a conception of reason that is, in one sense, naturalistic: a formed state of practical reason is one's second nature, not something that dictates to one's nature from outside."[@mcdowell1998two] 
 
@@ -332,3 +387,33 @@ But what sort of thing is this universal human nature to be, if we are to avoid 
 >Although I have tried to anticipate and turn aside some important objections, whether the MacIntyrean sort of naturalism is acceptable ultimately depends on answers to some rather large questions involving the nature of rationality (for example, whether it is tradition-constituted in something like the way MacIntyre says), moral psychology (for example, whether McDowell and MacIntyre are right in rejecting the ‘‘hydraulic’’ psychology of neo-Humeans like Arnhart), and even metaphysics (for example, whether and how moral philosophy is related to theology). But such interdependences are what we must expect for an ethic purporting to be based on a true understanding of human nature. 
 
 In a later chapter, I shall take up one of Toner’s challenges: to defend a notion of practical reason as importantly constituted by “tradition” — that is, by particular cultural methods, facts, doctrines, and emphases transmitted within a particular people group over time. 
+
+
+## My view
+
+
+
+### Rational: Language User, Social, Practical
+
+Our language is unique. Other animals that communicate use non-grammatical closed systems with a small, finite set of symbols.^[Communication systems used by other animals such as bees or apes are closed systems that consist of a finite, usually very limited, number of possible ideas that can be expressed. In contrast, human language is open-ended and productive, meaning that it allows humans to produce a vast range of utterances from a finite set of elements, and to create new words and sentences.''
+
+I would add to this formulation that we are *practical*, rational animals. That is, we do not just act but act on reasons. Micah Lott says: "Human form is characterized by practical reason. This is the capacity to act in light of an awareness of the ground of our actions, to recognize and respond to practical reasons."[@lott2012moral] We set goals and act in order to achieve goals. In the unity of reason between theoretical and practical that I shall ground both moral and intellectual virtue. All the acts of reason (whether theoretical or practical) are acts of *reason.* (I shall pick up the theme of practical rationality in a later chapter.) 
+
+I must hasten to add that "humans are practical, rational animals" is a generic. It admits of exceptions. Anacephalic babies are not even potentially rational, for they lack the subvenient brain structure necessary for rational consciousness, yet they are recognizably *human* (they are not opossums), just defectively so. (A war veterans is still human even if he or she is no longer bipedal!) Injury, illness, genetic defect, radiation poisoning, and any number of other negative factors may render a human being sub-rational. Coma, mental illness, and other factors may render a human being non-practical (unable to direct his or her own life to a normal degree). The point of the argument above was that generic truths about humans inform us about the lifeform of the species. 
+
+Furthermore, Aristotle observed that, "Man alone of the animals possesses speech." (Politics*, 1.1253a) Nothing in modern science has superceded or contradicted this.
+
+Someone might be wondering: What does all of this have to do with virtue? Peter Geach says “Men need virtues as bees need stings."[@geach1977virtues 17] Philippa Foot echoes Geach's statement about "need" and "necessity" as well. Alasdair MacIntyre subtitled his most recent monograph: "human beings need the virtues."[@macintyre1999dependent] The kind of necessity being predicated here is the same kind of necessity with which a bee needs a sting. It is a formal and teleological necessity. Virtues are those qualities needed by us as members of the human species, each member of which exemplifies the same human nature of being a potentially practical, rational animals. 
+
+
+
+### Old
+
+By calling humans 'natural' here I only wish to present an innocent truism: we are here, in nature. We are material. Not necessarily *wholly* material, but are we *at least* material at all? Yes. Do we eat food grown on earth, drink water from the earth, are we born from fellow humans and do we die and disintegrate into the earth like every other living thing? Yes. So we are natural. Again, I do not mean to prejudge the question of whether we are *also more than natural*. I simply mean to invoke the obvious that the *we are at least natural*. Since we are (at least) natural entities, and since scientific statements are about natural entities, then it is possible (and indeed quite common) to make scientific statements about us. 'Humans emigrated from Africa about 200,000 years ago' is a statement about a natural species group, namely *homo sapiens sapiens*, the only extant members of the hominin clade. 
+
+
+
+
+*"The human virtues make their possessor good qua human being, one who is as ordinarily well fitted as a human being can be in not merely physical respects to live well, to flourish—in a characteristically human way."*\
+
+--Rosalind Hursthouse, *On Virtue Ethics*, 208. \
