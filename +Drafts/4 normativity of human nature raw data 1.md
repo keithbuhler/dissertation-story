@@ -1,5 +1,5 @@
 
-# Human Nature: Virtues as Necessary Traits for Rational Animals
+# Human Nature: Necessary Traits for Rational Animals
 
 **Quotation** *"Man alone of the animals possesses speech."* (Aristotle, *Politics*, 1.1253a)
 
@@ -18,10 +18,6 @@ So let us apply the conceptual structure we outlined in the previous chapter to 
 
 
 ### Initial Objections: No Human Nature; Human nature is a mess? 
-
-One worry mentioned above is that human nature is a mess. Bernard Williams expresses the worry that human nature is an "ill-sorted bricolage of powers and instincts": 
-
->The second and more general reason lies not in the particular ways in which human beings may have evolved, but simply in the fact that they have evolved, and by natural selection. The idea of a naturalistic ethics was born of a deeply teleological outlook, and its best expression, in many ways, is still to be found in Aristotle's philosophy, a philosophy according to which there is inherent in each natural kind of thing an appropriate way for things of that kind to behave. On that view it must be the deepest desire—need?—purpose?—satisfaction?—of human beings to live in the way that is in this objective sense appropriate to them (the fact that modern words break up into these alternatives expresses the modern break‐up of Aristotle's view). Other naturalistic views, Marxist and some which indeed call themselves ‘evolutionary’, have often proclaimed themselves free from any such picture, but it is basically very hard for them to avoid some appeal to an implicit teleology, an order in relation to which there could be an existence which would satisfy all the most basic human needs at once. The first and hardest lesson of Darwinism, that there is no such teleology at all, and that there is no orchestral score provided from anywhere according to which human beings have a special part to play, still has to find its way into ethical thought.[@williams2011ethics 44]
 
 The response of Hursthouse, Foot, Brown, and Nagel, is that natural teleology is indeed compatible with Darwinism and does indeed provide a "an appropriate way to behave" (or we might add, *ways*) that is "inherent in each natural kind of thing." Natural teleology is only incompatible with a teleological nihilism distinctive of (certain brands) of metaphysical reductionism.  Strictly speaking, evolutionary theory may be summarized in five theses explaining the current multiplicity and shape of terrestrial life.[Cf. @plantinga2011conflict 8-9. 1. The earth is very old; 2. Life has progressed from relatively simple to relatively complex forms; 3. Through slow and gradual changes, all the modern forms of live have appeared; 4. All of life originated from one original place and species; 5. Some mechanism such as natural selection drives the process of descent with modification. ] Each separately and all together they explain biological processes of genetic mutation, reproduction, preservation, and proliferation. A sixth, not *necessarily* related  Strictly speaking, about teleology, it says absolutely nothing.[Cf. @plantinga2011conflict 8-10. A sixth thesis, often appended to the first five, is that the process of natural selection is unguided. But regardless of its popularity among biologists this is, strictly speaking, a philosophical claim, not a biological one.] As for those brands of metaphysical reductionism that are incompatible with natural teleology, if our knowledge of natural teleology is well-grounded enough then so much the worse for metaphysical reductionism. 
 
