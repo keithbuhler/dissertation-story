@@ -1,6 +1,14 @@
-
-
 # Conclusions: Virtue, Reason, Telos
+
+
+"To be precise is to make it as easy as possible for others to prove one wrong." \
+
+-- Timothy Williamson \
+
+"It's all very well to talk of clarity, but when it becomes an obsession it is liable to nip living thought in the bud." \
+
+--Friedrich Waismann, *"How I see Philosophy"*, 16. \
+
 
 ## Introduction: Where we go from here
 

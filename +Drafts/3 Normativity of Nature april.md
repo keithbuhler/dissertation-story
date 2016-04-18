@@ -5,14 +5,13 @@
 --Mark Perlman, "The Modern Resurrection of Teleology in Biology", 6. \
 
 
+### Is-Ought Gap
 
-### Introduction
+Rosalind Hursthouse argues that ethical evaluations (of humans) and non-ethical evaluations (of plants and animals) "both depend upon our identifying what is characteristic of the species in question."[@hursthouse1998virtue chapter 10, abstract.] In other words, *normative* evaluations depend on *descriptive* facts about a species. If true, this notion would be momentous: "is" statements would underwrite "ought" statements. 
 
-This chapter addresses and challenges the widespread prejudice against scientific teleology. I invoke the help of sciences -- especially life sciences such as biology and medicine -- which teach that teleological nihilism and teleoreductionism are by no means "*the* scientific doctrines". Rather, if teleological realism is a scientifically respectable position, then nature is normative. And if nature is normative, it is at least possible that *human nature* is normative, even though humans are a unique kind of animal. 
+This chapter addresses and challenges the widespread prejudice against scientific teleology. I invoke the help of sciences -- especially life sciences such as biology and medicine -- which indicate that teleological nihilism and teleoreductionism are by no means "*the* scientific doctrines". Rather, if teleological realism is a scientifically respectable position, then nature is normative. And if nature is normative, it is at least possible that *human nature* is normative, even though humans are a unique kind of animal. 
 
-### The Is-Ought Gap 
-
-Rosalind Hursthouse argues that ethical evaluations (of humans) and non-ethical evaluations (of plants and animals) "both depend upon our identifying what is characteristic of the species in question."[@hursthouse1998virtue chapter 10, abstract.] In other words, *normative* evaluations depend on *descriptive* facts about a species. If true, this notion would be momentous: "is" statements would underwrite "ought" statements. The notion that natural, descriptive propositions can serve as premises in arguments with normative conclusions is central to the project of ethical naturalism.  But many have posed an obvious challenge to this notion. We can put the challenge in this form: 
+The notion that natural, descriptive propositions can serve as premises in arguments with normative conclusions is central to the project of ethical naturalism. Is this notion even intelligible? Many have posed an obvious challenge to this notion. We can put the challenge in this form: 
 
 
 **Is-Ought Gap Challenge**
@@ -41,21 +40,16 @@ This challenge parallels the first one in that everything depends on the second 
 
 The candidates for natural normative facts I shall defend are natural formal and functional or teleological properties of organisms. Hursthouse, Philippa Foot, John McDowell, MacIntyre, and Stephen Brown are united in the thought that some natural formal or teleological facts -- whether that is Hursthouse's "characteristic", or a "life-form"^[@thompson2008life, 57] or "form of life"[@mcdowell1979virtue 339], or "human nature" -- are inherently normative. Rather than "bridging" the gap between "is" and "ought", they defy the opposition. 
 
-
-
 ## Teleology as Solution
 
-
 Although the neo-Aristotelians are united in the affirmation that some natural norms can serve as a grounding for ethical facts, there are two or three competing strategies as to which "norms" are up to the task. The strategies go under many names.^[Annas distinguishes two sorts of naturalism, one that emphasizes the biological nature of humanity (at the expense of the odd normativity of reason) and another that emphasizes the rational nature of humanity (at the expense of the mundane descriptivity of biology). Christopher Toner distinguishes between the “biological naturalism” of Thompson and Foot (and later MacIntyre) from the “second naturalism” or “excellence naturalism” or ‘culturalism’ of McDowell and (early) MacIntyre, each of which has its strengths and problems. Cf. @mcdowell1998two; @fink; @toner2008sorts; Julia Annas, "Virtue Ethics: What Kind of Naturalism?" in @gardiner2005virtue.] 
-
 
 ### Biology or Rationality?
 
 The basic difference is between those who discover natural normativity in *human nature* -- culture, or rationality, or practical agency -- and those who hope to find natural normativity more generally in all organic life. As Thomas Nagel puts it, with the existence of life in the cosmos arises the existence of "beings of the kind.. for which things can be good or bad."[@nagel2012mind, 117.]  (The third group defends the view that natural normativity is intrinsic to the whole cosmos.) Let's examine each one a bit more.^[Though I shall not pursue it, I should at least mention the most ambitious and most risky sort of strategy: to defend the view that *all* of nature is teleological. But it is the notion that everything -- including stars and rocks -- "has a purpose", as if the cosmos were somehow organized and *going somewhere*. Call this Cosmic Teleology. Though such natural normativity in the form of natural teleology has its recent defenders. For atheistic version of cosmic teleology, see @nagel2012mind; for non-human centered versions see @leslie1996universes and @mulgan2015purpose. For Thomistic versions, cf. @feser2009aquinas; and @kreeft2012.]
 
-
-
 ### Social Teleology: the Normativity of Human Nature 
+
 The second option is the normative notion of humanity. On this option, something about humanity is naturally and inherently teleological. For example, perhaps one of the natural functions of rationality is to construct goals for itself and legislate laws for itself.[Compare with @korsgaard1996sources. Korsgaard's argument about the "Authority of Reflection"  builds a case that human autonomy -- the ability to be a law to oneself -- is the source of normative authority. In other words, my own identity as a rational human agent obligates me to behave morally.] On this view, ethical conclusions are irreducibly based upon human facts such as human rationality, human culture, or human excellence. Since these human facts are contrasted with broader natural facts, call this view "Social" or "Rational" or "Practical Teleology".[Cf. @farreira2011reasons. Ferreira calls this "excellence naturalism" as opposed.]  Pretty clearly, human cognitive and and practical behaviors are inherently end-directed or teleological: John goes to the gym *in order to get fit for his film role*; Jane practices her speech *to win the Iowa primary*. Humans *act on reasons* and in pursuit of ends.^[The teleological nihilism (of say, hardcore determinists) says that not even human practices are teleological. There are no "purposes" or natural ends anywhere in the world *including* in human actions. Even our practices, behaviors, and lives are purposeless, even to ourselves. I discuss teleological nihilism below. Cf. @dennett1995darwin.] This kind of social or rational teleology is certainly the safer of the two strategies, and is followed by McDowell, Hursthouse, and the early MacIntyre.^[Hursthouse appears to me to affirm both Foot's sort of naturalism and McDowell's. Jennifer Frey observes this as well: "On this issue, Hursthouse seems to be speaking out of both sides of her mouth. She wants to acknowledge to Aristotelian critics like John McDowell that naturalistic considerations do not convince anyone to change their basic moral beliefs or motivate them to action. But at the same time, she thinks that she can approach the Humean or the Kantian and argue for “the rational credentials” of our moral beliefs based upon a “scientific” and “objective” naturalistic account. It is unclear how she is supposed to satisfy both parties at once, and the tension remains unresolved in her own work." Cf. @frey 44, footnote 55.] 
 
 Alasdair MacIntyre's position on natural normativity has shifted over the decades. I would like to mention both his earlier view (defending social teleology), which is closer to that of McDowell than that of Foot. 
@@ -67,8 +61,9 @@ The notion of social teleology builds on the apparently obvious truth that *huma
 
 ### Natural Teleology
 
-The second strategy is more ambitious and more risky. It is to defend the view that other parts of nature (such as living creatures) are naturally and inherently teleological.  For example, perhaps one of the functions of *being alive at all* is that plants and animals act to survive and perform whatever instinctual actions are necessary for them to grow and develop into the state of species-specific maturity. At least some natural entities -- living organisms -- have ineliminable, irreducible, normative properties. Call this view Natural Teleology. Natural Teleology is the preferred strategy of Foot, Thompson, and the later MacIntyre. It seems to have won over Annas, Brown, and Barham, and a host of other biological scientists.[@ward1971kant; @arnhart1988; @johnson2005; @huneman2006naturalising; @leunissen2010explanation. For a detailed exposition of the full menu of philosophical options, cf.@perlman2004teleology.]]
+The second strategy is more ambitious and more risky. It is to defend the view that other parts of nature (such as living creatures) are naturally and inherently teleological.  For example, perhaps one of the functions of *being alive at all* is that plants, animals, insects, and microbes perform whatever movements are necessary for them to survive, grow, and develop into the state of species-specific maturity. And not just animals, but all organic life: "Molecular biology shows that all organic cellular life share a common feature, self-reproduction through gene/protein protein cycles."[@mautner2009life]
 
+Hence, at least some natural entities -- that is, all living organisms -- have ineliminable, irreducible, normative properties. Call this view Natural Teleology. Natural Teleology is the preferred strategy of Foot, Thompson, and the later MacIntyre. It seems to have won over Annas, Brown, and Barham, and a host of other biological scientists.[@ward1971kant; @arnhart1988; @johnson2005; @huneman2006naturalising; @leunissen2010explanation. For a detailed exposition of the full menu of philosophical options, cf.@perlman2004teleology.]]
 
 
 
@@ -94,8 +89,7 @@ A second, related, objection is that if there is such thing as "human nature", i
 
 On Lewins' view, the only scientific talk about our "nature" is an indetermiante series of complicated stories about our genetics, evolutionary history, and neurophysiology, perhaps even including cultural, geographical, and ecological settings. The problem, of course, is that an empirical "scientific" conception of human nature has nothing to do with *ethics*. All of the complicated stories we could tell -- if they are genuinely scientific -- would be purely *descriptive*. In response to this worry, Rosalind Hursthouse's response is to reassure us that: "Ethical naturalism is not to be construed as the attempt to ground ethical evaluations in a scientific account of human nature."[@hursthouse1998virtue especially chapter 10] Nevertheless, she *does* endorse the project of grounding ethical evaluations in human nature. If this grounding is not *scientific*, then how is a grounding of ethics going to work? 
 
-
-###Bald Nature Objection
+### Bald Nature Objection
 
 I shall return to the problems regarding a normative conception of human nature in a later chapter. Here I must address the objections to the Organic or Natural Teleology strategy. This second strategy has its own, even bigger, problems; not even all the neo-Aristotelians are optimistic about the strategy of grounding human ethics in natural normativity. 
 
@@ -103,12 +97,12 @@ Even if natural normativity in the form of teleology in the non-human world *cou
 
 
 ## An Initial Case for Natural Normativity
+
 So what are we to make of these challenges? I shall respond to the Bald Nature Objection. 
 
 On the one hand, I think both strategies (social teleology and natural teleology) would work, and wish to defend them against ethical non-naturalists or ethical naturalists of different sorts.^[Such as functionalists and the Cornell realists just mentioned.] On the other hand, I think natural teleology is the stronger of the two and is less subject to objections from cultural relativism. Hence, in the spirit of devil-may-care adventure seeking, I shall pursue the more ambitious strategy of defending natural normativity in all of organic nature, not just human beings. 
 
 However, in a later chapter I will more thoroughly examine the notion human (and only human) teleology is the source of natural normativity. (In the end, I do not think these two notions of normativity are *contradictory*. A "third type" of naturalism could even perhaps combine them.)^[@fink. The criteria for this third sort of naturalism are sketched brilliantly by @toner2008sorts. Such third kind of naturalistic theory would be comprehensive. It would provide an anti-dualistic account of first nature and "second nature", of biology and culture, of animality and rationality. But more of these things later.] To those for whom the concept of natural teleology might have been completely unpalettable, I hope to render it not only conceivable but plausible. For those who do not find it plausible, human teleology is a kind of fail-safe. The facts of social or practical teleology are enough to ground the theory of virtue I develop in a later chapter. Although I feel confident that social teleology is a sufficient ground for ethics, I shall caution that the cost of rejecting natural teleology is an incorrigible cultural relativism: While objective morality may be realized intersubjectively, intersubjective morality is not objective.
-
 
 For now,  I shall pursue the strategy according to which natural normativity in the form of natural teleology is sufficient to ground a theory of ethics in observations about human nature as practical, rational animals.[@arnhart1988] This is to defend the Foot/Thompson strategy of Natural Teleology as preferable over McDowell's strategy of Social or Practical Teleology. In doing so, I shall summarize and bolster her arguments, offering a more rigorous argument for the fundamental premise that some natural facts are brutely normative, teleological facts. 
 
