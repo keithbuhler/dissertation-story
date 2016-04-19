@@ -217,9 +217,9 @@ While we shall pick up MacIntyre's highly contentious concept of tradition in a 
 
 ### Tradition-constituted rationality objections 
 
-One family of objections pertain to the way MacIntyre's ethical theory appeals to tradition-constituted rationality. 
+One family of objections pertain to the way MacIntyre's ethical theory appeals to tradition-constituted rationality. MacIntyre argues that we should return to the Aristotelian tradition of virtue and practical reason. 
 
-MacIntyre argues that we should return to the Aristotelian tradition of virtue and practical reason. We must beware one misunderstanding. Any talk of “returning” is liable to sound nostalgic. At the risk of sounding paradoxical, we might put it this way: MacIntyre's positive ethical positions are *traditional* but not *nostalgic.* In fact, his definition of tradition is *progressive*.  Tradition is an ongoing, socially-embedded argument over time, which necessarily entails that moral enquiry is dynamic -- even *modern*. To be traditional is not to be past-oriented; to be traditional is to be staunchly future-oriented, since the business of life is not only the pursuit of our telos but the transmission of everything valuable and precious to the next generation. 
+We must beware one misunderstanding. Any talk of “returning” is liable to sound nostalgic. At the risk of sounding paradoxical, we might put it this way: MacIntyre's positive ethical positions are *traditional* but not *nostalgic.* In fact, his definition of tradition is *progressive*.  Tradition is an ongoing, socially-embedded argument over time, which necessarily entails that moral enquiry is dynamic -- even *modern*. To be traditional is not to be past-oriented; to be traditional is to be staunchly future-oriented, since the business of life is not only the pursuit of our telos but the transmission of everything valuable and precious to the next generation. 
 
 One critic who misunderstands MacIntyre along these lines is Martha Nussbaum.[@nussbaum1989recoiling] She begins her review of *Whose Justice? Which Rationality?* with an age-old dilemma between the social stability afforded by tradition (with its danger of hidebound error) and the social volatility endemic to critical reflection (with its opportunity of progress toward truth). She alludes to this dilemma as articulated by Aristotle: 
 
@@ -227,25 +227,25 @@ One critic who misunderstands MacIntyre along these lines is Martha Nussbaum.[@n
 
 Aristotle’s solution is that it should be *hard but not impossible* to change societal structures. Of course, we don’t have to pick just one or the other. But one necessary feature of every society is a particular level of difficulty in making social changes. Should one err on the side of difficulty or ease? 
 
-Putting it starkly, of the two it is better to gamble for progress toward truth at the risk of instability than to gamble for stability at the risk hidebound error. Strangely, Nussbaum takes MacIntyre to be reversing Aristotle’s balance. She thinks MacIntyre is urging for betting on social stability even if it means sticking closer to existing tradition (and hence surpassing or intentionally avoiding critical reflection) than is compatible with unfettered progress.  
-
-This is not an objection to MacIntyre — it is a misreading. He rejects fideism and this kind of conservative traditionalism. MacIntyre sides with Aristotle, in my view, that the risk of complacent error is greater than the risk of instability. For hidebound error is likely to perpetuate itself across generations, while the instability arising from a cacophony of disagreement is likely to be short-lived. Nussbaum does not see that MacIntyre's proposed solution is not a sort of *anti-progressive* longing for the past. It is radically progressive.  His solution is not to reverse progress but to replace the Enlightenment's standard of progress with a more tenable alternative. 
-
-MacIntyre anticipates this misreading of his theory. He says:
-
->We are apt to be misled here by the ideological uses to which the concept of a tradition has been put by conservative political theorists. Characteristically such theorists have followed Burke in contrasting tradition with reason and the stability of tradition with conflict. Both contrasts obfuscate.[@macintyre1984after 222]
-
-In short, tradition cannot be a name for the impulse to resist change or to fear political tension and turmoil. Quite the contrary: political tensions of a particular character and expression are intrinsic to MacIntyre tradition. As he defines tradition, the internal conflict about the "goods which constitute that tradition" is a necessary feature.
-
-Ironically, it appears to me that Nussbaum is too conservative in her defense of the Enlightenment's standard of progress; MacIntyre is the progressive here. Rather than accusing MacIntyre of being too conservative, Nussbaum should focus on his critique of the Enlightenment. MacIntyre's critique may be wrong, but it is with that critique that she should take issue. She should not accuse him of failing to "make progress... [in] arts and sciences" but of "tampering with what is working well." MacIntyre's theory of rationality may be wrong, but it is not wrong along the lines that Nussbaum attacks. 
-
-### Not rival to rationality
+Putting it starkly, of the two it is better to gamble for progress toward truth at the risk of instability than to gamble for stability at the risk hidebound error. 
 
 Secondly, tradition is not rival to reason and critical reflection. Rather, one learns to reason -- to critically reflect -- within a MacIntyrean tradition. It is a truism that one learns one's first language within a culture. But it is equally true that one learns facts and methods of reasoning within a tradition, conceived as a community of thinkers who share not only a common tongue but common concepts and a repertoire of facts, beliefs, customs, etc. 
 
 So, rather than tradition being opposed to reason, tradition is the first source of our reasoning. And rather than tradition being opposed to critical reflection, tradition is the first source of the habit of critically reflecting. The very ability to expand the repertoire of facts or modify the methods of thinking depends upon the awareness that one inhabits a tradition. This awareness MacIntyre even elevates to the level of a virtue, saying it is "one whose importance is perhaps most obvious when it is least present." What is that virtue?
 
 >the virtue of having an adequate sense of the traditions to which one belongs or which confront one. This virtue is not to be confused with any form of conservative antiquarianism; I am not praising those who choose the conventional conservative role of *laudator temporis act*. It is rather the case that an adequate sense of tradition manifests itself in a grasp of those future possibilities which the past has made available to the present. Living traditions, just because they continue a not-yet-completed narrative, confront a future whose determinate and determinable character, so far as it possesses any, derives from the past.[@macintyre1984after 223]
+
+Strangely, Nussbaum takes MacIntyre to be reversing Aristotle’s balance. She thinks MacIntyre is urging for betting on social stability even if it means sticking closer to existing tradition (and hence surpassing or intentionally avoiding critical reflection) than is compatible with unfettered progress.  
+
+This is not an objection to MacIntyre — it is a misreading. MacIntyre explicitly rejects any kind of conservative traditionalism that amounts to fideistic belief in the rightness of one's own traidtion. Indeed, he anticipates this misreading of his theory. He says:
+
+>We are apt to be misled here by the ideological uses to which the concept of a tradition has been put by conservative political theorists. Characteristically such theorists have followed Burke in contrasting tradition with reason and the stability of tradition with conflict. Both contrasts obfuscate.[@macintyre1984after 222]
+
+In short, tradition cannot be a name for the impulse to resist change or to fear political tension and turmoil. Quite the contrary: political tensions of a particular character and expression are intrinsic to MacIntyre tradition. As he defines tradition, the internal conflict about the "goods which constitute that tradition" is a necessary feature.
+
+A more plausible interpretation of MacIntyre is to side with Aristotle that the risk of complacent error is greater than the risk of instability. For hidebound error is likely to perpetuate itself across generations, while the instability arising from a cacophony of disagreement is likely to be short-lived. 
+
+Nussbaum does not see that MacIntyre's proposed solution is not a sort of *anti-progressive* longing for the past. It is radically progressive.  His solution is not to reverse progress but to replace the Enlightenment's standard of progress with a more tenable alternative.  Ironically, it appears to me that Nussbaum is too conservative in her defense of the Enlightenment's standard of progress; MacIntyre is the progressive here. Rather than accusing MacIntyre of being too conservative, Nussbaum should focus on his critique of the Enlightenment. MacIntyre's critique may be wrong, but it is with that critique that she should take issue. She should not accuse him of failing to "make progress... [in] arts and sciences" but of "tampering with what is working well." MacIntyre's theory of rationality may be wrong, but it is not wrong along the lines that Nussbaum attacks. 
 
 
 ### Conclusion on Tradition

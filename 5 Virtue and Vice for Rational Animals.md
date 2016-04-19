@@ -16,7 +16,6 @@ Once acquired, traits dispose the mature practical rational animal to do well at
 In this chapter, I present my own synthesis. I shall defend the resulting synthesis against various objections. 
 
 
-
 ## Excellence and Imperfection
 
 Our prediction from the last chapter was that virtues would pertain to the three aspects of our nature identified in the generic: "humans are practical, rational animals." As animals we are inherently mortal, biological, beings whose life consists of a process of maturation, homeostatic maturity, aging, and death. Human being as rational *animals* by nature need to breathe, eat, sleep, and stay warm, deal with the urgings of our sexual nature, and so on. So our account of virtue will have to show how by reflection and deliberation, the virtuous person takes up his own biology and psychology into a space of reasons and construct a "pattern that, given the human situation, is likely to lead a good life."[@kekes1983wisdom 280] As practical, rational animals, we are inherently conscious and self-conscious beings who speak, interpret, and create in the context of a linguistic community such as a family, society, and culture. Although we are pushed about by our biological instincts and by social pressures, we do not *simply* stumble around through life, but, in general, also sometimes act on reasons. We deliberate about future actions, and reflect on past actions. The success of our actions is not guaranteed, and the reasonableness of our reasons is not guaranteed. So, we may tentatively hypothesize that the qualities that enable us to pursue our ends *well* would be excellent qualities. The practical, rational agents who consistently succeed at pursuing and achieving their ends would be models of virtue.  I shall have much more to say below about what ends people *have* or *ought to have* and about the indeterminate concept of a human telos.^[Eudaimonists believe our telos to be human flourishing or happiness. Others believe it is something else, such as genetic proliferation, the creation of the self, or what have you. We shall return to this in a later chapter] 
@@ -221,6 +220,17 @@ Beyond these, our definition of virtue is flexible enough to include a variety o
 
 ## Moderation and Tolerance
 
+Consider two test cases: moderation is one of the classical virtues. Is the specific content of this virtue compatible with, even supported by, my account thus far? 
+
+Begin with Aristotle's justly famous statement of virtue as a mean between extremes: 
+
+> Let us consider this, that it is the nature of such things to be destroyed by defect and excess, as we see in the case of strength and of health (for to gain light on things imperceptible we must use the evidence of sensible things); both excessive and defective exercise destroys the strength, and similarly drink or food which is above or below a certain amount destroys the health, while that which is proportionate both produces and increases and preserves it. So too is it, then, in the case of temperance and courage and the other virtues. For the man who flies from and fears everything and does not stand his ground against anything becomes a coward, and the man who fears nothing at all but goes to meet every danger becomes rash; and similarly the man who indulges in every pleasure and abstains from none becomes self-indulgent, while the man who shuns every pleasure, as boors do, becomes in a way insensible; temperance and courage, then, are destroyed by excess and defect, and preserved by the mean.[@aristotle *Nic. Ethics* Book II.2]
+
+(The first sentence appeals to a fact about "the nature of such things", presumably, the general features of living beings. This is Aristotle's positing of natural normativity.) To be immoderate is to eat or drink so much or so little that it destroy's one's health. Specifically, indulging in "every pleasure and abstaining from none" is a defective choice or defective habit for creatures like us. We can even venture, with the help of health science, a rough approximation of the number of calories (1700-2600) human beings formally need, and an ideal diet of the kinds of foods and drinks through which to intake those calories (variety of fresh fruits, vegetables, meats, fats, nuts, legumes, and so on). 
+
+Aristotle continues in the same section: 
+
+>We must take as a sign of states of character the pleasure or pain that ensues on acts; for the man who abstains from bodily pleasures and delights in this very fact is temperate, while the man who is annoyed at it is self-indulgent...
 
 
 

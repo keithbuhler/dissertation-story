@@ -1,4 +1,5 @@
-# Wisdom: Excellent Practical Reasoning
+
+# Wisdom: Virtue in Excellent, Practical, Rational Animals
 
 
 *“It is evident that it is impossible to be practically wise without being good.”* \
@@ -10,7 +11,11 @@
 -- T. S. Eliot, *The Rock*
 
 
-## Introduction
+
+
+
+## Wisdom: The Excellence of Practical Reasoning
+
 
 I have tried to show above the close connection of human nature to human excellence -- the connection of form to function. We *are* practical, rational animals by nature. The practical wise among us are *excellent* human beings. 
 
