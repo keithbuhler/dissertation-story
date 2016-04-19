@@ -1,25 +1,16 @@
 # Normativity of Human Nature: Philestine Scientism versus the Practical Point of View
 
-*"Human nature is normative, such that to be morally good is to fulﬁll one’s nature."* \
+*"Human nature is normative, such that to be morally good is to fulfill one’s nature."* \
 
 -- Chris Toner, "Sorts of Naturalism", 221. \ 
-
-*"The human alone of the animals possesses speech."* \
-
--- Aristotle, *Politics*, 1.1253a. \
-
-*"It was not man who made the myths but the myths, or the archetypal substance they reveal, which made man. We shall have to come, I am sure, to think of the archetypal element in myth in terms of the wind that breathed through the harp-strings of individual brains and nerves and fluids, rather as the blood still today pervades and sustains them."* \
-
---Owen Barfield, "The Harp and the Camera," in *The Rediscovery of Meaning and Other Essays*. \
 
 
 
 ## Human Generics
 
-Recall Hursthouse's earlier statement that ethical evaluations of *human beings* "depend upon our identifying what is characteristic of the species in question." It is clear that success of our endeavor depends on finding true generic propositions about 'the human being' qua natural kind. Is this a hopeful search? 
+Recall Hursthouse's earlier statement that ethical evaluations of *human beings* "depend upon our identifying what is characteristic of the species in question." It is now clear that the success of our endeavor depends on finding true generic propositions about 'the human being' qua natural kind. Is this a hopeful search? 
 
 It is. We reasonably assume that humans are natural entities importantly similar to animals, plants, and other living organisms, even though they are also importantly different in exhibiting features like language and society.^[By calling humans 'natural' here I only wish to present an innocent truism: we are here, in nature. We are material. Not necessarily *wholly* material, but we are *at least* material; we eat food grown on earth, drink water from the earth, are we born from fellow humans and do we die and disintegrate into the earth like every other living thing.] As natural entities, and since scientific statements are about natural entities, then it is possible (and indeed quite common) to make scientific statements about us, even though we exhibit differences from other natural entities. 
-
 
 Identifying those "differences" between humans and other natural entities is part of task. The desired generics cannot be *merely* descriptions of our genes, organ systems, 30 billion brain neurons, and so on. They must also capture what is ethical or potentially ethical about human beings as rational creatures. Hursthouse explains:
 
@@ -82,8 +73,8 @@ Mammals begin life as tiny cells and progress through gestation to infancy, matu
 However, the concept of 'rationality' is new. We use terms like 'reason' and ratio as abstractions to describe a set of capacities we notice in ourselves. For example, activities that get called 'rational' are activities such as to observe, perceive as, create, reflect, decide, determine, abstract, infer, explain, deduce, remember, predict, criticize, praise, blame, admonish, and so on. 
 
 #### Rationality  2
-What are our rational capacities? First, speech.[@deacon1998symbolic] Aristotle observed that, "Man alone of the animals possesses speech." Though other animals have speech and communication, nothing in modern science has superceded or contradicted the observation (obvious to anyone) that human speech is different. Other animals that communicate use non-grammatical closed systems with a small, finite set of symbols.^[Communication systems used by other animals such as bees or apes are closed systems that consist of a finite, usually very limited, number of possible ideas that can be expressed. In contrast, human language is open-ended and productive, meaning that it allows humans to produce a vast range of utterances from a finite set of elements, and to create new words and sentences.] Our language is unique: it is grammatical, open-ended, recursive, and productive. 
-
+What are our rational capacities? First, speech.[@deacon1998symbolic] Aristotle observed that, "Man alone of the animals possesses speech."^[*Politics*, 1.1253a.]
+Though other animals have speech and communication, nothing in modern science has superceded or contradicted the observation (obvious to anyone) that human speech is different. Other animals that communicate use non-grammatical closed systems with a small, finite set of symbols.^[Communication systems used by other animals such as bees or apes are closed systems that consist of a finite, usually very limited, number of possible ideas that can be expressed. In contrast, human language is open-ended and productive, meaning that it allows humans to produce a vast range of utterances from a finite set of elements, and to create new words and sentences.] Our language is unique: it is grammatical, open-ended, recursive, and productive. 
 
 We are animals who speak. Through our animality comes a sensitivity to our surroundings, the ability to see the sun and moon which are millions (or hundreds of thousands) of miles away, to hear our fellow creatures, and to "take in" the whole cosmos into consciousness. Through speech comes a whole second cosmos of culture. Through speech comes intentionality in all its forms. Through speech comes communication ("pass the salt"), distinct languages and cultures (about 5,000 distinct languages), self-consciousness ("who am I?"), abstraction ("all grass is green"), science, philosophy, religion, mythology, technology and more. Perhaps even art and music arise from the rational capacity to direct our actions to create not only what instinct demands but whatever the imagination can invent.[@orians2008nature. Orians says that "Americans spend more money on music than on sex or prescription drugs."] 
 
@@ -93,7 +84,6 @@ Rationality is also the capacity to judge true and false, to affirm and deny. Th
 
 
 While I shall have to say more about practical rationality in a later chapter, here I need only to specify that our nature as rational animals *includes* the notion that we are *practical* rational animals. That is, we do not just act but act on reasons. Micah Lott says: "Human form is characterized by practical reason. This is the capacity to act in light of an awareness of the ground of our actions, to recognize and respond to practical reasons."[@lott2012moral] We set goals and act in order to achieve goals. In the unity of reason between theoretical and practical that I shall ground both moral and intellectual virtue. All the acts of reason (whether theoretical or practical) are acts of *reason.* (I shall pick up the theme of practical rationality in a later chapter.) 
-
 
 
 And the property of being potentially rational encompasses a range of psychological, intellectual, and cultural facts that obtain in each normal human being. 
@@ -136,20 +126,28 @@ Something changes when we examine human beings compared to all other animals or 
 
 And this is how virtues appear, in general. Rosalind Hursthouse says that: “The concept of a virtue is the concept of something that makes its possessor good: a virtuous person is a morally good, excellent or admirable person who acts and feels well, rightly, as she should. These are commonly accepted truisms.”[@sepvirtue] These truisms encompass our everyday moral judgments about who is admirable much more broadly than our judgments about who is morally upstanding or who avoids being morally despicable. There is more to being an admirable person than *avoiding* transgressions. Nicholas Gier’s memorable image of the “couch potato” illustrates this point. The Couch Potato works a mindless job  which he is able adequately to perform while watching television (and today we can add, checking his Facebook and Twitter feeds); he rarely rises except to receive himself and microwave his dinners; he is even religious, watching his favorite preachers on Sunday morning television and tithing regularly. Yet the couch potato is by my standards living a wasted life and pitiable life. (I am counting on your similar intuition.) We do not want to imprison him for being such a failure; but we certainly do not admire how he lives.  By contrast, admirable people command our respect for being morally upstanding, and so much more. We admire them for their brains, their guts, their strength, their rare talents, their outstanding achievements, their unimaginable creativity, their wit and eloquence. Some people are remarkable for *what they are given* (great beauty, great intelligence, and so on). But the admirable person is remarkable not just for good fortune. In fact, admirable people are often admirable for overcoming extraordinarily bad fortune. We truly admire *what they do* with *what they are given*. In a word, we admire how they live. 
 
->So, summing up, a good social animal (of one of the more sophisticated species) is one that is well fitted or endowed with respect to (i) its parts, (ii) its operations, (iii) its actions, and (iv) its desires and emotions; whether it is thus well fitted or endowed is determined by whether these four aspects well serve (1) its individual survival, (2) the continuance of its species, (3) its characteristic freedom from pain and characteristic enjoyment, and (4) the good functioning of its social group—in the ways characteristic of the species.[@hursthouse1998virtue 202]
+The practical animal "takes up" all that is intrinsic to being an animal -- hungers, thirsts, sleepiness, sexual urges, a desire for shelter and comfort -- and lives a life with them. A practical animal takes up all that is given in the natural lottery -- strengths, weaknesses, defects, injuries, sicknesses, and talents -- and must put it to use in living a life. 
+
+While we may admire "winners" of the natural lottery, we admire more the person who uses the attributes they were given well, who makes an investment of them that pays dividends. Compare, for example, the crowds cheering for Olympic runner Derek Redmond when he is winning the gold medal with the crowds cheering for Derek Redmond finishing last after his hamstring tore and his father helped him to cross the finish line. There have been many gold medal winning races that millions of people have witnessed and forgotten. But this race, when an otherwise naturally talented and well-trained athlete finished *last* that remains forever etched in the memory of millions more. It's not just the unbridled emotion Redmond displayed in that moment which so touches viewers; it's the obvious love from his father shown in supporting his son's commitment to finish the race, even dead last. 
+
+The same principle applies to the various aspects of being a practical, rational animal we can mention. Aristotle taught that "affability" was a virtue, where many of us might chuckle to imagine that naturally phlegmatic people are morally better than their melancholic counterparts. Surely something so little under one's control is not a basis for evaluation? We should first remember that the "moral" virtues are not, for Aristotle, obedience to categorical imperatives or divine commands but simply ways of developing one's emotions into the likeness of a true human being. In this light, it does seem to me common for people to judge their fellows on the basis of *wilfully chosen* habits of relating to others -- the cold, unfeeling, humorless, or self-absorbed person is not being judged for losing any natural lottery but for allowing him or herself to become a poor companion. The warm-hearted, empathetic, cheerful, and outwardly-focused person is rightly judged for cultivating sociable attitudes and habits. While not everyone needs to be entertaining or well-connected,basic levels of relating to other persons in family and social situations is not an optional part of human life but part of our very nature. And like Derek Redmond, somone who is naturally disposed to be soliarty, melancholic, cynical, bitter, or otherwise negative is all the more admirable when he or she becomes and remains affable against the odds. 
+
+Hursthouse captures up the good specimen of a practical rational animal, in this way:
+
+>So, summing up, a good social animal (of one of the more sophisticated species) is one that is well fitted or endowed with respect to (i) its parts, (ii) its operations, (iii) its actions, and (iv) its desires and emotions; whether it is thus well fitted or endowed is determined by whether these four aspects well serve (1) its individual survival, (2) the continuance of its species, (3) its characteristic freedom from pain and characteristic enjoyment, and (4) the good functioning of its social group--in the ways characteristic of the species.[@hursthouse1998virtue 202]
+
+This is pretty well comprehensive. The only points I would add have to do with adding specification to the "good functioning" or flourishing of individuals and social groups, which I will do in a later chapter. 
 
 
 ## Objections
 
+Now I would like to consider a few objections. 
 
 ### No Human Nature Objection
 
 One worry mentioned above is that human nature is a mess. For all we can tell (without the benefit of divine revelation) humanity is an anomaly. Our origin is shrouded in mystery, our destiny undecided. Our evolutionary history has bestowed upon us what Bernard Williams calls "ill-sorted bricolage of powers and instincts": 
 
 >The second and more general reason lies not in the particular ways in which human beings may have evolved, but simply in the fact that they have evolved, and by natural selection... On that [evolutionary] view it must be the deepest desire—-need?-—purpose?--satisfaction?--of human beings to live in the way that is in this objective sense appropriate to them (the fact that modern words break up into these alternatives expresses the modern break‐up of Aristotle's view). Other naturalistic views, Marxist and some which indeed call themselves ‘evolutionary’, have often proclaimed themselves free from any such picture, but it is basically very hard for them to avoid some appeal to an implicit teleology, an order in relation to which there could be an existence which would satisfy all the most basic human needs at once. The first and hardest lesson of Darwinism, that there is no such teleology at all, and that there is no orchestral score provided from anywhere according to which human beings have a special part to play, still has to find its way into ethical thought.[@williams2011ethics 44]
-
-
-### Response
 
 The response of Hursthouse, Foot, Brown, etc., is that natural teleology is indeed compatible with Darwinism and does indeed provide a "an appropriate way to behave" (or we might add, *ways*) that is "inherent in each natural kind of thing."This is Fitzpatrick's main worry, not that we have evolved poorly, but that we evolved at all.[@sepmoralitybiology] He argues that evolved organisms have a telos to reproduce, not to "flourish".
 
