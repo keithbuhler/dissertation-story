@@ -6,7 +6,10 @@
 
 **Quotation**  *“What use would it be if a man had the wisdom of Nestor and wanted the necessaries of life, food and drink and clothes and the like? Where would be the advantage of wisdom then?” Eryxias (attributed to Plato)*
 
-"Secular morality has lost a sense of the final importance of a good death for salvation. There is no guiding vision of the normatively human." -- Tristram H. Engelhardt, *Foundations of Christian Bioethics*, xii.
+**Quotation**  "Secular morality has lost a sense of the final importance of a good death for salvation. There is no guiding vision of the normatively human." -- Tristram H. Engelhardt, *Foundations of Christian Bioethics*, xii.
+
+**Quotation**  *"The organic body sang together..."* -- Charles Williams, "The Vision of the Empire", *Taliesson Through Logres.* \
+
 
 ## Introduction: Destiny and Destination
  

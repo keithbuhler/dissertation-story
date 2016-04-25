@@ -247,6 +247,8 @@ A more plausible interpretation of MacIntyre is to side with Aristotle that the 
 
 Nussbaum does not see that MacIntyre's proposed solution is not a sort of *anti-progressive* longing for the past. It is radically progressive.  His solution is not to reverse progress but to replace the Enlightenment's standard of progress with a more tenable alternative.  Ironically, it appears to me that Nussbaum is too conservative in her defense of the Enlightenment's standard of progress; MacIntyre is the progressive here. Rather than accusing MacIntyre of being too conservative, Nussbaum should focus on his critique of the Enlightenment. MacIntyre's critique may be wrong, but it is with that critique that she should take issue. She should not accuse him of failing to "make progress... [in] arts and sciences" but of "tampering with what is working well." MacIntyre's theory of rationality may be wrong, but it is not wrong along the lines that Nussbaum attacks. 
 
+Criticizing 'tradition' or defending 'tradition' is almost always ill-advised for the simple reason that 'tradition' says different things. While Enlightenment thinkers used 'tradition' as a catch-all word for people who disagreed with them, the Enlightenment tradition itself represents a commitment to experimentation, thinking for oneself, natural science, adn so on. The practice of using experiment to test the theories of physical science is a tradition of scientists and “natural philosophers”, dating back at least to the 13th century:  "From this objection — should you care to try / You can be set free by experiment / Which is the source for the rivers of your arts.”^[Dante, *Paradiso* Canto II, lines 94-96] 
+
 
 ### Conclusion on Tradition
 
