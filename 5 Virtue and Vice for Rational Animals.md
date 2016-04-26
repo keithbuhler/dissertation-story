@@ -1,6 +1,6 @@
 # Virtue and Vice for Rational Animals
 
-*If riches are desirable in life, what is richer than Wisdom, who produces all things? ... Or if one loves righteousness, whose works are virtues, she teaches moderation and prudence, righteousness and fortitude, and nothing in life is more useful than these.* \
+*"If riches are desirable in life, what is richer than Wisdom, who produces all things? ... She teaches moderation and prudence, righteousness and fortitude, and nothing in life is more useful than these."* \
 
 Wisdom 8:5-7 \
 

@@ -1,8 +1,8 @@
 # Virtue and Reason in the Neo-Aristotelians 
 
-*"The human virtues make their possessor good qua human being, one who is as ordinarily well fitted as a human being can be in not merely physical respects to live well, to flourish -- in a characteristically human way."*\
+*"Men need virtues as bees need stings."* \
 
---Rosalind Hursthouse, *On Virtue Ethics*, 208. \
+--Peter Geach, *The Virtues* \
 
 ### Introduction
 
