@@ -7,7 +7,6 @@
 
 Recall Hursthouse's earlier statement that ethical evaluations of *human beings* "depend upon our identifying what is characteristic of the species in question." It is now clear that the success of our endeavor depends on finding true generic propositions about 'the human being' qua natural kind. Is this a hopeful search? 
 
-
 1. It is possible to express in generic propositions scientific knowledge about the life form and natural teleology of natural organisms. (Scientific realism)
 2. Humans are natural organisms. (Naturalism)
 3. Therefore, it is possible to express in generic propositions scientific knowledge about the life form and natural teleology of human beings. (Ethical naturalism)
