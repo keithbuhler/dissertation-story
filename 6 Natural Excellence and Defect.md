@@ -91,6 +91,7 @@ Another objection has various expressions. One is that virtues (which are define
 
 The response to the Polyanna Objection is that virtue ethicists do not *ignore* vice, the dark side of human nature, or human evil. Rather to the contrary, the whole project of identifying virtues and successful, virtuous agents, is the process of sifting through the various examples of human lives in hopes of finding a pattern that is recognizably *good*. 
 
+
 Thomson explains that normativity consists in evaluations and directives. Evaluations say that "There is such a property of being a good K if and only if K is a goodness-fixing kind."^[Thomson, 21-22 %] Directives say that "For it to be the case that A ought to V is for it to be the case that there is a directive kind K such that: A is a K, and if a K doesn’t V, then it is a defective K."^[Thomson 209 %] 
 
 Virtues are just those traits needed by our goodness-fixing kind. 
@@ -98,6 +99,14 @@ Virtues are just those traits needed by our goodness-fixing kind.
 How do we sort through and filter out the kinds of lives that are miserable, pitiable, undesirable? In some cases, it is easy. In other cases, it is quite as difficult to know who is living a successful life as it is to live one's own life well. Hursthouse provides some clear thinking on this difficult topic. Sometimes, we have to find out what a virtuous person does to know what is right. And while we can't be guaranteed that our assessment of who is a virtuous person is infallibly correct, it is sometimes the best we can do: 
 
 >In response, it is worth pointing out that, if I know that I am far from perfect, and am quite unclear what a virtuous agent would do in the circumstances in which I find myself, the obvious thing to do is to go and ask one, should this be possible. This is far from being a trivial point, for it gives a straightforward explanation of an important aspect of our moral life, namely the fact that we do not always act as ‘autonomous’, utterly self‐determining agents, but quite often seek moral guidance from people we think are morally better than ourselves. When I am looking for an excuse to do something I have a horrid suspicion is wrong, I ask my moral inferiors (or peers if I am bad enough), ‘Wouldn't you do such‐and‐such if you were in my shoes?’ But when I am anxious to do what is right, and do not see my way clear, I go to people I respect and admire: people who I think are kinder, more honest, more just, wiser, than I am myself, and ask them what they would do in my circumstances. How, or indeed whether, utilitarianism and deontology can explain this fact, I do not know, but, as I said, the explanation within the terms of virtue ethics is straightforward. If you want to do what is right, and doing what is right is doing what the virtuous agent would do in the circumstances, then you should find out what she would do if you do not already know.[@hursthouse1998virtue 35]
+
+One real problem that the Polyanna Objection hits upon is the surprising preponderance of discussion of virtue, rather than vice, in virtue ethics. (Rebecca DeYoung is a shining exception.)[@deyoung2009glittering] Surely the topics are of equal importance? 
+
+This imbalance reflects, I fear, an uncomfortable willingness of ethicists to assume that *they* are exemplary specimens of virtue. I myself hold no such illusion. There is no such thing as "the virtue of unearned moral superiority." Rather, there is probably some virtue -- and certainly some good psychological wholesome -- in cataloging one's vices, through (a) a detailed knowledge of the conceptual catalog of virtues and vices; and (b) a careful examination of which negative traits appear in one's own character. One cannot be too careful in distrusting one's own self-assessments. The assessments of trusted advisors and close loved ones are far more reliable. 
+
+The project of transforming oneself from mere biological and psychological adulthood to virtue and wisdom is difficult and long. It requires certain minimum virtues to even make progress in acquiring more virtues. For example, it may require that one be able to honestly self-assess one’s vices. Twelve Step recovery groups such as Alcoholics Anonymous speak about making a “moral inventory.” Identifying the repugnant traits in one’s own psychology is a noxious task for most people. So noxious, in fact, that many people (ironically) would prefer the vices they have to the identification of the same. 
+
+Other specific strategies are likely to be needed. How is honesty acquired, for instance? How are particular virtues and vices kept track of? What do we do when we get off track in the pursuit of a virtue? 
 
 
 ### Response to Empty Definition Objection
@@ -236,12 +245,12 @@ Aristotle continues in the same section:
 
 
 
-## Conclusion
+## Conclusion 1
 
 This chapter attempted to define virtues as those acquirable traits that are excellent for practical, rational animals like us. Our nature is normative, such that fulfilling it is morally good. We distinguished various kinds of excellence that are emphatically *not* within the purview of one's practical reasoning. Vices are those traits that we are either given through bad upbringing and bad education and (more to the point) those traits that we acquire ourselves. Virtues are those traits that we are given through good upbringing and education and that we acquire with moral effort, sometimes great moral effort. It remains to give a few examples of various virtues, to block the looming worry about cultural relativism, and to explain how they are unified in a concept of practical reason. That is the task for the next chapter. 
 
 
-### Conclusion
+### Conclusion 2
 
 Virtues are excellent character traits all rational animals need. The virtuous person takes up all that is given and puts it to good use in the resistance to evils and the pursuit of and sustainance of goods, both in individual life and communal life. The virtuous person discriminates between what is morally significant and insignificant, discriminating in what is significant between what is beneficial and harmful to the actualization of rational animals like us. 
 

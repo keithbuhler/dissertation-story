@@ -38,7 +38,7 @@ The theme if our present chapter is to puzzle through some  of the most difficul
 2. Is realizing our telos a human goal or somehow supernatural? Surely teleology is not natural after all, but only psychological, intentional? 
 
 3. By my definition of virtue, it is virtuous to pursue happiness -- but is it *morally good* to pursue happiness? The worry here arise from the fact that, as we draw closer to the concept of telos (from human nature to virtue or human excellence, and from virtue to practical wisdom) the stakes are raised. If one gets one's virtue concepts wrong, it may plausibly have a negative impact on one's life. If one get's one's concept of practical rationality itself wrong, one may have many virtues but still, sadly, end up a fool. If one gets one's concept of happiness wrong, however, and *actually achieves that happiness* this would be even worse than being a fool. One would, after long years, and perhaps decades of effort, achieve one's goal, only to find that the goal is somehow flawed. One would be pursuing happiness all along and achieve only objective misery. This is even worse than being a fool, I say, since it might conceivably be possible that one could be a fool -- practically irrational in many respects -- who still by some confluence of lucky factors or benevolent friends, ends up enjoying well-being in some respects. But by definition one cannot be objectively happy and objectively miserable. This reflection upon the "raising stakes" makes sense of the importance of this chapter. 
-4. Objective List Theory of Well-being. We might *know* a series of good things as good for us, without knowing *why* they are so good (without reflection). We might even mistake what is good, and mistake why it is good or not. 
+4. Objective List Theory of Well-being. We might *know* a series of good things as good for us, without knowing *why* they are so good (without reflection). We might even mistake what is good, and mistake why it is good or not.[@hooker1996does]
 
 ## Introduction 2
 
@@ -270,6 +270,10 @@ I would also like to distinguish between minimal conceptions and maximal concept
 
 Natural law theorists like to talk about ‘perfections’ of nature, and happiness as ‘perfect’ or complete. I prefer the term ‘maximal’ to ‘perfective’ for two reasons. First, the concept of maximum is relative to circumstances; one should aim to be as happy as possible *given the limitations of time*. This clause includes theist and atheists in the conversation since they may disagree on just what the limitations of time are but agree that we should aim to be as happy as possible. Secondly, the notion of perfection implies that human nature has natural limits of happiness, a terminus. I’m not sure this is true. It might be that, so long as one lives well, and so long as the average lifespan of western industrial peoples continues to increase. Is there a natural limit, for instance, to how many languages one can learn? I know three languages. With enough time before my biological end, couldn’t I learn ten? Someone more gifted with languages already knows ten and could learn twenty. If they lived 200 years, couldn’t they learn thirty languages? Is there a natural limit to wisdom? Can one become fully wise and then stop? Continuing the discussion using the notion of relative maximum keeps the case open on this issue. 
 
+// % 
+>“What is the relation of the list theory to perfectionism? Perfectionism is a sub‐species of the list theory. Perfectionism differs from other kinds of list theory in claiming that we ascertain what gets on the list by considering essential, distinctive, or characteristic human capacities or activities. That is, other kinds of list theory would reject the idea that your having or exercising X constitutes a benefit to you if and only if X is an essential, distinctive, or characteristic human capacity or activity.” [@hooker1996does 145-6]
+>One premiss of this argument is that the most plausible versions of the list theory will have achievement on the list. The other premiss is that living a truly moral life is an achievement. From these premisses it follows that moral virtue gets on the list because being morally virtuous is a kind of achievement. Call this the argument from achievement.16
+
 
 
 ### Evolution and Telos 
@@ -492,13 +496,15 @@ Take as a few examples this statement from G.E. Moore:
 
 Moore is explicit here that there are no acts that have intrinsic value (qua duty or qua virtuous deed); acts only have value insofar as they cause good effects. This good effects are, for Moore, aesthetic enjoyments, knowledge, and friendships.[@moore Chapter 6.] 
 
-I said above that the refusal to treat the means/end distinction as clean and absolute is liable to cause his critics to misunderstand his position. Charles Taylor endorses the notion that “the place accorded the virtues [is] a kind of litmus test for discriminating Aristotelian from modern ethical theory.”[@taylor 25] He explains this feature of modern moral theories:
+The refusal to treat the means/end distinction as clean and absolute is liable to cause critics to misunderstand the neo-Aristotelian position. Charles Taylor endorses the notion that “the place accorded the virtues [is] a kind of litmus test for discriminating Aristotelian from modern ethical theory.”[@taylor 25] He explains this feature of modern moral theories:
 
 >...They cannot abide this kind of relation, in which one element is both cause and constituent of another. It is a central demand of one influential construal of modern reason that one clearly sort out means from ends. For utilitarians, the good is happiness, and virtues can only be good instrumentally... If the basic point of morality is to do the right actions, then the virtues must be seen as purely executive. They cannot also be seen as part of the end, because the end is not defined that way.[@taylor 25] 
 
 What could this mean? Behind the means/end distinction is a peculiarly modern assumption that formal and final causes are either not related or not *necessarily* related. But the assumption is unreasonable. Exercise *causes* (efficient causes) health; but it is partly constitutive of health. In other words, exercise *causes* (formal causes) health.  The relation between a formal cause and a final cause is an internal, natural, and necessary relation. In biology, the distinction between form and function is a real one but the two are related.^[@huneman2006naturalising. Huneman summarizes the "two poles" in the history of biology: "the concept of form and the concept of function." For Huneman, anatomy studies form and physiology studies function. He explains how Kant understood both poles and tried to give due weight to the mechanistic understanding of organisms *and* to the distinctive features of organic life. Humean, Kant, and evolutionary biologists are obliged to explain both form and function as real without reducing one to the other.] The relation between the species *gorilla gorilla* as instantiated in an infant gorilla and a fully grown, mature one is an internal and natural and (given the proper circumstances) a necessary relation. To deny that there are formal causes, or to deny that there are final causes, is simply to beg the question against teleological ethics. 
 
 For these reasons, consequentialism of the typical sort that *reduces* the question of what actions, rules, or character traits are good to a question that cannot "be answered except by a causal generalization" is not teleological in the required sense. The character traits that tend to bring about happiness must also be, in a sense, pre-payments on that happiness. 
+
+
 
 
 ### Section conclusion ###
@@ -513,17 +519,9 @@ In sum, the rebuttal of the “no teleology objection" is that the sort of teleo
 
 Stephen Brown’s Darwinian objection that “happiness” of our species is gene propagation, which seems to transform ethics into a descriptive discipline; 
 
+### Notes
+
+Julia Driver puts the distinction well: “While it is true that virtue must lead to human flourishing, virtue is not concerned solely with human flourishing. Kindness directed towards a dog is still a moral virtue, even though it contributes to human flourishing not one whit.”[@driver2004response]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+The human good is not "flourishing" conceived as an external, contingent consequence to be discovered (in part) and designed (in part). The human good is *to be human*, including all of the particular content entailed by that life form. Humanity is not a merely formal concept, as some have thought (Kant is often attributed this). For Kant, humanity is an end in itself.  “Humanity is nothing other than the capacity freely to set particular ends.”[@guyer2002ends 162] But merely to be free is not sufficient for humanity. To be free to be human is necessary; but to be human to be free is a paltry, empty, and possibly miserable state. 
