@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-05-13 15:31:19 -0400" ModID="A617EE9E-1D71-4EE2-A3B0-49AB0EAD171E">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-05-13 16:32:27 -0400" ModID="7CFC387F-E54D-422F-9711-0A884099D168">
     <Binder>
         <BinderItem ID="913" UUID="882D0C33-3B69-4030-BB8A-D053271F229B" Type="Text" Created="2016-05-13 13:41:52 -0400" Modified="2016-05-13 13:48:35 -0400">
             <Title>May</Title>
@@ -28,7 +28,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>64216,0</TextSelection>
+                        <TextSelection>22052,12</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="914" UUID="0EB6F08E-77AA-4E7D-8387-A6590E0F50C2" Type="Text" Created="2016-05-13 13:46:35 -0400" Modified="2016-05-13 14:23:08 -0400">
@@ -51,14 +51,14 @@
                                 <TextSelection>290,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="916" UUID="8488060F-F3DF-44DB-8F59-B252C7CD5090" Type="Text" Created="2016-05-13 13:49:03 -0400" Modified="2016-05-13 14:33:18 -0400">
+                        <BinderItem ID="916" UUID="8488060F-F3DF-44DB-8F59-B252C7CD5090" Type="Text" Created="2016-05-13 13:49:03 -0400" Modified="2016-05-13 15:38:24 -0400">
                             <Title>Body</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2614,0</TextSelection>
+                                <TextSelection>2698,174</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="917" UUID="A4F3DFE9-7D2D-4F22-86BE-79C35BBE2123" Type="Text" Created="2016-05-13 13:49:05 -0400" Modified="2016-05-13 13:50:29 -0400">
@@ -100,7 +100,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>607,0</TextSelection>
+                                <TextSelection>4217,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="929" UUID="379E16D1-75FD-4D1E-90AD-5DDD215B4C99" Type="Text" Created="2016-05-13 14:22:50 -0400" Modified="2016-05-13 14:22:54 -0400">
@@ -125,14 +125,14 @@
                         <TextSelection>17,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="933" UUID="E72D47FC-1690-44B2-83DB-73D22E79BB21" Type="Text" Created="2016-05-13 14:35:29 -0400" Modified="2016-05-13 15:12:29 -0400">
+                        <BinderItem ID="933" UUID="E72D47FC-1690-44B2-83DB-73D22E79BB21" Type="Text" Created="2016-05-13 14:35:29 -0400" Modified="2016-05-13 16:32:09 -0400">
                             <Title>Introduction</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>9689,0</TextSelection>
+                                <TextSelection>6093,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="954" UUID="23049354-EBF0-4D60-9FED-97D6F7E69518" Type="Text" Created="2016-05-13 14:55:04 -0400" Modified="2016-05-13 15:19:39 -0400">
@@ -145,14 +145,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="931" UUID="067FA76E-64C3-4021-8973-0E8BBF043259" Type="Text" Created="2016-05-13 14:35:15 -0400" Modified="2016-05-13 14:59:08 -0400">
+                        <BinderItem ID="931" UUID="067FA76E-64C3-4021-8973-0E8BBF043259" Type="Text" Created="2016-05-13 14:35:15 -0400" Modified="2016-05-13 16:31:56 -0400">
                             <Title>Body</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8878,0</TextSelection>
+                                <TextSelection>9095,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem ID="952" UUID="740BF5CF-7470-4BBF-B6D7-6E0F1151FE69" Type="Text" Created="2016-05-13 14:52:10 -0400" Modified="2016-05-13 15:04:35 -0400">
@@ -497,6 +497,16 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="986" UUID="E05EFFCD-21C1-4405-9FB7-750C0A0732EB" Type="Text" Created="2016-05-13 16:31:49 -0400" Modified="2016-05-13 16:32:27 -0400">
+                                    <Title>Conclusion 3</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>5450,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -10180,7 +10190,7 @@ McDowell</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">first stage</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">sufficient</SearchSettings>
         </Collection>
         <Collection Type="Arbitrary" ID="69E55ED7-2213-4D4B-926B-E167EB17D7F2" Color="0.962712 0.843627 0.714212">
             <Title>Virtue</Title>
