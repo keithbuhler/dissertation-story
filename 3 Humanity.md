@@ -1,38 +1,4 @@
-# 3 Humanity (outline)
-
-1. Evaluting a good human being requires identifying what is characteristic of the species in question. 
-2. The set of "characteristic" features of a human being -- the human life-form or nature -- is expressible in generics. 
-3. It is possible to express in generic propositions scientific knowledge about the life form and natural teleology of human beings. 
-4. By contrast, one might object that human nature is variability itself.  
-5. Similarly, one might object that there is no such thing as human nature because there are *no* fixed species or biological natures, or natural kinds. 
-6. And one might object that there is no human nature because "natures" belong to lower life forms but not humans. Such animal natures aim at reproduction, not flourishing. 
-5. Nevertheless, all humans are (a) animals and (b) practical and rational. 
-6. As a generic, the truth of this statement is compatible with variability since variability is a function of practical reason, which is universal. 
-7. As a generic or formal truth, the truth of this proposition is compatible with humans failing to become practical or rational due to genetic defect, illness, injury, or injustice. 
-8. Another might object that generics about human nature or the human life-form is not ethically relevant, since one is able, by virtue of rationality, to transcend one's nature. The practical point of view is not "scientific", even if it is broadly "naturalistic."
-9. The initial response to this objection is that some such properties are ethically relevant while some are not, and that it takes practical wisdom itself to recognize which ones are which. The scientific point of view is not the point of view *from within* the space of law but *about* the space of law *from within* the space of reasons. 
-9. McDowell urges this point against "Thompsonian" and Footian naturalism. He thematizes the concept of 'nature' itself. 
-10. For McDowell, nature consists of Lockean primary qualities, which are response-independent as well as dispositional properties which are response-dependent. "Values" are the latter sort. There is no such thing as "to-be-pursuedness" existing as a Lockean primary quality in first nature. Nevertheless, values are not merely subjective fantasy. They are intersubjective, grounded in a form of life, grounded in our rationality itself. 
-11. McDowell's view here is comprehensible in light of his broader project of anti-metaphysics, therapeutic philosophy, constructivism, and so on. 
-12. The problems with McDowell's view are these: (1) McDowell's concept of nature is incoherent. It is both restricted and unrestricted. My view is superior in explicitly adopting an unrestricted conception and paying the conceptual price. (2) McDowell's concept of science is too crassly restrictive; although he disputes the "philistene scientism" of his opponents, he seems to me to endorse just enough philistene scientism to deserve his own criticism. He is a scietific realist on one page and anti-realist on another. And (3) there do seem to be primary qualities of nature such as "danger" and "safe" that are relational and actionable like moral qualities such as good and bad. McDowell's own example admits this but he shies away from the obvious conclusion.
-13. It is *not* a problem that McDowell's view is a brand of idealism -- not a problem along naturalistic lines, since idealism can be naturalism, as Fink explains. 
-10. Let's specify in more detail exactly what is unique about animals with practical reason. 
-11. Humans are alive, move, live, grow, reproduce, and die. They have a history, a nature, and a destiny. 
-10. Humans *speak*. They talk, engage in symbol use in social contexts.
-11. Humans *act*; that is, they are practical creatures, that self-determine, self-direct, and so on. 
-12. Human's *think*; we use terms like 'reason' and ratio as abstractions to describe a set of capacities we notice in ourselves. For example, activities that get called 'rational' are activities such as to observe, perceive as, create, reflect, decide, determine, abstract, infer, explain, deduce, remember, predict, criticize, praise, blame, admonish, and so on. 
-13. Since virtues are -- by definition -- admirable qualities, the virtuous person is the admirable person. Who is that?
-14. The admirable person is one who acts well, not just who is lucky; not just one who wins the natural and social lottery but who does a lot with what he or she has. 
-15. By the first hypothesis, we should expect this: The qualities of being a good animal, speaking, acting, and thinking well given one's lifeform are, those that from the point of view of the alien anthropologist (a) make one a human being (fully exemplifies the human-life form) (b) make a human being admired by his or her fellows; furthermore, within the moral point of view, (c) one would judge such qualities really admirable -- in other words, such qualities would line up with one's own pre-analytical intuitions about what qualities count as morally praiseworthy. 
-16. Virtues are exactly such qualities. 
-10. Another might object that which properties we pick out as ethically relevant or normative will only be the good ones, but this is the Polyanna Problem. Why those? Is there any justification or is it prejudging a moral judgment? 
-11. I have argued that virtues are "merely" human, but also argued that that human nature is normative; therefore, the proposition that virtues are normative is deduced from the major premise. The sort of naturalism under discussion, then, is biological but not merely biological. It takes biology as necessary but not sufficient; and the practical rationality of McDowell as necessary but not sufficient. 
-12. Chris Toner argues that the natural norms must be intrinsically motivating (or practical), they must be intrinsically able to justify themselves to the bearer of that nature (upon reflection, they seem binding, even if they do not mechanically determine one's action); they must be anchored in and express universal human nature; and first and second nature must be related in such a way that the second nature is an outgrowth of the first so that that in our given makeup is (first) natural which does tend toward an ethically mature second nature. 
-13. These reflections, and the Polyanna Problem, set the task for our remaining chapters: What is the relation between "natural goodness" and "rational virtue", between virtue and reason, between first and second nature, biology and rationality? 
-14. 
-
-
-# Normativity of Human Nature: Philestine Scientism versus the Practical Point of View
+# Normativity of Human Nature: Philistine Scientism versus the Practical Point of View
 
 *"Human nature is normative, such that to be morally good is to fulfill one’s nature."* -- Chris Toner, "Sorts of Naturalism", 221. \ 
 

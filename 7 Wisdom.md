@@ -249,3 +249,17 @@ A fourth, and potentially confusing, reason is that practical wisdom is both a "
 Another solution to the problem of moral relativism. I call this phenomenon moral awe. Moral awe is the feeling that arises upon witnessing someone exhibiting heroic virtue. It is something beyond moral approval or admiration, which one may feel even for "small victories" such as, say, when a child decides (against all odds) to share a toy on their on volition. Moral approval is not, on the whole, a destabilizing emotion. One can experience moral approvals and disapprovals by the dozens throughout a day without being "shaken up." Moral awe leaves one feeling "shaken up". Watching a documentary about Mother Theresa's activities in Calcultta, how she held and touched and kissed young children who were so sick -- and so disgusting -- that not even nurses had touched them for months, may be deeply affecting. Witnessing a father bow before his wife and children in order to ask for their forgiveness may be deeply affecting. 
 
 Moral awe can "break through" one's conventional beliefs. It can shock and amaze one, almost in spite of oneself. 
+
+
+### John Kekes Wisdom
+
+John Kekes argues that wisdom is a kind of interpretive knowledge of basic facts. Descriptive knowledge of basic facts is almost universally distributed. But interpretive knowledge of those basic facts -- understanding the signficance of those facts -- is less common. 
+
+What are "basic facts"? Basic facts are things like the fact that man is mortal, since the fact is that animals are born, live, and die and we are animals. Humans have a limited time. 
+
+1. Basic facts are known by everyone. 
+2. Knowing significance of basic facts. 
+3. Understanding is only possible by depth and breadth; breadth covers the range of facts known while depth refers to the significance and meaning of such facts. 
+4. What a wise man knows is how to construct a pattern that, given the situation, is likely to lead a good life. 
+
+https://www.youtube.com/watch?v=fBrFrCDxhJI these moments reflect criminal stupidity. But also just a lack of wisdom. 

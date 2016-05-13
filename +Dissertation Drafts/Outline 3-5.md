@@ -58,4 +58,32 @@
 3. MacIntyre and Foot, though not going this far, do assert a close connection between practical reason and virtue. The next chapter or two will complete what has gone before and address new problems pertaining to practical reason.
 4. For McDowell, virtue just is a sensitivity to certain facts as reasons for action. It is a "practical point of view." It is not individualistic, but intersubjective, a congruence of intersubjectivities. McDowell's virtue is practical and also "rational" but not objective. 
 5. For MacIntyre, virtues are defined as those qualities that sustain traditions. Virtue is practical and also rational, but objective in an important way that McDowell's version is not. 
-6. 
+
+
+## Practical Reason and Practical Wisdom
+5. MacIntyre argues that the primary failure of the Enlightenment was the excisement of teleology from reality, human nature, human life, and human practice. This is an error we have already attempted to remedy above.
+3. Rationality is constituted by traditions (and constitutes them). 
+4. Hence, practical rationality is constituted by a tradition.
+5. Traditions are socially embedded arguments over time, rooted in source text, with authorities, and argumenst inside and outside the tradition.
+5. What is good to do, what is a good life, are indexed to traditions, the notion of human life, and practices.
+6. Practices are complex social activities with common goals, common standards, and the possibility of excellence in achieving those goals within those standards. 
+7. Life is a continuous practice or serious of practices in pursuit of a socially-defined good. 
+8. Virtues enable success in practices, and enable a flourishing life for persons and communities, and sustain traditions. 
+9. Virtue has three layers or dimensions: practices, social institutions, and human life as a whole (within that tradition). 
+10. The telos of life is (minimally) to be free to pursue one's telos; it is (maximally) to discover more adequately one's telos. 
+11. Virtues enable the achievement of telos, to *know how to live*.
+10. Humans are by nature practical reasoners. 
+11. Humans are vulnerable and need virtues of dependence as well as "greatness" or magnanimity. 
+12. Virtuous communities successful educate their young to become independent practical reasoners who *know* what to do, know what is good, and pursue it, further defining and clarifying what is good. 
+13. Some object that MacIntyre vascillates on his definition of virtue.
+14. But the practice-relative virtues are relative to traditions and can be judged as a whole.
+13. Some object that MacIntyre is a relativist -- there is no "tradition" to ethics and morality.
+14. But he argues that traditions can be tested against one another through philosophical imagination; and my own tradition can be tested by my own standards. 
+14. Some object that MacIntyre is not relativistic enough -- there is simply no "rationality" to ethics and morality. 
+15. MacIntyre argues that reason *begins* in time, place, social context, language, but is not ultimately a slave to these limits; it can transcend them to achieve something like the Enlightenment ideal of universal reason. Traditions can get along, and emotivism, nihilism, are disastrous for human life. 
+16. Some (especially the Encyclopediasts) object that ethics can get on well enough without teleology. 
+17. The true abandonment of natural and social teleology leads to moral nihilism; the rules without any point. 
+18. Most moral theorists (and biologists, psychologists, etc.) do not really abandon teleology except in name. 
+19. MacIntyre's critiques are wide-ranging and cut deep; if they are true, much needs to change about university education and the way ethics and morality are studied and taught and practiced. 
+20. Even those who disagree are invited to engage in philosophical imagination to examine his rival tradition and examine the flaws and inconsistencies of their own tradition. 
+
