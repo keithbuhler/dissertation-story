@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-05-14 21:09:17 -0400" ModID="6908A611-9F4B-438B-A24E-3D092A8B9503">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-05-15 08:53:32 -0400" ModID="8A765311-C077-4F1E-9891-F87F498B5236">
     <Binder>
         <BinderItem ID="913" UUID="882D0C33-3B69-4030-BB8A-D053271F229B" Type="Text" Created="2016-05-13 13:41:52 -0400" Modified="2016-05-13 13:48:35 -0400">
             <Title>May</Title>
@@ -673,6 +673,16 @@
                 </BinderItem>
             </Children>
         </BinderItem>
+        <BinderItem ID="987" UUID="826B3440-1C72-41E6-ACB2-223743658541" Type="Text" Created="2016-05-15 08:53:00 -0400" Modified="2016-05-15 08:53:12 -0400">
+            <Title>Dissertation notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
         <BinderItem ID="82" UUID="F18801D7-23FD-40D9-B885-D5E1C4F3794C" Type="Text" Created="2015-05-15 13:41:04 -0400" Modified="2015-06-22 11:27:07 -0400">
             <Title>Now Reading</Title>
             <MetaData>
@@ -688,76 +698,6 @@
                 <KeywordID>6</KeywordID>
             </Keywords>
             <Children>
-                <BinderItem ID="652" UUID="7E8F4867-0314-4761-87CF-F3A0A052D197" Type="Text" Created="2015-10-22 16:02:07 -0400" Modified="2015-10-22 16:02:20 -0400">
-                    <Title>Aristotle to MacinTyre</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>137,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="231" UUID="0FA3AF0C-F90B-4636-BDD3-37EB81D2F6B2" Type="Text" Created="2015-06-17 15:29:08 -0400" Modified="2016-03-14 10:04:34 -0400">
-                    <Title>Adams, a Theory of Virtue</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>7843,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="906" UUID="93448246-9167-46A7-AADF-3C4EB736D773" Type="Text" Created="2016-03-14 09:33:31 -0400" Modified="2016-03-14 09:40:09 -0400">
-                    <Title>Generics</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>888,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="907" UUID="259E9D1B-A0D4-43E8-93C6-E323264BAE74" Type="Text" Created="2016-03-14 09:40:23 -0400" Modified="2016-03-16 06:27:33 -0400">
-                    <Title>Bioethics and Human Dignity</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>329,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="354" UUID="D2AE13B8-8BE2-4024-BC4F-8AA19EF87E2C" Type="Text" Created="2015-06-23 21:46:24 -0400" Modified="2015-06-23 21:46:33 -0400">
-                    <Title>Smith, Scott. Virtue Ethics and Moral Knowlede</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="350" UUID="83A84EB1-83BD-4128-A857-1C5CDFA203EA" Type="Text" Created="2015-06-23 21:45:13 -0400" Modified="2015-08-19 09:47:22 -0400">
-                    <Title>To Read or Skim -- Up Next</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>64,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="908" UUID="D87ADD26-8774-4A3E-BB64-7E928770A402" Type="Text" Created="2016-03-16 06:27:48 -0400" Modified="2016-03-16 06:28:01 -0400">
-                    <Title>Natural Kinds</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>58,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem ID="260" UUID="2B14BBB4-16DC-43B9-9686-4E7BEDBAC3AE" Type="Text" Created="2015-06-17 17:17:38 -0400" Modified="2015-06-23 13:44:08 -0400">
                     <Title>MacIntyre, Whose Justice? </Title>
                     <MetaData>
@@ -809,6 +749,56 @@
                             </TextSettings>
                         </BinderItem>
                     </Children>
+                </BinderItem>
+                <BinderItem ID="652" UUID="7E8F4867-0314-4761-87CF-F3A0A052D197" Type="Text" Created="2015-10-22 16:02:07 -0400" Modified="2015-10-22 16:02:20 -0400">
+                    <Title>Aristotle to MacinTyre</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>137,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="231" UUID="0FA3AF0C-F90B-4636-BDD3-37EB81D2F6B2" Type="Text" Created="2015-06-17 15:29:08 -0400" Modified="2016-03-14 10:04:34 -0400">
+                    <Title>Adams, a Theory of Virtue</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="906" UUID="93448246-9167-46A7-AADF-3C4EB736D773" Type="Text" Created="2016-03-14 09:33:31 -0400" Modified="2016-03-14 09:40:09 -0400">
+                    <Title>Generics</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>888,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="907" UUID="259E9D1B-A0D4-43E8-93C6-E323264BAE74" Type="Text" Created="2016-03-14 09:40:23 -0400" Modified="2016-03-16 06:27:33 -0400">
+                    <Title>Bioethics and Human Dignity</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>329,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="354" UUID="D2AE13B8-8BE2-4024-BC4F-8AA19EF87E2C" Type="Text" Created="2015-06-23 21:46:24 -0400" Modified="2015-06-23 21:46:33 -0400">
+                    <Title>Smith, Scott. Virtue Ethics and Moral Knowlede</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
                 </BinderItem>
                 <BinderItem ID="909" UUID="92871A3A-DFBC-47B8-89E4-7D21420E9A9D" Type="Text" Created="2016-03-16 06:30:11 -0400" Modified="2016-03-16 06:30:16 -0400">
                     <Title>McDowell, Mind, Value, Reality</Title>
@@ -10181,6 +10171,26 @@ McDowell</Title>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="350" UUID="83A84EB1-83BD-4128-A857-1C5CDFA203EA" Type="Text" Created="2015-06-23 21:45:13 -0400" Modified="2015-08-19 09:47:22 -0400">
+                    <Title>To Read or Skim -- Up Next</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>64,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="908" UUID="D87ADD26-8774-4A3E-BB64-7E928770A402" Type="Text" Created="2016-03-16 06:27:48 -0400" Modified="2016-03-16 06:28:01 -0400">
+                    <Title>Natural Kinds</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>58,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -10326,7 +10336,7 @@ McDowell</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-05-14 09:09:55 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-05-15 08:48:41 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
