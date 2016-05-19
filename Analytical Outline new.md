@@ -30,11 +30,7 @@
         (1a) admirable from the inside
         (1b) enabling the actuation of, and partly actuating, the life form as would be observable by the alien anthropologist
         (1c) enabling characteristic "functions" or activity, 
-(2) Animals 
-        (2a) mortal
-        (2b) grow, mature, eat, drink, sleep, copulate, stay warm, and die
-        (2c) given our chemical, embodied, physical, locational situation and embodiednes
-(3) Practical -- agential, active, 
+(3) Practical, rational -- agential, active, 
        (3a) acquirable
         (3b) corrective
         (3c) whole life
@@ -42,44 +38,28 @@
         (3e) goal-oriented or teleological
         (3f) self-determining
         (3g) taking our animal "givens" as reasons
-(4) Rational 
         (4a) speakers, symbol users
         (4b) knowers
         (4c) self-reflective
         (4d) social
         (4e) traditional
+ (3) Animals 
+        (2a) mortal
+        (2b) grow, mature, eat, drink, sleep, copulate, stay warm, and die
+        (2c) given our chemical, embodied, physical, locational situation and embodiednes
 17. The virtues would be human-specific tokens of natural goodness conforming to the type characterized above. 
 
 ## Virtue Content
 
-1. The crtieria provided capture virtue as it appears in the neo-Aristotelians. Foot's account of virtue, McDowell's, and MacIntyre's. 
+1. Our dialectic thus far has defended two major claims: first, that some norms are natural norms; and secondly, that some such norms are natural human norms. These natural norms are expressible in generic propositions of the familiar sort, such as 'acorns become oak trees' and 'human beings are practical rational animals'. The "nature" -- or set of in-built potentialities --  of genetically modern humans is fixed enough to justify such generics. And the pattern of natural normativity discoverable in all organisms predicts that virtues will turn out to be the qualities that enable human beings to become excellent practical rational animals. 
+2. The crtieria provided capture virtue as it appears in the neo-Aristotelians. Foot's account of virtue, McDowell's, and MacIntyre's. 
 2. Virtues are good of a kind for creatures like us. 
 3. This view accords with Judith Thomson's "kindism" and Michael Thompson, Foot, and others. 
 4. Virtues are beneficial, acquirable, corrective, and rational human qualities that enable success of a whole human life and of human cultures (societies, traditions).
 5. Virtues are the qualities that makes a person human of the kind of being we are: animal, practical, rational. Thinking, acting, speaking in social and political groups.  Since virtues are -- by definition -- admirable qualities, the virtuous person is the admirable person.  
 5. Let's look at each attribute and connect it with the criteria we laid out before. 
-6. (1) Beneficial for
-        (1a) admirable from the inside
-        (1b) enabling the actuation of, and partly actuating, the life form as would be observable by the alien anthropologist
-        (1c) enabling characteristic "functions" or activity, 
-7. (2) Animals 
-        (2a) mortal
-        (2b) grow, mature, eat, drink, sleep, copulate, stay warm, and die
-        (2c) given our chemical, embodied, physical, locational situation and embodiednes
-(3) Practical -- agential, active, 
-       (3a) acquirable
-        (3b) corrective
-        (3c) whole life
-        (3d) deliberative
-        (3e) goal-oriented or teleological
-        (3f) self-determining
-        (3g) taking our animal "givens" as reasons
-(4) Rational 
-        (4a) speakers, symbol users
-        (4b) knowers
-        (4c) self-reflective
-        (4d) social
-        (4e) traditional
+
+
 7. **Virtue is beneficial.** 8. Foot argues virtues are beneficial. Hursthouse calls this "Plato's requirement", that virtues benefit their possessor *necessarily* and *by definition*, not via statistical regularities or positive consequences. They are intrinsic goods. 
 8. Foot's account has several attributes I will touch on.
 8. MacIntyre agrees. His initial account of virtue just defines virtues as the features that enable success in practices. 

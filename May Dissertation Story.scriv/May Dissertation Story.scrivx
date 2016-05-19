@@ -1,8 +1,194 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-05-18 14:30:58 -0400" ModID="168785E3-5545-44C5-B3F1-F9E41FE8CAAE">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-05-19 11:46:45 -0400" ModID="3D7175A1-88B5-4647-9A59-CFC61DF96F5F">
     <Binder>
-        <BinderItem ID="913" UUID="882D0C33-3B69-4030-BB8A-D053271F229B" Type="Text" Created="2016-05-13 13:41:52 -0400" Modified="2016-05-13 13:48:35 -0400">
-            <Title>May</Title>
+        <BinderItem ID="925" UUID="4A31D6CD-DA04-4E3A-B162-54E2C32C7840" Type="Text" Created="2016-05-13 14:18:33 -0400" Modified="2016-05-18 15:08:03 -0400">
+            <Title>1 Introduction</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,17472</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="926" UUID="A4CBCC3A-F7EA-4DD5-B177-32092641DD83" Type="Text" Created="2016-05-13 14:18:45 -0400" Modified="2016-05-18 15:10:26 -0400">
+            <Title>2 Natural Normativity</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>64214,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="914" UUID="0EB6F08E-77AA-4E7D-8387-A6590E0F50C2" Type="Text" Created="2016-05-13 13:46:35 -0400" Modified="2016-05-17 09:53:50 -0400">
+            <Title>3 Human Nature</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>31,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>917</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="915" UUID="BFCAC7A8-7BAC-4C1A-93F5-53220A7A0F3E" Type="Text" Created="2016-05-13 13:48:29 -0400" Modified="2016-05-18 15:11:05 -0400">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2579,464</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="989" UUID="2F56B74E-BC65-458A-9561-0BB766AAE2A8" Type="Text" Created="2016-05-16 12:29:08 -0400" Modified="2016-05-18 15:12:12 -0400">
+                    <Title>## Animals of peculiar sort </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2231,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="991" UUID="C0F17235-4D00-4AC6-842F-E94C6719FB06" Type="Text" Created="2016-05-16 13:09:50 -0400" Modified="2016-05-17 09:53:50 -0400">
+                    <Title>## Practical Rationality</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="990" UUID="B8324732-3AD0-43C9-B36E-9CA42E9B8684" Type="Text" Created="2016-05-16 13:09:43 -0400" Modified="2016-05-17 09:53:50 -0400">
+                    <Title>### Speech </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1797,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="992" UUID="3EF199FE-6CB3-4598-9D10-C0337D039659" Type="Text" Created="2016-05-16 13:09:58 -0400" Modified="2016-05-17 09:53:50 -0400">
+                    <Title>### Sociality </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>755,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="993" UUID="98FA6042-C9A0-40CE-8FBA-B08F8B37770A" Type="Text" Created="2016-05-16 13:10:05 -0400" Modified="2016-05-17 09:53:50 -0400">
+                    <Title>### Rational practice </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>18323,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="994" UUID="93F5F0C6-6C1A-4DF7-AD06-F01BB0F01B23" Type="Text" Created="2016-05-16 13:10:10 -0400" Modified="2016-05-18 15:11:05 -0400">
+                    <Title>### Creation </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>825,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="995" UUID="0DB36052-E244-4C28-95EE-738E51DA9D8A" Type="Text" Created="2016-05-16 13:56:36 -0400" Modified="2016-05-17 09:53:50 -0400">
+                    <Title>### Potential</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3883,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="998" UUID="ADF3467C-C151-4E41-AE7A-28EEB8A72AAC" Type="Text" Created="2016-05-17 09:02:28 -0400" Modified="2016-05-18 10:34:18 -0400">
+                    <Title>### Summary </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4142,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="996" UUID="451B697A-E551-4C9B-AFCD-609C72684825" Type="Text" Created="2016-05-16 14:00:23 -0400" Modified="2016-05-17 09:53:50 -0400">
+                    <Title>## Discussion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>109,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="999" UUID="6BCCF89D-7D77-4E63-8A32-6AE21B0B431F" Type="Text" Created="2016-05-17 09:14:24 -0400" Modified="2016-05-18 10:32:13 -0400">
+                    <Title>### No human nature </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>7741,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1002" UUID="CA992FE7-09BA-427B-80E3-32A76CA73131" Type="Text" Created="2016-05-17 09:52:49 -0400" Modified="2016-05-18 15:11:05 -0400">
+                    <Title>### Human Nature response</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>11410,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="917" UUID="A4F3DFE9-7D2D-4F22-86BE-79C35BBE2123" Type="Text" Created="2016-05-13 13:49:05 -0400" Modified="2016-05-18 11:46:56 -0400">
+                    <Title>Conclusion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1186,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1004" UUID="9ADDB554-9251-4AD8-B4AA-6553AC4CFE36" Type="Text" Created="2016-05-18 10:31:18 -0400" Modified="2016-05-19 08:54:10 -0400">
+            <Title>4 Natural Excellence</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,10421</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="1011" UUID="A988D871-B307-4402-A0F0-F7F9664C0990" Type="Text" Created="2016-05-18 15:19:13 -0400" Modified="2016-05-19 11:45:33 -0400">
+            <Title>5 Virtue as Rational Practice</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>75778,0</TextSelection>
+                <Target Type="Words" Notify="No">9000</Target>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="949" UUID="37351670-B02E-42F1-873F-66ECFD29B26C" Type="Text" Created="2016-05-13 14:48:40 -0400" Modified="2016-05-19 08:59:17 -0400">
+            <Title>6 Reason 1 definitions and problems</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -11,8 +197,8 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem ID="925" UUID="4A31D6CD-DA04-4E3A-B162-54E2C32C7840" Type="Text" Created="2016-05-13 14:18:33 -0400" Modified="2016-05-16 08:29:49 -0400">
-                    <Title>1 Introduction</Title>
+                <BinderItem ID="937" UUID="EA4402B3-783C-49A0-9695-E10EC173A1C4" Type="Text" Created="2016-05-13 14:37:45 -0400" Modified="2016-05-13 14:38:10 -0400">
+                    <Title>Introduction</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -21,173 +207,28 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="926" UUID="A4CBCC3A-F7EA-4DD5-B177-32092641DD83" Type="Text" Created="2016-05-13 14:18:45 -0400" Modified="2016-05-16 08:29:43 -0400">
-                    <Title>2 Natural Normativity</Title>
+                <BinderItem ID="934" UUID="C2644225-7E5E-40A3-8068-E2DAA257651F" Type="Text" Created="2016-05-13 14:35:41 -0400" Modified="2016-05-13 14:38:27 -0400">
+                    <Title>Body</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>22052,12</TextSelection>
+                        <TextSelection>1211,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="914" UUID="0EB6F08E-77AA-4E7D-8387-A6590E0F50C2" Type="Text" Created="2016-05-13 13:46:35 -0400" Modified="2016-05-17 09:53:50 -0400">
-                    <Title>3 Human Nature</Title>
+                <BinderItem ID="922" UUID="3D8A2B4A-C8DB-4506-B4FA-4E98137D9131" Type="Text" Created="2016-05-13 14:15:32 -0400" Modified="2016-05-13 15:25:16 -0400">
+                    <Title>Reason 4 the definition of reason</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <CorkboardAndOutliner>
-                        <SelectedSubdocumentIDs>917</SelectedSubdocumentIDs>
-                    </CorkboardAndOutliner>
-                    <Children>
-                        <BinderItem ID="915" UUID="BFCAC7A8-7BAC-4C1A-93F5-53220A7A0F3E" Type="Text" Created="2016-05-13 13:48:29 -0400" Modified="2016-05-17 09:54:20 -0400">
-                            <Title>Introduction</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2579,464</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="989" UUID="2F56B74E-BC65-458A-9561-0BB766AAE2A8" Type="Text" Created="2016-05-16 12:29:08 -0400" Modified="2016-05-17 09:53:50 -0400">
-                            <Title>## Animals of peculiar sort </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2231,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="991" UUID="C0F17235-4D00-4AC6-842F-E94C6719FB06" Type="Text" Created="2016-05-16 13:09:50 -0400" Modified="2016-05-17 09:53:50 -0400">
-                            <Title>## Practical Rationality</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="990" UUID="B8324732-3AD0-43C9-B36E-9CA42E9B8684" Type="Text" Created="2016-05-16 13:09:43 -0400" Modified="2016-05-17 09:53:50 -0400">
-                            <Title>### Speech </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1797,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="992" UUID="3EF199FE-6CB3-4598-9D10-C0337D039659" Type="Text" Created="2016-05-16 13:09:58 -0400" Modified="2016-05-17 09:53:50 -0400">
-                            <Title>### Sociality </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>755,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="993" UUID="98FA6042-C9A0-40CE-8FBA-B08F8B37770A" Type="Text" Created="2016-05-16 13:10:05 -0400" Modified="2016-05-17 09:53:50 -0400">
-                            <Title>### Rational practice </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>18323,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="994" UUID="93F5F0C6-6C1A-4DF7-AD06-F01BB0F01B23" Type="Text" Created="2016-05-16 13:10:10 -0400" Modified="2016-05-17 09:53:50 -0400">
-                            <Title>### Creation </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>825,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="995" UUID="0DB36052-E244-4C28-95EE-738E51DA9D8A" Type="Text" Created="2016-05-16 13:56:36 -0400" Modified="2016-05-17 09:53:50 -0400">
-                            <Title>### Potential</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>3883,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="998" UUID="ADF3467C-C151-4E41-AE7A-28EEB8A72AAC" Type="Text" Created="2016-05-17 09:02:28 -0400" Modified="2016-05-18 10:34:18 -0400">
-                            <Title>### Summary </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>4142,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="996" UUID="451B697A-E551-4C9B-AFCD-609C72684825" Type="Text" Created="2016-05-16 14:00:23 -0400" Modified="2016-05-17 09:53:50 -0400">
-                            <Title>## Discussion</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>109,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="999" UUID="6BCCF89D-7D77-4E63-8A32-6AE21B0B431F" Type="Text" Created="2016-05-17 09:14:24 -0400" Modified="2016-05-18 10:32:13 -0400">
-                            <Title>### No human nature </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>7741,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="1002" UUID="CA992FE7-09BA-427B-80E3-32A76CA73131" Type="Text" Created="2016-05-17 09:52:49 -0400" Modified="2016-05-18 11:19:16 -0400">
-                            <Title>### Human Nature response</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>11410,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="917" UUID="A4F3DFE9-7D2D-4F22-86BE-79C35BBE2123" Type="Text" Created="2016-05-13 13:49:05 -0400" Modified="2016-05-18 11:46:56 -0400">
-                            <Title>Conclusion</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1186,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="923" UUID="50C98457-5931-4D22-97F9-D0A66A047188" Type="Text" Created="2016-05-13 14:18:21 -0400" Modified="2016-05-13 14:33:18 -0400">
-                    <Title>Virtue Criteria</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>9583,937</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="927" UUID="6B804882-D838-4A71-977F-0DF2EC7A756E" Type="Text" Created="2016-05-13 14:22:35 -0400" Modified="2016-05-13 14:22:39 -0400">
-                            <Title>Introduction</Title>
+                        <BinderItem ID="959" UUID="A54931A6-1866-4682-BBE7-D22F9EC2A501" Type="Text" Created="2016-05-13 15:03:15 -0400" Modified="2016-05-13 15:03:18 -0400">
+                            <Title>Virtue and Tradition</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -196,613 +237,131 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="1004" UUID="9ADDB554-9251-4AD8-B4AA-6553AC4CFE36" Type="Text" Created="2016-05-18 10:31:18 -0400" Modified="2016-05-18 11:47:21 -0400">
-                            <Title>## The Application to Ethics </Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2694,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="1008" UUID="01AEABEC-E800-472C-838F-5F0071EE017C" Type="Text" Created="2016-05-18 11:47:42 -0400" Modified="2016-05-18 14:30:50 -0400">
-                            <Title>## Criteria</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>13,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="1007" UUID="98475179-D57D-42D4-9737-DA930AE6814E" Type="Text" Created="2016-05-18 11:45:47 -0400" Modified="2016-05-18 11:46:00 -0400">
-                            <Title>Dependent Rational Animals</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>6022,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="929" UUID="379E16D1-75FD-4D1E-90AD-5DDD215B4C99" Type="Text" Created="2016-05-13 14:22:50 -0400" Modified="2016-05-13 14:22:54 -0400">
-                            <Title>Conclusion</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="924" UUID="CD9442E7-BFF9-4C4E-B06A-BD61A9D97460" Type="Text" Created="2016-05-13 14:18:25 -0400" Modified="2016-05-13 14:52:42 -0400">
-                    <Title>Virtue Content</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>17,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="933" UUID="E72D47FC-1690-44B2-83DB-73D22E79BB21" Type="Text" Created="2016-05-13 14:35:29 -0400" Modified="2016-05-13 16:32:09 -0400">
-                            <Title>Introduction</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="931" UUID="067FA76E-64C3-4021-8973-0E8BBF043259" Type="Text" Created="2016-05-13 14:35:15 -0400" Modified="2016-05-13 22:04:45 -0400">
+                        <BinderItem ID="935" UUID="7DD501B1-EC00-4A86-BE24-D34665464EFD" Type="Text" Created="2016-05-13 14:35:49 -0400" Modified="2016-05-13 14:35:50 -0400">
                             <Title>Body</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>9015,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="952" UUID="740BF5CF-7470-4BBF-B6D7-6E0F1151FE69" Type="Text" Created="2016-05-13 14:52:10 -0400" Modified="2016-05-13 15:04:35 -0400">
-                                    <Title>1 Beneficial by Definition</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="968" UUID="07DAFF7B-D484-4B45-A54D-EDE23F3584A5" Type="Text" Created="2016-05-13 15:09:11 -0400" Modified="2016-05-13 15:12:40 -0400">
-                                            <Title>Foot copy</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="969" UUID="67EF6FF4-D7A8-4904-AFAF-3599C776D0D3" Type="Text" Created="2016-05-13 15:09:14 -0400" Modified="2016-05-13 15:12:53 -0400">
-                                            <Title>Macintyre copy</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>3934,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="970" UUID="D376698A-E66D-41AA-A72C-0833F505885A" Type="Text" Created="2016-05-13 15:09:16 -0400" Modified="2016-05-13 15:09:18 -0400">
-                                            <Title>McDowell copy</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="947" UUID="7684FF32-F36B-4777-8538-4787DD6794BE" Type="Text" Created="2016-05-13 14:47:25 -0400" Modified="2016-05-13 14:47:59 -0400">
-                                            <Title>Empty definition</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>296,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem ID="960" UUID="160BB0A1-34A8-436A-9158-1C2F390599DB" Type="Text" Created="2016-05-13 15:06:51 -0400" Modified="2016-05-13 15:09:26 -0400">
-                                    <Title>2 Practical</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="964" UUID="BD1A03FB-41F1-4AC2-A38F-66972D73540B" Type="Text" Created="2016-05-13 15:09:11 -0400" Modified="2016-05-13 15:09:13 -0400">
-                                            <Title>Foot</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="965" UUID="4AD7F466-6AD4-4F47-899C-4D9D5575FCBE" Type="Text" Created="2016-05-13 15:09:14 -0400" Modified="2016-05-13 15:19:06 -0400">
-                                            <Title>Macintyre</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,9666</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="966" UUID="AAA700CF-EF10-4E80-9A59-EA4F5FBCC0A8" Type="Text" Created="2016-05-13 15:09:16 -0400" Modified="2016-05-13 15:15:21 -0400">
-                                            <Title>McDowell</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>1,269</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem ID="940" UUID="95E2AEF9-9D30-4CBF-A427-9A30E720DDC0" Type="Text" Created="2016-05-13 14:46:26 -0400" Modified="2016-05-13 15:09:00 -0400">
-                                    <Title>2 Acquirable, more than strength</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="951" UUID="E8A94AC9-21ED-44F8-98E2-DD97F987BBE6" Type="Text" Created="2016-05-13 14:50:18 -0400" Modified="2016-05-13 14:50:25 -0400">
-                                            <Title>INBORN</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>3564,351</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="955" UUID="15B55C85-4762-4C92-8FE4-61CC0CCBED84" Type="Text" Created="2016-05-13 14:56:27 -0400" Modified="2016-05-13 15:09:00 -0400">
-                                            <Title>Macintyre's first stage</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="953" UUID="B787B4F1-0823-4410-835C-225A011EE3F5" Type="Text" Created="2016-05-13 14:53:19 -0400" Modified="2016-05-13 14:53:45 -0400">
-                                            <Title>More than Luck</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>212,890</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="943" UUID="2DB65476-F52D-4B4C-8115-7FBF4716D5C7" Type="Text" Created="2016-05-13 14:47:08 -0400" Modified="2016-05-13 14:56:13 -0400">
-                                            <Title>Moral Luck Objection</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>696,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="963" UUID="E2FA239F-857F-4BC0-B8DA-F5D17A0A55A9" Type="Text" Created="2016-05-13 15:08:38 -0400" Modified="2016-05-13 15:09:00 -0400">
-                                            <Title>Acquirable</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="1005" UUID="5BBF2DEC-7F3A-4C94-B2E6-965B4882B79E" Type="Text" Created="2016-05-18 11:36:11 -0400" Modified="2016-05-18 11:36:17 -0400">
-                                            <Title>whole life</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>6284,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem ID="956" UUID="CD0CFFAB-53DD-485A-BB4F-022207BE659D" Type="Text" Created="2016-05-13 14:57:01 -0400" Modified="2016-05-13 15:04:44 -0400">
-                                    <Title>3 Corrective</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="971" UUID="CB41A6D0-A3F9-46FF-8361-1A6C0958FC4E" Type="Text" Created="2016-05-13 15:09:11 -0400" Modified="2016-05-13 15:18:17 -0400">
-                                            <Title>Foot copy</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>63,152</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="972" UUID="5FCC0BCD-F501-4B78-8CE2-C8FB1204097F" Type="Text" Created="2016-05-13 15:09:14 -0400" Modified="2016-05-13 15:09:16 -0400">
-                                            <Title>Macintyre copy</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="973" UUID="043B5DE0-6E89-455F-8008-A71886A376D0" Type="Text" Created="2016-05-13 15:09:16 -0400" Modified="2016-05-13 15:09:18 -0400">
-                                            <Title>McDowell copy</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem ID="961" UUID="9C6F6C71-0B56-4B08-814D-E90FBE70AADC" Type="Text" Created="2016-05-13 15:06:57 -0400" Modified="2016-05-13 15:07:01 -0400">
-                                    <Title>6 Whole life</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="974" UUID="BDCBA4C7-8601-42D3-8F1F-F50A8E28FECF" Type="Text" Created="2016-05-13 15:09:11 -0400" Modified="2016-05-13 15:09:13 -0400">
-                                            <Title>Foot copy-1</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="975" UUID="7F69A1B1-37E8-41BC-AC17-3724822D40E4" Type="Text" Created="2016-05-13 15:09:14 -0400" Modified="2016-05-13 15:10:58 -0400">
-                                            <Title>Macintyre copy-1</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>364,18</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="976" UUID="6D4A7ED0-D469-42E4-9046-F34DB01D40C6" Type="Text" Created="2016-05-13 15:09:16 -0400" Modified="2016-05-13 15:20:52 -0400">
-                                            <Title>McDowell copy-1</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>1796,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem ID="962" UUID="EB3EFC10-9FAA-4EA1-B087-CF1DA5DAD255" Type="Text" Created="2016-05-13 15:07:01 -0400" Modified="2016-05-13 15:19:29 -0400">
-                                    <Title>7 a kind of knowledge</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="941" UUID="944A0B70-75FC-45CE-AF1F-6F849547418A" Type="Text" Created="2016-05-13 14:46:37 -0400" Modified="2016-05-13 14:51:09 -0400">
-                                            <Title>Unified Plurality</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>8373,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="977" UUID="2BE777CE-BE43-414D-A083-7BA202BAB5CC" Type="Text" Created="2016-05-13 15:09:11 -0400" Modified="2016-05-13 15:11:07 -0400">
-                                            <Title>Foot copy-1</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="978" UUID="014CA96D-B018-4C89-A30F-295D4D015B81" Type="Text" Created="2016-05-13 15:09:14 -0400" Modified="2016-05-13 15:12:02 -0400">
-                                            <Title>Macintyre copy-1</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>2052,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="979" UUID="D41456CE-56C2-46C8-8760-1EB6F3C200A2" Type="Text" Created="2016-05-13 15:09:16 -0400" Modified="2016-05-13 15:20:52 -0400">
-                                            <Title>McDowell copy-1</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>11060,5574</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem ID="942" UUID="F4D5D9D8-4DDE-4FDA-873B-007A7EEB75E2" Type="Text" Created="2016-05-13 14:46:53 -0400" Modified="2016-05-13 15:07:28 -0400">
-                                    <Title>Objections</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="944" UUID="81DD2FB7-5981-42CA-99A4-F94D7DBB6108" Type="Text" Created="2016-05-13 14:47:17 -0400" Modified="2016-05-13 14:47:33 -0400">
-                                            <Title>Elitism</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>902,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="946" UUID="8EF5DE61-CD0F-4984-AF69-16B106B43289" Type="Text" Created="2016-05-13 14:47:23 -0400" Modified="2016-05-13 14:48:16 -0400">
-                                            <Title>Hypothetical imperative objection</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>475,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem ID="950" UUID="511D1FF5-C749-4859-9862-973AC213E44B" Type="Text" Created="2016-05-13 14:50:08 -0400" Modified="2016-05-13 14:50:38 -0400">
-                                            <Title>Egoism</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>729,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem ID="932" UUID="6210579B-7A55-4298-B128-968443AEA6A2" Type="Text" Created="2016-05-13 14:35:26 -0400" Modified="2016-05-13 14:51:26 -0400">
-                                    <Title>Conclusion</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="986" UUID="E05EFFCD-21C1-4405-9FB7-750C0A0732EB" Type="Text" Created="2016-05-13 16:31:49 -0400" Modified="2016-05-13 16:32:27 -0400">
-                                    <Title>Conclusion 3</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>5452,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="949" UUID="37351670-B02E-42F1-873F-66ECFD29B26C" Type="Text" Created="2016-05-13 14:48:40 -0400" Modified="2016-05-13 15:30:36 -0400">
-                    <Title>Reason 1 definitions and problems</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="937" UUID="EA4402B3-783C-49A0-9695-E10EC173A1C4" Type="Text" Created="2016-05-13 14:37:45 -0400" Modified="2016-05-13 14:38:10 -0400">
-                            <Title>Introduction</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="934" UUID="C2644225-7E5E-40A3-8068-E2DAA257651F" Type="Text" Created="2016-05-13 14:35:41 -0400" Modified="2016-05-13 14:38:27 -0400">
-                            <Title>Body</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1211,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="922" UUID="3D8A2B4A-C8DB-4506-B4FA-4E98137D9131" Type="Text" Created="2016-05-13 14:15:32 -0400" Modified="2016-05-13 15:25:16 -0400">
-                            <Title>Reason 4 the definition of reason</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>9583,937</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="959" UUID="A54931A6-1866-4682-BBE7-D22F9EC2A501" Type="Text" Created="2016-05-13 15:03:15 -0400" Modified="2016-05-13 15:03:18 -0400">
-                                    <Title>Virtue and Tradition</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="935" UUID="7DD501B1-EC00-4A86-BE24-D34665464EFD" Type="Text" Created="2016-05-13 14:35:49 -0400" Modified="2016-05-13 14:35:50 -0400">
-                                    <Title>Body</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="981" UUID="0661DF42-1F1B-4BE0-957B-444B65A0F13B" Type="Text" Created="2016-05-13 15:24:51 -0400" Modified="2016-05-13 15:25:18 -0400">
-                    <Title>Reason 2 Irrelevance</Title>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="941" UUID="944A0B70-75FC-45CE-AF1F-6F849547418A" Type="Text" Created="2016-05-13 14:46:37 -0400" Modified="2016-05-19 11:23:34 -0400">
+            <Title>Unified Plurality</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>616,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="981" UUID="0661DF42-1F1B-4BE0-957B-444B65A0F13B" Type="Text" Created="2016-05-13 15:24:51 -0400" Modified="2016-05-13 15:25:18 -0400">
+            <Title>Reason 2 Irrelevance</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>687,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="1001" UUID="D2814E88-CA38-4C9D-8714-BDBE36D71A5B" Type="Text" Created="2016-05-17 09:42:53 -0400" Modified="2016-05-17 09:43:40 -0400">
+            <Title>Irrelevance</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>32761,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="980" UUID="25B3B01B-D59D-4EF2-B9C9-D167F7816104" Type="Text" Created="2016-05-13 15:23:16 -0400" Modified="2016-05-13 15:25:10 -0400">
+            <Title>Reason 3 biology not needed</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>2250,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="945" UUID="F0959E3B-C732-4E7E-9690-D1BAFADFFAC9" Type="Text" Created="2016-05-13 14:47:22 -0400" Modified="2016-05-13 15:26:10 -0400">
+            <Title>Reason Polyana</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,3294</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="948" UUID="9BC46D47-C65B-4998-B5E5-C63DB259CB0D" Type="Text" Created="2016-05-13 14:48:21 -0400" Modified="2016-05-13 15:26:37 -0400">
+            <Title>Reason 5 Tradition Relativism</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>638,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="982" UUID="167A5449-3DC4-4502-BAAE-8819FAF992E5" Type="Text" Created="2016-05-13 15:26:34 -0400" Modified="2016-05-13 15:26:49 -0400">
+            <Title>Reason and Nature</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="921" UUID="AB81142F-7BB9-4C89-8227-43D85B05C9FD" Type="Text" Created="2016-05-13 14:15:10 -0400" Modified="2016-05-13 14:15:23 -0400">
+            <Title>Wisdom</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>210,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="984" UUID="4252D040-08B2-4A9A-A3AA-F6C655DF39F3" Type="Text" Created="2016-05-13 15:30:46 -0400" Modified="2016-05-13 15:30:52 -0400">
+                    <Title>Outline</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>687,0</TextSelection>
+                        <TextSelection>2443,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="1001" UUID="D2814E88-CA38-4C9D-8714-BDBE36D71A5B" Type="Text" Created="2016-05-17 09:42:53 -0400" Modified="2016-05-17 09:43:40 -0400">
-                    <Title>Irrelevance</Title>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="920" UUID="21488508-2D70-4220-8A2B-9C2C5763944B" Type="Text" Created="2016-05-13 14:14:44 -0400" Modified="2016-05-13 14:15:09 -0400">
+            <Title>Flourishing</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>146967,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="985" UUID="3A60AACC-2D1E-4F72-807E-E12C51C8CD6B" Type="Text" Created="2016-05-13 15:30:58 -0400" Modified="2016-05-13 15:31:19 -0400">
+                    <Title>Outline</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>32761,0</TextSelection>
+                        <TextSelection>737,0</TextSelection>
                     </TextSettings>
-                </BinderItem>
-                <BinderItem ID="980" UUID="25B3B01B-D59D-4EF2-B9C9-D167F7816104" Type="Text" Created="2016-05-13 15:23:16 -0400" Modified="2016-05-13 15:25:10 -0400">
-                    <Title>Reason 3 biology not needed</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>2250,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="945" UUID="F0959E3B-C732-4E7E-9690-D1BAFADFFAC9" Type="Text" Created="2016-05-13 14:47:22 -0400" Modified="2016-05-13 15:26:10 -0400">
-                    <Title>Reason Polyana</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,3294</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="948" UUID="9BC46D47-C65B-4998-B5E5-C63DB259CB0D" Type="Text" Created="2016-05-13 14:48:21 -0400" Modified="2016-05-13 15:26:37 -0400">
-                    <Title>Reason 5 Tradition Relativism</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>638,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="982" UUID="167A5449-3DC4-4502-BAAE-8819FAF992E5" Type="Text" Created="2016-05-13 15:26:34 -0400" Modified="2016-05-13 15:26:49 -0400">
-                    <Title>Reason and Nature</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="921" UUID="AB81142F-7BB9-4C89-8227-43D85B05C9FD" Type="Text" Created="2016-05-13 14:15:10 -0400" Modified="2016-05-13 14:15:23 -0400">
-                    <Title>Wisdom</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>210,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="984" UUID="4252D040-08B2-4A9A-A3AA-F6C655DF39F3" Type="Text" Created="2016-05-13 15:30:46 -0400" Modified="2016-05-13 15:30:52 -0400">
-                            <Title>Outline</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2443,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="920" UUID="21488508-2D70-4220-8A2B-9C2C5763944B" Type="Text" Created="2016-05-13 14:14:44 -0400" Modified="2016-05-13 14:15:09 -0400">
-                    <Title>Flourishing</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>146967,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="985" UUID="3A60AACC-2D1E-4F72-807E-E12C51C8CD6B" Type="Text" Created="2016-05-13 15:30:58 -0400" Modified="2016-05-13 15:31:19 -0400">
-                            <Title>Outline</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>737,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -813,8 +372,60 @@
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <TextSettings>
+                <TextSelection>1855,301</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="1014" UUID="13EC5307-3FD6-4FFD-B2E0-4018BAFB5FF6" Type="Text" Created="2016-05-19 08:59:02 -0400" Modified="2016-05-19 08:59:06 -0400">
+            <Title>5 notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
+            <Children>
+                <BinderItem ID="932" UUID="6210579B-7A55-4298-B128-968443AEA6A2" Type="Text" Created="2016-05-13 14:35:26 -0400" Modified="2016-05-18 17:56:23 -0400">
+                    <Title>Conclusion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5246,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="986" UUID="E05EFFCD-21C1-4405-9FB7-750C0A0732EB" Type="Text" Created="2016-05-13 16:31:49 -0400" Modified="2016-05-18 18:00:08 -0400">
+                    <Title>Conclusion 3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4035,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1013" UUID="2382FA54-7816-4466-929C-D682BD2C328B" Type="Text" Created="2016-05-18 18:00:03 -0400" Modified="2016-05-19 11:10:58 -0400">
+                    <Title>### An overview Dependent Rational Animals</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>327,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1015" UUID="12842537-7CF0-4C87-87C2-C70C98E5F5C8" Type="Text" Created="2016-05-19 11:27:32 -0400" Modified="2016-05-19 11:37:09 -0400">
+                    <Title>Can virtue go bad</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3671,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem ID="82" UUID="F18801D7-23FD-40D9-B885-D5E1C4F3794C" Type="Text" Created="2015-05-15 13:41:04 -0400" Modified="2015-06-22 11:27:07 -0400">
             <Title>Now Reading</Title>
@@ -10404,6 +10015,458 @@ McDowell</Title>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="929" UUID="379E16D1-75FD-4D1E-90AD-5DDD215B4C99" Type="Text" Created="2016-05-13 14:22:50 -0400" Modified="2016-05-13 14:22:54 -0400">
+                    <Title>Conclusion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="933" UUID="E72D47FC-1690-44B2-83DB-73D22E79BB21" Type="Text" Created="2016-05-13 14:35:29 -0400" Modified="2016-05-18 15:13:09 -0400">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="970" UUID="D376698A-E66D-41AA-A72C-0833F505885A" Type="Text" Created="2016-05-13 15:09:16 -0400" Modified="2016-05-13 15:09:18 -0400">
+                    <Title>McDowell copy</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="968" UUID="07DAFF7B-D484-4B45-A54D-EDE23F3584A5" Type="Text" Created="2016-05-13 15:09:11 -0400" Modified="2016-05-18 15:15:18 -0400">
+                    <Title>Foot copy</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="969" UUID="67EF6FF4-D7A8-4904-AFAF-3599C776D0D3" Type="Text" Created="2016-05-13 15:09:14 -0400" Modified="2016-05-18 15:27:48 -0400">
+                    <Title>Macintyre copy</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="947" UUID="7684FF32-F36B-4777-8538-4787DD6794BE" Type="Text" Created="2016-05-13 14:47:25 -0400" Modified="2016-05-18 15:27:48 -0400">
+                    <Title>Empty definition</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="924" UUID="CD9442E7-BFF9-4C4E-B06A-BD61A9D97460" Type="Text" Created="2016-05-13 14:18:25 -0400" Modified="2016-05-18 15:13:31 -0400">
+                    <Title>Virtue 2 content</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="931" UUID="067FA76E-64C3-4021-8973-0E8BBF043259" Type="Text" Created="2016-05-13 14:35:15 -0400" Modified="2016-05-18 15:12:51 -0400">
+                            <Title>Body</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="927" UUID="6B804882-D838-4A71-977F-0DF2EC7A756E" Type="Text" Created="2016-05-13 14:22:35 -0400" Modified="2016-05-18 19:51:42 -0400">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="913" UUID="882D0C33-3B69-4030-BB8A-D053271F229B" Type="Text" Created="2016-05-13 13:41:52 -0400" Modified="2016-05-13 13:48:35 -0400">
+                    <Title>May</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="923" UUID="50C98457-5931-4D22-97F9-D0A66A047188" Type="Text" Created="2016-05-13 14:18:21 -0400" Modified="2016-05-18 14:59:25 -0400">
+                    <Title>Virtue 1 criteria</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1010" UUID="486C9172-C975-4AE7-A703-3292BE06B54B" Type="Text" Created="2016-05-18 14:33:50 -0400" Modified="2016-05-19 08:41:31 -0400">
+                    <Title>### Excellence </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>16,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1007" UUID="98475179-D57D-42D4-9737-DA930AE6814E" Type="Text" Created="2016-05-18 11:45:47 -0400" Modified="2016-05-18 17:59:46 -0400">
+                    <Title>### An overview</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1009" UUID="4BC7BF76-8915-4FE8-92B0-FD69ED6BC292" Type="Text" Created="2016-05-18 14:33:43 -0400" Modified="2016-05-19 08:54:10 -0400">
+                    <Title>### Beatific and Miserific exemplars </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1008" UUID="01AEABEC-E800-472C-838F-5F0071EE017C" Type="Text" Created="2016-05-18 11:47:42 -0400" Modified="2016-05-19 08:54:10 -0400">
+                    <Title>## Criteria</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1012" UUID="DF343A57-68AF-4177-A862-1F29376B92FE" Type="Text" Created="2016-05-18 17:56:50 -0400" Modified="2016-05-19 10:11:24 -0400">
+                    <Title>### Empty Definition Objection </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="952" UUID="740BF5CF-7470-4BBF-B6D7-6E0F1151FE69" Type="Text" Created="2016-05-13 14:52:10 -0400" Modified="2016-05-19 10:01:12 -0400">
+                    <Title>1 Beneficial by Definition</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="960" UUID="160BB0A1-34A8-436A-9158-1C2F390599DB" Type="Text" Created="2016-05-13 15:06:51 -0400" Modified="2016-05-19 11:08:12 -0400">
+                    <Title>2 Practical</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="964" UUID="BD1A03FB-41F1-4AC2-A38F-66972D73540B" Type="Text" Created="2016-05-13 15:09:11 -0400" Modified="2016-05-13 15:09:13 -0400">
+                            <Title>Foot</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="965" UUID="4AD7F466-6AD4-4F47-899C-4D9D5575FCBE" Type="Text" Created="2016-05-13 15:09:14 -0400" Modified="2016-05-18 18:12:10 -0400">
+                            <Title>Macintyre</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="956" UUID="CD0CFFAB-53DD-485A-BB4F-022207BE659D" Type="Text" Created="2016-05-13 14:57:01 -0400" Modified="2016-05-18 18:10:37 -0400">
+                    <Title>1b Corrective</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="971" UUID="CB41A6D0-A3F9-46FF-8361-1A6C0958FC4E" Type="Text" Created="2016-05-13 15:09:11 -0400" Modified="2016-05-18 18:02:46 -0400">
+                            <Title>Foot copy</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="972" UUID="5FCC0BCD-F501-4B78-8CE2-C8FB1204097F" Type="Text" Created="2016-05-13 15:09:14 -0400" Modified="2016-05-13 15:09:16 -0400">
+                            <Title>Macintyre copy</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="973" UUID="043B5DE0-6E89-455F-8008-A71886A376D0" Type="Text" Created="2016-05-13 15:09:16 -0400" Modified="2016-05-19 10:54:21 -0400">
+                            <Title>McDowell copy</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="966" UUID="AAA700CF-EF10-4E80-9A59-EA4F5FBCC0A8" Type="Text" Created="2016-05-13 15:09:16 -0400" Modified="2016-05-19 11:11:28 -0400">
+                    <Title>McDowell</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="974" UUID="BDCBA4C7-8601-42D3-8F1F-F50A8E28FECF" Type="Text" Created="2016-05-13 15:09:11 -0400" Modified="2016-05-13 15:09:13 -0400">
+                    <Title>Foot copy-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="940" UUID="95E2AEF9-9D30-4CBF-A427-9A30E720DDC0" Type="Text" Created="2016-05-13 14:46:26 -0400" Modified="2016-05-18 14:58:20 -0400">
+                    <Title>2b Acquirable, more than strength</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="951" UUID="E8A94AC9-21ED-44F8-98E2-DD97F987BBE6" Type="Text" Created="2016-05-13 14:50:18 -0400" Modified="2016-05-19 11:14:50 -0400">
+                            <Title>INBORN</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="955" UUID="15B55C85-4762-4C92-8FE4-61CC0CCBED84" Type="Text" Created="2016-05-13 14:56:27 -0400" Modified="2016-05-18 18:13:23 -0400">
+                            <Title>Macintyre's first stage</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="953" UUID="B787B4F1-0823-4410-835C-225A011EE3F5" Type="Text" Created="2016-05-13 14:53:19 -0400" Modified="2016-05-18 18:13:23 -0400">
+                            <Title>More than Luck</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>212,890</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="943" UUID="2DB65476-F52D-4B4C-8115-7FBF4716D5C7" Type="Text" Created="2016-05-13 14:47:08 -0400" Modified="2016-05-19 11:14:19 -0400">
+                            <Title>Moral Luck Objection</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>696,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="963" UUID="E2FA239F-857F-4BC0-B8DA-F5D17A0A55A9" Type="Text" Created="2016-05-13 15:08:38 -0400" Modified="2016-05-19 11:14:07 -0400">
+                            <Title>Acquirable</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="942" UUID="F4D5D9D8-4DDE-4FDA-873B-007A7EEB75E2" Type="Text" Created="2016-05-13 14:46:53 -0400" Modified="2016-05-13 15:07:28 -0400">
+                    <Title>Objections</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1005" UUID="5BBF2DEC-7F3A-4C94-B2E6-965B4882B79E" Type="Text" Created="2016-05-18 11:36:11 -0400" Modified="2016-05-19 11:14:50 -0400">
+                    <Title>whole life</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="961" UUID="9C6F6C71-0B56-4B08-814D-E90FBE70AADC" Type="Text" Created="2016-05-13 15:06:57 -0400" Modified="2016-05-18 14:58:23 -0400">
+                    <Title>2c Whole life</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="975" UUID="7F69A1B1-37E8-41BC-AC17-3724822D40E4" Type="Text" Created="2016-05-13 15:09:14 -0400" Modified="2016-05-19 11:19:21 -0400">
+                            <Title>Macintyre copy-1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9766,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="976" UUID="6D4A7ED0-D469-42E4-9046-F34DB01D40C6" Type="Text" Created="2016-05-13 15:09:16 -0400" Modified="2016-05-19 11:14:59 -0400">
+                            <Title>McDowell copy-1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="978" UUID="014CA96D-B018-4C89-A30F-295D4D015B81" Type="Text" Created="2016-05-13 15:09:14 -0400" Modified="2016-05-18 18:16:35 -0400">
+                    <Title>Macintyre copy-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,2053</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="962" UUID="EB3EFC10-9FAA-4EA1-B087-CF1DA5DAD255" Type="Text" Created="2016-05-13 15:07:01 -0400" Modified="2016-05-18 14:58:26 -0400">
+                    <Title>3 a kind of knowledge</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="977" UUID="2BE777CE-BE43-414D-A083-7BA202BAB5CC" Type="Text" Created="2016-05-13 15:09:11 -0400" Modified="2016-05-19 11:26:35 -0400">
+                            <Title>Foot copy-1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="979" UUID="D41456CE-56C2-46C8-8760-1EB6F3C200A2" Type="Text" Created="2016-05-13 15:09:16 -0400" Modified="2016-05-19 11:25:48 -0400">
+                            <Title>McDowell copy-1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="944" UUID="81DD2FB7-5981-42CA-99A4-F94D7DBB6108" Type="Text" Created="2016-05-13 14:47:17 -0400" Modified="2016-05-19 11:29:08 -0400">
+                    <Title>Elitism</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>53,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="946" UUID="8EF5DE61-CD0F-4984-AF69-16B106B43289" Type="Text" Created="2016-05-13 14:47:23 -0400" Modified="2016-05-19 11:33:03 -0400">
+                    <Title>Hypothetical imperative objection</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>218,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="950" UUID="511D1FF5-C749-4859-9862-973AC213E44B" Type="Text" Created="2016-05-13 14:50:08 -0400" Modified="2016-05-18 17:56:23 -0400">
+                    <Title>Egoism</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>351,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -10413,7 +10476,7 @@ McDowell</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">chapter 16</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">affability</SearchSettings>
         </Collection>
         <Collection Type="Arbitrary" ID="69E55ED7-2213-4D4B-926B-E167EB17D7F2" Color="0.962712 0.843627 0.714212">
             <Title>Virtue</Title>
@@ -10549,7 +10612,7 @@ McDowell</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-05-18 09:43:40 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-05-19 10:37:19 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
