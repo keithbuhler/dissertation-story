@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-05-27 21:59:46 -0400" ModID="66381BA9-F088-4E32-9361-3B963050A65B">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-05-29 22:10:29 -0400" ModID="FD975780-2382-4D33-AFB7-2608C5A84F9B">
     <Binder>
         <BinderItem ID="1096" UUID="5459406B-9490-4475-8188-1522CCE02A5C" Type="Text" Created="2015-06-07 09:24:20 -0400" Modified="2016-05-27 10:27:33 -0400">
             <Title>May</Title>
@@ -37,14 +37,14 @@
                         <TextSelection>152,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="1016" UUID="3A3151DC-65E2-4F9A-BBF4-EF9F4630777F" Type="Text" Created="2016-05-21 09:36:37 -0400" Modified="2016-05-27 10:30:17 -0400">
+                <BinderItem ID="1016" UUID="3A3151DC-65E2-4F9A-BBF4-EF9F4630777F" Type="Text" Created="2016-05-21 09:36:37 -0400" Modified="2016-05-29 22:10:29 -0400">
                     <Title>3 Practical, Rational Animals</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>426,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="1004" UUID="9ADDB554-9251-4AD8-B4AA-6553AC4CFE36" Type="Text" Created="2016-05-18 10:31:18 -0400" Modified="2016-05-27 21:56:44 -0400">
@@ -74,7 +74,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>217,0</TextSelection>
+                        <TextSelection>419,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="1153" UUID="A651FEEB-3089-47D4-9D10-AB64AEC0EB08" Type="Text" Created="2016-05-27 14:49:56 -0400" Modified="2016-05-27 21:59:46 -0400">
@@ -84,7 +84,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>144,0</TextSelection>
+                        <TextSelection>240,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -12077,7 +12077,7 @@ McDowell</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-05-27 21:48:19 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-05-29 21:42:02 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
