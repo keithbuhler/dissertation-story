@@ -1,3 +1,10 @@
+
+Nature is full of kinds; sunflowers are not oxygen; stars are not organisms; lead is not gold; but ice and the sea and steam are all water. Natural kinds are distinguished from other kinds but gather up related entities. Zebras and horses and so on are all Equidae. Nature is also full of end-directed activity. Each thing does its own thing: sunflowers grow toward the sun, wolves hunt deer and deer flee wolves; hearts pump blood and eyes see; the sun warms the planet; phyoplankton oxygenates the atmosphere. Such processes are non-intentional end-directed processes.  Non-intentional processes are sometimes called 'teleonomic.' Teleonomic phenomena do not have a director but they do have a direction. 
+
+The explanations for kinds and their teleonomic phenomena are either realist, reductionist, or anti-realist. Realist explanations argue that kinds and their ends are what they seem to be: fundamental facts of nature. Reductionist or anti-realist explanations argue that kinds and their ends are not what they seem. The nihilist argues that kinds don't exist, there is only one thing; ends don't exist, there is only one mechanical kind of process. The reductionist argues that *some* kinds exist, but they do not correspond to our initial scientific categorization; and *some* end-directed teleonomic processes are real but it is reducible to non-end-directed processes. 
+
+
+
 # Wisdom: Excellent Practical Reasoning
 
 
