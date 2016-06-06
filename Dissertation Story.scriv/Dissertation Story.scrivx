@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-06-03 09:26:32 -0400" ModID="CE4BBD2E-836E-4CFE-8ECC-3CBE700FAD06">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-06-06 01:12:35 -0400" ModID="B81241A4-9FBD-4D2F-A260-7FBA533AB99F">
     <Binder>
         <BinderItem ID="1159" UUID="0D73750D-099F-46CC-B079-AE3F8AF7A455" Type="Text" Created="2015-06-07 09:24:20 -0400" Modified="2016-06-02 17:38:42 -0400">
             <Title>"Everything has to tell a story"</Title>
@@ -26,25 +26,37 @@
                     <TextSettings>
                         <TextSelection>2675,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="1175" UUID="3BF41811-01E3-4A53-91ED-52CC65A8B774" Type="Text" Created="2016-06-05 20:12:20 -0400" Modified="2016-06-06 00:04:43 -0400">
+                            <Title>1.2 two strategies for neo-Aristotelians</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>979,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
-                <BinderItem ID="1161" UUID="EB7659CA-CC65-4783-9FD1-4673854B397A" Type="Text" Created="2016-05-13 14:18:45 -0400" Modified="2016-06-03 09:26:32 -0400">
+                <BinderItem ID="1161" UUID="EB7659CA-CC65-4783-9FD1-4673854B397A" Type="Text" Created="2016-05-13 14:18:45 -0400" Modified="2016-06-06 00:57:59 -0400">
                     <Title>2 Natural Norms</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>222,0</TextSelection>
+                        <TextSelection>59495,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="1162" UUID="32DB9FC0-EE86-44A0-86B8-95AAFEB3D24B" Type="Text" Created="2016-05-21 09:36:37 -0400" Modified="2016-06-02 18:13:50 -0400">
+                <BinderItem ID="1162" UUID="32DB9FC0-EE86-44A0-86B8-95AAFEB3D24B" Type="Text" Created="2016-05-21 09:36:37 -0400" Modified="2016-06-06 01:12:35 -0400">
                     <Title>3 Practical Reasoning Animals</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>56175,0</TextSelection>
+                        <TextSelection>211,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="1163" UUID="4E50D273-98DA-4F38-8875-8AAC74A75F88" Type="Text" Created="2016-05-18 10:31:18 -0400" Modified="2016-06-02 18:15:46 -0400">
@@ -84,7 +96,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>30175,0</TextSelection>
+                        <TextSelection>28489,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="1167" UUID="011E56C6-0ACF-4894-A630-FB6744A224A0" Type="Text" Created="2016-06-02 17:38:54 -0400" Modified="2016-06-02 17:38:57 -0400">
@@ -7393,6 +7405,16 @@
                         <TextSelection>1774,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="1176" UUID="7E496909-E44C-46E1-A9AF-CFF5479D0220" Type="Text" Created="2016-06-06 00:04:54 -0400" Modified="2016-06-06 00:16:36 -0400">
+                    <Title>Lewens, Human Nature the Very Idea</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2799,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="364" UUID="D7241B0B-25C5-4E8B-A1C6-9A075EA89577" Type="Text" Created="2015-06-23 22:12:00 -0400" Modified="2015-08-19 09:46:33 -0400">
                     <Title>To Read or Skim- On Virtue and Theism</Title>
                     <MetaData>
@@ -12285,7 +12307,7 @@ McDowell</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-06-03 07:35:16 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-06-06 00:04:20 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
