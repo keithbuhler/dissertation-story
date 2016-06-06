@@ -1,3 +1,4 @@
+
 # Organic Normativity: Natural life forms and functions
 
 "Biology cannot, or at least in practice does not, eliminate functions and purposes."  --Mark Perlman, "The Modern Resurrection of Teleology in Biology", 6. \
