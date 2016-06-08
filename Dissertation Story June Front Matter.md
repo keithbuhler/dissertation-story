@@ -1,16 +1,17 @@
+
 \frontmatter
 
+
 \thispagestyle{empty}
+
 
 \begin{titlepage}
-
-\thispagestyle{empty}
 
 \par\vspace*{.1\textheight}
 
 \begin{center}
 
-VIRTUE, REASON, AND TELEOLOGY IN RECENT NEO-ARISTOTELIANISM
+THE POINT OF VIRTUE: NATURE, PRACTICAL REASON, AND TELEOLOGY IN RECENT NEO-ARISTOTELIANISM
 
 \par\vspace*{.08\textheight}
 
@@ -72,7 +73,7 @@ KEYWORDS: virtue, practical reason, teleology, neo-Aristotelianism, ethical natu
 
 \begin{center}
 
-VIRTUE, REASON, AND TELEOLOGY IN RECENT NEO-ARISTOTELIANISM
+THE POINT OF VIRTUE: NATURE, PRACTICAL REASON, AND TELEOLOGY IN RECENT NEO-ARISTOTELIANISM
 
 \par\vspace{.1\textheight}
 By
@@ -132,9 +133,9 @@ Dr. Mark Kightlinger
 
 \begin{center}
 
-Dedicated to Lindsay, who read every page and discussed every idea. You not only bore our children and bore our suffering away from home, but you bore these ideas first. You are my Diotema and my Socrates, oracle and midwife. As Chesterton said: "Oh, who shall understand but you; yea, who shall understand?"
+Dedicated to Lindsay. As Chesterton said: "Oh, who shall understand but you; yea, who shall understand?"
 
-KEDB, December, 2016
+KEDB, 2016
 
 \end{center}
 
@@ -164,7 +165,7 @@ ACKNOWLEDGMENTS
 
 \end{center}
 
-My thanks are owed to many people. Dr. David Bradshaw has been a teacher, mentor, and trusty guide from the beginning to end. Heraclitus says, "All things arise by strife", in which case Anita Superson has helped this project to arise. Dr. Gary Hartenburg's timely counsel helped me actually get in to graduate school, while Dr. John Mark Reynolds first encouraged me to become a philosopher. Dr. Alfred Geier became my intellectual godfather and guided me in the dialectic. Dr. Timothy Sundell pushed me to research in metaethics and although he moved on to greater things before the completion of this dissertation, I am grateful for his early advocacy. I was happy to discover that I have justified the suspicions of my late father, Dr. Rich Buhler, who secretly spread rumors that I would be the first person in the family with an earned doctorate. Dan Sheffler trained me, like his father trained him, in the ways of programming LaTeX; it is possible to learn this power, but not from a Jedi. The University of Kentucky Graduate School hosted a writing "boot camp" which helped people like me to focus and write intensively. The United Way of the Blue Grass "Back on Track" Program purchased me a laptop computer and thousands of dollars worth of books and supplies. 
+My thanks are owed to many people. Dr. David Bradshaw has been a teacher, mentor, and trusty guide from the beginning to end. Heraclitus says, "All things arise by strife", in which case Anita Superson has helped this project to arise. Dr. Gary Hartenburg's timely counsel helped me actually get in to graduate school, while Dr. John Mark Reynolds first encouraged me to become a philosopher. Dr. Alfred Geier became my intellectual godfather and guided me in the dialectic. Dr. Timothy Sundell pushed me to research in metaethics and although he moved on to greater things before the completion of this dissertation, I am grateful for his early advocacy. I was happy to discover that I have justified the suspicions of my late father, Dr. Rich Buhler, who secretly spread rumors that I would be the first person in the family with an earned doctorate. Dan Sheffler trained me, like his father trained him, in the ways of programming LaTeX; it is possible to learn this power, but not from a Jedi. The University of Kentucky Graduate School hosted a writing "boot camp" which helped people like me to focus and write intensively. The United Way of the Blue Grass "Back on Track" Program purchased me a laptop computer and thousands of dollars worth of books and supplies. The synergy of so many people, and more that I forgot to name, brought this project to fruition. 
 
 
 
@@ -179,10 +180,13 @@ My thanks are owed to many people. Dr. David Bradshaw has been a teacher, mentor
 
 \thispagestyle{plain}
 
-\par\vspace*{.10\textheight}
+\par\vspace*{.3\textheight}
 
-\epigraph{γένοι' οἷος ἐσσὶ μαθών.}{Pindar, *Pythian* 2, line 72.}
+\begin{center}
 
+γένοι' οἷος ἐσσὶ μαθών. -- Pindar, *Pythian* 2, line 72.
+
+\end{center}
 
 
 
@@ -193,27 +197,45 @@ My thanks are owed to many people. Dr. David Bradshaw has been a teacher, mentor
 
 
 \newpage
+
+Table of Contents
 
 \thispagestyle{plain}
 
 \tableofcontents
 
-\setcounter{tocdepth}{2}
+\setcounter{tocdepth}{3}
+
+
+
+
+
+
+
 
 \listoffigures
+
+
+
+
+
+
+
 
 \listoftables
 
 
 
+
+
 # List of Abbreviations
 
-MW = *Mind and World*
+Abbreviations. Lorum ipsum.
 
 
 # Glossary
 
-        LORUM ipsum.
+Glossary. Lorum ipsum.
 
 
 
@@ -230,17 +252,17 @@ MW = *Mind and World*
 
 
 
-# The Virtue Triangle
+# Introduction
 
-\epigraph{Not everything that is last claims to be an end, but only that which is best.}{Aristotle, Physics 194a 32–33.}
+# Natural Norms
 
-# Natural Norms: Organic normativity in life forms and functions
-
-\epigraph{Biology cannot, or at least in practice does not, eliminate functions and purposes.}{Mark Perlman, "The Modern Resurrection of Teleology in Biology", 6.}
+Biology cannot, or at least in practice does not, eliminate functions and purposes. — Mark Perlman, "The Modern Resurrection of Teleology in Biology", 6.
 
 ## Introduction
 
-This chapter argues that there are such things as natural norms. Normativity is to be found, in part, in nature, and not just in human evaluators. The instances of natural norms I shall posit are the life forms and natural functions of various species of organisms. The major alternative view to the one I defend is a view according to which nature is purely descriptive and non-normative. McDowell calls this picture of nature "bald nature" (i.e., bald of values, coldly factual, disenchanted from any supernatural esoterica, and so on) but I think a better term would be "Laplacian nature," since it more closely aligns with Pierre-Simon Laplace's mathematical and, I dare say, unscientific picture of nature. 
+This chapter argues that there are such things as natural norms. That is, normativity is to be found partly in nature, and not just in human evaluators. Examples of natural organic norms include natural life forms and functions of organisms or species. 
+
+The major alternative view to the one I defend is a view according to which nature is purely descriptive and non-normative. McDowell calls this picture of nature "bald nature" (i.e., bald of values, coldly factual, disenchanted from any supernatural esoterica, and so on) but I think a better term would be "Laplacian nature," since it more closely aligns with Pierre-Simon Laplace's mathematical and, I dare say, unscientific picture of nature. 
 
 Relying on the picture of bald or Laplacian nature, the major objection to ethical naturalism is the "is-ought gap." The is-ought gap is sometimes taken to be *the* problem for ethical naturalism. If ethical facts are real, what are they? Where are they? How can they motivate? If ethical facts are non-natural, then are they real or not? I do think the is-ought gap is a problem for some forms of naturalism. 
 
@@ -487,7 +509,7 @@ Establishing premise 1 has been our task in this chapter. Establishing premise 2
 
 # Practical Primates
 
-\epigraph{Human nature is normative, such that to be morally good is to fulfill one’s nature.}{Chris Toner, "Sorts of Naturalism", 221.}
+Human nature is normative, such that to be morally good is to fulfill one’s nature. — Chris Toner, "Sorts of Naturalism", 221.
 
 
 ## Introduction
@@ -575,7 +597,7 @@ What is the point of these reflections? I wish to point out just how much we can
 
 ### What is peculiar 
 
-Practical reason occupies a place of importance in the theories of many virtue ethicists. My primary sources among the neo-Aristotelians have each thematized practical reason in their own way.^[Cf. Especially @foot2001natural, chapter 4; @mcdowell1979virtue; @macintyre1988whose]  
+Practical reason occupies a place of importance in the theories of many virtue ethicists. My primary sources among the neo-Aristotelians have each thematized practical reason in their own way.^[Cf. Especially @foot2001natural, chapter 4; @mcdowell1979virtue; @macintyre1988whose.]  
 
 I shall use 'practical rationality' and 'practical reason' as synonymous. Warren Quinn uses 'practical reason' to mean the faculty and 'practical rationality' to mean the excellence use of the faculty. In a later chapter, I will contrast the faculty with 'practical wisdom', which is the excellence thereof.^[Cf. @quinn1992rationality] I will also defend a robust account of practical reason in relation to theoretical or speculative reason. For now, I shall only offer an initial exploration of what it means to say that human beings are primates who engage in practical reasoning. 
 
@@ -634,11 +656,9 @@ The first objection is simply that the search for human nature is hopeless becau
 
 >The concepts of unchanging essences and of complete discontinuities between every *eidos* (type) and all others make genuine evolutionary thinking impossible. I agree with those who claim that the essentialist philosophies of Aristotle and Plato are incompatible with evolutionary thinking.[@mayr1970populations 4]
 
-Arthur Ward is one who agrees with Mayr here. He argues that "naturalists should reject the idea of 'human nature,' and indeed should reject that any organism or its parts or operations has a nature, purpose, proper function, or the like."[@ward2013against 1] 
+Arthur Ward is one who agrees with Mayr here. He argues that "naturalists should reject the idea of 'human nature,' and indeed should reject that any organism or its parts or operations has a nature, purpose, proper function, or the like."[@ward2013against 1] I have already pointed out that rejecting all organic natures and purposes is not necessarily the only rational, scientific option; indeed, such a rejection seems to me to be motivated by philosophical materialism far more than it is motivated by any respect for actual biological science. Nevertheless, I cannot insist on the other hand that accepting organic natures and purposes is the *only* rational, scientific option. Rather, to the idea that there are no natural kinds, I can only give a general and unsatisfactory response. This dissertation cannot chase down the (justifiably important) conversation about realism and nominalism in natural kinds. However, the arguments of the previous chapter, built on the assumption of a minimal scientific realism, is enough to secure a fairly solid grounding for the notion of natural kinds. 
 
-To the idea that there are no natural kinds, I can only give a general and unsatisfactory response. This dissertation cannot chase down the (justifiably important) conversation about realism and nominalism in natural kinds. However, the arguments of the previous chapter, built on the assumption of a minimal scientific realism, is enough to secure a fairly solid grounding for the notion of natural kinds. 
-
-Relatedly, the second sort of critic accepts natural kinds but denies that these kinds have teleological features.  This reader would agree with Bernard Williams:   "The first and hardest lesson of Darwinism, that there is no such teleology at all, and that there is no orchestral score provided from anywhere according to which human beings have a special part to play, still has to find its way into ethical thought."[@williams2011ethics 44]
+A second sort of critic accepts natural kinds but denies that these kinds have teleological features.  This reader would agree with Bernard Williams:   "The first and hardest lesson of Darwinism, that there is no such teleology at all, and that there is no orchestral score provided from anywhere according to which human beings have a special part to play, still has to find its way into ethical thought."[@williams2011ethics 44]
 
 He says elsewhere:
 
@@ -728,15 +748,7 @@ The sort of naturalism(s) represented by Foot, Hursthouse, and McDowell aim to g
 
 
 
-# Rational Practices
 
-# Practical Reason
-
-# Natural Reasoning
-
-# Traditional Reasoning
-
-# Conclusions
 
 
 
@@ -773,124 +785,12 @@ The sort of naturalism(s) represented by Foot, Hursthouse, and McDowell aim to g
 \backmatter
 
 
-# Back Matter
-
 # Appendix
 
 # Bibligoraphy
 
 
 # Vita
-
-
-### [Curriculum Vitae](/Buhler-CV.pdf)
-Keith Buhler  
-Philosophy Dept., University of Kentucky    
-[keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-[http://www.keithbuhler.com](http://www.keithbuhler.com)  \  
-
-### RESEARCH
-AREAS OF SPECIALIZATION: Virtue Ethics, Metaethics       
-AREAS OF COMPETENCE: Plato and Aristotle, Philosophy of Religion, Philosophy of Mind, Bioethics  
-
-### DISSERTATION
-Title: *Virtue, Reason, and Teleology in Recent Neo-Aristotelianism*    
-Chair: David Bradshaw.   
-
-
-### EDUCATION
-
-2015-2017  &nbsp;&nbsp; Ph.D. Philosophy, University of Kentucky   (*in progress*)  
-2012-2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
-2008-2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
-2000-2004  &nbsp;&nbsp; B.A. Humanities, Biola University   
-
-
-### ACADEMIC POSITIONS
-2014 - present &nbsp;&nbsp;Instructor, Philosophy Department, Asbury University  
-2012 - present &nbsp;&nbsp; Teaching Assistant, Philosophy Department, University of Kentucky  
-
-
-### PRESENTATIONS
-2016 &nbsp;&nbsp; "The Cosmic Question": Teleology without Theology in Thomas Nagel's *Mind and Cosmos*  San Diego, CA.   
-2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Kung Fu Panda and the Great and Powerful Oz”, Faith and Film Conference, Baylor University, TX.       
-2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Against Inductive Arguments,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
-2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference, TX.  
-2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy, SC;  Midsouth Philosophy Conference, MI.  
-
-
-### COURSES TAUGHT 
-
-**University of Kentucky**  
-2016 &nbsp;&nbsp; Upper Division Business Ethics  
-2015-16 &nbsp;&nbsp; Upper Division Health Care Ethics         
-2013-14 &nbsp;&nbsp; Introduction to Philosophy  
-2013 (winter) &nbsp;&nbsp; Introduction to Philosophy  
-2013 &nbsp;&nbsp; Introduction to Ethics   
-2012-13 &nbsp;&nbsp; Introduction to Logic  
-
-**Asbury University**  
-2016 (summer) &nbsp;&nbsp; Upper division Philosophy of Religion  
-2016 &nbsp;&nbsp; Seminar: Philosophy of CS Lewis  
-2016 &nbsp;&nbsp; Seminar: Wisdom and Virtue    
-2014-2016 &nbsp;&nbsp; Introduction to Philosophy
-
-**High School Courses**  
-2011 &nbsp;&nbsp; Plato Seminar  
-2009-2010 &nbsp;&nbsp; Aristotelian Logic  
-2009-2012 &nbsp;&nbsp; Western Civilization: American Thought   
-2008-2012 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought  
-2007-2013 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
-
-### OTHER TEACHING POSITIONS
-2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy, Lexington KY.   
-2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy    
-2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA  
-2009-2011  &nbsp;&nbsp;  Lecturer, Wheatstone Academy  
-2007-2010  &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA  
-2004-2005 &nbsp;&nbsp;   Assistant Director, Wheatstone Academy.  
-2004 (summer)&nbsp;&nbsp; Teaching Assistant , Philosophy of Science, Biola University, CA.  
-2001-2009  &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
-2001-2002  &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
-2001 (summer) &nbsp;&nbsp; English Teacher, Biola University Abroad, Mongolia.
-
-### INVITED PUBLIC LECTURES
-2014 &nbsp;&nbsp; "Morality: Rule-following or New Life?", Wesleyan Society.   
-2013&nbsp;&nbsp; "Reading as Classical Education", Veritas Academy.  
-2012 &nbsp;&nbsp;"The Goodness of Goodness: Lewis' *Abolition of Man*", Torrey Academy.   
-2012 &nbsp;&nbsp; "Is Vainglory Pride? Dorothy Sayers' *Gaudy Night*", Torrey Academy.  
-2011 &nbsp;&nbsp; "Pain and Suffering", St Barnabas Orthodox Church.    
-2011 &nbsp;&nbsp; "Does Love Cover a Multitude of Sins?", Hope Academy.  
-2011 &nbsp;&nbsp; "Hope and the Cycle of Desire", Hope Academy.  
-2011 &nbsp;&nbsp; "The Divided Self", Hephatha Lutheran Church.     
-2010 &nbsp;&nbsp; "The Art of Conversation; Conversation with Art", Wheatstone Academy.  
-2009 &nbsp;&nbsp; "The Virtue of Constancy", Hope Academy.     
-2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
-
-
-### LANGUAGES ###
-Ancient Greek (proficient reading knowledge)  
-Spanish  (fluent speaking knowledge)  
-
-
-### AFFILIATIONS
-American Philosophical Association, 2014-present  
-Society of Orthodox Philosophers in America, 2014-present  
-International Society for MacIntyrean Enquiry, 2015-present 
-
-
-
-### REFERENCES
-* David Bradshaw, Professor of Philosophy, University of Kentucky   
-1415 Patterson Office Tower, Lexington, KY 40506   
-[dbradsh@uky.edu](emailto:dbradsh@uky.edu) / (859) 257 7107
-* Joseph Allen, Director, Pittsburgh Theological Seminary   
-616 N. Highland Ave., Pittsburgh, PA 15206   
-[theoeduc@aol.com](emailto:theoeduc@aol.com) / (201) 784 2501
-* John Mark Reynolds, President, St. Constantine School  
-7502 Fondren Rd., Houston, TX 77074    
-[jmnreynolds@hbu.edu](emailto:jmnreynolds@hbu.edu) / (281) 649 3000   
-
 
 
 \newpage

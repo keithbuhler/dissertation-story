@@ -3,6 +3,8 @@
 # Eudaimonia: Virtues as Realizing our Natural Human Telos
 
 
+'Is not the love of Wisdom a practice of death?' (Ancient Greek. Plato, Phaedo, 81 A)
+
 **Quotation**  *“What use would it be if a man had the wisdom of Nestor and wanted the necessaries of life, food and drink and clothes and the like? Where would be the advantage of wisdom then?” Eryxias (attributed to Plato)*
 
 
@@ -23,7 +25,9 @@
 
 Suppose the year is 8,000 AD, and a lone spaceship is hovering over the planet formerly known as earth. All the greenery hewn away by human industry has regrown, and the impossibly high towers have toppled. Whether the climate changed beyond the tipping point, or nuclear war made farming impossible, or disease ravaged the race -- no living humans remain on earth. Perhaps they voluntarily gave themselves up for extinction, preferring to end their millenia-long reign as the king of the food chain. 
 
-Would it have been worthwhile? Is it better to have loved and lost than never to have loved at all? These questions are not science fiction, but have a pressing hypothetical import. For they impact our reasons for being moral *now*. 
+Would it have been worthwhile? Is it better to have loved and lost than never to have loved at all? T
+
+hese questions are not science fiction, but have a pressing hypothetical import. For they impact our reasons for being moral *now*. 
 
 Geach says that we do not need to know our natural teleology in detail in order to pursue it. Perhaps well-begun is half done. 
 
