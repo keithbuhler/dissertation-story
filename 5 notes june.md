@@ -36,9 +36,7 @@ The first point in this case is that all organisms act toward ends, albeit unref
 
 We have argued above that the growth into maturity of an organism is growth into the exemplification of its form of life. This form of life is what Aquinas calls a thing's nature. Hence, a wolf hunts in packs by nature, trees extend roots into the ground by nature, reptiles warm themselves in the sun by nature, and so on. 
 
-In plants and animals, the "natural inclination" toward their good is not reflective or intentional, and Aquinas did not make this mistake. Frey says:
-
-"Aquinas would agree with us that it is a category mistake to say that a sunflower wants to grow towards the light, if by this we mean that the flower somehow registers a positive feeling or has an inner impression towards the light, which “causes” it to move toward the light. The plant does not apprehend or desire anything; thus Aquinas is very careful to say that it does not have a power of appetite. In fact, Aquinas is at pains to note that a plant has no window onto the world at all—it just has conditions in which it characteristically comes into being, maintains, and reproduces itself.[@frey 69-70]
+In plants and animals, the "natural inclination" toward their good is not reflective or intentional, and Aquinas did not make this mistake. Frey says:"Aquinas would agree with us that it is a category mistake to say that a sunflower wants to grow towards the light, if by this we mean that the flower somehow registers a positive feeling or has an inner impression towards the light, which “causes” it to move toward the light. The plant does not apprehend or desire anything; thus Aquinas is very careful to say that it does not have a power of appetite. In fact, Aquinas is at pains to note that a plant has no window onto the world at all—it just has conditions in which it characteristically comes into being, maintains, and reproduces itself.[@frey 69-70]
 
 Plants merely grow and reproduce; while animals grow, reproduce, and enjoy conscious experiences, such as sensory perceptions of material objects and of their own hungers, thirsts, pains, and so on. When it comes to human beings, however, we observe a difference. Human beings grow, reproduce, and enjoy conscious experiences like other animals but human beings also *know* that they do so. To quote John Haldane again,  "things are specified by their power."[@haldane1998return 262] And we observe our "power" or capacity to engage in cognitive and deliberative activities. Simply put, we are able to reason, to reason theoretically and practically.
 
@@ -268,10 +266,7 @@ Another solution to the problem of moral relativism. I call this phenomenon mora
 
 Moral awe can "break through" one's conventional beliefs. It can shock and amaze one, almost in spite of oneself. 
 
-## Conclusion
-
-
-"Finally, there’s the fear of nihilism—the fear that biology strips life of meaning and purpose. It says that love, beauty, morality, and all that we hold precious are just figments of a brain pursuing selfish evolutionary strategies. For most people who ask the question “Why am I here?” the answer “To pass on your genes” is less than comforting."^[Steven Pinker, little handout]
+## Conclusion"Finally, there’s the fear of nihilism—the fear that biology strips life of meaning and purpose. It says that love, beauty, morality, and all that we hold precious are just figments of a brain pursuing selfish evolutionary strategies. For most people who ask the question “Why am I here?” the answer “To pass on your genes” is less than comforting."^[Steven Pinker, little handout]
 
 ---
 
