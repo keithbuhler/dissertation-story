@@ -4,6 +4,8 @@
 
 
 
+
+
 WORKING TITLE: BECOMING HUMAN BEINGS: RECENT NEO-ARISTOTELIANS ON THE POINT OF VIRTUE AND PRACTICAL REASONING 
 
 
@@ -12,15 +14,19 @@ WORKING TITLE: BECOMING HUMAN BEINGS: RECENT NEO-ARISTOTELIANS ON THE POINT OF V
 
 
 \par\vspace*{.08\textheight}
-
-
 \line(2,0){200}
+
 
 DISSERTATION
 
-\line(2,0){200}
 
+\line(2,0){200}
 \par\vspace*{.08\textheight}
+
+
+
+
+
 
 A dissertation submitted in partial fulfillment     
 of the requirements for the degree of Doctor of Philosophy     
@@ -39,36 +45,26 @@ Lexington Kentucky
 
 Copyright © Keith E. D. Buhler 2017 
 
+
+
+
 \end{center}
-
-
 \frontmatter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 \newpage
 \thispagestyle{empty}
 
 [TITLE]
 
-*ABSTRACT*: Recent Neo-Aristotelian virtue ethicists such as Philippa Foot and John McDowell, Rosalind Hursthouse, and Alasdair MacIntyre are united on several beliefs: the good person is the virtuous person; virtues are human goods; and human goods are in some way "natural". They are divided on other questions: is virtue "natural" to humans because humans are rational animals, distinct from others in the animal kingdom or because humans are organisms, fundamentally continuous with all others in evolutionary tree of life? Humans exhibit normal biological processes as well as abstract and practical reasoning. So more generally, how are we to understand the relationship between rationality and biology?
+*ABSTRACT*: Recent Neo-Aristotelian virtue ethicists such as Philippa Foot and John McDowell, Rosalind Hursthouse, and Alasdair MacIntyre are united on several beliefs: the good person is the virtuous person; virtues are human goods; and human goods are in some way "natural". They are divided on other questions: is virtue "natural" to humans because humans are rational animals, distinct from others in the animal kingdom or because humans are organisms, fundamentally continuous with all others in the evolutionary tree of life? 
 
-Foot emphasizes the natural, biological aspect of virtue ethics (where virtues and vices are "natural goodness and defect"); John McDowell emphasizes the normative, rational aspect, where virtues are intersubjective, cultural forms of knowledge. Each has its advantages and drawbacks. Biological naturalism blocks cultural relativism but seems to require teleological realism.  "Second nature" naturalism seems more aligned to the scientific view of nature but makes it difficult to explain how to criticize injustice in other cultures and how make social progress within one's own. 
+Foot emphasizes the natural, biological aspect of virtue ethics (where virtues and vices are "natural goodness" and natural "defect"); John McDowell emphasizes the normative, rational aspect, where virtues are intersubjective, cultural forms of knowledge. Each has its advantages and drawbacks. Biological naturalism blocks cultural relativism but seems to require teleological realism.  "Second nature" naturalism seems more aligned to the scientific view of nature but makes it difficult to explain how to criticize injustice in other cultures and how make social progress within one's own. 
 
-Recent neo-Aristotelians have run aground of this difficult matter because, as Julia Annas explains, it reflects a broader perennial question about the relationship between normativity and nature, or between ethics and science. My dissertation systematically analyzes the related concepts of nature, virtue, practical reason, and teleology in several recent neo-Aristotelian writers and offers a novel account of how they fit together. I bolster the argument that virtues are human goods pertaining to our nature as practical, rational primates. Even within the confines of scientific naturalism and agnosticism, I give reasons to believe that Foot is right, contra McDowell, that scientific realists should (probably) also be teleological realists. 
+Recent neo-Aristotelians have run aground of this difficult matter because, as Julia Annas explains, it reflects a broader perennial question about the relationship between normativity and nature, or between ethics and science. Humans exhibit normal biological processes as well as abstract and practical reasoning. So more generally, how are we to understand the relationship between rationality and biology?
+
+My dissertation systematically analyzes a set of related concepts: nature, virtue, practical reason, and teleology. I discuss the arguments of several recent neo-Aristotelian writers and offer a novel account of how these concepts fit together. I bolster the argument that virtues are human goods pertaining to our nature as practical, rational primates. Even within the confines of scientific naturalism and agnosticism, I give reasons to believe that Foot is right, contra McDowell, that scientific realists should (probably) also be teleological realists. 
 
 In brief,  I argue that virtue is the excellence of rational practices and practical reasoning that enables and partly constitutes the realization of one's human life form. I defend a conception of virtue according to which virtuous traits are rational practices and emotions, and practical reasoning is the process of identifying the good. On this view of virtue, the definitive criterion by which to judge human beings is our success or failure in acquiring virtues such as moderation and tolerance, and our overall success in the pursuit of the good life for humans. I also provide an outline of a secular, humanistic conception of flourishing according to which becoming wise is the natural telos of practical rational animals, even though they may individually die and (one day) go extinct. 
+
 
 \par
 
@@ -88,38 +84,43 @@ In brief,  I argue that virtue is the excellence of rational practices and pract
 
 
 \newpage
-
 \thispagestyle{empty}
-
 \begin{center}
+
+
+
 
 [TITLE]
 
 \par\vspace{.1\textheight}
 By
 
+
+
+
 Keith E. D. Buhler
 
 \end{center}
-
 \par\vspace{.1\textheight}
-
 \begin{flushright}
-
-
 \line(1,0){150}
+
 
 Dr. David Bradshaw
 
+
 \line(1,0){150}
+
 
 Dr. Anita Superson
 
 \line(1,0){150}
 
+
 Dr. Dan Breazeale
 
 \line(1,0){150}
+
 
 Dr. Mark Kightlinger
 
@@ -152,16 +153,17 @@ Dr. Mark Kightlinger
 
 
 \newpage
-
 \thispagestyle{empty}
-
 \par\vspace*{.10\textheight}
-
 \begin{center}
+
+
 
 Dedicated to Lindsay. As Chesterton said: "Oh, who shall understand but you; yea, who shall understand?"
 
 KEDB, 2016
+
+
 
 \end{center}
 
@@ -181,10 +183,10 @@ KEDB, 2016
 
 
 \newpage
-
 \thispagestyle{empty}
-
 \begin{center}
+
+
 
 ACKNOWLEDGMENTS
 
@@ -209,15 +211,17 @@ My thanks are owed to many people. Dr. David Bradshaw has been a teacher, mentor
 
 
 \newpage
-
 \thispagestyle{empty}
-
 \par\vspace*{.3\textheight}
-
 \setlength{\epigraphwidth}{.95\textwidth}
 \begin{epigraphs}
+
+
 \qitem{γένοι' οἷος ἐσσὶ μαθών.}%
  {---\textsc{Pindar, \begin{em}Pythian \end{em} 2, line 72}}
+
+
+
  \centering
  \end{epigraphs}
 
@@ -239,14 +243,7 @@ My thanks are owed to many people. Dr. David Bradshaw has been a teacher, mentor
 
 
 \tableofcontents
-
 \setcounter{tocdepth}{3}
-
-
-
-
-
-
 \newpage
 
 If needed: 
@@ -297,7 +294,7 @@ If needed:
 
 ## Introduction
 
-Recent neo-Aristotelian ethical naturalists are up to something fascinating: a unification of the natural and the normative. In one conversation, the anti-dualist impulse behind both American pragmatists and Anglo-American metaphysical naturalism (from Thomas Nagel) receives full expression. Yet at the same time the morally realist impulse behind the new wave of metaethical realists such as Russ Shafer-Landau, Terrence Cuneo, and David Enoch is fully represented too. And both find remarkable friendship in the recent revival of interest in the virtue tradition (both its Hellenistic and non-Hellenistic sources). Some have found this cocktail of philosophical impulses and interests a bit bemusing. 
+Recent neo-Aristotelian ethical naturalists are up to something fascinating: a unified account of the natural and the normative. In their writings, the anti-dualist impulse behind both American pragmatists and Anglo-American metaphysical naturalism (from Thomas Nagel) receives full expression. Yet at the same time the morally realist impulse behind the new wave of metaethical realists such as Russ Shafer-Landau, Terrence Cuneo, and David Enoch is fully represented too. And both find remarkable friendship in the recent revival of interest in the virtue tradition (both its Hellenistic and non-Hellenistic sources). Some have found this cocktail of philosophical impulses and interests a bit bemusing. 
 
 Early metaethical theorizing (read: G. E. Moore) predicated a sharp division between the natural and the normative, between the descriptive and prescriptive, the metaphysical and the ethical. Subsequent philosophers tended to accept the division between "is and ought". However, they tended to react in one of two ways: nature is non-normative or normativity is non-natural. For example, the prescriptivists, emotivists, and expressivists take the first way. These assume nature is "bald" and descriptive and so explain away moral language as a natural (read: descriptive) event occuring in the brains and words of moral beings. Moral realists of various stripes tended to quietly accept the claim (insult?) that they were "non-naturalists" about value, though they valiently defended the possibility of cognitivist moral assertions, moral perception, and moral knowledge. 
 
@@ -1004,7 +1001,7 @@ A third clarification is that, while I have been suggesting that there is only o
 
 With the criteria for my account of virtue laid out, my goal is to systematically present and analyze the virtue accounts of Foot, McDowell, and MacIntyre. 
 
-I derive their views from a variety of sources. For example, Philippa Foot argues that virtues are the acquirable, beneficial, corrective excellences of practical reason.[^84] Foot's concept of virtue and practical reason I derive not only from *Natural Goodness* but from her "Virtues and Vices" essay.[@foot2002virtues]  Alasdair MacIntyre argues that virtues are “acquired human qualities" that enable the virtuous person to "achieve those goods" of practices, to live a successful whole life, and to sustain traditions.[@macintyre1984after 191]  His robust concepts of virtue and practical reason overlap nicely with Foot's. I draw from *After Virtue*, where he builds his three stage account of virtue (relating to practice, then life, then tradition) from a careful study of the history of the concept within the broader western tradition. But I also draw from *Whose Justice? Which Rationality?*, *Three Rival Versions of Moral Inquiry*, and *Dependent Rational Animals*. John McDowell argues that virtue is a kind of perceptual sensitivity to what is required to live well.[@mcdowell1979virtue 331] McDowell's writings on virtue and reason span several essays and books, such as *Mind, Value and Reality*. I especially draw from "Virtue and Reason"[@mcdowell1979virtue], and "Values as Secondary Qualities."[@mcdowell1988values]
+I derive their views from a variety of sources. For example, Philippa Foot argues that virtues are the acquirable, beneficial, corrective excellences of practical reason.[^84] Foot's concept of virtue and practical reason I derive not only from *Natural Goodness* but from her "Virtues and Vices" essay.[@foot2002virtues]  Alasdair MacIntyre argues that virtues are “acquired human qualities" that enable the virtuous person to "achieve those goods" of practices, to live a successful whole life, and to sustain traditions.[@macintyre1984after 191]  His robust concepts of virtue and practical reason overlap nicely with Foot's. I draw from *After Virtue*, where he builds his three stage account of virtue (relating to practice, then life, then tradition) from a careful study of the history of the concept within the broader western tradition. But I also draw from *Whose Justice? Which Rationality?*, *Three Rival Versions of Moral Inquiry*, and *Dependent Rational Animals*. John McDowell argues that virtue is a kind of perceptual sensitivity to what is required to live well.[@mcdowell1979virtue 331] McDowell's writings on virtue and reason span several essays and books, such as *Mind, Value and Reality*. I especially draw from "Virtue and Reason,"[@mcdowell1979virtue] and "Values as Secondary Qualities."[@mcdowell1988values]
 
 [^84]: Her exact words are that virtue is excellence of  "the rational will." After expanding the concept of 'will' beyond its typical meaning to include intentions, it is clear her 'rational will' as identical to my 'practical rationality'.  I want to avoid the word will because it might be a narrowly western way of viewing the capacity for practical reasoning.  David Bradshaw distinguishes the cluster of concepts such as heart, mind, and will, and shows that Aristotle and others did not have a concept of a distinct, sub-rational faculty for choosing. Cf. @Bradshaw2009mind.
 
@@ -1017,11 +1014,11 @@ A brief overview of points to be presented and defended is this:
 
 1. Virtues are, by definition, good for their possessor.
 2. They are generically beneficial for humankind, both oneself and others.  
-3. Virtues constitute excellent functioning.
+3. Virtues constitute excellent functioning.  
 4. They are corrective, especially benefiting humankind at tempting vices. 
-5. Virtues acquirable traits, not just any excellent human traits.
-6. Some virtues are excellences in rational practice.
-7. Some virtues are excellences in practical reasoning about one's whole life.
+5. Virtues acquirable traits, not just any excellent human traits.  
+6. Some virtues are excellences in rational practice.  
+7. Some virtues are excellences in practical reasoning about one's whole life.  
 8. Virtues enable the health and progress of societies and traditions.
 
 
