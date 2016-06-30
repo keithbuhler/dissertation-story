@@ -5,7 +5,7 @@
 
 
 
-BECOMING WHAT WE ARE: RECENT NEO-ARISTOTELIANS ON THE ETHICAL SIGNIFICANCE OF BEING RATIONAL PRIMATES
+[TITLE: THE VIRTUE TRIANGLE: PRACTICAL REASON, EXCELLENCE, AND NATURAL TELEOLOGY IN THE RECENT NEO-ARISTOTELIANS]
 
 
 
@@ -53,7 +53,7 @@ Copyright © Keith E. D. Buhler 2017
 \newpage
 \thispagestyle{empty}
 
-[TITLE]
+[TITLE: THE VIRTUE TRIANGLE: PRACTICAL REASON, EXCELLENCE, AND NATURAL TELEOLOGY IN THE RECENT NEO-ARISTOTELIANS]
 
 *ABSTRACT*: Recent Neo-Aristotelian virtue ethicists such as Philippa Foot and John McDowell, Rosalind Hursthouse, and Alasdair MacIntyre are united on several beliefs: the good person is the virtuous person; virtues are human goods; and human goods are in some way "natural". They are divided on other questions: is virtue "natural" to humans because humans are rational animals, distinct from others in the animal kingdom or because humans are organisms, fundamentally continuous with all others in the evolutionary tree of life? 
 
@@ -90,7 +90,7 @@ In brief,  I argue that virtue is the excellence of rational practices and pract
 
 
 
-[TITLE]
+[TITLE THE VIRTUE TRIANGLE: PRACTICAL REASON, EXCELLENCE, AND NATURAL TELEOLOGY IN THE RECENT NEO-ARISTOTELIANS]
 
 \par\vspace{.1\textheight}
 By
@@ -417,7 +417,7 @@ The major rivals to realism about natural normativity (besides non-naturalism, w
 
 Furthermore, realism about natural normativity is one common basis upon which ethical naturalists build a theory of *human* ethics. Hence, a major objection to ethical naturalism (which relies on the picture of bald or Laplacian nature) is sometimes called the "is-ought gap." The is-ought gap is taken to be *the* problem for ethical naturalists who are both naturalists and realists about moral facts. If moral facts are real, what are they? And *where* are they? How can they motivate? If moral facts are non-natural, then are they real or not? 
 
-I do think the is-ought gap is a problem for some forms of naturalism. However, I shall argue that there are at least two forms of the is-ought gap. One of them is insoluble but the other can be solved by appeal to natural norms. Ethical naturalists posit a particular relationship between natural facts and moral facts, or facts and values, or nature and normativity. Each does so in their own way. The attempt to show how facts entail norms is, I think, misguided. Instead, I shall attempt to show that some facts just are norms. These are natural norms. In other words, some scientifically respectable natural facts are also real, mundane, normative facts on a level with properties and processes like 'being a penguin' or 'pumping blood.' 
+I shall argue that there are at least two forms of the is-ought gap. One of them is insoluble but the other can be solved by appeal to natural norms. Ethical naturalists posit a particular relationship between natural facts and moral facts, or facts and values, or nature and normativity. Each does so in their own way. The attempt to show how facts entail norms is, I think, misguided. Instead, I shall attempt to show that some facts just are norms. These are natural norms. In other words, some scientifically respectable natural facts are also real, mundane, normative facts on a level with properties and processes like 'being a penguin' or 'pumping blood.' 
 
 The respectable scientific notions I propose are natural kinds (life forms) and natural functions or ends. Though they can be given anti-realist or reductionist interpretations, anti-realism is by no means the default view of working scientists nor the default view of philosophers with a healthy respect for modern science. Polemicists who pretend that anti-realism or reductionism about natural kinds and natural functions are "the" scientific view are propagating their philosophical doctrine; the rhetoric is certainly powerful but the argument is weak. 
 
@@ -452,11 +452,17 @@ I said that the results of descriptive ethics detail the variation of ethical an
 
 There is more to the is-ought gap, but this is a fairly useful summary with which to begin. My response shall show how the is-ought gap can be undercut by one particular form of neo-Aristotelian ethical naturalism, even if (as I shall explain in a later chapter) the is-ought gap is fatal to *some* forms of ethical naturalism. 
 
-There is a second and more promising path for neo-Aristotelian ethical naturalism to take. That is to start with basic, scientifically respectable natural norms. I call this notion "natural normativity", following Philippa Foot. Some features of nature are properties she calls 'natural goodness' or 'natural defect.' About such qualities, she says: 
+The second, and more promising path, neo-Aristotelian ethical naturalism takes is this: start with basic, scientifically respectable natural norms. From these, derive further ethical norms. The result is both ethical and naturalistic. 
+
+In order to show how this path proceeds, begin with Philippa Foot's notion of "natural normativity". Some features of nature are properties, she says, are instances of 'natural goodness' or 'natural defect.' About such qualities, she says: 
 
 >...we might equally have been thinking in terms of, say, strength and weakness or health and disease, or again about an individual plant or animal being or not being as it should be, or ought to be, in this respect or that. Let us call the conceptual patterns found there, patterns of natural normativity.[@foot2001natural 38]
 
-Natural normativity is an indeterminate concept. The way that Foot uses it she means that normativity exists wherever organic life is found. Wherever evaluative properties like health and disease appear, there are real instances of natural goodness and natural defect, then some evaluative properties are *primary qualities of nature* just like weight, color, size, relations of time and space, and so on. There is another sense in which 'natural normativity' is used by neo-Aristotelians like John McDowell. The neo-Aristotelians are of two minds about which sense is a more promising foundation for ethics. Where they agree, though, is in thinking that natural norms overcome or rather undercut the is-ought gap. 
+Natural normativity is an indeterminate concept. It might include a variety of different kinds of normativity that are not obviously moral normativity, such as the proper, the healthy, the advantageous, the adaptive, the mature, and so on. This indeterminacy is a strength rather than a weakness. 
+
+When Foot uses the term 'natural normativity' she means that normativity exists wherever organic life is found. Wherever evaluative properties like health and disease appear, there are real instances of natural goodness and natural defect, then some evaluative properties are *primary qualities of nature* just like weight, color, size, relations of time and space, and so on. 
+
+There is another sense in which 'natural normativity' is used by neo-Aristotelians like John McDowell. The neo-Aristotelians are of two minds about which sense is a more promising foundation for ethics. Where they agree, though, is in thinking that natural norms overcome or rather undercut the is-ought gap. 
 
 1. If ethical naturalism is possibly true, then some natural facts are genuinely both normative and natural -- there are natural norms.
 2. But there are no facts that are genuinely both normative and natural -- there are no natural norms. 
