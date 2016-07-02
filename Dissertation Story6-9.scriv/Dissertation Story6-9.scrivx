@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-07-01 01:57:15 -0400" ModID="E0A75C77-FDC0-4254-A29C-095388E38406">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-07-01 10:28:32 -0400" ModID="2DDA1363-3829-47D5-B73B-A6A220FDDE7C">
     <Binder>
         <BinderItem ID="1159" UUID="0D73750D-099F-46CC-B079-AE3F8AF7A455" Type="Text" Created="2015-06-07 09:24:20 -0400" Modified="2016-06-02 17:38:42 -0400">
             <Title>"Everything has to tell a story"</Title>
@@ -66,7 +66,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>8546,16</TextSelection>
+                        <TextSelection>5465,11</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="1166" UUID="2F43AFB7-CF74-4253-AA1F-52CF93473F77" Type="Text" Created="2016-05-27 14:49:56 -0400" Modified="2016-06-13 17:17:47 -0400">
@@ -12409,7 +12409,7 @@ McDowell</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-07-01 01:57:08 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-07-01 10:28:25 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
