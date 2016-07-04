@@ -306,7 +306,7 @@ If needed:
 
 
 
-## Introduction
+## Introduction: Nature and Normativity
 
 Recent neo-Aristotelian ethical naturalists are up to something fascinating: a unified account of the natural and the normative. In their writings, the anti-dualist impulse behind both American pragmatists and Anglo-American metaphysical naturalism (from Thomas Nagel) receives full expression. Yet at the same time the morally realist impulse behind the new wave of metaethical realists such as Russ Shafer-Landau, Terrence Cuneo, and David Enoch is fully represented too. And both find remarkable friendship in the recent revival of interest in the virtue tradition (both its Hellenistic and non-Hellenistic sources). Some have found this cocktail of philosophical impulses and interests a bit bemusing. 
 
@@ -393,11 +393,7 @@ A fundamental feature of my thesis is that realism about natural teleology is --
 
 ## Outline of Chapters
 
-The dissertation is divided into two main parts. The first part defends natural normativity and natural teleology in organisms and (hence) in human beings. It builds a framework for virtue and then develops a neo-Aristotelian account of virtue as rational practice to fit the framework. This project occupies chapters 2-4.
-
-The second part defends a conception of virtue as practical reasoning where the goal of practical reasoning is to identify the human good, to correctly map the normative order, and live in conformity to it for the sake of one's own and others' wellbeing. It explores the notion of practical wisdom, and explains the relation between wisdom and other virtues and between wisdom and the finite, mortality of our species. This project occupies chapters 5-8. 
-
-
+The dissertation is divided into several chapters. Chapter 2 argues that at least the organic parts of nature are intrinsically normative. Chapter 3 argues that since humans are natural organisms, human nature is normative. Chapter 4 argues that human virtues of rational practice and practical reasoning are the natural excellences of human nature. Chapter 5 argues that practical reasoning is, in fact, a natural process for organisms like us by which we aim to identify and pursue human flourishing and the means thereto, including food, companionship, virtue, and wisdom. Chapter 6 argues that this process is naturalistically respectable. 
 
 
 
@@ -689,6 +685,10 @@ Establishing premise 1 has been our task in this chapter. Establishing premise 2
 
 
 
+
+
+
+
 # Practical Primates
 
 \setlength{\epigraphwidth}{.95\textwidth}
@@ -701,7 +701,7 @@ Establishing premise 1 has been our task in this chapter. Establishing premise 2
 
 
 
-## Introduction: Animals of a Peculiar Sort
+## Introduction
 
 The last chapter defended the very possibility of an ethical naturalism, this chapter needs to defend its plausibility. In order to show how moral norms are instances of natural norms, we first had to defend the notion of natural normativity in general. This chapter extends the discussion of natural normativity to include "human norms". I argue that certain generic propositions about human beings are both scientifically true and ethically normative -- specifically, that *a human being* is a practical, rational primate. As practical, rational animals, we find ourselves in a nexus of normativity that is both "natural" (i.e., automatic, default, not created by us) and normative (i.e., binding, non-optional). This conception of human nature that is seamlessly both normative and descriptive. We must first uncover, if possible, a set of scientific generics about humanity, specifying what kind of natural creature human beings are and what kind of characteristic life they live -- what kind of life they live "by nature". Such generics, it is hoped, will give us initial insight into the concept and content of virtue, excellence, wisdom, and flourishing, which are our main themes.
 
@@ -722,7 +722,7 @@ Section 4 addresses a few objections. I attempt to sympathetically articulate an
 Section 5 begins to apply the foregoing account of human nature and natural human norms to ethics. I argue that practical primates have prima facie normative obligation to be what they are (to respect the conditions and criteria of their life form) and a prima facie obligation to become fully mature practical primates. 
 
 
-## Animals
+## Animals of a Peculiar Sort
 
 Are human beings natural organisms? On its face, calling human beings organisms or animals or primates appears to be an innocent truism. *Of course* humans share properties in common with every other organism: they enjoy a particular evolutionary history; they move about the earth engaging in activities such as reproducing, sleeping, feeding, dying, and so on. But some of objected to the suggestion that human beings are *mere* animals. We are different from other animals, and the significance of this difference is a matter of some controversy. 
 
@@ -750,7 +750,7 @@ Part of the alien anthropologist's examination would be to examine the body, bra
 
 What is the point of these reflections? I wish to point out just how much we can know about our form of life by appealing to the "objective" or third-person point of view of scientific exploration, data gathering, inductive generalization. Before we examine the ethical significance of these facts, we must explore the peculiar differentiam of our species: practical rationality. 
 
-## Peculiarities
+### Peculiarities
 
 This section attempts to explain what it means to ascribe 'practical rationality' of an organism.[^31] Practical reason occupies a place of importance in the theories of many virtue ethicists. For example, Foot, McDowell, and MacIntyre have each treated the theme.^[Cf. @foot2001natural, chapter 4; McDowell, "Virtue and Reason"; @macintyre1988whose.] In a later chapter, I shall say explore the neo-Aristotelian accounts of practical reasoning in some detail. For now, I shall only offer an initial exploration. Jay Wallace gives an adequate general definition of practical reason: "Practical reason is the general human capacity for resolving, through reflection, the question of what one is to do."^[@seppracticalreason.]  
 
@@ -895,6 +895,12 @@ This objection is in some sense true but misses the point. That humans are pract
 The main thesis of this chapter has been that the following generic is true: "human beings are practical, rational primates." This generic, I have argued, is defensible both philosophically and scientifically. It is discoverable both by humans examining our species from "within" the human point of view and by alien anthropologists examining our species from "outside" the human point of view (so long as they too were intelligent and rational). This generic picks out a property or set of properties we might describe as 'human nature.' If this is anywhere near to correct, then human nature is not a complete mystery. We know *enough* about it to build a neo-Aristotelian theory of ethics grounded in evaluations of human beings by reference to the human life form. 
 
 
+### Synthesis
+
+The thesis of this chapter has been the generic truth -- or the Aristotelian categorical -- that humans are practical primates. This generic, I have argud, captures a set of truths about the human life form and natural telos in the same manner as other respectable scientific statements, such as 'the platypus is an egg-laying mammal' and 'the baby chick becomes a rooster'. Every animal's nature or life form has genus and differentiam. For human beings, our differentiam is that we can engage in practical reasoning. Hence, our animality and our rationality both count. Being a primate entails that we are alive and share properties in common with all organic nature. Being a practical reasoning primate includes a set of capacities, including abstract thought but also more: speech, sociality, rational practice, and creativity. I also argued that the generic truth about humanity holds good in the face of important objections to the effect that we have no nature, or that our only nature is biological. I have not yet fully articulated what effect rationality has on our animal nature and rebutted the objection that it renders irrelevant all the prima facie natural norms arising from our animal or biological nature. But I have argued that there is good reason to affirm a kind of prima facie natural normativity binding on human beings. Getting clear on the truly ethical significance of human norms is our next task. 
+
+
+
 ## Human Norms, Ethical Norms
 
 On best evidence, human beings are practical rational primates. What is the ethical upshot? 
@@ -915,56 +921,14 @@ Furthermore, if our nature is to be practical, rational primates, then we have s
 
 I hope it is plain that hypothetical ethical implications, if they can be made good, are highly significant. The task of the subsequent chapters is to make good on these claims. 
 
-### Conclusion
 
-The thesis of this chapter has been the generic truth -- or the Aristotelian categorical -- that humans are practical primates. This generic, I have argud, captures a set of truths about the human life form and natural telos in the same manner as other respectable scientific statements, such as 'the platypus is an egg-laying mammal' and 'the baby chick becomes a rooster'. Every animal's nature or life form has genus and differentiam. For human beings, our differentiam is that we can engage in practical reasoning. Hence, our animality and our rationality both count. Being a primate entails that we are alive and share properties in common with all organic nature. Being a practical reasoning primate includes a set of capacities, including abstract thought but also more: speech, sociality, rational practice, and creativity. I also argued that the generic truth about humanity holds good in the face of important objections to the effect that we have no nature, or that our only nature is biological. I have not yet fully articulated what effect rationality has on our animal nature and rebutted the objection that it renders irrelevant all the prima facie natural norms arising from our animal or biological nature. But I have argued that there is good reason to affirm a kind of prima facie natural normativity binding on human beings. Getting clear on the truly ethical significance of human norms is our next task. 
+### Requirements for a Successful Theory
 
+Becoming fully or fully actualized practical rational animals requires the actualization not only of our animal nature (through growth, maturity, reproduction) but our rational potential (through intellectual growth and knowledge, and practical wisdom that sublimates all of one's emotions and bodily desires and physical settings into a good life). In other words:  Humans are to become practical, rational animals. Hursthouse points out that we do not just admire those who survive but who exemplify a *human* form of life: "The human virtues make their possessor good qua human being, one who is as ordinarily well fitted as a human being can be in not merely physical respects to live well, to flourish -- in a characteristically human way." [@hursthouse1998virtue 208.]
 
+As a generic, the proposition that humans are practical, rational primates is both descriptive and normative. If practical rational animals is what we are (by nature), then the pattern of natural normativity would lead us to expect that becoming truly or fully practical rational animals is our natural telos. This thought, I think, explains why Peter Geach says “Men need virtues as bees need stings."[@geach1977virtues 17] Philippa Foot and Alasdair MacIntyre echo this talk of "need" and "necessity" as well. (MacIntyre's most recent monograph is subtitlted,: "why human beings need the virtues."[@macintyre1999dependent]) The kind of necessity being predicated here is the same kind of necessity with which a bee needs a sting or a knife needs to be sharp. It is a formal and teleological necessity. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Rational and Irrational Practice
-
-
-\setlength{\epigraphwidth}{.95\textwidth}
-\begin{epigraphs}
-\qitem{Men need virtues as bees need stings.}%
-{---\textsc{Peter Geach, \begin{em}The Virtues \end{em}.}}
-\centering
-\end{epigraphs}
-
-
-## Introduction: Virtue as the Human Norm
-
-
-The thesis of this chapter is that certain qualities are virtues and vices for creatures like us: rational practices and practical reasoning are excellent qualities of practical rational primates -- while irrational practices and practical irrationality are natural defects. Where the last chapter defended the notion in general that there are human norms intrinsically binding on us in virtue of our being practical primates, this chapter delves into the recent neo-Aristotelians for specifics about what norms might bind us and why. 
-
-Section 2 lays the groundwork for this thesis by connecting what has come before. I first argue a formal point: the qualities that enable and partly constitute the actualization of our life form are human virtues. These provide a set of criteria that a virtue theory is required to meet. Section 3 then shows how such qualities correspond remarkably well to traditional lists of virtues and vices. Virtues are traditionally defined as beneficial traits for creatures like us. The notion that human beings are practical, rational primates is comfortable to the a conception of human virtue as excellent rational practice and excellent practical reasoning. (My terms of art 'rational practice' and 'practical reasoning' will be fully explained.) Although the two notions are inextricably, I primarily focus on 'rational practices' in this chapter and 'practical reasoning' in the next.  
-
-Section 4 I argue that virtues have (at least) eight common properties besides being by definition good for their possessor: namely, virtues are beneficial to all of the species (not just their possessor) and so break down the assume divide between altruistic or other-regarding virtues and egoistic or self-regarding virtues; virtues constitute excellent human *functioning*; they are especially beneficial in that they are corrective of tempting vices; virtues are not any positive traits such as those given by luck, nor are they necessarily even *acquired* at all -- rather, virtues are *acquirable*; some virtues are are excellences of "rational practicing"; others are excellences of practical reasoning about one's whole life; finally, virtues are excellences of "social reasoning" in that they enable the health and progress of societies and traditions.  
-
-In section 5, I synthesize the views of Foot, McDowell, and MacIntyre discussed thus far and clarify their disagreements. In section 6 I address a few remaining objections to my account of virtue. 
-
-## Requirements for a Successful Theory
-
-Becoming fully or fully actualized practical rational animals requires the actualization not only of our animal nature (through growth, maturity, reproduction) but our rational potential (through intellectual growth and knowledge, and practical wisdom that sublimates all of one's emotions and bodily desires and physical settings into a good life). In other words:  (5) Humans are to become practical, rational animals. Hursthouse points out that we do not just admire those who survive but who exemplify a *human* form of life: "The human virtues make their possessor good qua human being, one who is as ordinarily well fitted as a human being can be in not merely physical respects to live well, to flourish -- in a characteristically human way." [@hursthouse1998virtue 208.]
-
-As a generic, the proposition that humans are practical, rational primates is both descriptive and normative. If practical rational animals is what we are (by nature), then the pattern of natural normativity would lead us to expect that becoming truly or fully practical rational animals is our natural telos. This thought, I think, explains why Peter Geach says “Men need virtues as bees need stings."[@geach1977virtues 17] Philippa Foot and Alasdair MacIntyre echo this talk of "need" and "necessity" as well. (MacIntyre's most recent monograph is subtitlted,: "why human beings need the virtues."[@macintyre1999dependent] The kind of necessity being predicated here is the same kind of necessity with which a bee needs a sting or a knife needs to be sharp. It is a formal and teleological necessity. 
-
-That humans are practical rational animals is also the natural norm that obliges us to live in particular ways. What are those particular ways? The qualities of excellence for practical rational animals would be the moral and intellectual virtues, including moderation and immoderation, justice and injustice, practical wisdom and foolishness, and so on. 
+A norm that obliges us to pursue a certain range of forms of life -- and to avoid others -- is that we are practical rational primates. What are those forms of life? The qualities of excellence for practical rational animals would be the moral and intellectual virtues, including moderation and immoderation, justice and injustice, practical wisdom and foolishness, and so on. 
 
 
 To identify these virtues requires, in part, looking to exemplary humans. If "human" is a normative concept, then the exemplars from which to derive our notion of humanity would not be someone in process of fully actuating that life form or who has already failed to do. The exemplar from which to derive a concept of humanity would not be, for example, the criminally insane, or  children, not the critically ill or the handicaped, but the fully mature, practical rational primates. The traits of such a person are liable to be admirable and praiseworthy for creatures like us. 
@@ -981,13 +945,13 @@ In outline, the argument is this:
 (6) The excellences or virtues of human beings are the qualities that enable and partly constitute its becoming a fully practical, rational primates.
 (7) Rational practices and practical reasoning enable human the virtues that enable persons and societies to become fully practical, rational primates. 
 
-## Traits That Benefit
+### Traits That Benefit
 
 What we have said so far points in the direction of the hypothesis: virtues must be instances of natural goodness or natural excellence for practical, rational primates like ourselves. Virtues must be a subset of natural goods, or goods-of-a-kind for human beings. Furthermore, they must be recognizably good from the outside and the inside; that is, not only should at least some virtues correspond to the standard list of qualities that are admired universally or near universally, such as courage and justice, but in order to block the charge of subjectivism, they should be plausibly recognizable by an alien anthropologist who could study the human life form and discover which traits actuate it. 
 
 More specifically, virtues on my account will turn out to be qualities that enable one to be fully become a primate (and animal and organism more generally): as mortal creatures and animals, our biological life consists of a process of maturation, nutrition, rest, exercise, homeostatic maturity, reproduction, characteristic activities, aging, and death. Many human goods enable this process, from oxygen, food, sleep, and so on. Virtues may not be material things but are likely to relate to such material and emotional parts of a normal human life. 
 
-Human virtues would also be those qualities that enable one to perform well characteristically rational activities such as speaking, socializing, thoughtful acting, and creating. By nature, we are inherently self-aware language-users who grow up and live in a language-community with a history and tradition, and who are curious to know what is true about ourselves and our world. We are also extravagantly innovative, creating myriad tools, forms of art, and other products for our use and enjoyment. We are inherently conscious and self-conscious beings who speak, interpret, and create in the context of a linguistic community such as a family, society, and culture. And as *practical* rational animals, we are inherently goal-oriented and self-determining beings who are to some degree able to acquire new traits or lose them, able to achieve our natural ends or fail to achieve them, able to become aware of the "givenness" of our biology and work with or against it, and are able to treat an entire biological life not only as an event but as a project. Although we are pushed about by our biological instincts and by social pressures, we do not *simply* stumble around through life; at times we also act on *reasons*. That is, we deliberate about future actions, and reflect on past actions, and become puzzled about what is called for in the present. The success of our actions is not guaranteed, and the reasonableness of our reasons is not guaranteed. Rather, we muddle through on the best evidence we have. 
+Human virtues would also be those qualities that enable one to perform  characteristically rational activities such as speaking, socializing, thoughtful acting, and creating. By nature, we are inherently self-aware language-users who grow up and live in a language-community with a history and tradition, and who are curious to know what is true about ourselves and our world. We are also extravagantly innovative, creating myriad tools, forms of art, and other products for our use and enjoyment. We are inherently conscious and self-conscious beings who speak, interpret, and create in the context of a linguistic community such as a family, society, and culture. And as *practical* rational animals, we are inherently goal-oriented and self-determining beings who are to some degree able to acquire new traits or lose them, able to achieve our natural ends or fail to achieve them, able to become aware of the "givenness" of our biology and work with or against it, and are able to treat an entire biological life not only as an event but as a project. Although we are pushed about by our biological instincts and by social pressures, we do not *simply* stumble around through life; at times we also act on *reasons*. That is, we deliberate about future actions, and reflect on past actions, and become puzzled about what is called for in the present. The success of our actions is not guaranteed, and the reasonableness of our justifications is not guaranteed. Rather, we muddle through on the best evidence we have. 
 
 
 The criteria of a definition of virtue, then, is that the excellences intrinsic to our life form are those qualities that practical rational animals per se *need* to be what they are and to live life in such a way as to become what they can potentially become.  
@@ -1003,7 +967,7 @@ Before I analyze some recent neo-Aristotelian accounts of virtue and vice, I sho
 
 ### Intrinsic Goods
 
-The first clarificatory point is that virtues are intrinsic goods. When I say that they "enable" one to be a practical, rational primate, I don't mean that virtues are only instrumentally valuable -- that too. Virtues on my account will also turn out to simply constituitive of humanity. It may seem to odd to categorize essential properties of humanity as morally praiseworthy traits. But the point is essential to my case. Virtues are not just "morally praiseworthy" qualities; they are *the human* qualities. Virtues are examples of *humanness* in its exemplary form. 
+The first clarificatory point is that virtues are intrinsic goods. They enable one to be a practical, rational primate, but they are more than instrumentally valuable. Virtues on my account will also turn out to be constitutive of humanity. It may seem to odd to categorize essential properties of humanity as morally praiseworthy traits. But the point is essential to my case. Virtues are not just "morally praiseworthy" qualities; they are *the human* qualities. Virtues are examples of *humanness* in its exemplary form. 
 
 I grant that the notion that virtues are "the human" qualities is a reversal on the all-too-common mistake that "human" qualities are neutral with respect to moral praise or blame. The reason for this reversal of, as  I tried to argue above, is that all life forms discovered by scientific investigation and articulated in generic propositions are inherently normative. Hence, the concept of human nature cannot and should not be value-neutral. Rather, as Micah Lott points out, the concept of human nature:
 
@@ -1023,13 +987,83 @@ For if practical reasoning is one of our capacities like sight and hearing, then
 
 Practical reasoning is not just a process of deciding what to do by running a calculus or a two-column ledger; it requires sensitivity to a range of reasons, both external to oneself (facts and states of affairs) and internal to one's own psychology (desires, fears) and physiology (weakness, hunger), etc. Success, if such be possible, would mean taking up the basic facts of one's biology, psychology, and social anthropology into a space of reasons, and the basic facts of the situation in which one finds oneself, weighing and ranking reasons for action, and acting. And, having considered the whole range of facts and reasons, the virtuous person then constructs a "pattern that, given the human situation, is likely to lead a good life."[@kekes1983wisdom 280] 
 
-I do not mean to suggest that such evaluations are quick and easy. Evaluating someone's ability to practically reason is no easy task. For Smith to evaluate Jones requires Smith to practically reason *about* Jones' practical reasoning. Any errors Smith makes *while reasoning* about Jones are liable to result in misjudgments *about Jones*. Even worse, practical reason is self-referential or recursive. That is, practical reason is the capacity by which the practical reasoning animal reflects upon the proper or improper uses of practical reason itself.  Smith to self-reflect -- for Smith to evalaute *Smith*'s own practical reasoning' -- requires Smith to *use* practical reasoning. Self-reflection is putting the microscope itself under the microscope.
+I do not mean to suggest that such evaluations are quick and easy. Evaluating someone's ability to practically reason is no easy task. For Smith to evaluate Jones requires Smith to practically reason *about* Jones' practical reasoning. Any errors Smith makes *while reasoning* about Jones are liable to result in misjudgments *about Jones*. Even worse, practical reason is self-referential or recursive. That is, practical reason is the capacity by which the practical reasoning animal reflects upon the proper or improper uses of practical reason itself. For Smith to self-reflect -- for Smith to evalaute *Smith*'s own practical reasoning' -- requires Smith to *use* practical reasoning. Self-reflection is putting the microscope itself under the microscope.^[I shall have much more to say about the labrynthine difficulties of practical reasoning in a later chapter.]
 
-I shall have much more to say about the labrynthine difficulties of practical reasoning in a later chapter. For now, I simply wish to underscore that, according to my hypothesis thus far, particular virtues enable the exemplification of our life form, and the excellence of practical reason enable us to pursue our ends *well*. The practical, rational agents who consistently succeed at pursuing and achieving their ends would be models of virtue. 
+According to my hypothesis thus far, particular virtues enable the exemplification of our life form, and the excellence of practical reason enable us to pursue our ends *well*. The practical, rational agents who consistently succeed at pursuing and achieving their ends would be models of virtue. 
 
 ### Unity of Virtues
 
 A third clarification is that, while I have been suggesting that there is only one set of such traits and that there is only one type of mature, flourishing practical reasoner, I am aware that I have not yet argued for any unity. I would suggest that most kinds of misery are the same but there might be a million different types of human flourishing. Only a great novelist like Tolstoy could get away with saying something so stupid as that every unhappy family is different. Therapists and psychiatrists hear the same sad stories over and over again. But I do not insist on the point. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Conclusion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Virtue and Vice: Rational and Irrational Practice
+
+
+\setlength{\epigraphwidth}{.95\textwidth}
+\begin{epigraphs}
+\qitem{Men need virtues as bees need stings.}%
+{---\textsc{Peter Geach, \begin{em}The Virtues \end{em}.}}
+\centering
+\end{epigraphs}
+
+
+## Introduction: Virtue as the Human Norm
+
+
+The thesis of this chapter is that certain qualities are virtues and vices for creatures like us: rational practices and practical reasoning are excellent qualities of practical rational primates -- while irrational practices and practical irrationality are natural defects. 
+
+I argue that virtues have (at least) eight common properties besides being by definition good for their possessor: namely, virtues are beneficial to all of the species (not just their possessor) and so break down the assume divide between altruistic or other-regarding virtues and egoistic or self-regarding virtues; virtues constitute excellent human *functioning*; they are especially beneficial in that they are corrective of tempting vices; virtues are not any positive traits such as those given by luck, nor are they necessarily even *acquired* at all -- rather, virtues are *acquirable*; some virtues are are excellences of "rational practicing"; others are excellences of practical reasoning about one's whole life; finally, virtues are excellences of "social reasoning" in that they enable the health and progress of societies and traditions.  
+
+In section 3, I synthesize the views of Foot, McDowell, and MacIntyre discussed thus far and clarify their disagreements. In section 4 I address a few remaining objections to my account of virtue. 
+
+
 
 ## Virtue and Vice
 
@@ -1058,7 +1092,7 @@ So the first point about virtue is that it must benefit its possessor. Individua
 
 ### Beneficial to All 
 
-A natural query to Plato's requirement would be to ask *to whom* virtues are supposed to beneficial. Does a virtuous person benefit or does the society in which the virtuous person lives?  For some virtues, the answer is more clearly *both*. Virtues, by hypothesis, are beneficial to humans as a kind, not just this or that individual. Who is benefited more?
+A natural query to Plato's requirement would be to ask *to whom* virtues are supposed to be beneficial. Does a virtuous person benefit or does the society in which the virtuous person lives?  For some virtues, the answer is more clearly *both*. Virtues, by hypothesis, are beneficial to humans as a kind, not just this or that individual. Who is benefited more?
 
 The answer is difficult to state systematically. This difficulty does not cause trouble for the account. By hypothesis, virtues are beneficial to *human beings*. One can approach the thesis that virtues are beneficial to human beings qua human from two angles.
 
@@ -1326,6 +1360,21 @@ The solution to several of these problems is to argue that excellent practical r
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Practical Reasoning
 
 
@@ -1529,4 +1578,7 @@ Mill distinguishes folly from immorality by treating folly as a failure to provi
 The same distinction shows up not only in distinctions between good and bad, but between a whole host of normative terms such as 'need' and 'ought' and 'should'. Elizabeth Anscombe explains: 
 
 >The terms “should” or “ought” or “needs” relate to good and bad: e.g. machinery needs oil, or should or ought to be oiled, in that running without oil is bad for it, or it runs badly without oil. According to this conception, of course, "should" and "ought" are not used in a special "moral" sense when one says that a man should not bilk. (In Aristotle's sense of the term "moral" [ήθικός], they are being used in connection with a moral subject‑matter: namely that of human passions and [non‑technical] actions.) But they have now acquired a special so‑called "moral" sense-‑i.e. a sense in which they imply some absolute verdict (like one of guilty/not guilty on a man) on what is described in the "ought" sentences used in certain types of context: not merely the contexts that Aristotle would call "moral"‑-passions and actions‑-but also some of the contexts that he would call "intellectual.”[@anscombe1958]
+
+
+
 
