@@ -724,45 +724,34 @@ Of course, I have not yet tried to show *which* true generics about humans can s
 
 
 
-
 ## Introduction
 
-The last chapter defended the very possibility of an ethical naturalism, this chapter needs to defend its plausibility. In order to show how moral norms are instances of natural norms, we first had to defend the notion of natural normativity in general. This chapter extends the discussion of natural normativity to include "human norms". 
+The last chapter defended the very possibility of an ethical naturalism, this chapter must go further and defend its plausibility. In order to show how moral norms are instances of natural norms, we had to defend the notion of natural normativity in general. This chapter extends the discussion of natural normativity to include "human norms". 
 
-I argue that certain generic propositions about human beings are both scientifically true and ethically normative. We must first uncover, if possible, a set of scientific generics about humanity, specifying what kind of natural creature human beings are and what kind of characteristic life they live, and so on. Such generics, it is hoped, will give us initial insight into the concept and content of virtue, excellence, wisdom, and flourishing, which are our main themes. 
+I shall argue that certain generic propositions about human beings are both scientifically true *and* normatively or ethically significant. We must first uncover, if possible, a set of scientific generics about humanity. What is a human being? What kinds of activities does "the human" being do? What kind of life does it live? If we can uncover answers to such questions, in the form of Aristotelian Categoricals or generics, then they will give us initial insight into the concept and content of virtue, excellence, wisdom, and flourishing, which are our main themes. 
 
 Section 2 of this chapter develops the intuitive observation that human beings are natural organisms. That is, we are *animals* enjoying the properties common to the entire tree of life but also enjoying other, more peculiar, properties relating to our speaking, innovating, deliberating, and so on. Generics about human beings give us a conception of human nature that is seamlessly both normative and descriptive? If so, then we must first uncover, if possible, a set of scientific generics about humanity, specifying what kind of natural creature human beings are and what kind of characteristic life they live -- what kind of life they live "by nature". Such generics, it is hoped, will give us initial insight into concepts that will be developed in the next chapter, such as human virtue, excellence, wisdom, and flourishing. 
 
-Section 3 focuses in more detail on the cluster of concepts implied in the notion of practical reasoning. It argues that observing human behaviors both from "within" and "without" the human point of view allows us to see what is unique about human beings, their capacities, and ends. If, even with these differences, humans fit the larger pattern of natural normativity defended in chapter 2. By comparison to the human life form, evaluations of individual human beings is possible. 
+Section 3 focuses in more detail on the cluster of concepts implied in the notion of practical reasoning. It argues that a human being is a practical rational primate. This conception of human nature that is seamlessly both normative and descriptive. Human beings find themselves in a nexus of normativity that is both "natural" (i.e., automatic, default, not created by us) and normative (i.e., binding, non-optional).  It argues that observing human behaviors both from "within" and "without" the human point of view allows us to see what is unique about human beings, their capacities, and ends. If, even with these differences, humans fit the larger pattern of natural normativity defended in chapter 2. By comparison to the human life form, evaluations of individual human beings is possible. 
 
 Section 4 addresses a few objections. I attempt to sympathetically articulate and provide a response to a series of worries philosophers have about the neo-Aristotelian project of grounding ethical evalutions in some normatively loaded conception of human nature. For example, some think that there are no such things as the sort of "natures" as I have described; others think that there are natures but that there is no human nature; others think that human nature comes with no built in teleological boundaries; others think that human nature comes with a few built in teleological boundaries are the ends of reproduction and survival. Each of these receives an initial rebuttal, though a few of them will require further comment in a later chapter. 
 
-Section 5 begins to apply the foregoing account of human nature and natural human norms to ethics. Specifically, I shall argue that *a human being* is a practical, rational primate. As practical, rational animals, we find ourselves in a nexus of normativity that is both "natural" (i.e., automatic, default, not created by us) and normative (i.e., binding, non-optional). This conception of human nature that is seamlessly both normative and descriptive. Hence, it is a basic normative fact that a human being *is to become a fully mature human being*. Practical primates have prima facie normative obligation to be what they are (to respect the conditions and criteria of their life form) and a prima facie obligation to become fully mature practical primates. 
+Section 5 begins to apply the foregoing account of human nature and natural human norms to ethics. Specifically, I shall argue that as practical, rational animals, a a basic human norm is that one *is to become a fully mature human being*. Practical primates have prima facie normative obligation to be what they are (to respect the conditions and criteria of their life form) and a prima facie obligation to become fully mature practical primates. 
 
 
 ## Animals of a Peculiar Sort
 
-We can put the argument of this chapter compactly like this: 
-
-**Natural Human Norms Argument**  
-(1) On ethical naturalism, all natural organisms exhibit formal and functional (i.e., teleological) facts which are expressible in generics -- these are natural norms. 
-(2) Human beings are natural organisms of a peculiar sort.  
-(3) Therefore, human beings exhibit formal and teleological facts which are expressible in generics; there are *human* norms. 
-
-Foot is well aware that the imposition of normativity onto brute nature, or the derivation of normativity from brute nature, is likely to seem absurd. She says: 
+The previous chapter drew substantially from Philippa Foot to argue that *any* animal exists within a nexus of natural normativity. Since humans are animals, it would seem to follow that humans are subject to natural norms. Foot is well aware that the derivation of normativity from brute nature is likely to seem absurd, especially when it comes to human beings. She says: 
 
 >The idea that any features and operations of humans could be evaluated in the same way as those of plants and animals may provoke instant opposition. For to say that this is possible is to imply that some at least of our judgements of goodness and badness in human beings are given truth or falsity by the conditions of human life. And even if it is allowed that certain evaluations of this kind are possible—-those vaguely thought of perhaps as ‘merely biological’—-there is bound to be skepticism about the possibility that ‘moral evaluation’ could be like this.^[@foot2001natural 38.]
 
-Despite such legitimate worries, we have followed Foot in trying to earn a hearing for this notion by arguing that the "meaning of 'good' in so-called 'moral contexts'" does not have a special logic of its own. Rather, 'good' and 'defective' pick out natural properties of living things. The goodness of a cactus is relative to its cactus nature; the goodness of human beings is relative to their human nature. 
+Despite such legitimate worries, we have followed Foot in trying to earn a hearing for this notion by arguing that the "meaning of 'good' in so-called 'moral contexts'" does not have a special logic of its own. Rather, 'good' and 'defective' pick out natural properties of living things. The goodness of a cactus is relative to its cactus nature; likewise, we should expect that the goodness of human beings is relative to their human nature. 
 
-Perhaps we have gone too quick. Are human beings natural organisms? On its face, calling human beings organisms or animals or primates appears to be an innocent truism. *Of course* humans share properties in common with every other organism: they enjoy a particular evolutionary history; they move about the earth engaging in activities such as reproducing, sleeping, feeding, dying, and so on. But some of objected to the suggestion that human beings are *mere* animals. We are different from other animals, and the significance of this difference is a matter of some controversy. 
-
-
-Certainly, humans exhibit a range of actions such as language and complex social systems that other animals do not. As Hursthouse summarizes:
+Are human beings natural organisms? On its face, calling human beings organisms or animals or primates appears to be an innocent truism. *Of course* humans share properties in common with every other organism: they enjoy a particular evolutionary history; they move about the earth engaging in activities such as reproducing, sleeping, feeding, dying, and so on. But some of objected to the suggestion that human beings are *mere* animals. We are different from other animals, and the significance of this difference is a matter of some controversy. Certainly, humans exhibit a range of actions such as language and complex social systems that other animals do not. As Hursthouse summarizes:
 
 >When we moved from the evaluations of other social animals to ethical evaluations of ourselves, there was an obvious addition to the list of aspects which are evaluated. The other animals act [as opposed to chemicals which are only acted upon.]. So do we occasionally, but mostly we act from reason, as they do not, and it is primarily in virtue of our actions from reason that we are ethically good or bad human beings. So that is one difference that our being rational makes.^[@hursthouse1998virtue 217.] 
 
-In light of the difference of being rational, the task in discovering true generics about human beings is capturing what is common between us and other animals and what is unique about rational animals. 
+In light of the difference of being rational, the task in discovering true generics about human beings is capturing what is common, and what is unique, about humans.
 
 My view is that human beings are animals of a peculiar sort where the peculiarities do not erase the commonalities. The traditional formula that humans are "rational animals" is close to correct. As such, both the *animal* part of that formula is essential and the *rational* part. To see why, let's first consider in a bit more detail what it means to be an animal, and why it matters. Then we will look at what it means to be the peculiar sort of animal we are. 
 
@@ -786,7 +775,7 @@ Furthermore, a scientific account of humanity cannot leave out that humans have 
 
 Part of the alien anthropologist's examination would be to examine the body, brain, and hands of human beings. One of the first things we can imagine they would notice is that  humans live in cultures and societies. They are not merely "social animals" like apes; they are language-users, communicating in signs and symbols. Their language is an extremely complex, open-ended system which is both recursive (able to nest propositions within propositions) and productive (able to create sentences by potentially limitless combinations of words). In virtue of language and their opposable thumbs, they are creative; they don't just live on the ground or under ground, but build houses and shelters, sometimes in new places, such as caves, trees, hills, mountains, etc. Also, they are self-reflective. They establish social relations upon biological grounds (some children growing up with natural parents) and upon normative grounds (some orphans growing up in orphanages created by philanthropists).
 
-What is the point of these reflections? I wish to point out just how much we can know about our form of life by appealing to the "objective" or third-person point of view of scientific exploration, data gathering, inductive generalization. Before we examine the ethical significance of these facts, we must explore the peculiar differentiam of our species: practical rationality. 
+Even before introducing the "human" point of view, we can describe "the human" form of life in some detail. My hope is that these generics are plausibly knowable from an "objective" or third-person point of view of scientific exploration, data gathering, inductive generalization. They seem to have at least *potential* ethical significance; even so, the most ethically significant fact about us is the peculiar differentiam of our species: practical rationality. 
 
 ### Peculiarities
 
@@ -939,28 +928,29 @@ The thesis of this chapter has been the generic truth -- or the Aristotelian cat
 
 
 
-## Human Norms, Ethical Norms
+## Natural Norms, Human Norms, Ethical Norms
 
-On best evidence, human beings are practical rational primates. What is the ethical upshot? 
+On best evidence, human beings are practical, rational primates. What is the ethical significance of this proposition? 
 
-Firstly, if the arguments of the previous chapter hold, then all natural organisms are subject to patterns of normative evaluation. So, for example, it might be the case that whatever is *naturally good* for humans is ipso facto *morally good*: even innocuous, "merely biological" goods like sleep, air, and healthy food. Candidates to be an example of such norms can be expressed in generic propositions about human animals, for instance: "human beings sleep daily". Accordance with such norms would be genuinely good for humans and deviation from them genuinely bad. Importantaly, such norms are not *only* accessible to us, but would be accessible to an "alien anthropologist" observing humanity from the "outside".  Nevertheless, the Irrelevance Objection states that the biological norms (such as the need for sleep) are irrelevant to prudential or ethical norms (such as the need to think through one's decisions.) Although I have not yet addressed the Irrelevance Objection, I have given some reasons to think that our complete nature as practical, rational primates has *at least prima facie* ethical significance. A defeasible normative obligation to get good sleep can be overcome by citing a countervailing reason -- such as the need to stay up and feed the baby or the need to stay on duty at one's late-night post -- while still acknowledging that it is a normative obligation arising from our animal nature. This is the sort of naturalistic evaluation Foot, Hursthouse, and McDowell are aiming for. Just as the scientist evaluates members of a species by how well or badly it exemplifies its particular life form, human beings are evaluable by how well or badly they exemplify their particular life form.  Just as we can evaluate an individual wolf by reference to its life form, perhaps we can evaluate individual human characters and abilities, human actions and lives by reference to our life form. Some evaluations are not obviously ethical:  starving to death, being born without limbs, being involuntarily infertile, seem to be bads-of-a-kind for creatures like us. They are not *moral* bads, but real misfortunes. The question to be pursued, then, is whether any natural human norms can be shown to be fully ethical norms.
+Firstly, on the basis of the previous chapter's arguments, there are natural norms arising from the conditions of our animal nature. Candidates to be an example of such norms can be expressed in generic propositions about human animals, for instance: "animals beings sleep daily". Accordance with such norms would be genuinely good for humans and deviation from them genuinely bad. Importantaly, such norms are not *only* accessible to us, but would be accessible to an "alien anthropologist" observing humanity from the "outside".  This is the sort of naturalistic evaluation Foot, Hursthouse, and McDowell are aiming for. Just as the scientist evaluates members of a species by how well or badly it exemplifies its particular life form, human beings are evaluable by how well or badly they exemplify their particular life form.  Just as we can evaluate an individual wolf by reference to its life form, perhaps we can evaluate individual human characters and abilities, human actions and lives by reference to our life form. Some evaluations are not obviously ethical:  starving to death, being born without limbs, being involuntarily infertile, seem to be bads-of-a-kind for creatures like us. They are not *moral* bads, but real misfortunes. The question to be pursued, then, is whether any natural human norms can be shown to be fully ethical norms.
 
-Secondly, there might be special instances of natural norms that apply to humans as a species of a peculiar sort. Things get really interesting (and rather more difficult) when we consider human beings not as mere brutes but as reflective brutes. The difference between humans and wolves is that wolves are not rational animals. So, when it comes to humans, we continue to evaluate on the basis of their species, but we evaluate not just their health and normal developmental stages, and their maturity, but their *actions*. Michael Thompson summarizes: 
+This is the second bit of ethical significance. Things get really interesting (and rather more difficult) when we consider human beings not as mere brutes but as reflective brutes. The difference between humans and wolves is that wolves are not rational animals. So, when it comes to humans, we continue to evaluate on the basis of their species, but we evaluate not just their health and normal developmental stages, and their maturity, but their *actions*. Michael Thompson summarizes: 
 
 >...  will and practical reason are on the face of it just two more faculties or powers a living being may bear, on a level with the powers of sight and hearing an memory. The second crucial thought is that an individual instance of any of the latter powers — sight, hearing, memory — is intuitively to be judged as defective or sound, good or bad, well-working or ill-working, by reference to its bearer's life-form or kind or species.[@thompson2008life 29]
 
-So, the neo-Aristotelian hypothesis is that some such norms are candidates for classification as *natural ethical norms.* A candidate to be an example of such a norm "human beings reason about their decisions" or "human beings become wiser over time."  If such propositions can be demonstrated to be natural, human, ethical norms, they would be momentous, for they would pertain to every individual human, regardless of culture and upbringing. The hypothesis to be developed is that the obligation to acquire virtues is just such a binding, natural, ethical norm. We are obligated to become what we truly are. 
+So, the neo-Aristotelian hypothesis is that some such norms are candidates for classification as *natural ethical norms.* These are special instances of natural norms that apply to humans as a species of a peculiar sort. A candidate to be an example of such a norm "human beings reason about their decisions" or "human beings become wiser over time."  
 
-How does this obligation relate to virtue? Virtues are a specific type of quality belonging to creatures like us. Virtues are the human specific goods-of-a-kind. The virtues constitue a set of normative constraints on what one can/should be and can/should become arising from one's nature as a practical primate. 
+If such propositions can be demonstrated to be natural, human, ethical norms, then they would describe "the normal human" -- not statistically normal, but the one in conformity with our species-type. Lest I seem to be sneaking in "purely" ethical norms, consider the possibility that whatever is *naturally good* for humans is ipso facto *morally good*: even innocuous, "merely biological" goods like sleep, air, and healthy food.  "Human beings breathe, sleep, and eat" is not just a description but a normative generic. A human being who *could* eat but does not eat would be ipso facto defective. 
+
+If natural human norms are natural norms, then they would be momentous. Such norms  would pertain to every individual human, regardless of culture and upbringing. The hypothesis to be developed is that the obligation to acquire virtues is just such a binding, natural, ethical norm. We are obligated to become what we truly are. 
+
+All I want to suggest for now is that our complete nature as practical, rational primates has *at least prima facie* ethical significance. A defeasible normative obligation to get good sleep can be overcome by citing a countervailing reason -- such as the need to stay up and feed the baby or the need to stay on duty at one's late-night post -- while still acknowledging that it is a normative obligation arising from our animal nature. The defeasibility of such norms brings up the "Irrelevance Objection." If norms can be overcome, what do they matter at all? Prima facie normative bindingnness is not *everything* but it is *not nothing*. I shall have to address the Irrelevance Objection fully in its own chapter. 
+
+For now, we must consider how putative human norms relate to virtue. The notion is that virtues are a specific type of quality belonging to creatures like us. Virtues are the human specific goods-of-a-kind. The virtues constitue a set of normative constraints on what one can/should be and can/should become arising from one's nature as a practical primate. 
 
 Relatedly, the acquisition of virtues both causes and constitutes the actualization of our life form as practical rational primates. Truly exemplifying our life form constitutes our species-specific flourishing. Virtues are commonly supposed to be "excellences" of human beings. Relative to what is such a quality excellent? The answer can only be that virtues are excellences relative to our nature or life form. They are the traits or qualities that enable us to actualize our life form, to fully express in a life what we are by nature. If what we are by nature is practical, rational primates, then virtues (we can further predict) will be traits pertaining to practical reason and animality. 
 
 Furthermore, if our nature is to be practical, rational primates, then we have some vague notion of our natural "function." I shall not go in for the Aristotelian view that the natural work (ergon) of human beings is contemplative science, an activity by reference to which success and failure may be judged. Rather, I shall be more ecumenical: the telos of every life form is, minimally, to do all the activities that constitute its mature flourishing.  So we should predict quite generally that the human telos is to become *fully mature* practical, rational primates. The conceptions of human nature (as practical reasoning animals) must be defined in relation to virtue (the excellences of rational practice and practical reason) and to human nature as it could be, our natural telos (to be excellent and mature practical, rational primates). 
-
-I hope it is plain that hypothetical ethical implications, if they can be made good, are highly significant. The task of the subsequent chapters is to make good on these claims. 
-
-
-### Requirements for a Successful Theory
 
 Becoming fully or fully actualized practical rational animals requires the actualization not only of our animal nature (through growth, maturity, reproduction) but our rational potential (through intellectual growth and knowledge, and practical wisdom that sublimates all of one's emotions and bodily desires and physical settings into a good life). In other words:  Humans are to become practical, rational animals. Hursthouse points out that we do not just admire those who survive but who exemplify a *human* form of life: "The human virtues make their possessor good qua human being, one who is as ordinarily well fitted as a human being can be in not merely physical respects to live well, to flourish -- in a characteristically human way." [@hursthouse1998virtue 208.]
 
@@ -968,20 +958,9 @@ As a generic, the proposition that humans are practical, rational primates is bo
 
 A norm that obliges us to pursue a certain range of forms of life -- and to avoid others -- is that we are practical rational primates. What are those forms of life? The qualities of excellence for practical rational animals would be the moral and intellectual virtues, including moderation and immoderation, justice and injustice, practical wisdom and foolishness, and so on. 
 
-
 To identify these virtues requires, in part, looking to exemplary humans. If "human" is a normative concept, then the exemplars from which to derive our notion of humanity would not be someone in process of fully actuating that life form or who has already failed to do. The exemplar from which to derive a concept of humanity would not be, for example, the criminally insane, or  children, not the critically ill or the handicaped, but the fully mature, practical rational primates. The traits of such a person are liable to be admirable and praiseworthy for creatures like us. 
 
 The qualities human beings acquire on the way to becoming fully practical, rational animals are virtues.  Virtues are those qualities needed by us as members of the human species, each member of which exemplifies the same human nature of being a potentially practical, rational animals.  Thus Hursthouse again: “The concept of a virtue is the concept of something that makes its possessor good: a virtuous person is a morally good, excellent or admirable person who acts and feels well, rightly, as she should. These are commonly accepted truisms.”[@sepvirtue] 
-
-In outline, the argument is this: 
-
-(1) All natural organisms exhibit formal and functional (i.e., teleological) facts which are expressible in generics.
-(2) Human beings are natural organisms.
-(3) Human beings exhibit formal and teleological facts which are expressible in generics. 
-(4) For any x, the excellences of x are the qualities that enable and partly constitute its being a fully mature x. 
-(5) Human beings are practical, rational primates. 
-(6) The excellences or virtues of human beings are the qualities that enable and partly constitute its becoming a fully practical, rational primates.
-(7) Rational practices and practical reasoning enable human the virtues that enable persons and societies to become fully practical, rational primates. 
 
 ### Traits That Benefit
 
@@ -991,21 +970,13 @@ More specifically, virtues on my account will turn out to be qualities that enab
 
 Human virtues would also be those qualities that enable one to perform  characteristically rational activities such as speaking, socializing, thoughtful acting, and creating. By nature, we are inherently self-aware language-users who grow up and live in a language-community with a history and tradition, and who are curious to know what is true about ourselves and our world. We are also extravagantly innovative, creating myriad tools, forms of art, and other products for our use and enjoyment. We are inherently conscious and self-conscious beings who speak, interpret, and create in the context of a linguistic community such as a family, society, and culture. And as *practical* rational animals, we are inherently goal-oriented and self-determining beings who are to some degree able to acquire new traits or lose them, able to achieve our natural ends or fail to achieve them, able to become aware of the "givenness" of our biology and work with or against it, and are able to treat an entire biological life not only as an event but as a project. Although we are pushed about by our biological instincts and by social pressures, we do not *simply* stumble around through life; at times we also act on *reasons*. That is, we deliberate about future actions, and reflect on past actions, and become puzzled about what is called for in the present. The success of our actions is not guaranteed, and the reasonableness of our justifications is not guaranteed. Rather, we muddle through on the best evidence we have. 
 
-
 The criteria of a definition of virtue, then, is that the excellences intrinsic to our life form are those qualities that practical rational animals per se *need* to be what they are and to live life in such a way as to become what they can potentially become.  
 
 Just as importantly, *natural badness* would be the property or set of properties that practical rational animals *need to avoid*. The category of natural evils is expansive: hunger, exposure to predators or extreme temperatures, disease, accidental injury, and premature death. In some sense, each of these frustrates one's development toward the natural end of being a fully mature practical reasoner and hence partly constitute species-specific misery. But the sub-set of natural evils we should call 'vices' would be those acquirable qualities that we inflict upon ourselves and others. 
 
-To illustrate my meaning, it might be helpful at this juncture to paint the portrait of the kind of naturally developed human being I have in mind. Without discriminating between *virtuous* or acquired excellence and *natural* or unacquired, we can say that the maximally *human* person would be (a) physically excellent, healthy, strong, developed, and whole; (b) rationally excellent in speech, knowledge, reasoning, and social interaction -- perhaps knowledgable, smart, properly trusting and properly critical, perceptive, calm, sociable, wise, patient, teachable, moderate, valuing each thing according to its worth. Call this person beautific. The maximally beautified human being is one who has by whatever means become what human beings potentially can be and are by nature.
-
-By contrast, the maximally inhuman person would exemplify all that could go wrong with a human life, both due to bad fortune and to a person's own fault.  Such a person would be (a) physically imperfect, sick, weak, undeveloped, diseased, (b) ignorant, stupid, overly credulous and overly skeptical, unperceptive, angry, solitary, foolish, rash, unteachable, immoderate, highly valuing worthless things and disregarding the most valuable things.  Call this person miserific: both pitiable for their bad fortune and despicable for their bad character and bad choices. The maximally miserific person is the one who has by whatever means become the worst possible example of what a human being can be. 
-
-
-Before I analyze some recent neo-Aristotelian accounts of virtue and vice, I should make a couple of clarifications. 
-
 ### Intrinsic Goods
 
-The first clarificatory point is that virtues are intrinsic goods. They enable one to be a practical, rational primate, but they are more than instrumentally valuable. Virtues on my account will also turn out to be constitutive of humanity. It may seem to odd to categorize essential properties of humanity as morally praiseworthy traits. But the point is essential to my case. Virtues are not just "morally praiseworthy" qualities; they are *the human* qualities. Virtues are examples of *humanness* in its exemplary form. 
+I need to make a few clarifying points. The first clarification is that virtues are intrinsic goods. They enable one to be a practical, rational primate, but they are more than instrumentally valuable. Virtues on my account will also turn out to be constitutive of humanity. It may seem to odd to categorize essential properties of humanity as morally praiseworthy traits. But the point is essential to my case. Virtues are not just "morally praiseworthy" qualities; they are *the human* qualities. Virtues are examples of *humanness* in its exemplary form. 
 
 I grant that the notion that virtues are "the human" qualities is a reversal on the all-too-common mistake that "human" qualities are neutral with respect to moral praise or blame. The reason for this reversal of, as  I tried to argue above, is that all life forms discovered by scientific investigation and articulated in generic propositions are inherently normative. Hence, the concept of human nature cannot and should not be value-neutral. Rather, as Micah Lott points out, the concept of human nature:
 
@@ -1034,33 +1005,21 @@ According to my hypothesis thus far, particular virtues enable the exemplificati
 A third clarification is that, while I have been suggesting that there is only one set of such traits and that there is only one type of mature, flourishing practical reasoner, I am aware that I have not yet argued for any unity. I would suggest that most kinds of misery are the same but there might be a million different types of human flourishing. Only a great novelist like Tolstoy could get away with saying something so stupid as that every unhappy family is different. Therapists and psychiatrists hear the same sad stories over and over again. But I do not insist on the point. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Conclusion
 
 
+We can put the argument of this chapter compactly like this: 
+
+**Natural Human Norms Argument**
+
+P1. All natural organisms exhibit formal and functional (i.e., teleological) facts which are expressible in generics -- these are natural norms. (Ethical Naturalism, from Chapter 2)
+P2. Human beings are natural organisms of a peculiar sort.  (Assumption)
+C1. Therefore, human beings exhibit formal and teleological facts which are expressible in generics; there are *human* norms. (From P1-P2)
+P3. For any organism M, the excellences or virtues of M are the qualities that enable and partly constitute its being a fully mature M. 
+P4. Human beings are practical, rational primates. (Human Nature)
+C2. For humanity, the excellences or virtues of a human being are the qualities that enable and partly constitute its becoming a fully practical, rational primate. (From P3-P4)
+P6. For humanity, virtues are rational practices and practical reasoning. 
+C3. Therefore, for humanity, rational practices and practical reasoning enable persons and societies to become -- and partly constitute their becoming -- fully practical, rational primates.
 
 
 
@@ -1616,6 +1575,8 @@ Mill distinguishes folly from immorality by treating folly as a failure to provi
 The same distinction shows up not only in distinctions between good and bad, but between a whole host of normative terms such as 'need' and 'ought' and 'should'. Elizabeth Anscombe explains: 
 
 >The terms “should” or “ought” or “needs” relate to good and bad: e.g. machinery needs oil, or should or ought to be oiled, in that running without oil is bad for it, or it runs badly without oil. According to this conception, of course, "should" and "ought" are not used in a special "moral" sense when one says that a man should not bilk. (In Aristotle's sense of the term "moral" [ήθικός], they are being used in connection with a moral subject‑matter: namely that of human passions and [non‑technical] actions.) But they have now acquired a special so‑called "moral" sense-‑i.e. a sense in which they imply some absolute verdict (like one of guilty/not guilty on a man) on what is described in the "ought" sentences used in certain types of context: not merely the contexts that Aristotle would call "moral"‑-passions and actions‑-but also some of the contexts that he would call "intellectual.”[@anscombe1958]
+
+
 
 
 
