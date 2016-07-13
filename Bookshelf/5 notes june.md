@@ -266,7 +266,7 @@ Another solution to the problem of moral relativism. I call this phenomenon mora
 
 Moral awe can "break through" one's conventional beliefs. It can shock and amaze one, almost in spite of oneself. 
 
-## Conclusion"
+## Conclusion
 
 "Finally, there’s the fear of nihilism—the fear that biology strips life of meaning and purpose. It says that love, beauty, morality, and all that we hold precious are just figments of a brain pursuing selfish evolutionary strategies. For most people who ask the question “Why am I here?” the answer “To pass on your genes” is less than comforting."^[Steven Pinker, little handout]
 
