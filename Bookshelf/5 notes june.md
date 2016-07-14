@@ -1,172 +1,4 @@
 
-
-MacIntyre’s point is that moral judgments are not *simply* useful in moral dilemmas or quandaries. They appear, at the earliest stages of childhood development, in a pattern of usage that is inextricable from the human activities of reasoning, acting, and appraising. Evaluative judgments appear in the widest imaginable spread of human activities, from politics to playgrounds, from sociology to social life, from the practices of law and medicine to the professions of journalism and psychology, from the sciences to the arts. Even if this point be granted, moral dilemmas are not *unreal*. Moral dilemmas are a special version of our general “problems of appraisal and action.” They may be particularly vexing, but they are no different from the general problems of how to live, how to be happy, what kinds of public policies to pursue, what apparently meaningful types of life are really meaningful. 
-
-
-### History of error
-
-To make this case, it is helpful to examine how historically we came to make the familiar, but faulty, distinction between moral and non-moral reasons. Foot cites Mill as an early proponent of the distinction: 
-
->J. S. Mill, for instance, expresses this modern point of view quite explicitly, saying in his essay *On Liberty* that ‘A person who shows rashness, obstinacy, self‐conceit . . . who cannot restrain himself from harmful indulgences’ shows faults (Mill calls them ‘self‐regarding faults’) which ‘are not properly immoralities’ and while they ‘may be proofs of any amount of folly . . . are only a subject of moral reprobation when they involve a breach of duty to others, for whose sake the individual is bound to have care for himself’.[@foot2001natural 68]
-
-Mill distinguishes folly from immorality, where folly is failure to provide goods for oneself.  As Elizabeth Anscombe had observed in 1958, the distinction between moral and non-moral *reasons* shows up in a similar distinction between two different kinds of 'ought' or 'should', or 'need': 
-
->The terms “should” or “ought” or “needs” relate to good and bad: e.g. machinery needs oil, or should or ought to be oiled, in that running without oil is bad for it, or it runs badly without oil. According to this conception, of course, "should" and "ought" are not used in a special "moral" sense when one says that a man should not bilk. (In Aristotle's sense of the term "moral" [ήθικός], they are being used in connection with a moral subject‑matter: namely that of human passions and [non‑technical] actions.) But they have now acquired a special so‑called "moral" sense-‑i.e. a sense in which they imply some absolute verdict (like one of guilty/not guilty on a man) on what is described in the "ought" sentences used in certain types of context: not merely the contexts that Aristotle would call "moral"‑-passions and actions‑-but also some of the contexts that he would call "intellectual.”[@anscombe1958]
-
-The peculiarly *moral* 'ought' means came to mean a final, verdictive ought -- like the kind of "thou shalt" language used in the Ten Commandments. But *this* kind of ought, Anscombe thinks, only makes sense in the mouth of a believer in divine law. 
-
-This conceptual history illuminates that moral and non-moral reasons each exemplify, in their own ways, a broader conceptual structure of practicality. We identify *reasons to act*.  MacIntyre further summarizes the conceptual roots of the terms 'moral' and 'ethical'.
-
->'Moral’ is the etymological descendant of ‘moralis’. But ‘moralis’, like its Greek predecessor *ethikos* --  Cicero invented ‘moralis’ to translate the Greek word in the *De Fato* -- means ‘pertaining to character’ where a man’s character is nothing other than his set dispositions to behave systematically in one way rather than another, to lead on particular kind of life... The early uses of 'moral' did not contrast with “‘prudential’ or ‘self interested’” nor with “‘legal or ‘religious’... The word to which it is closest in meaning is perhaps most simply ‘practical’.”[@macintyre1984after 38] 
-
-MacIntyre came to the same conclusion, partially through his study of ethics. As a young philosopher, he was troubled about emotivism in particular and modern metaethics in general. Emotivists, intuitionists, naturalists, and error theorists all seemed to assume that moral terms are *referential.* If moral terms within moral judgments are supposed to pick out a property in the world, then either we must identify that property or (if we cannot) conclude that moral terms are literally meaningless. He argued that this assumption is a mistake. Instead, he concluded that the significance of moral judgments is that “they enable us to solve problems of appraisal and of action.”[@murphy2003macintyre 118, quoting MacIntyre’s master’s thesis *The Significance of Moral Judgments* p. 73] Instead of referring (or failing to refer) to a special 'moral property', all evaluative reasoning is practical reasoning. We employ moral judgments when we must evaluate something or when we must reason about what to do. Moral reasoning is not a special, mystical discipline divorced from prudential, instrumental, and other kinds of practical reasoning. Hence, there can be no adequate theory of ethics apart from a theory of (practical) rationality. 
-
-The point about this tangled relationship between practical reasons and moral reasons is not merely of historical or etymological interest (though of course, the narrow sense of the word 'moral' in discourse today is clear enough). The point is that  qualities such as benevolence and generosity we tend to call human “moral goodness” are of a type with a *broader category of goodness*.  Foot explains: “I want to show that judgments usually considered to be the special subject of moral philosophy should really be seen as belonging to a wider class of evaluations of conduct with which they share a common conceptual structure.” [@foot2001natural 66-67] 
-
-
-### The upshot: Practical reason as substantive process willing the good
-
-Let us return to McDowell's response to the Humean critic who is not satisfied that moral reasons are intrinsically motivating. McDowell admitted that the virtuous person is not just sensitive to one or two sorts of requirement for action as final verdicts; the virtuous person is sensitive to the broad range of often competing reasons that must be ranked and weighed before a final verdict is reached about what is to be done. This move was correct, in my view. What was incorrect was the persistence in labeling the broader sensitivity as "virtue", which suggests that one is only considering "moral reasons" in the narrower sense of that term. This subtle mistake leaves McDowell's case open to the hypothetical counterexample that an immoral person might be sensitive to a wide range of reasons, including narrowly "moral" reasons (read as one's duty to others), while doing the wrong thing or doing nothing at all. 
-
-How can we fill in the gaps in his account? The alternative that is needed is to recapture the holistic view of practical reasoning as the activity that defines human life form. Gladly, this account of practical reason is plausible in its own right and reinforces what we have argued above about the generics that describe all organisms and human beings. For help, I will turn to Jennifer Frey's recent discussions of Anscombe and Aquinas. In short, I shall defend the Aristotelian-Thomistic account in which practical reasoning is an end-oriented activity that aims at the perceived good of one's form of life.  As Frey stated in the epigram above, "There could be no reasons unless a rational animal has a general conception of its own good, and thus a general sense of how to live." 
-
-The first point in this case is that all organisms act toward ends, albeit unreflectively.  Frey summarizes Aquinas in this way: 
-
->all living things are a self-sustaining system of powers that functions to bring the living thing into being and to sustain its being. The movement of any part of a living thing, at any particular moment, is necessarily explained by reference to the movement of the whole thing towards a single end: the coming to be, maintenance, or reproduction of that very form of life.[@frey 68] 
-
-We have argued above that the growth into maturity of an organism is growth into the exemplification of its form of life. This form of life is what Aquinas calls a thing's nature. Hence, a wolf hunts in packs by nature, trees extend roots into the ground by nature, reptiles warm themselves in the sun by nature, and so on. 
-
-In plants and animals, the "natural inclination" toward their good is not reflective or intentional, and Aquinas did not make this mistake. Frey says:"Aquinas would agree with us that it is a category mistake to say that a sunflower wants to grow towards the light, if by this we mean that the flower somehow registers a positive feeling or has an inner impression towards the light, which “causes” it to move toward the light. The plant does not apprehend or desire anything; thus Aquinas is very careful to say that it does not have a power of appetite. In fact, Aquinas is at pains to note that a plant has no window onto the world at all—it just has conditions in which it characteristically comes into being, maintains, and reproduces itself.[@frey 69-70]
-
-Plants merely grow and reproduce; while animals grow, reproduce, and enjoy conscious experiences, such as sensory perceptions of material objects and of their own hungers, thirsts, pains, and so on. When it comes to human beings, however, we observe a difference. Human beings grow, reproduce, and enjoy conscious experiences like other animals but human beings also *know* that they do so. To quote John Haldane again,  "things are specified by their power."[@haldane1998return 262] And we observe our "power" or capacity to engage in cognitive and deliberative activities. Simply put, we are able to reason, to reason theoretically and practically.
-
-Reasoning is a distinctly human activity. While animals can not only sense but *perceive*, humans have the capacity of "intellection," the power of abstracting the forms themselves from percepts. An animal can *sense* an informed, organized object; an animal can be affected by the object. But the human animal can *acquire information* from the organized object. The ability to perceive something *as*, or even to perceive something big and brown with a smudge on its nose, does not imply the ability to perceive that thing as a cat.[@haldane1996coming]
-
-When it comes to inclination or "appetite", animals pursue and avoid objects. The antelope pursues healthy grass and flees a lion. The animal can only experience what is good or bad for it as a particular object. Animals incline toward their own good. They also have sensory perception of beings. But animals do not perceive beings *as* falling under universal categories. 
- 
-By contrast, a human being can recognize universals and hence can take up its natural inclinations to pursue or flee as reasons in a deliberative act. The natural inclinations may be underwritten or overridden. Confronted with a bit of healthy food on someone else's plat, I may choose not to eat it, for I recognize it as *not mine*. Confronted with a lion in a zoo, I may choose not to flee, for I recognize it as *not dangerous*. 
-
-Frey summarizes: 
->Rational animals, like any animal, have a natural inclination towards their good as a whole, and like lower animals this power is actualized through their apprehension of things in the world. But Aquinas argues that a rational animal relates to the world through the application of universal concepts, and thus it is inclined to pursue or avoid things under an intellectual, universal apprehension of them. Thus, Aquinas says that the will is inclined towards its objects under the formality of the “universal good,” rather than the particular good.[@frey 75]
-### How to live
-
-We have been speaking of the human capacity for recognizing and pursuing particular ends as good. We need to expand our scope to include the whole of life, the conception of our human good that constitutes the answer to the question "how should one live?" McDowell gets this part right — every rational practice is undertaking in pursuit of some particular end *in context* of a total conception of what is good in general. Frey says: 
-
->Consequently, we can say that rational animals have an understanding of different levels of ends, and at least a vague sense of how they are supposed to hang together as a whole. This conception of how it all hangs together is what Aquinas calls the ultimate end—a rational animal’s general, conceptual understanding of how to live or go on. Aquinas thinks that any sane, mature adult will necessarily have cobbled together some such conception. Aquinas calls this conception “the universal good”, and he argues that it is the will’s proper object. Everything that is willed is willed under this rational aspect of good, as to be pursued because *in accord with my general conception of the good.* In fact, Aquinas thinks there could be no reasons unless a rational animal has a general conception of its own good, and thus a general sense of how to live. [@frey 78-9, italics in original.]
-
-Again:  
->no human action is intelligible without attributing to the agent herself some conception of this end, no matter how inarticulate, unsystematic, or unreflective it might be. Aquinas takes it for granted that in coming to be a human being—i.e., being raised in a community of other human beings, coming into the possession of concepts, a language, and coming to have a world—one comes into some such conception, and thus comes to act voluntarily.[@frey 87] 
-
-### Substantive and procedural
-
-Some philosophers object to this "substantive" conception of practical reason. They think that practical reasoning is "procedural".[For a discussion of this distinction, see: @hooker2004procedural.] This objection misses the point. What we are presenting is the intelligible structure that the procedure must necessarily have. The "substance" I am defended is not a specific good or set of goods. It is highly general. The point is that without a sufficiently general starting point such as "good is to be done and evil avoided", no other procedural reasoning can get off the ground. 
-
-Foot is persuaded that we must assume a definition of practical reasoning that is substantive, rather than merely procedural. Practical reasoning does not just aim at means to ends, nor does it merely aim at "ends"; it aims at *the apparent good*. 
-
->This now seems to me to be the correct way of meeting the challenge that I myself issued in ‘Morality as a System of Hypothetical Imperatives’ and at that time despaired of meeting: namely, to show the rationality of acting, even against desire and self‐interest, on a demand of morality. The argument depends on the change of direction that Quinn suggested: seeing goodness as setting a necessary condition of practical rationality and therefore as at least a part‐determinant of the thing itself. Nor is this a quite unfamiliar way of arguing. Many of us are willing to reject a ‘present desire’ theory of reasons for action because we think that someone who knowingly puts his future health at risk for a trivial pleasure is behaving foolishly, and therefore not well. Seeing his will as defective, we therefore say that he is doing what he has reason not to do. Being unable to fit the supposed ‘reason’ into some preconceived present‐desire‐based theory of reasons for action, we do not query whether it really is a foolish way to behave, but rather hang on to the evaluation and shape our theory of reasons accordingly. And it is exactly a generalization of this presumption about the direction of the argument on which I am now insisting. For what, we may ask, is so special about prudence that it alone among the virtues should be reasonably thought to relate to practical rationality in such a way? [@foot2001natural 63]
-
-If goodness is a "necessary condition of practical rationality" then we are already committed to a substantive view of practical reason, rather than a merely procedural neo-Humean view. 
-
-### Evil? 
-
-Some will object to the notion that practical reason is definitionally the knowledge of ends as good. Doesn't this just define away immoral acts, immoral motives, and immoral ends? Not at all. But the objection calls for an important clarification.
-
-To be practically rational is to judge the good, just as to be rational is to judge true and false. But the process must start somewhere. Aquinas points out that the first thing rational beings apprehend is simply "existence" or "being." Infants perceive beings and, eventually, naturally come to perceive objects *as* objects, as individual objects. 
-
-Likewise, the first thing practical rational animals like us apprehend is "good." We are not here defining "good" as a special moral property but simply as the general property of desirableness. Aquinas says:
-
->Now as "being" is the first thing that falls under the apprehension simply, so "good" is the first thing that falls under the apprehension of the practical reason, which is directed to action: since every agent acts for an end under the aspect of good. Consequently the first principle of practical reason is one founded on the notion of good, viz. that "good is that which all things seek after." Hence this is the first precept of practical reason, that "good is to be done and pursued, and evil is to be avoided."[@aquinas IIa. Q.94. Art. 2]
-
-The use of 'good' here, it bears repeating, not a special moral sense of good. Rather, it is the conception of an object of inclination, that which is to be pursued. Without such a general principle, practical reasoning and rational practice are unintelligible. 
-
-Given this basic and abstract formulation of the structure of practical reasoning, we can further specify good ends.  Just as the basic structure of reasoning begins with the apprehension of being in general and then on to particular beings, concepts, and categories, practical reason begins with the apprehension of good in general and then determines particular goods.  
-
->Practical reason is the movement of thought towards, rather than away from, material particulars…. practical reasoning is a movement from general knowledge of what is good and how to live, towards the production of the kind of life that is essentially characterized by such knowledge. When it is done well, what is understood is the same as what is produced: human form or human life.[@frey 2]
-
-Such basic goods are apprehended as contributing to a distinctively human life form. 
-
->For practical reason, the starting points are the most primitive human goods that the will is naturally inclined to seek: life, knowledge, family, friendship, play, political community, and so on. These are the ends that all human beings want for their own sake, as intrinsically valuable to them. And they want these things in a rational way—viz., because they have a conceptual apprehension that they are constitutive of their general good.[@frey 88]
-
-Immoral acts, on this view, are rational mistakes. The immoral person is pursuing *something* and so in this sense is practically rational, since to be practical rational necessarily means to pursue something *as good*, as desirable. But the immoral person fails in their practical reasoning to correctly rank and order specific goods. The imprudent person, for example, judges that it would be better to eat, drink, and be merry today rather than plan to avoid future ills. The cruel person judges that it would be better to cause suffering than to be kind. 
-
-
-### Remedying McDowell's account
-
-The upshot of these reflections is this: If a person does anything at all, then that person is engaging in practical reasoning. The "final verdict" and the verdictive ought is simply what Foot calls the thing to do "all things considered."[@foot2001natural 57] Apparent counterexamples that one might furnish to disprove the point actually serve, with sufficient clarification, to reinforce it. For example, someone might say, "It's ridiculous to think that I always pursue the good, because I sometimes do wrong." Sometimes we do the wrong thing. The proper response is that we perceive the bad as the good. Someone might say, "But sometimes I perceive the bad *as bad* and pursue it anyway." The response is that we sometimes take a bad or dismotivating reason into an overall reason to do something, all things considered.
-
-What motivational internalism gets right is the affirmation that one necessarily acts on what one judges is the thing to do. The motivational internalist urges that any practical reasons "out there" that are practical reasons *for me* necessarily connect up with my motivational structure.[@williams2007internal] Defined widely enough, I can agree to this way of stating things. If by "my motivational structure" we simply mean my overall disposition toward the good. I am oriented to pursue good things, and avoid bad things. Whatever may appear to me to fall under the description of 'good' I will, ipso facto, be oriented toward (whether I pursue it or merely approve of it and admire it). Whatever may appear to me to fall under the description 'bad' I will, ipso facto, oriented away from it (whether I avoid it or merely disapprove of it). 
-
-What motivational externalism gets right, that there are reasons "out there" that *would* motivate one if one knew about them. There might be reasons to φ that I am not aware of and thus am not motivated by. For example, perhaps it is true that one ought to save for retirement, but I may fail to do so because I am unaware of that reason or am ignoring it in my attention to other reasons. 
-
-It seems to me that a good deal of the internalism/externalism literature is consumed in disambiguating these unhelpful labels. The mare's nest, as I have shown above, is due to the fatal ambiguity of the phrase 'moral reasons'. In the Quandary ethicist's sense, moral reasons (i.e., facts about what is good for others) are simply one type of practical reason; but in the proper sense sense, *any* practical reason (i.e., objective normative and evaluative facts about what is worth pursuing and worth avoiding) can be seen as a "moral reason". To avoid this mess, a safer and clearer strategy is simply to recapture the insight that the concept of a practical reason is the concept of *what to do* all things considered. The thing to do all things considered has its "practical" or motivational component "built-in" so to speak. While it often happens that one's practical reasons conflict or are indeterminate, nevertheless, a set of practical reasons can constitute the *overriding* practical reason: *the thing to do*, all things considered. So, the final or verdictive ought belongs only to the ought that is the conclusion of the total process of practical reasoning. 
-
-Seen in this light, it is obvious that practical reasons can and do motivate us. Or rather, practical reasons *are the only thing that motivate*. Practical reasons are the *primary* meaning of the term 'motive'. Other psychological states such as hungers, thirsts, loves, fears, *move* me to action the same way that such states move non-rational organisms. For rational animals, only reasons *motivate* me to act, since motivation is (I argue) a fundamentally rational state.  Aquinas distinguishes between the "actions of a human" and "human actions." The action of a human is any motion, such as mumbling in your sleep, scratching an itch, or idly tapping a foot. But a human action is by definition an action in pursuit of a goal which is perceived as a good. A human being without any practical reasons would not do immoral deeds; he or she would not do anything at all. Like Melville's Bartleby the Scrivener, the person who does not engage in practical reasoning or identify any practical reasons would simply waste away and die.[@melville1966bartleby] 
-
-### Reasoning about ends
-
-Reasoning about ends may be a difficult and messy business. But we do it. It is an empirical fact that we reason -- indeed, disagree and debate -- about ultimate ends. Suppose Betty says to her friend, "I'm concerned about you. You haven't returned my calls. I heard you lost your job and your spouse left. Now I see you're gaining weight. What's wrong?" It would be no consolation for her friend to respond, "Nothing's wrong. Yes, yes, all that is true: I'm destitute, alone, and unhealthy. But that's what I was *aiming* for." Betty would rightly think, "Well, then... you are a fool." Betty would rightly wonder "what is wrong such that you have taken as your aims such unhealthy and ridiculous goals?"
-
-Jay Wallace rebuts the charge that if reasoning about ends is not a mathematically-precise procedure, then it must not really be rational: 
-
->Practical deliberation about ends is not an easy or well-defined activity. There are no straightforward criteria for success in this kind of reflection, and it is often unclear when it has been brought to a satisfactory conclusion. These considerations encourage the Humean assumption—especially widespread in the social sciences—that there is no reasoning about final ends. On the other hand, how is one supposed to clarify one's largest and most important ends, if not by reasoning about them in some way? Rather than exclude such reflection because it does not conform to a narrowly scientific paradigm of reason, perhaps we should expand our conception of practical reason to make room for clarificatory reflection about the ends of action.[@seppracticalreason, section 6]
-
-Warren Quinn, likewise argues that we reason about goods: 
-
->Practical thought, like any other thought, requires a subject matter.  And for human beings the subject matter that distinguishes thought as practical is, in the first instance, human ends and action insofar as they are good or bad in themselves […] practical thought deploys a master set of non-instrumental evaluative notions:  that of a good or bad human act, a good or bad human life, a good or bad human agent, and a good or bad human action.  Practical reason is, on this view, the faculty that applies these fundamental evaluative concepts.[@quinn1993morality 223]
-
-There are many reasons for action. But the concept of a reason for action is the concept of pursuing what is good or what is best, all things considered. Practical reason runs into quandaries because there are so many reasons for action, and they sometimes conflict.  Some have to do with what is best for me, what is best for others, what is best for me and what is best for me later, what is permissible and what is required, etc. Although we may want to reserve the word 'moral' for other-regarding reasons, it is important to keep in mind that our goal of living well demands sensitivity to a whole range of reasons, regarding self, other, world, and so on. 
-
-Although this process is messy, it is fundamentally so. Any attempt to configure the process by subjecting to a set of ready-made rules or criteria will make it easier to understand only at the cost of losing grasp of the process. Wiggins suggests that there are psychological, not philosophical, reasons behind the attempt to reduce the process of practical reasoning to something mathematical and formal: 
- 
->I entertain the unfriendly suspicion that those who feel they *must* seek more than  [the Aristotelian view of practical reason] provides want a scientific theory of rationality not so much for a passion for science, even where there can be no science, but because they hope and desire, by some conceptual alchemy, to turn such a theory into a regulative or normative discipline, or into a system of rules by which to spare themselves some of the agony of thinking and all the torment of feeling and understanding that is actually involved in reasoned deliberation.[@wiggins1975deliberation]
-
-
-### Virtue as skill 
-
-Julia Annas’ presentation of virtue as as a skill illuminates this same point, I think, beautifully. She says, "I should develop an account of virtue in which I show have central to the idea that the practical reasoning of the virtuous person is analogous in important ways… to the practical reasoning of someone who's exercising a practical skill.”[@annas2011intelligent 3] What she calls the “skill analogy” might be taken as problematic since it drains the peculiarly *moral* quality out of virtue. The opposite is true: The skill analogy fills the project of living daily life with the potential for virtue. The virtuous person is *good at* and not just *good* — good at helping others, good at thinking ahead, good at human life. The vicious person, by contrast, is not just bad but *bad at* the essential elements of human life. Of course, being born with a paucity of natural talents is not a matter of immorality or is being born with an abundance of natural talents a matter of moral worth. Rather, the admirable person makes *good use* of his or her fortune, and the despicable person makes bad use of it. The admirable person is all the more admirable when he or she proves skillful of making good use even of very bad fortune; and the miserable person is all the more pitiable when he or she wastes even of very good fortune. 
-
-
-
-### Conclusion
-
-This chapter has attempted to secure a definition of practical reason which captures both the *practicality* and *rationality* of our human capacity to resolve what to do and how to live. I argued, with McDowell, that the virtuous person is sensitive to practical reasons, i.e., the salient facts of what is required in a given situation. I argued, against McDowell, that so resolving the "how should one live?" question is not just what virtuous people do, but what all mature, functional adults do. Everyone undertakes a complex process of adjudicating between all the available goods known to one, sorting them, ranking them, and forming them into a complete life plan. Practical reasons are intrinsically capable of motivating. Nevertheless, there are many practical reasons calling for action, and they sometimes conflict. So success in identifying how to live and what to do requires care, wisdom, attention, and education. Success or failure in this project is defined according to how successfully one "maps the landscape of value."[@] Success is defined as practical knowledge of what to do; failure is defined as practical error — or perhaps ignorance — of what to do. 
-
-The mere capacity to reflect on our natural inclinations is a "natural power" of human nature. We are practical rational animals by definition. Or rather, we have the potential to become such with time (no infants have this capacity). The first principle of practical reason, that good is to be done and pursued while evil is to be avoided, is known by all functioning human adults. And some more particular practical reasons are obvious enough to be known by all or almost all. My account leaves room for the commonsense insight that our potential to become successful practical reasoners is greatly helped by education. 
-
-While there is much more to be said to fully defend this account against reasonable objections, I believe I have provided the outlines of a theory of practical rationality that can potential form a satisfying account. 
-
-A select list of what "more" there is to say includes addressing the practical reason subjectivist who would argue that the Frey's "practical order" is not really an order "out there" in the world but an order "in here" in the human minds and human  psychology. That is the task for the next chapter. 
-
-
-
-## Subjectivism about practical reason
-
-One item on the list of "more to be said" includes addressing the practical reason subjectivist who would argue that the Frey's "practical order" is not really an order "out there" in the world but an order "in here" in the human minds and human  psychology.  This is the problem of the status of practical reasons within (a broadly-construed) naturalism. 
-
-As Simon Blackburn summarizes, naturalism asks:
-
->... No more of the world than we already know is there—the ordinary features of things on the basis of which we make decisions about them, like or dislike them, fear them and avoid them, desire them and seek them out. It asks no more than this: a natural world, and patterns of reaction to it.[@blackburn1985spreading] 
-
-
-Consider an example: When I take it as a reason to buy my friend lunch because he just lost his job, how are we to understand the proposition "My friend just lost his job"? It is clearly descriptive fact or state of affairs, but it also seems to become something else when I take it as a reason for buying him lunch.   
-
-
-Subjectivism broadly construed comes in a variety of forms: non-cognitivist subjectivism, cognitivist subjectivism, constructivism, and so on. One currently popular approach is expressivism: 
-
->Expressivism in this form suggests a naturalistic interpretation of practical reason, one that may seem appropriate to the enlightened commitments of the modern scientific world view. It is naturalistic metaphysically, insofar as it makes no commitment to the objective existence in the world of such allegedly questionable entities as values, norms, or reasons for action.[@seppracticalreason]
-
-What each of these quite disparate views share in common is a denial of robust realism. Jay Wallace explains such realism as follows: 
-
->The basic commitment of realism in this domain is the idea that there are facts of the matter about what we have reason to do that are prior to and independent of our deliberations, to which those deliberations are ultimately answerable. Realists picture practical reason as a capacity for reflection about an objective body of normative truths regarding action (Parfit 2011, Scanlon 2014).[@seppracticalreason, section 2]
-
-Moral realism, by contrast, is sometimes taken to be a substantive ethical position.[@kramer2009moral] Moral realism is the default view that some things really and truly *matter*. Mackie insightfully points out that a loss of belief in objective value causes or corresponds with an empty feeling that nothing really matters. There is some clue here in that rational action is conceptually constituted by value judgments or evaluative attitudes. 
-
-Along these lines, Foot identifies an argument for the importance of practical rationality on the basis that *we cannot help but value it*. Foot follows Quinn's lead in criticizing a view of reason that makes the goal "the maximal satisfaction of an agent's desires and preferences, suitably corrected for the effects of misinformation, wishful thinking, and the like."[@quinn1992rationality] The trouble, Foot says, is that we *cannot consistently believe this view.*
-
->He pointed out that by this account, practical reason, which would concern only the relation of means to ends, would therefore be indifferent to nastiness or even disgracefulness in an agent's purposes. And Quinn asked, in the crucial sentence of the article, *what then would be so important about practical rationality?* In effect he is pointing to our taken‐for‐granted, barely noticed assumption that practical rationality has the status of a kind of master virtue, in order to show that we cannot in consistency with ourselves think that the Humean account of it is true.[@foot2001natural 62]
-
-Relatedly, David Enoch's recent volume *Taking Morality Seriously* builds a case for moral realism on the basis that moral realism is the best explanation for the moral earnestness which most of us *cannot but help feel*.[@enoch2011taking] 
-
 ### Subjective values
 
 For Nagel, subjectivism would then include the straightforward projectivism of Mackie for whom moral values seem objective only because we "project" our deepest feelings and valuings onto the world but also the subtle social constructivism of McDowell for whom the moral law is real only because we legislate it, binding because we bind ourselves to it. 
@@ -306,3 +138,136 @@ Certainly considerations about myself are conceptually distinct from considerati
 MacIntyre's earliest ethical work distinguished the significance of moral judgments compared to other kinds of judgments. In a careful critique of both intuitionists such as Moore and emotivists such as Stevenson, MacIntyre concluded that both (mistakenly) assume that moral judgments and moral terms have significance only in their referential meaning. The intuitionists, of course, concluded that moral terms refer to a non-natural property, while the emotivists concluded that moral terms do not refer to such a property and so do not refer at all. (Naturalists, later in the 20th century, argue that moral terms refer to natural properties.) MacIntyre’s alternative denies the assumption entirely; moral judgments “have their own kind of logic” and their significance, like other kinds of judgments, comes from “exhibiting the logic of their usage.”[@murphy2003macintyre 118, quoting p. 73 of MacIntyre’s master’s thesis *The Significance of Moral Judgments*] The significance of moral judgments is that “they enable us to solve problems of appraisal and of action.” Solving problems of evaluation (we might say) and action is their place in “a pattern of language and action…” He continues: 
 
 >Above all they arise out of the way in which we see the world and the way in which our language allows us to see the world. We cannot sufficiently emphasize the direction given to our appraisals by the language which happens to be available for our descriptions. It is as we see the facts that we judge the world.
+
+
+
+
+
+
+      In chapter 4, I gave an account of virtue consonant with the foregoing arguments. My account of virtue also underscored the crucial importance of practical reasoning, since virtues were defined as the habitual exercises of rational practice and practical reasoning about all of the animal and material conditions of human life. 
+
+Now I must make good on my claim that a satisfying neo-Aristotelian account of virtue must offer an account of practical reason that is persuasive in its own right and that is thoroughly naturalistic and thoroughly ethical. 
+
+
+One of the great attractions of recent neo-Aristotelianism is that that they aim to provide a unified solution to multiple interesting puzzles in metaethics, ethics, philosophy of science, philosophy of action, and others. 
+
+
+The problems surrounding practical reason are the problems of human nature. I began this dissertation with the picture of the virtue triangle. The point of that picture is to bring into clear view the necessary relation between virtue, human nature, and flourishing. It is my contention that the neo-Aristotelian must treat each concept, important on its own, within a dynamic unity. Virtue (excellent practical reasoning and rational practice) for human beings (practical reasoners) causes and partly constitutes flourishing (to be fully mature, practical reasoners). 
+
+A solution that works on several levels at once is highly desirable. However, I am well aware that assessing their accounts of virtue and reason is ambitious. I shall be forced to only touch on issues that deserve a full treatment. 
+
+Developing my account of virtue and practical reason in discussion with John McDowell and Alasdair MacIntyre will occupy not only this chapter but the next two chapters as well. 
+
+
+
+ he ignores that even "non-rational" phenomena such as emotions and even the human body can be made "rational" in the sense that one can and must take these into account when reasoning about what to do. 
+
+
+
+
+
+
+
+
+## Conclusion
+
+Even if the arguments of this chapter are successful, a reader might redouble the criticism that the neo-Aristotelian picture is no longer "naturalistic". I shall allay that worry in a later chapter.
+
+[^51]: For example, does practical reasoning make natural norms irrelevent for ethical purposes? I shall defend a naturalistic view according to which natural norms are intrinsically justifying and motivating. 
+
+
+
+
+
+I approach this task through the question about how to live: "how should one live?" is one of central importance for neo-Aristotelian writers such as Bernard Williams, John McDowell, MacIntyre, Foot, and Hursthouse. I center on this question because answering it requires both a kind of moral commitment and a kind of knowledge. It is both ethical and intellectual. Presumably, an answer to the "how should one live?" question will invoke *reasons*. What kind of reasons? Practical reasons. It would also seem that the moral person will invoke moral reasons. Hence, we ask questions about how one should live *by practically reasoning* and we answer them by identifying *practical reasons* and perhaps *moral reasons*. Our task is to offer an account of practical reason that shows how the virtuous person asks and answers the question of how to live. 
+
+In section 2, I explain the puzzle of practical reason: is practical reasoning -- i.e., is it practical or rational or both? Can practical reasoning motivate one without the presence of other psychological states such as desires, inclinations, instincts, or prior commitments? I then explain, in outline, my solution, which I call the "thinking how to live" solution. On this solution, thinking how to live is intrinsically practical and rational. 
+
+In section 3, I explore in detail John McDowell's view of practical reason and offer a substantive criticism. McDowell is correct that virtue is a practical, rational disposition but he confuses the "sensitivity to what a situation requires" with *virtue* in general. To remedy his account requires a fresh re-thinking of practical reasons. 
+
+In section 4, I re-think the distinction between moral reasons and practical reasons. I argue that 'practical reasoning' is best contrasted against theoretical reasoning rather than 'moral reasoning'. For practical reasons, most broadly construed, encompass both 'self-regarding' and 'other-regarding' reasons. Furthermore, I argue that practical reasoning aims at the apparent good; that to be a practical agent who acts at all means that one is oriented toward the good, or desirable, or pursuable. I also suggest that the neo-Aristotelian account of practical reason resolves a dispute about moral motivation. 
+
+In section 5, I address three challenges. Does this view of practical reason beg the question against "procedural" accounts in favor of a "substantive" account? Does it define away the possibility of immorality? And does it of practical reason beg the question against subjectivism in favor of realism about practical reasons? I answer that a substantive view of practical reasoning (the process) and realist or at least intersubjectivist view about practical reasons is more plausible than both of these rivals both on independent grounds and also in light of the foregoing account. 
+
+
+
+
+
+### Conclusion
+
+This chapter has attempted to secure a definition of practical reason which captures both the *practicality* and *rationality* of our human capacity to resolve what to do and how to live. I argued, with McDowell, that the virtuous person is sensitive to practical reasons, i.e., the salient facts of what is required in a given situation. I argued, against McDowell, that so resolving the "how should one live?" question is not just what virtuous people do, but what all mature, functional adults do. Everyone undertakes a complex process of adjudicating between all the available goods known to one, sorting them, ranking them, and forming them into a complete life plan. Practical reasons are intrinsically capable of motivating. Nevertheless, there are many practical reasons calling for action, and they sometimes conflict. So success in identifying how to live and what to do requires care, wisdom, attention, and education. Success or failure in this project is defined according to how successfully one "maps the landscape of value."[@] Success is defined as practical knowledge of what to do; failure is defined as practical error — or perhaps ignorance — of what to do. 
+
+The mere capacity to reflect on our natural inclinations is a "natural power" of human nature. We are practical rational animals by definition. Or rather, we have the potential to become such with time (no infants have this capacity). The first principle of practical reason, that good is to be done and pursued while evil is to be avoided, is known by all functioning human adults. And some more particular practical reasons are obvious enough to be known by all or almost all. My account leaves room for the commonsense insight that our potential to become successful practical reasoners is greatly helped by education. 
+
+While there is much more to be said to fully defend this account against reasonable objections, I believe I have provided the outlines of a theory of practical rationality that can potential form a satisfying account. 
+
+A select list of what "more" there is to say includes addressing the practical reason subjectivist who would argue that the Frey's "practical order" is not really an order "out there" in the world but an order "in here" in the human minds and human  psychology. That is the task for the next chapter. 
+
+
+### Subjectivism?
+
+A third and formidable objection some readers might have is that I seem to be assuming a form of realism about practical reason. I have been talking as if "reasons for action" are "out there" and identifiable. 
+
+A subjectivist would argue that the Frey's "practical order" is not really an order "out there" in the world but an order "in here" in the human minds and human  psychology. For example, suppose my friend has lost his job and so I pay for his lunch. Clearly, "my friend lost his job" is a factual judgment I affirm as true. Something else is occurring, though, when I take it as a reason to buy my friend lunch. That "something else" is most simply explained as a motivation or disposition *within me* to take good care of my friends. 
+
+
+Subjectivism is motivated by considering a problem about the status of practical reasons within (a broadly-construed) naturalism. As Simon Blackburn summarizes, naturalism asks:
+
+>... No more of the world than we already know is there—the ordinary features of things on the basis of which we make decisions about them, like or dislike them, fear them and avoid them, desire them and seek them out. It asks no more than this: a natural world, and patterns of reaction to it.[@blackburn1985spreading] 
+
+Along the same lines, Alan Gibbard argues that "Nothing in a plausible, naturalistic picture of our place in the universe requires ...  non-natural facts and these powers of non-sensory apprehension"[@gibbard1992wise 154]
+
+Anti-realism broadly construed comes in a variety of forms: non-cognitivist subjectivism, cognitivist subjectivism, constructivism, and so on. One currently popular approach is non-cognitivist (or non-descriptivist) expressivism: 
+
+>Expressivism in this form suggests a naturalistic interpretation of practical reason, one that may seem appropriate to the enlightened commitments of the modern scientific world view. It is naturalistic metaphysically, insofar as it makes no commitment to the objective existence in the world of such allegedly questionable entities as values, norms, or reasons for action.[@seppracticalreason]
+
+What each of these quite disparate views share in common is a denial of robust realism. Jay Wallace explains such realism as follows: 
+
+>The basic commitment of realism in this domain is the idea that there are facts of the matter about what we have reason to do that are prior to and independent of our deliberations, to which those deliberations are ultimately answerable. Realists picture practical reason as a capacity for reflection about an objective body of normative truths regarding action (Parfit 2011, Scanlon 2014).[@seppracticalreason, section 2]
+
+For thinkers like Thomas Nagel, subjectivism would then include the straightforward projectivism of Mackie for whom moral values seem objective only because we "project" our deepest feelings and valuings onto the world but also the subtle social constructivism of McDowell for whom the moral law is real only because we legislate it, binding because we bind ourselves to it. 
+
+Realism about practical reasons is what Nagel calls a "defeasible presumption."[@nagel1989view 143] First, pre-reflectively, most of us have no objection to the seeming fact that some reasons for acting are good reasons, and others bad. It is not only fundamental normative facts, such as that is wrong torture animals, that have a quasi-analytic force to them. Fundamental prudential facts such as that *it is wise to plan ahead* seem just as strong. Even the advocate of a procedural view of practical reason has to admit that there is a fundamental norm that *one is not to use ineffective means to achieve one's ends.* 
+
+Secondly, even anti-realism's most sophisticated advocates concede the that realism is the default view. For example, John Mackie admits that "the main tradition of European moral philosophy” accepts objective values. He even admits that moral thought and language assumes it: the notion of objective value has  “a firm basis in ordinary thought, and even in the meanings of moral terms."[^52] Alan Gibbard likewise says, "Normative language does involve claims to objectivity in some sense—that seems clear enough."[@gibbard1992wise 154] Gibbard goes so far as to say that platonism about reasons is common sense.[^53]
+
+Appearances suggest that values are indeed part of the “fabric of the world”; that they are categorically obligating and motivating; and that being a moral person in part is constituted by the recognition and proper response to such values.   
+
+[^52]: Compare with @cuneo2014speech. 
+
+[^53]: "It might be thought that ordinary conceptions of rationality are Pla¬ tonistic or intuitionistic. On the Platonistic picture, among the facts of the world are facts of what is rational and what is not. A person of normal mental powers can discern these facts. Judgments of rationality are thus straightforward apprehensions of fact, not through sense per- ception but through a mental faculty analogous to sense perception. When a person claims authority to pronounce on what is rational, he must base his claim on this power of apprehension." 
+
+
+### Two Reasons to be a Realist
+
+We have already mentioned the main reason to be a subjectivist about practical reasons: a background belief in naturalism combined with the putative incompatibility of believing in mysterious practical reasons and believing *only* in nature. This is the "queerness" objection.
+
+The argument from queerness builds on the sense that “if there were objective values, then they would be entities or qualities or relations of a very strange sort, utterly different from anything else in the universe” (19). Objective values would be esoterica, akin to non-natural qualities, Plato’s transcendent Form of Good. They would be (like divine commands from heaven)  authoritatively prescriptive yet empirically unverifiable. (Mackie is as poetic as possible in making the descriptive seem mundane and the prescriptive seem mystical.) What’s more, their power of categorical commendation, of obligating us to act in certain ways irrespective of our desires, is utterly unique. The reasoning seems to be that we assume the world is a unified whole, and we know a lot about spatio-temporal, physical entities, include evolved animals like ourselves who are language-users, concept-users, and evaluators. We know that we are motivated by our desires, preferences, by the pursuit of pleasure and avoidance of pain.
+
+The success of the objection that objective values are not saliently different from other unobjectionable abstract entities or concepts like necessity or causation depends on the details. Russ Shafer-Landau[@shafer2003moralrealism], Terence Cuneo[@cuneo2007], David Enoch[@enoch2011taking] have each recently provided these details and shown (though I shall not try to show it here) that indeed objective values are not any more objectionable than other kinds of abstract objects. For example, Cuneo argues that whatever “objectionable features” moral norms display are also displayed *inter alia* by epistemic norms. If Mackie is an ‘epistemic skeptic’ then he must deny the intrinsic, categorical, reason-giving force of such epistemic value judgments as *you ought to believe whatever proposition is supported by the best evidence.* But to deny such epistemic reasons is absurd. 
+
+The interesting thing to note is that moral realism is not just a metaethical position. It is sometimes taken to be a substantive ethical position.[@kramer2009moral] Moral realism is the default view that some things really and truly *matter*. JL Mackie insightfully points out that a loss of belief in objective value causes or corresponds with “an extreme emotional reaction, a feeling that nothing matters at all, that life has lost its purpose.”[@mackie] There is some clue here in that rational action is conceptually constituted by value judgments or evaluative attitudes. 
+
+Along these lines, Foot identifies an argument for the importance of practical rationality on the basis that *we cannot help but value it*. Foot follows Quinn's lead in criticizing a view of reason that makes the goal "the maximal satisfaction of an agent's desires and preferences, suitably corrected for the effects of misinformation, wishful thinking, and the like."[@quinn1992rationality] The trouble, Foot says, is that we *cannot consistently believe this view.*
+
+>He pointed out that by this account, practical reason, which would concern only the relation of means to ends, would therefore be indifferent to nastiness or even disgracefulness in an agent's purposes. And Quinn asked, in the crucial sentence of the article, *what then would be so important about practical rationality?* In effect he is pointing to our taken‐for‐granted, barely noticed assumption that practical rationality has the status of a kind of master virtue, in order to show that we cannot in consistency with ourselves think that the Humean account of it is true.[@foot2001natural 62]
+
+Relatedly, David Enoch's recent volume *Taking Morality Seriously* builds a case for moral realism on the basis that moral realism is the best explanation for the moral earnestness which most of us *cannot but help feel*.[@enoch2011taking] 
+
+
+
+
+
+
+
+
+## Conclusion
+
+This chapter has argued in more detail for a conception of practical reason as the set of capacities that defines human beings as practical reasoning animals and the well-functioning of which thereby constitues part of the natural excellence of creatures like us. 
+
+I first captured both the *practicality* and *rationality* of practical reasoning by defining it as the human capacity to resolve what to do and how to live by identifying practical reasons. I agreed with McDowell that the virtuous person is sensitive to practical reasons, i.e., the salient facts of what is required in a given situation. But I disagreed with McDowell that so resolving the "how should one live?" question is not just what virtuous people do, but what all mature, functional adults do because the whole range of practical reasons is broader than just "moral reasons" (narrowly construed). 
+I gave a historical perspective on the notion of "moral" that shows how the older sense of the term included considerations beyond simply "other-regarding" reasons. Instead, 'practical reasoning' is an acceptable term for *any* reason in favor of an action. I also argued that practical reasons are intrinsically capable of motivating. Nevertheless, there are many practical reasons calling for action, and they sometimes conflict. So success in identifying how to live and what to do requires a complex process of adjudicating between all the available goods known to one, sorting them, ranking them with care and wisdom, and forming them into a complete life plan. Success is defined as practical knowledge of what to do; failure is defined as practical error — or perhaps ignorance — of what to do. I argued that the procedural view of practical reasoning is itself committed to certain substantive normative judgments, such as that one ought to do whatever will bring about one's chosen ends; but more to the point, I argued that the substantive view of practical reasoning is more plausible: we reason about apparent goods and bads and act accordingly. 
+
+This account of practical reason must do two kinds of work for my general argument. First, it must show the genuinely *moral* significance for virtue ethics of rational practice and practical reasoning. One cannot be "moral" without exercising fully the potential for practical reasoning. And secondly, it must show the genuinely *natural* position of reasoning withing naturalism. The mere capacity to reflect on our natural inclinations is a "natural power" of human nature. We are practical rational animals by definition. Or rather, we have the potential to become such with time (no infants have this capacity). The first principle of practical reason, that good is to be done and pursued while evil is to be avoided, is known by all functioning human adults. And some more particular practical reasons are obvious enough to be known by all or almost all. My account leaves room for the commonsense insight that our potential to become successful practical reasoners is greatly helped by education. 
+
+While there is much more to be said to fully defend this account against reasonable objections, I believe I have provided the outlines of a theory of practical rationality that can potential form a satisfying account. Specifically, two important challenges are possible. The first is the challenge of subjectivism. 
