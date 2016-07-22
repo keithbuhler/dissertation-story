@@ -152,3 +152,19 @@ Aristotle has a helpful distinction between natural virtues. Distinguish that fr
 
 
 #### 116 - state a bit more clearly. Don't need to state that much about what is a tradition. Just society. 
+
+
+#### Are you clarifying what the virtues are, or saying why I have to seek them? That's where there were the most holes. To make that stick, you're going to have to be more thorough. 
+
+
+#### "Enable" enable a good life. "Enable" the healtha nd progress of good societies. Normative yes, but not obligatory. Are these obligatory? Why? Well, why not? Are virtues optional? What if I'm the underground man. I have this passion to show that I'm free. Do everything irrational I can. "Why be free?" Dorian Gray too. A performative contradiction ... is the ultimate answer. Make that explicit. 
+
+
+#### Add a ninth charactistic of virutes. THey enable a good life, they are obligatory. In a quasi-Kantian sense, they are natural necessities. If you try to be a human being without being virtuous, you're engaged in a performative contradiction. It comes up a lot when people are talking about the law of non-contradiction. You can contradict yourself and I can't stop you. If you're OK with that, I can't stop you. Yet you are trying to do something, you're speaking, trying to do something impossible. Namely to communicate in a rational way; you're not communicating when you say P and not-P. 
+
+
+You have an interesting position. There is obligation without law, without a lawgiver. We are human, whether we like it or not. We can live in ways that undermine that humanity, but that's a performative contradiction. Therefore, also a self-defeating character. It's sad when people self-defeat. But we shouldn't do that. It's beyond anthropolgoy, short of theology. 
+
+Short of a divine lawgiver, that's the best obligation. It's not normative in the ultimate strong sense of a divine lawgiver. Reference Anscombe. 
+
+WHich virtues, for which social roles? We all have our social roles, I can't have aristocratic honor... we have our cultural setting. I can have a sense of honor. We have our virtues, to different extents. 
