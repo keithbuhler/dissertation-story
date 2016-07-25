@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Keiths-MacBook-Pro-2" Modified="2016-07-21 11:30:55 -0400" ModID="B52B9CD1-8F9E-43D7-8D8D-9EB3C154E7B4">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Keiths-MacBook-Pro-2" Modified="2016-07-25 10:51:15 -0400" ModID="E23C5555-2FE6-49C0-A884-0B7A65EB76F7">
     <Binder>
         <BinderItem ID="1159" UUID="0D73750D-099F-46CC-B079-AE3F8AF7A455" Type="Text" Created="2015-06-07 09:24:20 -0400" Modified="2016-06-02 17:38:42 -0400">
             <Title>"Everything has to tell a story"</Title>
@@ -7258,7 +7258,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="987" UUID="826B3440-1C72-41E6-ACB2-223743658541" Type="Text" Created="2016-05-15 08:53:00 -0400" Modified="2016-06-13 09:20:13 -0400">
+        <BinderItem ID="987" UUID="826B3440-1C72-41E6-ACB2-223743658541" Type="Text" Created="2016-05-15 08:53:00 -0400" Modified="2016-07-25 10:51:15 -0400">
             <Title>To do list</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -12497,7 +12497,7 @@ McDowell</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-07-21 11:30:49 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-07-25 10:15:31 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

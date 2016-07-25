@@ -77,10 +77,13 @@ Sounds like I'm arguing for a form of natural law.
 Reminds me of Aquinas' treatise on natural lw. 
 Basic goods as living things, then as mammals, then as human beings. 
 Not clear to me how they're connected.
-BUt he does talk about virtues.
+But he does talk about virtues.
 He's connecting divine law to human nature.
+
 Someone like Dan will harken back to Sartre. Existenstialism -- is it humanism?
+
 There's no such thing as human nature. Radical freedom. Students find it apealing. There's no higher authority. There's no inbuilt necessity. Rejecting metaphysical telos and scientific determinism. Sartre took it as his starting point. Camus took it as his starting point. Dan knows that literature very well. 
+
 A lot of that goes back to early modern philosophy, Cartesian dualism. Your ethical life is determined by your will. Your will is a rational faculty of choice, with no reference to our bodily life, situating us within the natural world. 
 
 My general sense -- I think this is actually shaping up very well. Chapter 2 is very impressive. You draw on this extensive literature. Digging into this literature about teleological realism. You deploy that very nicely to create a space for what you want to go on to do. You've successfully scoped it down so that it fits within a chapter. Last time you didn't close the circle of the argument; this time you did. 
