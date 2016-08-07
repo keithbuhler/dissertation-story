@@ -1,3 +1,7 @@
+---
+title: Buhler Dissertation
+---
+
 \frontmatter
 \thispagestyle{empty}
 \par\vspace*{.1\textheight}
