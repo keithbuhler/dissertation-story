@@ -261,21 +261,48 @@ I am deeply grateful to Dr. David Bradshaw for his advisory role on this proejct
 
 \setlength{\epigraphwidth}{.95\textwidth}
 \begin{epigraphs}
-\qitem{Not everything that is last claims to be an end, but only that which is best.}%
-{---\textsc{Aristotle, \begin{em}Physics \end{em}, 194a.}}
+\qitem{For about a hundred years we have so concentrated on one of the virtues—“kindness” or mercy—that most of us do not feel anything except kindness to be really good or anything but cruelty to be really bad. Such lopsided ethical developments are not uncommon, and other ages too have had their pet virtues and curious insensibilities.}%
+{---\textsc{C.S. Lewis, \begin{em}The Problem of Pain \end{em} 43.}}
 \centering
 \end{epigraphs}
 
 
 ## Introduction
 
+In Aristotle's day, there was no assumed divide between nature and normativity. John McDowell cites this "anti-dualism" or original unity as one of the benefits of studying Greek thought. Where modern thought is so often characterized by fundamental dualisms (mind/matter, nature/normativity, self/other, science/ethics), the worldview of Aristotle and even Plato could account for distinction without division and union without confusion. 
+
+Ethics is, if nothing else, the domain of the normative. The good and bad, the desirable and despicable, the worthy and unworthy are "fraught with ought." A virtue ethicist is likely to tell the kind of story that indicates the kind of person I *ought* to become or avoid becoming, and the kinds of things *I ought* to pursue (like friendship) or avoid (like ignorance and intolerance). A virtue ethicist is likely to commend certain traits of mind and character as constituting a truly human and truly worthwhile life. Such traits might include wisdom, courage, and patience. Oddly enough, the longer one listens to a virtue ethicist, the less one thinks such traits are *natural*. High ethical aspirations come to sound far-off, perhaps almost other-worldly. 
+
+Scientific naturalism, on the other hand, is the domain of the descriptive.  The scientific naturalist cares for what *is the case* above all else, and what can be shown to be the case using the whole suite of methods belonging various scientific disciplines such as physics, chemistry, evolutionary biology, and so on. Observation, empirical hypotheses, and empirical testing are prized above all else. Hence, the scientific naturalist's attitude toward social science research is likely to be ambivalent. People's behavior can be quantified and recorded but people themselves are either too complex or too crazy to be captured in a scientific account quite as neatly as Red Giant stars or oceanic phytoplankton. At best, psychologists, sociologists, and anthropologists can offer interpretations based on extensive observation of human subjects. 
+
+There is an assumed divide between humans and the rest of nature. Are humans natural? If not, then what are we? If so, then why is it so especially tricky to understand ourselves. 
+
+The ethical naturalist enters the conversation at this juncture with a fascinating suggestion: perhaps human beings are animals of a peculiar sort. Human beings are distinguished by their powers of reasoning but remain fundamentally continuous with the rest of the items on the cosmic inventory list. Hence, even though the normative domain is human it need not be *exclusively* human. 
+
+Is it possible to be an ethical naturalist? Must one choose between non-natural norms and non-ethical nature? Many neo-Aristotelian writers answer a definitive *'No'*. It is possible to be an ethical naturalist; it is possible to develop a plausible account that includes both our best scientific understanding of what *humanity is* along with our best ethical understanding of what *human beings can and ought to become*. This dissertation moves toward that goal. 
+
 ## My View
 
-Three concepts cannot be disentangled from each other: human nature, human excellence, and natural teleology. The unifying concept at the root of these three is the concept of practical reason. Human nature is to be a practical reasoning primate. Human excellence is practically reasoning *well*, thus acquiring practical wisdom. And our natural telos is to become wise and to live the kind of life the wise person lives, in the face of the temptation of pleasing but ultimately destructive vice, and in the face of the inevitable death that comes along with being an animal living on earth. 
+This dissertation argues that human virtues are excellences of practical reasoning and rational practice that enable and partly constitute the realization of one's human telos. 
 
+Essentially, I argue that there are three points on the "virtue triangle" that are all necessary for developing a coherent and comprehensive ethical naturalism.
+
+The three concepts that cannot be disentangled are these: human nature, human excellence, and natural teleology. The unifying concept at the root of these three is the concept of practical reason. Human nature is to be a practical reasoning primate. Human excellence is practically reasoning *well*, thus acquiring practical wisdom. And our natural telos is to become wise and to live the kind of life the wise person lives, in the face of the temptation of pleasing but ultimately destructive vice, and in the face of the inevitable death that comes along with being an animal living on earth. 
+
+My thesis is that human beings *are* practical rational primates and hence *ought* to become fully mature such animals by acquiring the virtues and especially practical wisdom. 
 
 
 ## Chapter Outline
+
+Chapter 2 argues that nature is normative. If some normative facts are natural facts, then it might be that some "facts" of human nature are fundamentally normative facts. 
+
+Chapter 3 argues that human nature is normative. Indeed, some fundamentally normative facts about humans -- or human norms -- obtain in each member of the species. Hence, it is plausible to suppose that the person who fulfills such norms is both naturally human and ethically admirable. 
+
+Chapter 4 argues that virtues are those qualities of human beings that enable and partly constitute our species-specific flourishing. Virtues are *what human beings are like* in virtue of their life form, and enable human beings to *become what they are*. 
+
+Chapter 5 argues that practical reasoning is the process of identifying what is good for humans, and identifying how to live. Successful practical reasoning, hence, is necessary for becoming virtuous. 
+
+Chapter 6 argues that the foregoing account is naturalistic by defeating a widely accepted, but un-scientific, picture of nature according to which normativity is excluded by definition. 
 
 
 # Organic Normativity
@@ -1309,7 +1336,7 @@ Kant is commonly cited in this familiar framing of the issue. Kant (or a common 
 
 But, on this view, when life does not present a moral dilemma, when the two kinds of reasons do not compete, morality is idle. One is free to live one's life in response to prudential considerations which are neither (morally) good nor (morally) bad.  One *must* do one's duty, but beyond that, one may live in any number of ways that accord with one's inclinations: get a good job, save for retirement, eat healthy foods, exercise, make friends, and so on. Just do not break the moral law. 
 
-### An Alternative Framework
+### An Alternative Frame
 
 The alternative to the familiar frame is that all practical reasons are properly in the domain of "morality." A classic article from Edmund Pincoff explains the two different views of ethics: "Quandary ethics" views morality as solving moral dilemmas while "Character ethics" views morality as resolving how to live. 
 
@@ -1815,12 +1842,13 @@ A two corollaries of this solution to the Irrelevance problem is that the early 
  \centering
  \end{epigraphs}
 
-
 This dissertation has defended the claim that human beings are practical rational primates and hence *ought* to become fully practically wise. 
+
+The potential for wisdom is part of who and what we are. Actualizing that potential is both *natural* (according to the sense of 'natural' I have defended) and *ethically* obligatory. 
 
 Virtue ethics is, on my view, a very useful guide to action, in personal life, political life, bioethics,[@beauchamp2001principles] business,[@beadle2015macintyre] and education.[@carr2005virtue] It would be an improvement to almost any area of human life if we were aware of our own vices and worked to expunge them, and if we understood the virtues and pursued them. Yet many obstacles from philosophical and social tradition stand in the way. My dissertation is part of an attempt to remove such obstacles and, in their absence, render not only palatable but desirable a pursuit of virtues. 
 
-As difficult as it is to consider seriously the project of restoring natural teleology to its proper place and using it as a basis for ethical theory that is tenable and useful, I am optimistic it can be done. Many are on the project -- biologists, cosmologists, philosophers of science, mathematicians -- but philosophers in the Aristotelian tradition are uniquely situated to make advances. That tradition promises the resources with which to construct an ethical system including all three elements of MacIntyre's schema while rehabilitating a form of natural teleology that is not only tenable in light of modern beliefs, but rationally commends itself in light of all we now know. The case presented in these chapters aim to show how it might be done, and to begin doing it.  Virtue, practical reason, and flourishing are age-old themes. Nevertheless, they are significant themes. Treating them adequately is too much for one dissertation, but my hope is that even an unworthy treatment of a worthy topic can attain some value. As Glaucon said to Socrates, "The measure of listening to such discussions is the whole of life."[@plato *Republic* 450 b.] 
+Virtue, practical reason, and flourishing are age-old themes. Nevertheless, they are significant themes. Treating them adequately is too much for one dissertation, but my hope is that even an unworthy treatment of a worthy topic can attain some value. As Glaucon said to Socrates, "The measure of listening to such discussions is the whole of life."[@plato *Republic* 450 b.] 
 
 
 
