@@ -16,8 +16,7 @@ THE VIRTUE TRIANGLE: PRACTICAL REASON AND NATURAL TELEOLOGY IN RECENT NEO-ARISTO
 
 
 
-
-\par\vspace*{.08\textheight}
+\par\vspace*{.1\textheight}
 \line(2,0){200}
 
 
@@ -25,7 +24,7 @@ DISSERTATION
 
 
 \line(2,0){200}
-\par\vspace*{.08\textheight}
+\par\vspace*{.1\textheight}
 
 
 
@@ -38,7 +37,7 @@ at the University of Kentucky
 
 By 
     
-Keith E. D. Buhler
+Keith Buhler
 
 Lexington, Kentucky
 
@@ -48,7 +47,7 @@ Lexington Kentucky
 
 2017
 
-Copyright © Keith E. D. Buhler 2017 
+Copyright © Keith Buhler 2016  
 
 
 
@@ -59,14 +58,13 @@ Copyright © Keith E. D. Buhler 2017
 \thispagestyle{empty}
 
 
+ABSTRACT: Neo-Aristotelian virtue ethics has offered a plausible meta-normative account of human nature and human virtue where virtues are 'natural goodness' for creatures like us. However, disagreement remains as to whether virtue is 'natural' in light of our unique rational capacities or simply in light of our biological nature. For example, Philippa Foot emphasizes the objective, biological aspects of human nature while John McDowell emphasizes the intersubjective, rational aspects. Julia Annas explains that the conversation has run aground of this difficult matter because it reflects a broader perennial question about the relationship between normativity and nature, or between ethics and science. 
 
-THE VIRTUE TRIANGLE: PRACTICAL REASON AND NATURAL TELEOLOGY IN RECENT NEO-ARISTOTELIAN ETHICS
+My dissertation attempts to resolve this internecine dispute and thus render more plausible a normative virtue theory based on neo-Aristotelian ethical naturalism. To this end, I systematically analyze a set of related concepts (nature, virtue, practical reason, and teleology) and defend the role of a naturalized teleology in normative ethics.
 
-ABSTRACT: Recent Neo-Aristotelian virtue ethicists such as Philippa Foot and John McDowell, Rosalind Hursthouse, and Alasdair MacIntyre agree that the good person is the virtuous person and that virtues are good for humans. They disagree about whether is virtue "natural" to humans because we are rational animals (unlike others) or because we are animals like all others in the evolutionary tree of life? 
+In brief, my thesis is that human beings are ‘practical, rational animals’ *and* that therefore human beings *ought to become* practically wise. Practical wisdom (among the other virtues) defines our human life form and is the natural telos to be pursued.  I first argue that the natural organic or biological world includes natural normative facts about what is healthy, unhealthy, desirable, undesirable for organisms. Then, I apply the notion of natural norms to human organisms to uncover natural *human* norms. These human norms include normative facts about virtue and vice. I defend a conception of virtue according to which virtuous traits are rational practices and emotions, and practical reasoning is the process of identifying the good.
 
-Foot emphasizes the natural, biological aspect of virtue ethics (where virtue and vice is "natural goodness" and natural "defect"); John McDowell emphasizes the normative, rational aspect, where virtues are intersubjective, cultural forms of knowledge. The conversation has run aground of this difficult matter because, as Julia Annas explains, it reflects a broader perennial question about the relationship between normativity and nature, or between ethics and science. 
-
-My dissertation systematically analyzes a set of related concepts: nature, virtue, practical reason, and teleology. In brief,  I argue that virtue is the excellence of rational practices and practical reasoning that enables and partly constitutes the realization of one's human life form. I defend a conception of virtue according to which virtuous traits are rational practices and emotions, and practical reasoning is the process of identifying the good. On this view of virtue, the definitive criterion by which to judge human beings is our success or failure in acquiring virtues such as moderation and tolerance, and our overall success in the pursuit of the good life for humans.
+Hence, my thesis sits at the intersection of both normative virtue ethics and metaethics: it is normative in that it commends a life spent acquiring character and epistemic virtues even in the face of (inevitable) death and (the possibility of) human extinction; it also analyzes normative terms and concepts such as ‘ought’ and ‘naturally good’ and ‘human being’ to find a brute natural normativity consonant with scientific naturalism. On this view of virtue, the definitive criterion by which to judge human beings is our success or failure in acquiring virtues such as moderation and tolerance, and our overall success in the pursuit of the good life for humans. 
 
 
 \par
@@ -101,7 +99,7 @@ By
 
 
 
-Keith E. D. Buhler
+Keith Buhler
 
 \end{center}
 \par\vspace{.1\textheight}
@@ -162,7 +160,8 @@ Dr. Mark Kightlinger
 
 
 
-For Lindsay Elizabeth. "Oh, who shall understand but you?"
+For Lindsay Elizabeth. "Oh, who shall understand but you; yea, who shall understand?"
+
 
 
 
@@ -195,7 +194,7 @@ ACKNOWLEDGMENTS
 
 \end{center}
 
-I am deeply grateful to Dr. David Bradshaw for his advisory role on this proejct. He was not only a teacher but a mentor and a model of virtuous living. Many others contributed essential elements: Kristi Buhler first gave me the encouragement and vision to dream big pursue those dreams, while John Mark Reynolds first encouraged me to become a philosopher. Alfred Geier became my "intellectual godfather" in dialectical conversation. Gary Hartenburg gave timely counsel to ease the transition into graduate school life. Although Timothy Sundell has moved on to greater things, he was the first to push me toward research in metaethics.  Anita Superson was the earliest and toughest critic on this project, driving me to dig deeper in my research, thinking, and writing. Dan Sheffler trained me, like his father trained him before, in the ways of writing and formatting a dissertation with Markdown and LaTeX. The University of Kentucky Graduate School hosted a writing "boot camp" which helped people like me to focus and write intensively. The United Way of the Blue Grass "Back on Track" Program generously provided me with a laptop computer (which I'm writing on now) and thousands of dollars worth of books and supplies. The help of these people, and more whom I forgot to name, brought this project to fruition. My late father, Dr. Rich Buhler, received honorary doctorates for his work in radio and ministry. He secretly told others that he suspected I would be the first one in the family to earn a doctorate: I was happy to discover this, and even more happy now to justify his suspicion. 
+I am deeply grateful to Dr. David Bradshaw for being my advisor on this project. He was not only a professor but a mentor and a model of virtuous living. Many others made this project possible: Kristi Buhler first gave me the encouragement and vision to dream big pursue those dreams, while John Mark Reynolds first mirrored to me that I was a philosopher. Alfred Geier became my intellectual godfather in dialectical conversation. Gary Hartenburg gave timely counsel to ease the transition into graduate school life. Although Timothy Sundell has since moved on to greater things, he was the first to push me toward serious research in metaethics.  Anita Superson was the earliest and toughest critic on this project, driving me to dig deeper in my thinking and writing. I am grateful that Dan Sheffler trained me, like his father trained him, in the ways of writing and formatting with Markdown and LaTeX. The University of Kentucky Graduate School hosted a writing "boot camp" which helped people like me to focus and write intensively. The United Way of the Blue Grass *Back on Track* Program generously provided me with a laptop computer (which I'm writing on now) and thousands of dollars worth of books and supplies that were invaluable in research and writing. Lindsay Buhler was the first to read and edit each chapter, even after after verbally processing each idea for weeks. Michael Garten was the last to read and edit each chapter, though I cannot say that I have always provided an adequate response to his incisive objections. These people, and more whom I forgot to name, helped brought this project to fruition. My late father, Dr. Rich Buhler, received two honorary doctorates for his work in radio and ministry. He secretly told others that he suspected I would be the first one in the family with an earned doctorate: I was happy to discover this two years ago; I am even more happy now to justify his suspicion. 
 
 
 
@@ -232,24 +231,6 @@ I am deeply grateful to Dr. David Bradshaw for his advisory role on this proejct
 \tableofcontents
 \setcounter{tocdepth}{3}
 \thispagestyle{empty}
-
-
-#### If needed: 1. Insert listoffigures, 2. Insert listoftables, 3. Abbreviations. Lorum ipsum. 4. Glossary. Lorum ipsum.  5. At the end, initiate slash backmatter followed by:  appendix, bibliography, and vita in that order. Add one last newpage too. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 \mainmatter
 
 
@@ -267,19 +248,18 @@ I am deeply grateful to Dr. David Bradshaw for his advisory role on this proejct
 \end{epigraphs}
 
 
-## Introduction
 
 In Aristotle's day, there was no assumed divide between nature and normativity. John McDowell cites this "anti-dualism" or original unity as one of the benefits of studying Greek thought. Where modern thought is so often characterized by fundamental dualisms (mind/matter, nature/normativity, self/other, science/ethics), the worldview of Aristotle and even Plato could account for distinction without division and union without confusion. 
 
 Ethics is, if nothing else, the domain of the normative. The good and bad, the desirable and despicable, the worthy and unworthy are "fraught with ought." A virtue ethicist is likely to tell the kind of story that indicates the kind of person I *ought* to become or avoid becoming, and the kinds of things *I ought* to pursue (like friendship) or avoid (like ignorance and intolerance). A virtue ethicist is likely to commend certain traits of mind and character as constituting a truly human and truly worthwhile life. Such traits might include wisdom, courage, and patience. Oddly enough, the longer one listens to a virtue ethicist, the less one thinks such traits are *natural*. High ethical aspirations come to sound far-off, perhaps almost other-worldly. 
 
-Scientific naturalism, on the other hand, is the domain of the descriptive.  The scientific naturalist cares for what *is the case* above all else, and what can be shown to be the case using the whole suite of methods belonging various scientific disciplines such as physics, chemistry, evolutionary biology, and so on. Observation, empirical hypotheses, and empirical testing are prized above all else. Hence, the scientific naturalist's attitude toward social science research is likely to be ambivalent. People's behavior can be quantified and recorded but people themselves are either too complex or too crazy to be captured in a scientific account quite as neatly as Red Giant stars or oceanic phytoplankton. At best, psychologists, sociologists, and anthropologists can offer interpretations based on extensive observation of human subjects. 
+Nature, on the other hand, is the domain of the descriptive. According to scientific naturalism, nature includes everything that is the case and that can be studied by the sciences. The scientific naturalist cares for what *is the case* above all else, and what can be shown to be the case using the whole suite of methods belonging various scientific disciplines such as physics, chemistry, evolutionary biology, and so on. Observation, empirical hypotheses, and empirical testing are prized above all else. Hence, the scientific naturalist's attitude toward social science research is likely to be ambivalent. People's behavior can be quantified and recorded but people themselves are either too complex or too crazy to be captured in a scientific account quite as neatly as Red Giant stars or oceanic phytoplankton. At best, psychologists, sociologists, and anthropologists can offer interpretations based on extensive observation of human subjects. 
 
 There is an assumed divide between humans and the rest of nature. Are humans natural? If not, then what are we? If so, then why is it so especially tricky to understand ourselves. 
 
 The ethical naturalist enters the conversation at this juncture with a fascinating suggestion: perhaps human beings are animals of a peculiar sort. Human beings are distinguished by their powers of reasoning but remain fundamentally continuous with the rest of the items on the cosmic inventory list. Hence, even though the normative domain is human it need not be *exclusively* human. 
 
-Is it possible to be an ethical naturalist? Must one choose between non-natural norms and non-ethical nature? Many neo-Aristotelian writers answer a definitive *'No'*. It is possible to be an ethical naturalist; it is possible to develop a plausible account that includes both our best scientific understanding of what *humanity is* along with our best ethical understanding of what *human beings can and ought to become*. This dissertation moves toward that goal. 
+Is it possible to be an ethical naturalist? Is it possible to break down the prejudicial divide between non-natural norms and non-ethical nature? Many neo-Aristotelian writers answer a definitive *'Yes'*. It is possible to be an ethical naturalist; it is possible to develop a plausible account that includes both our best scientific understanding of what *humanity is* along with our best ethical understanding of what *human beings can and ought to become*. This dissertation moves toward that goal. 
 
 ## My View
 
@@ -443,7 +423,7 @@ My postulate is this: **some generics about human beings are true.** If this is 
 
 Now, what are generics? "A fine question, but a difficult one," Andrew Bailey says. His recent paper provides a helpful (and humorous) introduction to the topic of generic statements: 
 
->Start with this sentence: ‘Buddhists are way into meditation’. This first sentence is, let us suppose, true. So far so good. But is it equivalent to ‘for every x, if x is a Buddhist, x is way into meditation’? It does not appear to be. For the second sentence might be false (some Buddhists might not be way into meditation) even if the first sentence is, as we have supposed, true. The first sentence could be true, somehow, even if not all Buddhists are way into meditation (similarly, ‘ducks lay eggs’ may be true even if not all ducks lay eggs, ‘mosquitos carry dengue fever’ may be true even if only a very few mosquitos carry that virus, and so on). We are now positioned to observe one curious property of generics: they admit of exceptions.[@bailey2015animalism 869]
+>Start with this sentence: ‘Buddhists are way into meditation’. This first sentence is, let us suppose, true. So far so good. But is it equivalent to ‘for every x, if x is a Buddhist, x is way into meditation’? It does not appear to be. For the second sentence might be false (some Buddhists might not be way into meditation) even if the first sentence is, as we have supposed, true. The first sentence could be true, somehow, even if not all Buddhists are way into meditation (similarly, ‘ducks lay eggs’ may be true even if not all ducks lay eggs, ‘mosquitoes carry dengue fever’ may be true even if only a very few mosquitoes carry that virus, and so on). We are now positioned to observe one curious property of generics: they admit of exceptions.[@bailey2015animalism 869]
 
 Thus, generics are statements of the form "S is F" or "S has or does F" where S is not an individual but a class or natural kind. The logical form of "all S's φ" does not predicate φ-ing to all members of the category S without exception, nor does it simply assert that some "S's φ", which is true but uninteresting. For example, consider the true statement, "wolves hunt in packs" as opposed to the clearly false statements "every particular wolf that has ever existed has hunted or will hunt in a pack." Rabid wolves hunt alone, and injured, or very old wolves don't hunt at all. Furthermore, it is true but trivial that *a large number of wolves hunt in packs*. The generic proposition is a unique logical expression, neither universal nor particular. 
 
@@ -455,7 +435,7 @@ Prasada says that, "Much of our conceptual knowledge consists of generic knowled
 
 Generic truths, once discovered, set a normative expectation by which we evaluate individual members on how well or badly they exemplify their life form.[@prasada2013conceptual 3] The normative expectation cannot, it seems, be reduced to statistical correlations. Rather, statistical correlations can be a sign of (or can be an illusion of) a principled connection. 
 
-There is much to be learned about the linguistic features of generics, but none of the unexplored frontiers render generics useless for applications in neo-Aristotelian ethics. A few examples of what needs to be learned include the correlation between statistical prevalence and normative identity; many generic truths describe what is statistically prevalent but not all. What is the difference? Is one reducible to the other? Furthermore, Leslie distinguishes between indefinite generics such as "tigers are striped" which admits of the specification "that tiger over there is striped" and definite generics such as "domestic cats are common" which does not admit of specification, "that domestic cat is common." What is the difference here? Finally, indefinite generics are trickier: “Ducks lay eggs” is a true generic while “ducks are female” is false one, even though only female ducks lay eggs. And “mosquitoes carry the West Nile virus” is true even though less than one percent of mosquitoes carry the virus while “books are paperbacks” is false even though more than eighty percent of books are paper backs.[@leslie2008generics] How do we sort through these correlations between generic connection and statistical prevalance? 
+There is much to be learned about the linguistic features of generics, but none of the unexplored frontiers render generics useless for applications in neo-Aristotelian ethics. A few examples of what needs to be learned include the correlation between statistical prevalence and normative identity; many generic truths describe what is statistically prevalent but not all. What is the difference? Is one reducible to the other? Furthermore, Leslie distinguishes between indefinite generics such as "tigers are striped" which admits of the specification "that tiger over there is striped" and definite generics such as "domestic cats are common" which does not admit of specification, "that domestic cat is common." What is the difference here? Finally, indefinite generics are trickier: “Ducks lay eggs” is a true generic while “ducks are female” is false one, even though only female ducks lay eggs. And “mosquitoes carry the West Nile virus” is true even though less than one percent of mosquitoes carry the virus while “books are paperbacks” is false even though more than eighty percent of books are paper backs.[@leslie2008generics] How do we sort through these correlations between generic connection and statistical prevalence? 
 
 These unexplored frontiers represent fascinating puzzles but do not render generics unsuitable for use in normative and ethical arguments. Nor should the presence of outstanding questions lead one to believe generic propositions are confusing or confused. Rather, their normal acquisition and usage is a very familiar, and perhaps inevitable. 
 
@@ -463,7 +443,7 @@ Generic truths are acquired via a normal scientific means of empirical observati
 
 >At each stage of an empirical investigation, our observations are mediated by our current understanding of the life form whose members we are observing. At the same time, our observations of those individual members will in turn improve our understanding of the life form itself, which then makes possible even more accurate and extensive future observations.[@lott2012moral 414]
 
-Again, the fact that generic truths are revisable is not a weakness but a strength of the case I am building. It may be, for all we know, that penguins can fly (in the air), that some species of penguin can fly, or that all penguins are really just defective birds. But the most reasonable belief thus far is the generic truth that penguins don't fly; that they are excellent swimmers, not defective flyers; and that these truths hold of penguins *as a kind* -- a biologist or zoologist who discovered the first flying penguin would become (justifiably) famous because we would all be (justifiably) surprised. The surprise would not originate merely from something out of the ordinary — new and extraordinary creatures, both living and extinct, are discovered every year. The surprise would originate from the upending of a firmly established scientific fact. 
+Again, the fact that generic truths are revisable is not a weakness but a strength of the case I am building. It may be, for all we know, that penguins can fly (in the air), that some species of penguin can fly, or that all penguins are really just defective birds. But the most reasonable belief thus far is the generic truth that penguins don't fly. A penguin is not a defective flyer but an excellent swimmer. These truths hold of penguins *as a kind* -- a biologist or zoologist who discovered the first flying penguin would become (justifiably) famous because we would all be (justifiably) surprised. The surprise would not originate merely from something out of the ordinary — new and extraordinary creatures, both living and extinct, are discovered every year. The surprise would originate from the upending of a firmly established scientific fact. 
 
 ### Generics are Teleological
 
@@ -667,7 +647,7 @@ What other conditions of animality are possible criteria of ethics? The whole ra
 
 We cannot, except via abstraction, describe the human species adequately without describing biology, ethology, psychology, and sociology. For example, it might seem a purely descriptive biological trivium that humans have 23 chromosomes in each somatic cell. But genetic defects in a person have enormous effects on that person's quality of life and on the community in which he or she lives. Apparently innocent "descriptions" of human animals are inseparable from ethological and anthropological descriptions, which which are both descriptive *and* normative. 
 
-      Furthermore, a scientific account of humanity cannot leave out that humans have large brains relative to other primates, with a neocortex and prefrontal cortex that correlate with abstract thinking, problem solving, society, and culture. A scientific account cannot leave out that humans don't just suffer physiological responses like fear and excitement or arousal, they willfully seek out such emotions for themselves through art and entertainment and willfully cause them in others. Presumably, even an alien anthropologist who knew nothing of human language or "what it is like to be a human" would be able to notice, upon examination, that a human's laugh or cry is different from a hyena's laugh or a crocodile's tears. Part of the alien anthropologist's examination would be to examine the body, brain, and hands of human beings. One of the first things we can imagine they would notice is that  humans live in cultures and societies. They are not merely "social animals" like apes; they are language-users, communicating in signs and symbols. Their language is an extremely complex, open-ended system which is both recursive (able to nest propositions within propositions) and productive (able to create sentences by potentially limitless combinations of words). In virtue of language and their opposable thumbs, they are creative; they don't just live on the ground or under ground, but build houses and shelters, sometimes in new places, such as caves, trees, hills, mountains, etc. Also, they are self-reflective. They establish social relations upon biological grounds (some children growing up with natural parents) and upon normative grounds (some orphans growing up in orphanages created by philanthropists). Even before introducing the "human" point of view, we can describe "the human" form of life in some detail. My hope is that these generics are plausibly knowable from an "objective" or third-person point of view of scientific exploration, data gathering, inductive generalization. They seem to have at least *potential* ethical significance; even so, the most ethically significant fact about us is the peculiar differentiam of our species: practical rationality. 
+Furthermore, a scientific account of humanity cannot leave out that humans have large brains relative to other primates, with a neocortex and prefrontal cortex that correlate with abstract thinking, problem solving, society, and culture. A scientific account cannot leave out that humans don't just suffer physiological responses like fear and excitement or arousal, they willfully seek out such emotions for themselves through art and entertainment and willfully cause them in others. Presumably, even an alien anthropologist who knew nothing of human language or "what it is like to be a human" would be able to notice, upon examination, that a human's laugh or cry is different from a hyena's laugh or a crocodile's tears. Part of the alien anthropologist's examination would be to examine the body, brain, and hands of human beings. One of the first things we can imagine they would notice is that  humans live in cultures and societies. They are not merely "social animals" like apes; they are language-users, communicating in signs and symbols. Their language is an extremely complex, open-ended system which is both recursive (able to nest propositions within propositions) and productive (able to create sentences by potentially limitless combinations of words). In virtue of language and their opposable thumbs, they are creative; they don't just live on the ground or under ground, but build houses and shelters, sometimes in new places, such as caves, trees, hills, mountains, etc. Also, they are self-reflective. They establish social relations upon biological grounds (some children growing up with natural parents) and upon normative grounds (some orphans growing up in orphanages created by philanthropists). Even before introducing the "human" point of view, we can describe "the human" form of life in some detail. My hope is that these generics are plausibly knowable from an "objective" or third-person point of view of scientific exploration, data gathering, inductive generalization. They seem to have at least *potential* ethical significance; even so, the most ethically significant fact about us is the peculiar differentia of our species: practical rationality. 
 
 ### Peculiarities
 
@@ -691,18 +671,18 @@ The third feature of practical reason is the ability to engage in rational pract
 
 The fourth feature is rational creation or innovation. Innovative creation is intrinsically related, I think, to speech, sociality, and rational practice. That is, one of the forms practical reasoning takes is that we *innovate* — we create and design and plan actions, new behaviors, new games, new languages, new activities, and so on. The structural features of our grammatical system allows us to create new propositions from a finite set of words, without which we could not tell stories or write philosophy papers. Furthermore, living within a social order, practical primates create living spaces, utensils, farming implements, and so on. We even create new social orders. 
 
-The human differentiam of 'practical rationality' entails not only abstract reasoning but speech, sociality, rational practice, and creation. Such norms are not *only* accessible to us, but would be accessible to an "alien anthropologist" observing humanity from the "outside." The alien anthropologist, if indeed it had enough of its own rationality to be able to have anthropological science, could observe these actions and infer the existence of the property of rationality. 
+The human differentia of 'practical rationality' entails not only abstract reasoning but speech, sociality, rational practice, and creation. Such norms are not *only* accessible to us, but would be accessible to an "alien anthropologist" observing humanity from the "outside." The alien anthropologist, if indeed it had enough of its own rationality to be able to have anthropological science, could observe these actions and infer the existence of the property of rationality. 
 
 
 ## Objections
 
 I must now clear up a few possible misunderstandings and address a few objections. The first misunderstanding that we should avoid is a misunderstanding about the concept of a nature. Chris Toner's epigraph states that *human nature is normative.* I don't insist on the term 'nature', as some object to it on aesthetic grounds; we could equally say that genetically modern homo sapiens sapiens are potentially practical, rational primates. The important thing is not the term 'nature' or 'human nature' but the concept of a nature. What do I mean by a nature or life form? 
 
-In the old classificatory schemes, philosophers provided a genus and a differentiam to pick out the unique "nature" of any life form or natural kind. Not every kind-concept corresponds to a real nature: *the set of medium sized objects immediately to my left* is not a natural kind, nor is *All human beings born in Ireland.* The kind-concepts under review are not just any generalizations but scientific and biological kinds that arise from inquiry and on which inquiry depends. We start out knowing nothing about an organism (say, some species of beetle) and come to discover not only that they exist but a whole set of properties: their genetic traits, their evolutionary history, their natural habitats, diet, predators, lifespans, and so on. In this way, a nature is a species, or a homeostatic set of properties, or a natural kind. 
+In the old classificatory schemes, philosophers provided a genus and a differentia to pick out the unique "nature" of any life form or natural kind. Not every kind-concept corresponds to a real nature: *the set of medium sized objects immediately to my left* is not a natural kind, nor is *All human beings born in Ireland.* The kind-concepts under review are not just any generalizations but scientific and biological kinds that arise from inquiry and on which inquiry depends. We start out knowing nothing about an organism (say, some species of beetle) and come to discover not only that they exist but a whole set of properties: their genetic traits, their evolutionary history, their natural habitats, diet, predators, lifespans, and so on. In this way, a nature is a species, or a homeostatic set of properties, or a natural kind. 
 
 When such a kind-concept corresponds to a real natural kind or "nature", that nature is potentially discernible both by contrasting it with other kinds of things and by comparing it with instances of the same kind. Hans Fink explains: 
 
->The nature of x is both what is special about this x and what makes this x one of the x’s as opposed to the y’s. When x is defined per genus et differentiam both the genus and the differentiating characteristic and their combination could be taken to express what is the nature of x.... Human nature is what differentiates us from the animals and the plants. By nature we are rational beings. Our human nature, however, is also that in virtue of which we belong to the animal kingdom and to the living organisms. By nature we are mammals. We may thus use the concept of nature to differentiate rather than include, but also to include rather than differentiate. And we may use the concept of nature to express that differentiation and inclusion should not be seen as incompatible."[@fink 207] 
+>The nature of x is both what is special about this x and what makes this x one of the x’s as opposed to the y’s. When x is defined per genus et differentia both the genus and the differentiating characteristic and their combination could be taken to express what is the nature of x.... Human nature is what differentiates us from the animals and the plants. By nature we are rational beings. Our human nature, however, is also that in virtue of which we belong to the animal kingdom and to the living organisms. By nature we are mammals. We may thus use the concept of nature to differentiate rather than include, but also to include rather than differentiate. And we may use the concept of nature to express that differentiation and inclusion should not be seen as incompatible."[@fink 207] 
 
 As Fink points out, the concept of a nature gathers and divides. It gathers up all the members or putative members of a kind and divides the kind from other kinds.  With this definition in view, we can see what the point of the old formula was, that man was a rational animal, or a featherless biped. There are many animals, but few (if any) other rational ones. There may even be other rational creatures who are not animals (artificial intelligences, gods, intelligent Alpha Centurions, or what have you), but so far as we know, we are the only rational animals in the cosmos. 
 
@@ -762,7 +742,7 @@ There is another point to make. Williams despairs of finding human nature, inclu
 
 A third iteration of the "no human nature" objection is that if there is such thing as "human nature", it is nothing more or less than our biological and physiological makeup. Tim Lewens argues that "the only biologically respectable notion of human nature that remains is an extremely permissive one that names the reliable dispositions of the human species as a whole. This conception offers no ethical guidance..."[@lewens2012human] 
 
-On Lewens' view, the only talk about our "nature" that would be scientific would be an indeterminate series of complicated stories about our genetics, evolutionary history, and neurophysiology, perhaps even including cultural, geographical, and ecological settings. The problem, as we have seen, is that an empirical "scientific" conception of human nature has nothing to do with *ethics*. All of the complicated stories we could tell -- if they are genuinely scientific -- would be purely *descriptive*.[This worry is developed in detail by Hursthouse (*On Virtue Ethics* Chapter 10) and Stephen Brown (*Moral Virtue and Nature* chapter 5) and @ward2013against. All three think that ethics is not ultimately scientific.] 
+On Lewens' view, the only talk about our "nature" that would be scientific would be an indeterminate series of complicated stories about our genetics, evolutionary history, and neurophysiology, perhaps even including cultural, geographical, and ecological settings. The problem, as we have seen, is that an empirical "scientific" conception of human nature has nothing to do with *ethics*. All of the complicated stories we could tell -- if they are genuinely scientific -- would be purely *descriptive*.^[This worry is developed in detail by Hursthouse (*On Virtue Ethics* Chapter 10) and Stephen Brown (*Moral Virtue and Nature* chapter 5) and @ward2013against. All three think that ethics is not ultimately scientific.] 
 
 Bernard Williams expresses a similar point. He says that nature has bestowed upon us an "ill-sorted bricolage of powers and instincts": 
 
@@ -783,7 +763,7 @@ My response is that human norms arise from our nature as practical, rational pri
 
 I have been at pains to articulate the way in which we are animals -- but animals of a peculiar sort: That is, practical, rational primates. If this generic about our life form is correct, it suggests a teleological combination like the ones expressed in chapter 2: an embryonic mammal *is to become* a fully grown mammal. A practical primate *is to become* a fully mature practical primate.  In other words, one of the "norms" of practical rationality, we can venture, is that we *ought to be successfully practically rational*. 
 
-Above, I asked the innocuous question: 'Are human beings natural organisms?'' One sort of reader believes that human beings are *merely* natural; under the  guise of merely asserting an innocent truism, this reader would insist that humans are machines made of meat, or "heaps of glorified clockwork"[@pinker2003blank] in the same sense that all of Laplacian nature is a heap of glorified clockwork and all its myriad variegated objects are just parts of the heap.  This first sort of reader can acknowledge that the human brain exhibits rarefied neurocognitive processes we do not observe anywhere else but would deny that human beings are different in kind. 
+Above, I asked the innocuous question: 'Are human beings natural organisms?' One sort of reader believes that human beings are *merely* natural; under the  guise of merely asserting an innocent truism, this reader would insist that humans are machines made of meat, or "heaps of glorified clockwork"[@pinker2003blank] in the same sense that all of Laplacian nature is a heap of glorified clockwork and all its myriad variegated objects are just parts of the heap.  This first sort of reader can acknowledge that the human brain exhibits rarefied neurocognitive processes we do not observe anywhere else but would deny that human beings are different in kind. 
 
 A second sort of reader believes that humans are natural organisms and something more; under the guise of asserting an innocent truism, this reader would insist that human beings are organisms of an altogether different kind. A religious philosopher might argue that human beings exceptional in virtue of being endowed by God with the *Imago Dei*. This sort of reader can acknowledge that the human body is a material organism like many others but would insist that the mind is something of a different order. Even non-religious philosophers might argue that human rational activities and pursuits represent a qualitative break in the animal kingdom. 
 
@@ -803,7 +783,7 @@ There is one further objection that requires full treatment in a later chapter. 
 
 A final objection might come from someone who simply urged that human nature is mysterious. For all we can tell without the benefit of divine revelation, humanity is an anomaly. Our origin is shrouded in mystery, our destiny undecided. 
 
-I concede the point. My thesis is not that we know everything about humanity that we will ever need to know. My thesis is that observing our nature as practical primates is a minimal starting point of knowledge upon which to build. Knowing that snakes are legless reptiles is not an end to scientific inquiry about them, but a beginning. Indeed, one cannot begin to learn more about 'snakes' unless one apprehends that 'snakes' exist and roughly what they are. So capturing the genus and differentiam of a kind of organism is in fact necessary for creating a conceptual placeholder *on which to attach new knowledge*. Knowing what human beings are, however roughly, gives us a concept-category within which to fill in the depth and breadth of facts and information. 
+I concede the point. My thesis is not that we know everything about humanity that we will ever need to know. My thesis is that observing our nature as practical primates is a minimal starting point of knowledge upon which to build. Knowing that snakes are legless reptiles is not an end to scientific inquiry about them, but a beginning. Indeed, one cannot begin to learn more about 'snakes' unless one apprehends that 'snakes' exist and roughly what they are. So capturing the genus and differentia of a kind of organism is in fact necessary for creating a conceptual placeholder *on which to attach new knowledge*. Knowing what human beings are, however roughly, gives us a concept-category within which to fill in the depth and breadth of facts and information. 
 
 The main thesis of this chapter has been that the following generic is true: "human beings are practical, rational primates." This generic, I have argued, is defensible both philosophically and scientifically. It is discoverable both by humans examining our species from "within" the human point of view and by alien anthropologists examining our species from "outside" the human point of view (so long as they too were intelligent and rational). This generic picks out a property or set of properties we might describe as 'human nature.' If this is anywhere near to correct, then human nature is not a complete mystery. We know *enough* about it to build a neo-Aristotelian theory of ethics grounded in evaluations of human beings by reference to the human life form. 
 
@@ -819,7 +799,7 @@ Things get really interesting -- and much more tricky -- when we consider humans
 
 >...  will and practical reason are on the face of it just two more faculties or powers a living being may bear, on a level with the powers of sight and hearing and memory. The second crucial thought is that an individual instance of any of the latter powers — sight, hearing, memory — is intuitively to be judged as defective or sound, good or bad, well-working or ill-working, by reference to its bearer's life-form or kind or species.[@thompson2008life 29]
 
-Naturalistic evaluation of human beings on the basis of practical rational activities follows the same pattern as before. Every animal's nature or life form has genus and differentiam. For human beings, our differentiam is that we can engage in practical reasoning. Hence, our animality and our rationality both count. Being a primate entails that we are alive and share properties in common with all organic nature. Being a practical reasoning primate includes a set of capacities, including abstract thought but also more: speech, sociality, rational practice, and creativity. I also argued that the generic truth about humanity holds good in the face of important objections to the effect that we have no nature, or that our only nature is biological. I have not yet fully articulated what effect rationality has on our animal nature and rebutted the objection that it renders irrelevant all the prima facie natural norms arising from our animal or biological nature. But I have argued that there is good reason to affirm a kind of prima facie natural normativity binding on human beings. 
+Naturalistic evaluation of human beings on the basis of practical rational activities follows the same pattern as before. Every animal's nature or life form has genus and differentia. For human beings, our differentia is that we can engage in practical reasoning. Hence, our animality and our rationality both count. Being a primate entails that we are alive and share properties in common with all organic nature. Being a practical reasoning primate includes a set of capacities, including abstract thought but also more: speech, sociality, rational practice, and creativity. I also argued that the generic truth about humanity holds good in the face of important objections to the effect that we have no nature, or that our only nature is biological. I have not yet fully articulated what effect rationality has on our animal nature and rebutted the objection that it renders irrelevant all the prima facie natural norms arising from our animal or biological nature. But I have argued that there is good reason to affirm a kind of prima facie natural normativity binding on human beings. 
 
 The new natural criteria by which to judge the human organism include reference to its practical life form. For example, consider generics such as these: "The human being acts upon reflection"; "the human being speaks a language"; "the human being lives in society", and so on. These natural human norms are well on the way to being genuinely ethical. Deviations from them represent genuinely *human* defects. Folk morality recognizes something wrong with the jolly fool who willfully acts before deliberating, or the blowhard who willfully speaks without restraint, or the paranoid hermit who willfully avoids all human society. Naturalistic evaluation explains *what exactly* is wrong. Such persons are not living up to their own human life form. 
 
@@ -856,7 +836,7 @@ The hypothesis is that virtues are a specific type of quality belonging to creat
 
 
 
-# Virtue as Rational Practice
+# Virtue and Vice
 
 \setlength{\epigraphwidth}{.95\textwidth}
 \begin{epigraphs}
@@ -1107,7 +1087,7 @@ The eighth and final point about virtue is that virtues enable the health and pr
 
 Virtues as related to practices are individual but not individualistic, since practices themselves are social activities. Virtues as related to the whole of life are cultural but not culturally relativistic, for every culture ought to provide for its members some minimal goods.
 
-Insofar as practical rationality is the differentiam of human nature, and insofar as virtues all depend for their effective operation on the coordinating management of practical reason, tradition will again become an essential concept. A tradition is not opposed to rational or critical reflection -- rather a member of a tradition cannot reason without the resources of that tradition. We can put the matter obscurely by asserting that, for MacIntyre, rationality itself is tradition-constituted.  I shall return to this beguiling concept in a later chapter. 
+Insofar as practical rationality is the differentia of human nature, and insofar as virtues all depend for their effective operation on the coordinating management of practical reason, tradition will again become an essential concept. A tradition is not opposed to rational or critical reflection -- rather a member of a tradition cannot reason without the resources of that tradition. We can put the matter obscurely by asserting that, for MacIntyre, rationality itself is tradition-constituted.  I shall return to this beguiling concept in a later chapter. 
 
 
 
@@ -1217,7 +1197,9 @@ In section 5, I address three challenges. Does this view of practical reason beg
 
 Consider the following apparent problem: If "practical reason" is really practical, then how is it rational? Or if it is rational, how is it really practical? 
 
-A view familiarly attributed to Hume says that practical reasons cannot motivate, at least not by themselves. If this were so, moral reasons could not satisfy the "practical requirement." Expressivists are among the chief contemporary proponents of this objection. Expressivism is motivated in large part by the attempt to satisfy the *practical* dimension of practical reason (at the cost of the "rational" part). Wallace explains: 
+A view familiarly attributed to Hume says that practical reasons cannot motivate, at least not by themselves.^[He says: "Reason is the discovery of truth and falsehood."] If this were so, moral reasons could not satisfy the "practical requirement." Moral reasons could not be actionable. 
+
+Expressivists are among the chief contemporary proponents of this view. Indeed, the very motivation for expressivism, in large part, is the need to satisfy the *practical* dimension of practical reason (at the cost of the "rational" part). Jay Wallace explains: 
 
 >Expressivism in this form suggests a naturalistic interpretation of practical reason, one that may seem appropriate to the enlightened commitments of the modern scientific world view. It is naturalistic metaphysically, insofar as it makes no commitment to the objective existence in the world of such allegedly questionable entities as values, norms, or reasons for action.[@seppracticalreason]
 
@@ -1227,7 +1209,7 @@ There are two sides to this paradox. First, suppose that successful practical re
 
 So either practical reasoning is not *practical* (action-guiding) or it is not *reasonable*. As McDowell discusses below, this dilemma rests on the familiar belief that cognition and volition are distinct. If "practical reason" is the name for a single capacity that is both cognitive and volitional, then in a very real sense, the challenge is to *defend the concept of practical reason itself*. 
 
-### The Solution: Thinking How to Live
+### The Solution in General
 
 The solution to this problem can be approached via the question "how should one live?" The neo-Aristotelians, from Bernard Williams to Alasdair MacIntyre to more recent writers have almost universally fixed on this question as a crucial starting point for ethics. For example, John McDowell says that the whole "point of engaging in ethical reflection… lies in the interest of the question 'How should one live'?"[@mcdowell1979virtue 331] 
 
@@ -1247,7 +1229,7 @@ This process is practical *reasoning* by definition. Practical reasoning is thus
 
 My contention is that our default view of practical reasoning creatures ought to be that practical reason is both rational and practical, a kind of knowledge that is, absent any other psychological state, motivating. If this is right, then the burden of proof lies with those who would artificially divide and separate the *knowing* and the *practicing*. 
 
-Another pre-analytic sign that there need not be a divide between knowing and practicing is the linguistic parity between π-type reasons and Q-type reasons. Both are a species of ""*reasons*"", though they differ in their use. For example, Philippa Foot says that reasons of type (A) are  "Reasons for acting, which we may call practical reasons" and type (B) are "Reasons for believing, which we may call evidential or demonstrative reasons." She continues:
+Another pre-analytic sign that there need not be a divide between knowing and practicing is the linguistic parity between π-type reasons and Q-type reasons.[@edgley1965practical] Both are a species of "*reasons*", though they differ in their use. For example, Philippa Foot says that reasons of type (A) are  "Reasons for acting, which we may call practical reasons" and type (B) are "Reasons for believing, which we may call evidential or demonstrative reasons." She continues:
 
 >As philosophers, and therefore theoreticians, our job is of course to give the second type of reason, arguing for or against the truth of a variety of propositions that seem to involve special problems—like those, for instance, about personal identity or the existence of an external world. But among these many ‘philosophical’ subjects we find that of the nature of practical reasons, and in this special case we shall have to give reasons of type B for theses about reasons of type A.[@foot2001natural 64-5].
 
@@ -1471,18 +1453,16 @@ Seen in this light, it is obvious that practical reasons can and do motivate us.
 
 ### Substantive Reasoning? 
 
-It is plain by now that I am employing a "substantive" or structural conception of practical reason as opposed to a "procedural" or instrumental one.[For a discussion of this distinction, see: @hooker2004procedural.] The procedural or instrumental view sees practical reasoning as a value-neutral process of adjudicating the means to one's chosen ends, whatever those may be. I may criticize Smith for being "irrational" -- that is, for not using the necessary means to his or her own ends -- but I may not criticize Smith's ends. The substantive view makes some *ends themselves* "rational" or "irrational." Some philosophers object to the substantive conception as problematically building into the definition of "reasonable" controversial ends. For an example, if I defined practical reasoning as the process by which one adjudicates the means to *one's own health*, then any sort of action that makes me unhealthy (e.g., eating some delicious but less-than-healthy food) would be ipso facto irrational. What is needed, the advocate of the procedural view points out, is a broader conception. 
+It is plain by now that I am employing a "substantive" or structural conception of practical reason as opposed to a "procedural" or instrumental one.^[For a discussion of this distinction, see: @hooker2004procedural.] The procedural or instrumental view sees practical reasoning as a value-neutral process of adjudicating the means to one's chosen ends, whatever those may be. I may criticize Smith for being "irrational" -- that is, for not using the necessary means to his or her own ends -- but I may not criticize Smith's ends. The substantive view makes some *ends themselves* "rational" or "irrational." Some philosophers object to the substantive conception as problematically building controversial ends into the definition of "reasonable". For an example, if I defined practical reasoning as the process by which one adjudicates the means to *one's own health*, then any sort of action that makes me unhealthy (e.g., eating some delicious but less-than-healthy food) would be ipso facto irrational. What is needed, the advocate of the procedural view points out, is a broader conception. 
 
 Two responses are appropriate at this juncture: first, the argument so far is that practical reasoning as a procedure *must necessarily have a certain intelligible structure*. The advocate of the procedural view, no less than the advocate of the substantive view, needs a sufficiently general starting point for procedural reasoning to even get off the ground.  Frey's candidate for that starting point is the maximally general conception that "good is to be done and evil avoided", or that "one must pursue the human good." Secondly, I have not yet argued, in great detail, what the substantive good of practical reasoning is other than a conception of how to live given that one is a practical, rational primate. This substantive good is general enough to accommodate a variety of controversial views about what, in particular, one ought to do or not do. 
 
 What further evidence can the neo-Aristotelian bring to indicate that practical reasoning is indeed better thought of as substantive? What reason is there to think that practical reasoning does not just aim at *proper means to any end*, nor does it merely aim at "ends" in the abstract but at *the apparent good*? Philippa Foot offers two considerations as further evidence. 
 
-The first is that the substantive conception is needed to show how both prudential (self-regarding) and moral (other-regarding) reasons can be rational:[^52]
+The first is that the substantive conception is needed to show how both prudential (self-regarding) and moral (other-regarding) reasons can be rational. Thus, Foot says: 
 
+>This now seems to me to be the correct way of meeting the challenge that I myself issued in ‘Morality as a System of Hypothetical Imperatives’ and at that time despaired of meeting: namely, to show the rationality of acting, even against desire and self-interest, on a demand of morality. The argument depends on the change of direction that Quinn suggested: seeing goodness as setting a necessary condition of practical rationality and therefore as at least a part-determinant of the thing itself. Nor is this a quite unfamiliar way of arguing. Many of us are willing to reject a ‘present desire’ theory of reasons for action because we think that someone who knowingly puts his future health at risk for a trivial pleasure is behaving foolishly, and therefore not well. Seeing his will as defective, we therefore say that he is doing what he has reason not to do. Being unable to fit the supposed ‘reason’ into some preconceived present-desire-based theory of reasons for action, we do not query whether it really is a foolish way to behave, but rather hang on to the evaluation and shape our theory of reasons accordingly. And it is exactly a generalization of this presumption about the direction of the argument on which I am now insisting. For what, we may ask, is so special about prudence that it alone among the virtues should be reasonably thought to relate to practical rationality in such a way?[@foot2001natural 63]
 
->The argument depends on the change of direction that Quinn suggested: seeing goodness as setting a necessary condition of practical rationality and therefore as at least a part-determinant of the thing itself. Nor is this a quite unfamiliar way of arguing. Many of us are willing to reject a ‘present desire’ theory of reasons for action because we think that someone who knowingly puts his future health at risk for a trivial pleasure is behaving foolishly, and therefore not well. Seeing his will as defective, we therefore say that he is doing what he has reason not to do. Being unable to fit the supposed ‘reason’ into some preconceived present-desire-based theory of reasons for action, we do not query whether it really is a foolish way to behave, but rather hang on to the evaluation and shape our theory of reasons accordingly. And it is exactly a generalization of this presumption about the direction of the argument on which I am now insisting. For what, we may ask, is so special about prudence that it alone among the virtues should be reasonably thought to relate to practical rationality in such a way?[@foot2001natural 63]
-
-[^52]: Thus she says: "This now seems to me to be the correct way of meeting the challenge that I myself issued in ‘Morality as a System of Hypothetical Imperatives’ and at that time despaired of meeting: namely, to show the rationality of acting, even against desire and self-interest, on a demand of morality." @foot2001natural 63. 
 
 Foot's point here is that goodness is a "necessary condition of practical rationality."  This point is similar to Frey's: "there could be no reasons unless a rational animal has a general conception of its own good." If we accept this point, and I do not see how to avoid it, then we are already committed to a minimally substantive view of practical reason, rather than a merely procedural one. The alternative to aiming at the apparent good is not aiming at some value-neutral "end" or goal; the alternative to aiming at the apparent good is *not acting at all*. 
 
@@ -1496,7 +1476,7 @@ Such basic goods are apprehended as contributing to a distinctively human life f
 
 Reasoning about ends may be a difficult and messy business. But we do it. It is an empirical fact that we reason -- indeed, disagree and debate -- about ultimate ends. Suppose Betty says to her friend, "I'm concerned about you. You haven't returned my calls. I heard you lost your job and your spouse left. Now I see you're gaining weight. What's wrong?" It would be no consolation for her friend to respond, "Nothing's wrong. Yes, yes, all that is true: I'm destitute, alone, and unhealthy. But that's what I was *aiming* for." Betty would rightly think, "Well, then... you are a fool." Betty would rightly wonder "what is wrong such that you have taken as your aims such unhealthy and ridiculous goals?"
 
-Jay Wallace rebuts the charge that if reasoning about ends is not a mathematically-precise procedure, then it must not really be rational: 
+As we saw above, some charge that if reasoning about ends is not a mathematically-precise procedure, then it must not really be rational. Jay Wallace rebuts the charge in this way: 
 
 >Practical deliberation about ends is not an easy or well-defined activity. There are no straightforward criteria for success in this kind of reflection, and it is often unclear when it has been brought to a satisfactory conclusion. These considerations encourage the Humean assumption—especially widespread in the social sciences—that there is no reasoning about final ends. On the other hand, how is one supposed to clarify one's largest and most important ends, if not by reasoning about them in some way? Rather than exclude such reflection because it does not conform to a narrowly scientific paradigm of reason, perhaps we should expand our conception of practical reason to make room for clarificatory reflection about the ends of action.[@seppracticalreason, section 6]
 
@@ -1510,18 +1490,20 @@ Although this process is messy, it is fundamentally so. Any attempt to configure
  
 >I entertain the unfriendly suspicion that those who feel they *must* seek more than  [the Aristotelian view of practical reason] provides want a scientific theory of rationality not so much for a passion for science, even where there can be no science, but because they hope and desire, by some conceptual alchemy, to turn such a theory into a regulative or normative discipline, or into a system of rules by which to spare themselves some of the agony of thinking and all the torment of feeling and understanding that is actually involved in reasoned deliberation.[@wiggins1975deliberation]
 
+Wiggins point, I think, is that practical reasoning is necessarily less precise than deductive reasoning. If indeed it cannot be made to be more clear, then to try to make it clear is futile. 
+
 ### What About Immorality? 
 
 Some might object that this view of practical reason as a process that is oriented by definition at the apparent good defines away the possibility of immorality. Does "aiming at the good" exculpate an agent's apparently immoral motives or ends? Not at all. Yet the objection requires an important clarification. First, if the immoral person *acts at all* then, according to the argument, he or she must be pursuing some apparent good by definition. To be practical rational necessarily means to pursue something *as good*, as desirable. Secondly, if the immoral person acts wrongly, then he or she has misjudged the good. On the neo-Aristotelian view I am developing, immoral acts are rational mistakes. Just as an epistemic agent might hold a false belief p without affirming the false *as false*, a practical agent might pursue a bad thing without pursuing it *as bad*.  Rather, the immoral person fails in their practical reasoning to correctly rank and order specific goods. The imprudent person, for example, judges that it would be better to eat, drink, and be merry today rather than plan to avoid future ills. The cruel person judges that it would be better to cause suffering than to be kind. 
 
 In summary, to be a practical, rational animal is to have the capacity for *rational action*. Rational action is not simply motion or pursuit of some good -- even insects and fungi do that. Rational action is the inclination to pursue or avoid in accordance with one's judgments about what is good or bad, desirable or undesirable. Practical reasoning is a very broad term to encompass a range of activities by which we form a plan for how to live -- including processes by which we identify, assess, collate, and rank various practical reasons in favor of and against possible actions or ways of life. 
 
-The upshot of these reflections is this: If a person does anything at all, then that person is engaging in practical reasoning. The "final verdict" and the verdictive ought is simply what Foot calls the thing to do "all things considered."[@foot2001natural 57] Apparent counterexamples that one might furnish to disprove the point actually serve, with sufficient clarification, to reinforce it. For example, someone might say, 'It's ridiculous to think that I always pursue the good, because I sometimes do wrong.'' Sometimes we do the wrong thing. The proper response is that we perceive the bad as the good. Someone might say, "But sometimes I perceive the bad *as bad* and pursue it anyway." The response is that we sometimes take a bad or dismotivating reason into an overall reason to do something, all things considered.
+The upshot of these reflections is this: If a person does anything at all, then that person is engaging in practical reasoning. The "final verdict" and the verdictive ought is simply what Foot calls the thing to do "all things considered."[@foot2001natural 57] Apparent counterexamples that one might furnish to disprove the point actually serve, with sufficient clarification, to reinforce it. For example, someone might say, 'It's ridiculous to think that I always pursue the good, because I sometimes do wrong.' Sometimes we do the wrong thing. The proper response is that we perceive the bad as the good. Someone might say, "But sometimes I perceive the bad *as bad* and pursue it anyway." The response is that we sometimes take a bad or dismotivating reason into an overall reason to do something, all things considered.
 
 
 ## Conclusion
 
-This chapter has argued in more detail for a conception of practical reason as the set of capacities that defines human beings as practical reasoning animals and the well-functioning of which thereby constitutes part of the natural excellence of creatures like us. 
+This chapter has argued in more detail for a conception of practical reason as the set of capacities that defines human beings as practical reasoning animals. When practical reasoning is well-functioning, it constitutes part of the natural excellence of creatures like us. 
 
 I first captured both the *practicality* and *rationality* of practical reasoning by defining it as the human capacity to resolve what to do and how to live by identifying practical reasons. I agreed with McDowell that the virtuous person is sensitive to practical reasons, i.e., the salient facts of what is required in a given situation. But I disagreed with McDowell that so resolving the "how should one live?" question is not just what virtuous people do, but what all mature, functional adults do because the whole range of practical reasons is broader than just "moral reasons" (narrowly construed). 
 
@@ -1533,11 +1515,11 @@ Two important challenges are possible. They are both related to naturalism. The 
 
 The second challenge is practical reasons anti-realism. Anti-realism broadly construed comes in a variety of forms: non-cognitivist subjectivism, cognitivist subjectivism, constructivism, and so on. What each of these quite disparate views share in common is a denial of robust realism. Jay Wallace explains such realism as follows: 
 
->The basic commitment of realism in this domain is the idea that there are facts of the matter about what we have reason to do that are prior to and independent of our deliberations, to which those deliberations are ultimately answerable. Realists picture practical reason as a capacity for reflection about an objective body of normative truths regarding action (Parfit 2011, Scanlon 2014).[@seppracticalreason, section 2]
+>The basic commitment of realism in this domain is the idea that there are facts of the matter about what we have reason to do that are prior to and independent of our deliberations, to which those deliberations are ultimately answerable. Realists picture practical reason as a capacity for reflection about an objective body of normative truths regarding action.[@seppracticalreason, section 2. Wallace cites Parfit (2011) and Scanlon (2014).]
 
-Pretty clearly, I have been assuming a kind of realism. Assuming so is not vicious. Realism about practical reasons is what Nagel calls a "defeasible presumption."[@nagel1989view 143.] 
+Pretty clearly, I have been assuming a kind of realism. Such an assumption is not viciously circular. Realism about practical reasons is what Nagel calls a "defeasible presumption."[@nagel1989view 143.] That is, most of us have no pre-analytic objection to the seeming fact that some reasons for acting are good reasons, and others bad. Some brute norms (is wrong torture animals, or that one is not to use ineffective means to achieve one's ends) have a quasi-analytic force to them. 
 
-Most of us have no pre-analytic objection to the seeming fact that some reasons for acting are good reasons, and others bad. Some brute norms (is wrong torture animals, or that one is not to use ineffective means to achieve one's ends) have a quasi-analytic force to them. And even anti-realism's most sophisticated advocates concede the that realism is the default view. For example, John Mackie admits that "the main tradition of European moral philosophy” accepts objective values. He even admits that moral thought and language assumes it: the notion of objective value has  “a firm basis in ordinary thought, and even in the meanings of moral terms."[^54] Alan Gibbard likewise says, "Normative language does involve claims to objectivity in some sense—that seems clear enough."[@gibbard1992wise 154] Gibbard goes so far as to say that Platonism about reasons is common sense.[^53]
+Even anti-realism's most sophisticated advocates concede the that realism is the default view. For example, John Mackie admits that "the main tradition of European moral philosophy” accepts objective values. He even admits that moral thought and language assumes it: the notion of objective value has  “a firm basis in ordinary thought, and even in the meanings of moral terms."[^54] Alan Gibbard likewise says, "Normative language does involve claims to objectivity in some sense—that seems clear enough."[@gibbard1992wise 154] Gibbard goes so far as to say that Platonism about reasons is common sense.[^53]
 
 [^54]: Compare with @cuneo2014speech. 
 
@@ -1812,7 +1794,7 @@ McDowell aims for this conception of practical reason when he says it is possibl
 
 Toner says: "the virtues are seen as acquired traits that fit human beings for the exercise of practical rationality toward which their shared nature directs them (thereby rejecting McDowell’s sharp separation of first and second natures)."[@toner2008sorts 243]  This view is more adequate because, as Toner explains: 
 
->The acquisition of the virtues not only prevents emotions from interfering with practical reasoning but also, in McDowellian terms, ‘‘opens our eyes’’ to new sorts of reasons for action, not visible to the immature, that make the good of others part of our good. So… MacIntyre links first and second natures much more closely than does McDowell.[toner2008sorts 243]
+>The acquisition of the virtues not only prevents emotions from interfering with practical reasoning but also, in McDowellian terms, ‘‘opens our eyes’’ to new sorts of reasons for action, not visible to the immature, that make the good of others part of our good. So… MacIntyre links first and second natures much more closely than does McDowell.[@toner2008sorts 243]
 
 Human beings are *animals* after all, with animal sensations and emotions and urges, the "sharp separation" between biology and rationality not only cuts humans apart from the rest of the cosmos, but cuts human beings down the middle. McDowell's concept of human nature is not that we are practical rational animals; his unwitting concept of human nature is we are *practical reasoners* full stop. This error infects his definition of virtue as well. He believes that all virtues pertain to practical reasoning (or "sensitivity") where I argued that some virtues pertaining to practical *reasoning* while others pertain to rational *practice.* 
 
@@ -1848,7 +1830,7 @@ The potential for wisdom is part of who and what we are. Actualizing that potent
 
 Virtue ethics is, on my view, a very useful guide to action, in personal life, political life, bioethics,[@beauchamp2001principles] business,[@beadle2015macintyre] and education.[@carr2005virtue] It would be an improvement to almost any area of human life if we were aware of our own vices and worked to expunge them, and if we understood the virtues and pursued them. Yet many obstacles from philosophical and social tradition stand in the way. My dissertation is part of an attempt to remove such obstacles and, in their absence, render not only palatable but desirable a pursuit of virtues. 
 
-Virtue, practical reason, and flourishing are age-old themes. Nevertheless, they are significant themes. Treating them adequately is too much for one dissertation, but my hope is that even an unworthy treatment of a worthy topic can attain some value. As Glaucon said to Socrates, "The measure of listening to such discussions is the whole of life."[@plato *Republic* 450 b.] 
+Virtue, practical reason, and flourishing are age-old themes. Nevertheless, they are significant themes. Treating them adequately requires more work than I can claim to have done here. As Glaucon said to Socrates, "The measure of listening to such discussions is the whole of life."[@plato *Republic* 450 b.] 
 
 
 
@@ -1870,13 +1852,16 @@ Virtue, practical reason, and flourishing are age-old themes. Nevertheless, they
 
 
 
+      At the end, initiate slash backmatter followed by:  
+      appendix, bibliography, and vita in that order. 
+      Add one last newpage too. 
 
 
 \backmatter
 
 \appendix
 
-## Bibliography 
+### Bibliography 
 
 <br>
 
@@ -1884,3 +1869,170 @@ Virtue, practical reason, and flourishing are age-old themes. Nevertheless, they
 
 
 \end{thebibliography}
+
+### CURRICULUM VITAE
+
+#### [(PDF version here)](/Buhler-CV.pdf)
+
+Keith Buhler  
+Doctoral Candidate  
+Department of Philosophy  
+University of Kentucky   
+Lexington, KY, 40506  
+keith.buhler@uky.edu   
+
+### AREAS OF SPECIALIZATION
+Ethics, Metaethics.       
+
+### AREAS OF COMPETENCE
+Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.  
+
+
+### EDUCATION
+
+2016 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky *(in progress: expected completion in 2016)*  
+2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
+2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
+2004  &nbsp;&nbsp; B.A. Humanities, Biola University   
+
+
+### CONFERENCE PRESENTATIONS
+
+2016 &nbsp;&nbsp; "The Cosmic Question": Teleology without Theology in Thomas Nagel's *Mind and Cosmos*, Society of Christian Philosophers,  San Diego, CA.   
+2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Analyzing the Empty Hero in Kung Fu Panda and Great and Powerful Oz”, Faith & Film Conference, Baylor University, TX.       
+2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Inductive Arguments Can't Show It,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
+2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference, TX.  
+2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy, SC; and Midsouth Philosophy Conference, MI.  
+
+
+
+### ACADEMIC APPOINTMENTS
+
+2014-16 &nbsp;&nbsp;Instructor of Philosophy, Asbury University  
+2012-16 &nbsp;&nbsp; Graduate Teaching Assistant, University of Kentucky
+
+
+### COURSES TAUGHT 
+
+### University of Kentucky
+
+2016 &nbsp;&nbsp; Business Ethics (upper division)  
+2015-16 &nbsp;&nbsp; Health Care Ethics (upper division)  
+2013-14 &nbsp;&nbsp; Introduction to Philosophy   
+2013 &nbsp;&nbsp; Introduction to Ethics    
+2013 &nbsp;&nbsp; Introduction to Logic  
+2012 &nbsp;&nbsp; Introduction to Logic  (teaching assistant) 
+
+### Asbury University 
+2016 &nbsp;&nbsp; Philosophy of C.S. Lewis  (upper division)  
+2016 &nbsp;&nbsp; Philosophy of Religion (upper division)  
+2016 &nbsp;&nbsp; Wisdom & Virtue    (upper division)  
+2014-2016 &nbsp;&nbsp; Introduction to Philosophy   
+
+### Biola University
+2004 &nbsp;&nbsp; Philosophy of Science (teaching assistant) 
+
+
+### Veritas Academy
+2013 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
+
+### Torrey Academy
+2011 &nbsp;&nbsp; Plato Seminar   
+2009-2010 &nbsp;&nbsp; Aristotelian Logic   
+2009-2012 &nbsp;&nbsp; Western Civilization: American Thought    
+2008-2012 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought   
+2007-2012 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
+
+
+### OTHER LEADERSHIP AND TEACHING POSITIONS 
+2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy     
+2010-2012 &nbsp;&nbsp;  Master Tutor, Torrey Academy     
+2001-2011 &nbsp;&nbsp;  Tutor & Lecturer, Wheatstone Academy, Fullerton, CA.   
+2010-2012 &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA    
+2007-2010 &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA   
+2004-2005 &nbsp;&nbsp;  Assistant Director, Wheatstone Academy     
+2001-2002 &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
+2001 &nbsp;&nbsp; English Teacher, Biola University Abroad, Mongolia.   
+
+ 
+
+### INVITED PUBLIC LECTURES
+2014 &nbsp;&nbsp; "Morality: Rule-following or New Life?", Wesleyan Society.   
+2013&nbsp;&nbsp; "Reading as Classical Education", Veritas Academy.  
+2012 &nbsp;&nbsp;"The Goodness of Goodness: Lewis' *Abolition of Man*", Torrey Academy.   
+2012 &nbsp;&nbsp; "Is Vainglory Pride? Dorothy Sayers' *Gaudy Night*", Torrey Academy.     
+2011 &nbsp;&nbsp; "Does Love Cover a Multitude of Sins?", Hope Academy.  
+2011 &nbsp;&nbsp; "Hope and the Cycle of Desire", Hope Academy.  
+2011 &nbsp;&nbsp; "The Divided Self", Hephatha Lutheran Church.     
+2010 &nbsp;&nbsp; "The Art of Conversation; Conversation with Art", Wheatstone Academy.  
+2009 &nbsp;&nbsp; "The Virtue of Constancy", Hope Academy.     
+2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
+
+ 
+### REFERENCES
+
+
+|                                                            |                                                                   |
+|-------------------------------------------------------------|--------------------------------------------------------------------|
+| David Bradshaw, Professor of Philosophy                     | Anita Superson, Profesor of Philosophy                             |
+| University of Kentucky, 1415 Patterson                 | University of Kentucky, 1433 Patterson                       |
+| [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859.257.7107   | [superson@uky.edu](emailto:superson@uky.edu) / 859.257.4186        |
+|                                                             |                                                                    |
+| Daniel Breazeale, Profesor of Philosophy                    | Clair Budd, Department Chair, Religion and Philosophy                      |
+| University of Kentucky, 1417 Patterson          | Asbury University                 |
+| [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [clair.budd@asbury.edu](emailto:clare.batty@uky.edu) / 859.257.7109. |
+
+### GRADUATE COURSES 
+
+### Ethics
+
+S2016  &nbsp;&nbsp;  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right. Dan Breazeale.  
+F2015 &nbsp;&nbsp;  Metaethics (Dissertation research).    
+S2014 &nbsp;&nbsp;  Seminar on Ethics: Bodily Autonomy. Anita Superson.  
+S2014 &nbsp;&nbsp;  Ethical Naturalism (Independent study). David Bradshaw.      
+F2012 &nbsp;&nbsp;  Ethics from Hobbes to Feminism. Anita Superson.   
+F2015 &nbsp;&nbsp;  Seminar on Metaethics and Motivation. Anita Superson.  
+F2014 &nbsp;&nbsp;  Virtue and After Virtue (Independent study). David Bradshaw.     
+
+### Ancient 
+S2016 &nbsp;&nbsp;  Seminar on the Death of God: Plato's Forms (audit). Eric Sanday  
+S2014 &nbsp;&nbsp;  Seminar on Plato: Philebus and Timaeus. Eric Sanday.    
+S2013 &nbsp;&nbsp;  Seminar on Plato’s Parmenides. Eric Sanday.  
+S2013 &nbsp;&nbsp;  Aristotle and Aristotelians on Mind (Independent study). David Bradshaw.  
+F2012 &nbsp;&nbsp;  Ancient Greek Metaphysics. Eric Sanday.     
+
+### Philosophy of Mind 
+F2013 &nbsp;&nbsp;  Seminar on Mind: Imagination. Clare Batty.   
+S2009 &nbsp;&nbsp;  Philosophy of Mind. JP Moreland.  
+F2012 &nbsp;&nbsp;  Seminar on Kantian Idealism. Stefan Bird-Pollan.    
+
+### Metaphysics, Epistemology, etc.
+F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism. David Bradshaw.  
+S2013 &nbsp;&nbsp;  Philosophy of Religion. David Bradshaw.    
+S2013 &nbsp;&nbsp;  Seminar on Language & Normativity. Tim Sundell.    
+F2013 &nbsp;&nbsp;  Symbolic Logic. Tim Sundell.    
+F2008 &nbsp;&nbsp;  Metaphysics of Substance and Property. JP Moreland.  
+
+
+### LANGUAGES
+Ancient Greek (proficient reading knowledge)  
+Spanish  (fluent speaking knowledge)  
+
+
+### AFFILIATIONS
+American Philosophical Association, 2014-present  
+Society of Orthodox Philosophers in America, 2014-present  
+International Society for MacIntyrean Enquiry, 2015-present 
+
+
+### TEACHING EVALUATIONS
+
+3.6 out of 4, cumulative average in overall teaching quality (University of Kentucky and Asbury University)  
+3.5 out of 4, cumulative average in overall course quality  
+
+
+### DISSERTATION
+*Working Title:* "THE VIRTUE TRIANGLE: PRACTICAL REASON, EXCELLENCE, AND NATURAL TELEOLOGY IN THE RECENT NEO-ARISTOTELIANS"  (Chair: David Bradshaw)
+
+
+\newpage
