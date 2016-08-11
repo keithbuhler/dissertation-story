@@ -9,9 +9,9 @@ title: Buhler Dissertation
 
 
 
-THE VIRTUE TRIANGLE: PRACTICAL REASON AND NATURAL TELEOLOGY IN RECENT NEO-ARISTOTELIAN ETHICS
+THE VIRTUE TRIANGLE: PRACTICAL REASON AND NATURE IN RECENT NEO-ARISTOTELIAN ETHICS
 
-
+      - Nature, Virtue, and Reason: Toward the Foundations of Neo-Aristotelian Virtue Ethics
 
 
 
@@ -62,7 +62,7 @@ ABSTRACT: Neo-Aristotelian virtue ethics has offered a plausible meta-normative 
 
 My dissertation attempts to resolve this internecine dispute and thus render more plausible a normative virtue theory based on neo-Aristotelian ethical naturalism. To this end, I systematically analyze a set of related concepts (nature, virtue, practical reason, and teleology) and defend the role of a naturalized teleology in normative ethics.
 
-In brief, my thesis is that human beings are ‘practical, rational animals’ *and* that therefore human beings *ought to become* practically wise. Practical wisdom (among the other virtues) defines our human life form and is the natural telos to be pursued.  I first argue that the natural organic or biological world includes natural normative facts about what is healthy, unhealthy, desirable, undesirable for organisms. Then, I apply the notion of natural norms to human organisms to uncover natural *human* norms. These human norms include normative facts about virtue and vice. I defend a conception of virtue according to which virtuous traits are rational practices and emotions, and practical reasoning is the process of identifying the good.
+In brief, my thesis is that human beings *ought to become* practically wise because human beings are ‘practical, rational animals’. Practical wisdom (among the other virtues) defines our human life form *and* is the natural telos to be pursued.  I first argue that the natural organic or biological world includes natural normative facts about what is healthy, unhealthy, desirable, undesirable for organisms. Then, I apply the notion of natural norms to human organisms to uncover natural *human* norms. These human norms include normative facts about virtue and vice. I defend a conception of virtue according to which virtuous traits are rational practices and emotions, and practical reasoning is the process of identifying the good.
 
 Hence, my thesis sits at the intersection of both normative virtue ethics and metaethics: it is normative in that it commends a life spent acquiring character and epistemic virtues even in the face of (inevitable) death and (the possibility of) human extinction; it also analyzes normative terms and concepts such as ‘ought’ and ‘naturally good’ and ‘human being’ to find a brute natural normativity consonant with scientific naturalism. On this view of virtue, the definitive criterion by which to judge human beings is our success or failure in acquiring virtues such as moderation and tolerance, and our overall success in the pursuit of the good life for humans. 
 
@@ -249,11 +249,15 @@ I am deeply grateful to Dr. David Bradshaw for being my advisor on this project.
 
 
 
-In Aristotle's day, there was no assumed divide between nature and normativity. John McDowell cites this "anti-dualism" or original unity as one of the benefits of studying Greek thought. Where modern thought is so often characterized by fundamental dualisms (mind/matter, nature/normativity, self/other, science/ethics), the worldview of Aristotle and even Plato could account for distinction without division and union without confusion. 
+In Aristotle's day, there was no assumed divide between nature and normativity. Where modern thought is so often characterized by fundamental dualisms (mind/matter, nature/normativity, self/other, science/ethics), the worldview of Aristotle and even Plato could account for distinction without division and union without confusion. John McDowell cites this "anti-dualism" or original unity as one of the benefits of studying Greek thought. He does not quite go in for the particulars of Greek anti-dualism, because he thinks certain aspects of Aristotle's worldview are outmoded by modern science, but he thinks that studying such a holistic worldview will have a therapeutic effect on our dualistic tendencies.
 
-Ethics is, if nothing else, the domain of the normative. The good and bad, the desirable and despicable, the worthy and unworthy are "fraught with ought." A virtue ethicist is likely to tell the kind of story that indicates the kind of person I *ought* to become or avoid becoming, and the kinds of things *I ought* to pursue (like friendship) or avoid (like ignorance and intolerance). A virtue ethicist is likely to commend certain traits of mind and character as constituting a truly human and truly worthwhile life. Such traits might include wisdom, courage, and patience. Oddly enough, the longer one listens to a virtue ethicist, the less one thinks such traits are *natural*. High ethical aspirations come to sound far-off, perhaps almost other-worldly. 
+Nowhere is the modern addiction to dualisms more clear than in science and ethics. Ethics is, if nothing else, the domain of the normative. The good and bad, the desirable and despicable, the worthy and unworthy are "fraught with ought." Nature, on the other hand, is the domain of the descriptive. And, for many thinkers, never the twain shall meet. 
 
-Nature, on the other hand, is the domain of the descriptive. According to scientific naturalism, nature includes everything that is the case and that can be studied by the sciences. The scientific naturalist cares for what *is the case* above all else, and what can be shown to be the case using the whole suite of methods belonging various scientific disciplines such as physics, chemistry, evolutionary biology, and so on. Observation, empirical hypotheses, and empirical testing are prized above all else. Hence, the scientific naturalist's attitude toward social science research is likely to be ambivalent. People's behavior can be quantified and recorded but people themselves are either too complex or too crazy to be captured in a scientific account quite as neatly as Red Giant stars or oceanic phytoplankton. At best, psychologists, sociologists, and anthropologists can offer interpretations based on extensive observation of human subjects. 
+The dualism between nature and normativity has consequences that are not merely unfortunate but I think disastrous. It forces us to decide between affirming a real but "non-natural" normativity or natural but ultimately unreal normativity -- it forces us to embrace *either* that the natural world described by sciences *or* the moral world described by common sense and (realist) philosophical ethics. This is a damnable dilemma. 
+
+Let me state the issue in a bit more detail. Compare two stories that two philosophers might tell, and how they relate (or fail to relate) to the other story. First, a virtue ethicist is likely to tell the kind of story that indicates the kind of person I *ought* to become or avoid becoming, and the kinds of things *I ought* to pursue (like friendship) or avoid (like ignorance and intolerance). A virtue ethicist is likely to commend certain traits of mind and character as constituting a truly human and truly worthwhile life. Such traits might include wisdom, courage, and patience. Oddly enough, the longer one listens to a virtue ethicist, the less one thinks such traits are *natural*. High ethical aspirations come to sound far-off, perhaps almost other-worldly. Even if we go in for the high calling of becoming virtuous, we wonder what morality has to do with human nature.
+
+Secondly, a scientific naturalist is goingg to tell a story in which that ambiguous word "nature" just means *everything that is the case* -- or perhaps, everything that is the case and that can be studied using the whole suite of methods belonging various scientific disciplines such as physics, chemistry, evolutionary biology, and so on. A scientific naturalist prizes observation, empirical hypotheses, and empirical testing above all else. Hence, the scientific naturalist's attitude toward "human things" is likely to be ambivalent. Sociology, psychology, religion, mythology, literature, anthropology, and history all fall under a kind of vaguely-felt suspicion. When compared to the cold, hard clarity of mathematical nature, humans are embarrassingly warm, soft, and fuzzy. People's behavior can be quantified and recorded but people themselves are either too complex or too crazy to be captured in a scientific account quite as neatly as Red Giant stars or oceanic phytoplankton. At best, psychologists, sociologists, and anthropologists can offer interpretations based on extensive observation of human subjects. 
 
 There is an assumed divide between humans and the rest of nature. Are humans natural? If not, then what are we? If so, then why is it so especially tricky to understand ourselves. 
 
@@ -836,7 +840,7 @@ The hypothesis is that virtues are a specific type of quality belonging to creat
 
 
 
-# Virtue and Vice
+# Virtue and Vice as Natural Excellence and Defect
 
 \setlength{\epigraphwidth}{.95\textwidth}
 \begin{epigraphs}
@@ -902,7 +906,7 @@ The pursuit of virtue, then, is not selfish in the pejorative sense of the word;
 
 Take an example: I would argue that various simple pleasures of life arising from cooking and eating good food, or strolling through natural beauty, chatting with an old friend, are on balance good parts of life. They are not *the* only goods. If they were the only goods, one might go in for those pleasures and those pleasures alone. One might construct one's whole life around them. But having moderation is a good as well. So a person who enjoys both the moderate pleasures of life and the moderation of pleasure and pain is both a better fellow and better person. As Foot argues: “Human beings do not get on well without them. Nobody can get on well if he lacks courage, and does not have some measure of temperance and wisdom, while communities where justice and charity are lacking are apt to be wretched places to live, as Russia was under the Stalinist terror.”[@foot2002virtues 2-3] 
 
-In this connection, we should recall the brief argument above that virtues are intrinsic goods. They are not just traits that *lead to good consequences* for organisms like us (that too). The recent revival of virtue consequentialism defines virtues as instrumental goods useful because they secure other, intrinsic goods.[@hurka2003virtue] Rather, virtues are themselves good for us. Alasdair MacIntyre is careful to distinguish between intrinsic and instrumental goods; he says that virtues "enable their possessor to achieve ... goods" of practices, which might sound as if he means virtues are mere *instruments* to goods.  but they are not *merely* instrumental. They are both instrumental (to the achievement of certain goods) and also *partly constitutive of those goods.* Virtues are both means to an end and also ends in themselves. 
+In this connection, we should recall the brief argument above that virtues are intrinsic goods. They are not just traits that *lead to good consequences* for organisms like us (that too). The recent revival of virtue consequentialism defines virtues as instrumental goods useful because they secure other, intrinsic goods.[@hurka2003virtue] Rather, virtues are themselves good for us. Alasdair MacIntyre is careful to distinguish between intrinsic and instrumental goods; he says that virtues "enable their possessor to achieve ... goods" of practices, which might sound as if he means virtues are mere *instruments* to goods.  but they are not *merely* instrumental. They are both instrumental (to the achievement of certain goods) and also *partly constitutive of those goods.* I end up agreeing with Hurka's later view that virtues have "recursive" value; they are both good as means to (other) intrinsically good ends, and also have some intrinsic goodness in themselves.[@hurka2000virtue chapter 1.] 
 
 To use a well-worn example, it seems pretty uncontroversial to believe that friendship is a good for practical, rational, social animals. Suppose that *having friends* is dependent, in part, on *being friendly*. By 'being friendly' I mean not just being affable but having the traits that make one a good friend: being a good listener, showing genuine concern for others, being happy when a friend's life is going well and being sad when they are suffering. Having such traits is not valuable *merely* because it will lead to the state of affairs "having friends." Rather, it is valuable because those traits make one a good human being. It so happens that, when two people have such traits, they will be good friends to each other. Good humans make good friends. And it is better, on balance, to have those traits whether or not friends are forthcoming. Fortune may place one in a lonely setting: military posts, solitary jobs, and so on. But as Judith Thomson says, a virtue is a trait such that, "whatever else is true of those among whom we live, it is better if they have it."[@thomson1997right] Likewise, Philippa Foot says:  "let us say then, leaving unsolved problems behind us, that virtues are in general beneficial characteristics, and indeed ones that a human being needs to have, for his own sake and that of his fellows."[@foot2002virtues 4] 
 
@@ -1164,7 +1168,7 @@ The solution to several of these problems is to argue that excellent practical r
 
 
 
-# Practical Reasoning
+# Virtue as Successful Practical Reasoning
 
 \setlength{\epigraphwidth}{.95\textwidth}
 \begin{epigraphs}
@@ -1545,7 +1549,7 @@ Hence, the neo-Aristotelian account of practical reason I have been developing n
 \setlength{\epigraphwidth}{.95\textwidth}
 \begin{epigraphs}
 \qitem{The most striking occurrence in the history of thought between Aristotle and ourselves is the rise of modern science.}%
- {---\textsc{John McDowell, \lq\lq Two Sorts of Naturalism \rq\rq 174.}}
+ {---\textsc{John McDowell, \lq\lqTwo Sorts of Naturalism\rq\rq 174.}}
  \centering
  \end{epigraphs}
 
