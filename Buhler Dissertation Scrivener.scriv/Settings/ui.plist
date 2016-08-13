@@ -13,6 +13,8 @@
 	</dict>
 	<key>DisableFileRecoveryOnOpen</key>
 	<true/>
+	<key>MainWindowIsFullScreen</key>
+	<true/>
 	<key>MainWindowShowsFormatBar</key>
 	<false/>
 	<key>QRPanelSettings</key>
@@ -217,18 +219,19 @@
 	<false/>
 	<key>binderSelection</key>
 	<array>
-		<integer>20</integer>
+		<integer>32</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {239, 805}}</string>
-		<string>{{240, 0}, {480, 805}}</string>
+		<string>{{0, 0}, {239, 900}}</string>
+		<string>{{240, 0}, {1200, 900}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
 		<integer>1159</integer>
 		<integer>1187</integer>
 		<integer>1</integer>
+		<integer>266</integer>
 	</array>
 	<key>binderWidth</key>
 	<real>239</real>
@@ -1318,7 +1321,7 @@
 	<false/>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>1</integer>
+		<integer>894</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -1356,22 +1359,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>1178</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>1160</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
@@ -2177,6 +2164,22 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>266</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>894</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.outlinerColumnsState</key>
@@ -2246,7 +2249,9 @@
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {621, 304}}</string>
+	<string>{{0, 0}, {595, 770.80261}}</string>
+	<key>supportingDocumentEditor.selectedRanges</key>
+	<string>{36, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
