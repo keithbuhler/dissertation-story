@@ -1,0 +1,19 @@
+My research centers on contemporary analytic virtue ethics in writers such as Philippa Foot, John McDowell, and Alasdair MacIntyre. Read a paper or two on my [Academia.edu](https://uky.academia.edu/KeithBuhler) profile.
+
+Several recent conversations about virtue have incited broader conversations about the relationship between science and ethics. 
+
+For example, the "situationist challenge" (or "rarity challenge") from Gilbert Harmon and others cites empirical research to argue that people do not act according to settled character traits (as the virtue ethicist would have it) but simply respond willy-nilly to their situation.  (I take Robert Adams' and Micah Lott's responses to the situationist challenge to have adequately responded to this challenge.) 
+
+Another example is the "irrelevance problem" from John McDowell and others. The irrelevance problem is the following dilemma:  if a certain trait is "natural" to human nature in a scientifically respectable sense, as hunting in packs is natural for the wolf, such naturalness is irrelevant to the question of what is ethical or unethical because human beings practically reason about their own nature and act in accord with or against it; if a certain trait is ethically relevant then such ethical relevance is irrespective of scientifically respectable naturalness. 
+
+The irrelevance problem has not yet been adequately solved.  My [dissertation](/phd) works toward solving it by defending the role of a naturalized teleology in ethical naturalism. I argue the metanormative thesis that some norms are "natural" in a manner that is both ethically relevant and a scientifically respectable. 
+
+<a target="_blank" href="http://lsolum.typepad.com/legaltheory/2010/10/philippa-foot-1920-2010.html"> <img src="http://lsolum.typepad.com/.a/6a00d8341bf68d53ef013487f682ad970c-pi" align="right"></a>
+
+In this pursuit, I interact with philosophers such as [Jennifer Frey](https://jennfrey.wordpress.com/), [Micah Lott](http://www.bc.edu/schools/cas/philosophy/faculty/lott.html), [Chris Toner](https://www.stthomas.edu/philosophy/faculty/christopher-h-toner.html), [James Barham](http://www.isnature.org/Bios/Barham.htm), and [Stephen R. Brown](http://old.briarcliff.edu/departments/theology/theo_new/brown.aspx). 
+
+My dissertation director is [David Bradshaw](https://philosophy.as.uky.edu/users/dbradsh) is my dissertation director. [Anita Superson](https://philosophy.as.uky.edu/users/superson), [Dan Breazeale](https://philosophy.as.uky.edu/users/breazeal) and [Mark Kightlinger](http://law.uky.edu/directory/mark-f-kightlinger) also serve as unwavering supporters and indefatigable critics. 
+
+Outside of ethics, I work on physicalism (e.g., the causal closure principle), religion, and naturalism. Future work in ethics will address issues in bioethics and  social justice. 
+
+<p class="hidden"> For example, eyes see, acorns are oak trees, and human beings are practical, rational primates. These normative statements are "bare plurals", Aristotelian categoricals, or "generics". The concept of a 'practically rational primate' is both *what we already are* and *what we ought to become*. Practical wisdom (among the other virtues) defines our human life form and is the natural telos to be pursued.    Hence, my thesis sits at the intersection of both normative virtue ethics and metaethics: it is normative in that it commends a life spent acquiring character and epistemic virtues even in the face of  the possibility of human extinction and the certainty of personal death; it also analyzes normative terms and concepts such as 'ought' and 'naturally good' and 'human being' to find a brute natural normativity consonant with scientific naturalism. </p>

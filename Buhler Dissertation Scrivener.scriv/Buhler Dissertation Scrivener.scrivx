@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Keiths-MacBook-Pro-2" Modified="2016-08-11 17:21:15 -0400" ModID="64D229B7-DA5C-43EF-BD66-8C5CCB04A6D8">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Keiths-MacBook-Pro-2" Modified="2016-08-17 10:51:41 -0400" ModID="6A1F4815-E9CE-4C6F-91ED-06FBCCA52EE6">
     <Binder>
         <BinderItem ID="1159" UUID="0D73750D-099F-46CC-B079-AE3F8AF7A455" Type="Text" Created="2015-06-07 09:24:20 -0400" Modified="2016-06-02 17:38:42 -0400">
             <Title>"Everything has to tell a story"</Title>
@@ -17,6 +17,158 @@
                 <OutlinerExpandedState></OutlinerExpandedState>
             </CorkboardAndOutliner>
             <Children>
+                <BinderItem ID="1197" UUID="9008FAB3-1B49-45F1-B3CB-FE96E527B98D" Type="Text" Created="2016-08-16 11:09:38 -0400" Modified="2016-08-17 10:50:59 -0400">
+                    <Title>5 Practical Reasoning</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>639,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="1200" UUID="37A85D9C-67C5-49E6-A457-F2F3EBDBB4F2" Type="Text" Created="2016-08-16 11:10:39 -0400" Modified="2016-08-16 11:10:46 -0400">
+                            <Title>Introduction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3819,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1201" UUID="EE08D917-DFD5-4479-A327-C60960B2732E" Type="Text" Created="2016-08-16 11:10:51 -0400" Modified="2016-08-16 11:11:14 -0400">
+                            <Title>The Problem</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1212" UUID="F08289B0-6A61-4E3A-AE09-65DC79EEDF28" Type="Text" Created="2016-08-16 16:43:14 -0400" Modified="2016-08-16 16:43:36 -0400">
+                            <Title>A split between prudence and morality</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1198" UUID="513C7F9F-1B05-4F1E-B47F-69CF5D1BC57A" Type="Text" Created="2016-08-16 11:09:56 -0400" Modified="2016-08-16 15:38:14 -0400">
+                            <Title>The Solution in General</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>705,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1199" UUID="473DF391-13AA-444A-B749-CA6B03CC48F8" Type="Text" Created="2016-08-16 11:10:16 -0400" Modified="2016-08-16 14:46:23 -0400">
+                            <Title>McDowell</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>18513,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1205" UUID="8248B8D8-CFC9-4848-A54A-E7504F6B5957" Type="Text" Created="2016-08-16 11:11:57 -0400" Modified="2016-08-16 15:48:28 -0400">
+                            <Title>Willing the Good</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5600,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1203" UUID="2FC64EB6-5733-4570-ADA0-E0FF8D295AEE" Type="Text" Created="2016-08-16 11:11:33 -0400" Modified="2016-08-16 16:44:45 -0400">
+                            <Title>Practical Reasons of various sorts</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>432,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1204" UUID="96060C55-D55F-4091-ACCD-DE5192129958" Type="Text" Created="2016-08-16 11:11:43 -0400" Modified="2016-08-16 16:46:03 -0400">
+                            <Title>A Brief History of the Error</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>367,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1211" UUID="99663494-EE7F-4055-9855-5598FB46B5FD" Type="Text" Created="2016-08-16 15:37:54 -0400" Modified="2016-08-16 15:38:14 -0400">
+                            <Title>The Solution</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>550,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1206" UUID="58E3BAF3-6032-4CF7-83A5-9FE51C582014" Type="Text" Created="2016-08-16 11:12:01 -0400" Modified="2016-08-16 16:50:13 -0400">
+                            <Title>Motivation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4195,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1207" UUID="82A70869-78BD-45FD-8E58-57E270A3231E" Type="Text" Created="2016-08-16 11:12:14 -0400" Modified="2016-08-16 16:52:42 -0400">
+                            <Title>Procedural reasoning?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>10340,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1208" UUID="5C12E47A-A35F-454B-BB36-B0AF0F63A62E" Type="Text" Created="2016-08-16 11:12:21 -0400" Modified="2016-08-17 10:51:41 -0400">
+                            <Title>Conclusion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>214,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1209" UUID="8E4DB799-0C2E-4D8A-82ED-16CAFDB5247C" Type="Text" Created="2016-08-16 11:12:49 -0400" Modified="2016-08-16 16:51:35 -0400">
+                            <Title>Anti-realism</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2956,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1210" UUID="68C3C1A4-4EA6-43D0-892E-A36D1DFB66DF" Type="Text" Created="2016-08-16 12:16:10 -0400" Modified="2016-08-16 14:35:51 -0400">
+                            <Title>Points</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5122,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
                 <BinderItem ID="1195" UUID="75C7365D-5C4E-4C4C-85A4-B191D9619230" Type="Text" Created="2016-05-27 14:49:56 -0400" Modified="2016-07-25 22:41:21 -0400">
                     <Title>7 Traditional reasoning</Title>
                     <MetaData>
@@ -108,7 +260,17 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>15,205</TextSelection>
+                        <TextSelection>219,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1213" UUID="927514AB-DFA7-4777-8656-841BC2FB609B" Type="Text" Created="2016-08-17 10:40:44 -0400" Modified="2016-08-17 10:45:30 -0400">
+                    <Title>Intro/abstract</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>316,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -12362,6 +12524,16 @@ McDowell</Title>
                         <TextSelection>817,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="1202" UUID="4D057A23-09F5-487C-A32E-C268106AFE24" Type="Text" Created="2016-08-16 11:11:16 -0400" Modified="2016-08-16 16:43:13 -0400">
+                    <Title>Moral and Practical reasons</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>122,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="1174" UUID="4ADA3322-CA3C-4B12-ADB1-7860277471B5" Type="Text" Created="2016-06-02 20:44:08 -0400" Modified="2016-06-02 20:44:08 -0400">
@@ -12517,7 +12689,7 @@ McDowell</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-08-12 07:55:13 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-08-17 10:35:51 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
