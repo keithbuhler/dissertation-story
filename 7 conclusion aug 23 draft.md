@@ -1,0 +1,11 @@
+This dissertation has defended the claim that human beings are practical rational primates and hence *ought* to become fully practically wise. 
+
+The potential for wisdom is part of who and what we are. Actualizing that potential is both *natural* (according to the sense of 'natural' I have defended) and *ethically* obligatory. 
+
+As Julia Annas summarizes, non-reductive naturalisms risk trivializing moral or normative facts by implausibly cordoning them within humans: "Non-naturalistic accounts of ethical terms assume that their function, prominently their normativity, is something that arises with humans, or is produced by humans, in a way which owes nothing to the nature which we share with other living things."[@annas2005naturalism 12] That link is supplied by Foot (and Thompson et. al.) As Annas continues: 
+
+>What is so helpful for ethics from this kind of biological naturalism is that we find that the normativity of our ethical discourse is not something which emerges mysteriously with humans and can only be projected back, in an anthropomorphic way, onto trees and their roots. Rather, we find normativity in the realm of living things, plants and animals, already. It is part of the great merit of the work of Philippa Foot and Rosalind Hursthouse to have stressed this point. Like many important philosophical points, it is obvious once pointed out...[@annas2005naturalism]
+
+Virtue ethics is, on my view, a very useful guide to action, in personal life, political life, bioethics,[@beauchamp2001principles] business,[@beadle2015macintyre] and education.[@carr2005virtue] It would be an improvement to almost any area of human life if we were aware of our own vices and worked to expunge them, and if we understood the virtues and pursued them. Yet many obstacles from philosophical and social tradition stand in the way. My dissertation is part of an attempt to remove such obstacles and, in their absence, render not only palatable but desirable a pursuit of virtues. 
+
+Virtue, practical reason, and flourishing are age-old themes. Nevertheless, they are significant themes. Treating them adequately requires more work than I can claim to have done here. As Glaucon said to Socrates, "The measure of listening to such discussions is the whole of life."[@plato *Republic* 450 b.] 

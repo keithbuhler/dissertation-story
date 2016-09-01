@@ -214,15 +214,14 @@
 		<string>Custom</string>
 	</dict>
 	<key>binderIsCollapsed</key>
-	<false/>
+	<true/>
 	<key>binderSelection</key>
 	<array>
-		<integer>19</integer>
+		<integer>20</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {211, 805}}</string>
-		<string>{{212, 0}, {508, 805}}</string>
+		<string>{{0, 0}, {144, 795}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -231,7 +230,7 @@
 		<integer>1187</integer>
 	</array>
 	<key>binderWidth</key>
-	<real>211</real>
+	<real>239</real>
 	<key>closedSuccessfully</key>
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
@@ -949,7 +948,9 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {290.90909, 685.45453}}</string>
+	<string>{{0, 0}, {621, 304}}</string>
+	<key>mainDocumentEditor.selectedItemIDs</key>
+	<array/>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -1018,7 +1019,7 @@
 	<false/>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>1217</integer>
+		<integer>1195</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -1053,7 +1054,7 @@
 	<key>supportingDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>14</integer>
+		<integer>15</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -1182,6 +1183,14 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1195</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.outlinerColumnsState</key>
@@ -1251,7 +1260,9 @@
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{59.949944, 71.196899}, {461.43134, 682.96838}}</string>
+	<string>{{0, 12882.039}, {595, 684.48242}}</string>
+	<key>supportingDocumentEditor.selectedRanges</key>
+	<string>{30844, 110}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Keiths-MacBook-Pro-2" Modified="2016-08-18 16:50:08 -0400" ModID="05A1F53A-30BE-4EE9-8643-C70634A87A23">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Keiths-MacBook-Pro-2" Modified="2016-08-30 17:11:47 -0400" ModID="5C9C3136-2DBB-49D8-B83F-A16CB3A7F444">
     <Binder>
         <BinderItem ID="1159" UUID="0D73750D-099F-46CC-B079-AE3F8AF7A455" Type="Text" Created="2015-06-07 09:24:20 -0400" Modified="2016-06-02 17:38:42 -0400">
             <Title>"Everything has to tell a story"</Title>
@@ -209,14 +209,14 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="1195" UUID="75C7365D-5C4E-4C4C-85A4-B191D9619230" Type="Text" Created="2016-05-27 14:49:56 -0400" Modified="2016-07-25 22:41:21 -0400">
+                <BinderItem ID="1195" UUID="75C7365D-5C4E-4C4C-85A4-B191D9619230" Type="Text" Created="2016-05-27 14:49:56 -0400" Modified="2016-08-30 17:11:46 -0400">
                     <Title>7 Traditional reasoning</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>788,0</TextSelection>
+                        <TextSelection>30844,110</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="1196" UUID="89B66F80-4834-4E6E-A506-393449792082" Type="Text" Created="2016-07-27 16:20:57 -0400" Modified="2016-07-27 16:21:16 -0400">
@@ -12729,7 +12729,7 @@ McDowell</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-08-18 13:22:04 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-08-30 16:39:32 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
