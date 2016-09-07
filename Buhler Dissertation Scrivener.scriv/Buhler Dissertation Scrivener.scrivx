@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Keiths-MacBook-Pro-2" Modified="2016-08-30 17:11:47 -0400" ModID="5C9C3136-2DBB-49D8-B83F-A16CB3A7F444">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Keiths-MacBook-Pro-2" Modified="2016-09-04 03:33:16 -0400" ModID="69FB6B9D-805C-4F58-835E-78CB16A903A3">
     <Binder>
         <BinderItem ID="1159" UUID="0D73750D-099F-46CC-B079-AE3F8AF7A455" Type="Text" Created="2015-06-07 09:24:20 -0400" Modified="2016-06-02 17:38:42 -0400">
             <Title>"Everything has to tell a story"</Title>
@@ -216,7 +216,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>30844,110</TextSelection>
+                        <TextSelection>30840,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="1196" UUID="89B66F80-4834-4E6E-A506-393449792082" Type="Text" Created="2016-07-27 16:20:57 -0400" Modified="2016-07-27 16:21:16 -0400">
@@ -246,7 +246,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>34443,0</TextSelection>
+                                <TextSelection>33805,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="1186" UUID="407545C5-F2AB-47C0-8B7C-BAB5FB90EC62" Type="Text" Created="2016-06-13 17:17:05 -0400" Modified="2016-06-13 17:17:15 -0400">
@@ -7530,6 +7530,16 @@
                 <TextSelection>9131,0</TextSelection>
             </TextSettings>
         </BinderItem>
+        <BinderItem ID="1218" UUID="76568BB4-C2A9-4799-8C70-B730A9A72886" Type="Text" Created="2016-09-03 15:43:36 -0400" Modified="2016-09-03 15:44:24 -0400">
+            <Title>Hacker-Wright, What is natural about Foot's natural goodness</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>133,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
         <BinderItem ID="82" UUID="F18801D7-23FD-40D9-B885-D5E1C4F3794C" Type="Text" Created="2015-05-15 13:41:04 -0400" Modified="2016-05-27 10:30:55 -0400">
             <Title>Now Reading and Researching</Title>
             <MetaData>
@@ -12593,7 +12603,7 @@ McDowell</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">the moral problem</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">telos is to </SearchSettings>
         </Collection>
         <Collection Type="Arbitrary" ID="69E55ED7-2213-4D4B-926B-E167EB17D7F2" Color="0.962712 0.843627 0.714212">
             <Title>Virtue</Title>
@@ -12729,7 +12739,7 @@ McDowell</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-08-30 16:39:32 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-09-04 03:33:11 -0400"></PreviousSession>
     </ProjectTargets>
-    <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

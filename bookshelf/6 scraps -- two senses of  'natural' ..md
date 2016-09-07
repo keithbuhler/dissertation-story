@@ -3,7 +3,9 @@ This chapter amounts to a criticism of McDowell's sort of naturalism and defense
 
 # two senses of  'natural' 
 
-Sometimes people use the word 'natural' in a restricted sense to mean 'not too different or distant from entities we perceive with our senses or study in the hard sciences.' This sense is *restricted* and *dualistic* in that it separates the natural from the 'non-natural', which becomes a catch-all term for anything different or distant from the sensory or empirical. Other times, people use the word 'natural' in an unrestricted sense to mean 'anything real', regardless of how abstract or odd. This sense is *monistic* in that *anything* that is ultimately counted as real, such as natural laws or mathematical entities earns the designation of being natural. Each concept has its defenders, and each has its theoretical attractions and costs. Nevertheless, one must *choose*. McDowell, instead, defends the restricted, dualistic view of nature while insisting that his concept of nature is the unrestricted, monistic one. The result is incoherence. 
+Sometimes people use the word 'natural' in a restricted sense to mean 'not too different or distant from entities we perceive with our senses or study in the hard sciences.' This sense is *restricted* and *dualistic* in that it separates the natural from the 'non-natural', which becomes a catch-all term for anything different or distant from the sensory or empirical. Other times, people use the word 'natural' in an unrestricted sense to mean 'anything real', regardless of how different or distant it seems from the empirical. This sense is *monistic* in that *anything* that is ultimately counted as real, such as natural laws or mathematical entities earns the designation of being natural. 
+
+Each concept has its defenders, and each has its theoretical attractions and costs. Nevertheless, one must *choose*. McDowell, instead, defends the restricted, dualistic view of nature while insisting that his concept of nature is the unrestricted, monistic one. The result is incoherence. 
 
 
 McDowell's concept of science is too restrictive; although he disputes the "philistine scientism" of his opponents, he seems to me to endorse a lighter version of scientism that falls under the same criticisms. He is a scientific realist on one page and anti-realist on another. A third problem is that, even by McDowell's lights, there *do* seem to be primary qualities of nature such as "danger" and "safe" that are relational and actionable like moral qualities such as good and bad. 
@@ -22,3 +24,7 @@ An adequate account must allow for Hesiod's insight: "Vice in abundance is easy 
 
 
 The mere capacity to reflect on our natural inclinations is a "natural power" of human nature. We are practical primates by definition. Or rather, (since no infants have this capacity,) we have the potential to become such with time. 
+
+---
+
+In short, McDowell agrees with non-naturalist realists, naturalistic subjectivists, and moral anti-realists that practical reasons, norms, or instances of natural goodness are not "out there" in the objective world. On the other hand, as we shall see, he shares with Foot an opinion that practical reasons are not supernatural nor merely subjective.
