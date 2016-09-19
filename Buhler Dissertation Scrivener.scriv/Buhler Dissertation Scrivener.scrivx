@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Keiths-MacBook-Pro-2" Modified="2016-09-04 03:33:16 -0400" ModID="69FB6B9D-805C-4F58-835E-78CB16A903A3">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Keiths-MacBook-Pro-2" Modified="2016-09-13 11:04:51 -0400" ModID="845932A0-E3A2-4B65-98FB-C8FBDF7E1019">
     <Binder>
         <BinderItem ID="1159" UUID="0D73750D-099F-46CC-B079-AE3F8AF7A455" Type="Text" Created="2015-06-07 09:24:20 -0400" Modified="2016-06-02 17:38:42 -0400">
             <Title>"Everything has to tell a story"</Title>
@@ -239,14 +239,14 @@
                         <TextSelection>302,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="1185" UUID="7675E43E-DDC2-4ABF-BBF3-8413FA54286E" Type="Text" Created="2016-06-11 18:31:59 -0400" Modified="2016-06-11 18:32:24 -0400">
+                        <BinderItem ID="1185" UUID="7675E43E-DDC2-4ABF-BBF3-8413FA54286E" Type="Text" Created="2016-06-11 18:31:59 -0400" Modified="2016-09-12 19:37:59 -0400">
                             <Title>8.2 </Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>33805,0</TextSelection>
+                                <TextSelection>33805,2</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="1186" UUID="407545C5-F2AB-47C0-8B7C-BAB5FB90EC62" Type="Text" Created="2016-06-13 17:17:05 -0400" Modified="2016-06-13 17:17:15 -0400">
@@ -311,6 +311,16 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>316,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1219" UUID="A707B15C-3FBA-4172-82E2-BDFCFB6AC6C9" Type="Text" Created="2016-09-12 19:38:00 -0400" Modified="2016-09-12 19:38:00 -0400">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -7219,14 +7229,14 @@
                         <TextSelection>2503,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="188" UUID="D9431DEC-F2FB-4777-B758-AEB1667B9994" Type="Text" Created="2015-06-10 12:52:10 -0400" Modified="2016-05-24 22:07:50 -0400">
+                <BinderItem ID="188" UUID="D9431DEC-F2FB-4777-B758-AEB1667B9994" Type="Text" Created="2015-06-10 12:52:10 -0400" Modified="2016-09-12 19:38:57 -0400">
                     <Title>Quotes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1338,0</TextSelection>
+                        <TextSelection>1300,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="773" UUID="0FD18D95-DA35-4BFF-A05F-E299039E6970" Type="Text" Created="2015-12-01 17:27:30 -0500" Modified="2015-12-01 17:27:36 -0500">
@@ -12739,7 +12749,7 @@ McDowell</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-09-04 03:33:11 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-09-13 11:03:58 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
