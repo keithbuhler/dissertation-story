@@ -25,3 +25,11 @@
 \centering
 \end{epigraphs}
 \newline
+
+
+\setlength{\epigraphwidth}{.95\textwidth}
+\begin{epigraphs}
+\qitem{Modern readers will always be prone to misinterpret Aristotle if they read him without first immunizing themselves against the damaging effects of modern philosophy.}%
+{---\textsc{John McDowell \lq\lq Two Sorts of Naturalism,\rq\rq  197.}}
+\centering
+\end{epigraphs}
