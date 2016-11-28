@@ -1,0 +1,13 @@
+# emotion and reason
+
+This distinction between prudence and morality runs through moral psychology and moral motivation as well. For example, on this frame one is naturally inclined to pursue one's own interests and yet morally constrained to do one's duty to others. 
+
+Yet "inclination" is a slippery word. Oddly enough, even writers who accept the familiar frame might be diametrically opposed as to whether one's inclinations, emotions, and sentiments are ultimately selfish and hence whether morality is ultimately rational. Hume associates morality with emotions and prudence with rationality. For Hume, it is "rational" for me to bilk you out of your cash, but my sentiments of guilt and brotherly love prevent me from doing pursuing my self-interest in that way. For Kant, on the other hand, my emotions might incline toward a quick and easy cheat, but the cold, hard rationality of the moral law prevents me from pursuing my self-interest in that way. 
+
+Where they agree is that emotion is not rational. Hursthouse explains this aspect of Kant's moral theory: 
+
+>And there is indeed much in Kant to suggest that, although he shares with Aristotle the view that we have not just one, but two principles of movement, in other respects his philosophical psychology is Humean. He seems committed to the view that our emotions or inclinations are no part of our rationality. They come from the non-rational, animal side of our nature; if they happen to prompt us to act in accordance with the judgements of reason about what ought to be done we are lucky; if they incline us against them we find life difficult, but their prompting us in the right direction is no mark or indication of their rationality. The emotions are not rational in any way.[@hursthouse1998virtue 109]
+
+Both Kant and Hume in this way contrast with the neo-Aristotelian view according to which emotions can be *made rational* by being brought into harmony with rational practice and successful practical reasoning. Taking responsibility to form and shape one's sentiments is therefore part of the struggle to become virtuous. 
+
+The familiar way of framing the distinction between moral and practical reasons also gives rise to two distinct ways of approaching ethics. Is being a moral person the business of resisting one's emotional inclinations in favor of what's "rational" or is it the business of following one's emotional inclinations *against* what is "rational"?

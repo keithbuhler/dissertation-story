@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Keiths-MacBook-Pro-2" Modified="2016-03-03 22:11:33 -0500" ModID="A5A88F52-F8E1-4BA2-B6A7-C5C93F06C95A">
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Keiths-MacBook-Pro-2" Modified="2016-11-26 12:24:02 -0500" ModID="DE01DB3B-9AFD-4017-8FD6-37C33CA38249">
     <Binder>
         <BinderItem ID="899" UUID="8A7FA99C-CAD0-4ECD-BDC0-D5931D172BF4" Type="Text" Created="2016-02-18 18:48:48 -0500" Modified="2016-03-03 13:25:33 -0500">
             <Title>February </Title>
@@ -9426,7 +9426,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-03-03 22:06:07 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-11-26 12:23:54 -0500"></PreviousSession>
     </ProjectTargets>
-    <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

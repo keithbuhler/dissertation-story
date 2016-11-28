@@ -1,0 +1,4 @@
+# two claims in chapter 6
+      The first claim is to reiterate that whether nature refers in an unrestricted way to anything that is, or in a restricted way to only a subset of things such as matter, energy, chemicals, organisms, and their properties, Footian normative naturalism is compatible with both.  
+
+      The second claim is that we can discern the very same formal nature of a thing in two complementary ways; both from "within" the practical point of view of rational reflection and from "outside" such a view, in a more external, objective sense. Both kinds of knowledge lay hold of identical facts. And both kinds of knowledge are broadly scientific, unless we employ an unjustly narrow concept of science that excludes formal disciplines such as mathematics, logic, computer science, and so on. 
