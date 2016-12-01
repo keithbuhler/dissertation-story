@@ -1,7 +1,3 @@
----
-title: Buhler Dissertation Story -- BECOMING WHAT WE ARE -- VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
----
-
 \frontmatter
 \thispagestyle{empty}
 \par\vspace*{.1\textheight}
@@ -19,6 +15,7 @@ BECOMING WHAT WE ARE: VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
 
 
 DISSERTATION  
+
 \line(2,0){200}
 \par\vspace*{.1\textheight}
 
@@ -27,8 +24,12 @@ DISSERTATION
 
 
 
-A dissertation submitted in partial fulfillment     
-of the requirements for the degree of Doctor of Philosophy     
+A dissertation submitted in partial fulfillment    
+
+of the requirements for the degree of Doctor of Philosophy 
+
+in the  College of Arts and Sciences       
+
 at the University of Kentucky     
 
 By 
@@ -51,15 +52,27 @@ Copyright © Keith Buhler 2016
 \newpage
 \thispagestyle{empty}
 
+# Abstract
 
-ABSTRACT: This dissertation is about ethical naturalism. I defend and bolster Philippa Foot’s sort of neo-Aristotelian ethical naturalism against that of John McDowell. Foot and McDowell are united in the affirmation that virtue is ‘natural goodness’ for human beings. They are also united in endorsing scientific naturalism. Nevertheless, they are divided in their rival conceptions of ‘nature.’ McDowell distinguishes “second nature” or the “space of reasons” from “first nature” or the “realm of law.” Foot rejects this division. Even though human practical reasoning is unique in the biological world, she argues that natural goodness is a just as much a feature of “first nature” as life and health. The human goods of excellent practical reasoning and virtuous living are of a piece with other natural goods such as health and well-functioning. I defend Foot’s view by appealing to “generic propositions,” a little-utilized feature of linguistic theory. Generic life forms and organic functions are just as scientifically respectable as other naturalistic concepts. I then argue that human beings are best understood as practical, rational primates. It follows that the ethical and rational norms defining a good human life are a subset of natural norms which can be known as such from an “external” scientific point of view as well as from an “internal” ethical point of view. In short, I argue that virtue and practical wisdom are natural ends for human beings. All of us ought to pursue them because of who and what we are, despite varying abilities and life circumstances. I then go beyond Foot’s view to articulate neo-Aristotelian accounts of virtue and practical reason. While the normative force of my thesis is clear, I aim to secure its naturalistic credentials by examining three influential conceptions of ‘nature.’ I criticize McDowell’s conception, and show how my view is consistent with either of the remaining two. I call my view “recursive naturalism,” for practical reason- ing, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning.
+\begin{singlespace}
+
+ABSTRACT: This dissertation is about ethical naturalism. I defend and bolster Philippa Foot’s sort of neo-Aristotelian ethical naturalism against that of John McDowell. 
+
+Foot and McDowell are united in the affirmation that virtue is ‘natural goodness’ for human beings. They are also united in endorsing scientific naturalism. Nevertheless, they are divided in their rival conceptions of ‘nature.’ McDowell distinguishes “second nature” or the “space of reasons” from “first nature” or the “realm of law.” Foot rejects this division. Even though human practical reasoning is unique in the biological world, she argues that natural goodness is a just as much a feature of “first nature” as life and health. The human goods of excellent practical reasoning and virtuous living are of a piece with other natural goods such as health and well-functioning. 
+
+I defend Foot’s view by appealing to “generic propositions,” a little-utilized feature of linguistic theory. Generic life forms and organic functions are just as scientifically respectable as other naturalistic concepts. I then argue that human beings are best understood as practical, rational primates. It follows that the ethical and rational norms defining a good human life are a subset of natural norms which can be known as such from an “external” scientific point of view as well as from an “internal” ethical point of view. In short, I argue that virtue and practical wisdom are natural ends for human beings. All of us ought to pursue them because of who and what we are, despite varying abilities and life circumstances. 
+
+I then go beyond Foot’s view to articulate neo-Aristotelian accounts of virtue and practical reason. While the normative force of my thesis is clear, I aim to secure its naturalistic credentials by examining three influential conceptions of ‘nature.’ I criticize McDowell’s conception, and show how my view is consistent with either of the remaining two. 
+
+I call my view “recursive naturalism,” for practical reasoning, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning.
 
 
 
 \par
 
-*KEYWORDS*: ethical naturalism, neo-Aristotelianism, virtue, practical wisdom, nature, natural ends
+*KEYWORDS* : ethical naturalism, neo-Aristotelianism, virtue, practical wisdom, nature, natural ends
 
+\end{singlespace}
 
 
 
@@ -117,8 +130,6 @@ Dr. Dan Breazeale
 Dr. Mark Kightlinger
 
 
-28 November 2016
-
 \line(1,0){150}
 
 
@@ -171,22 +182,15 @@ For Lindsay Elizabeth.
 
 
 
-
-
-
-
-
-
-
-\newpage
+# Acknowledgments
 \thispagestyle{empty}
+
 \begin{center}
-
-
 
 ACKNOWLEDGMENTS
 
 \end{center}
+
 
 I am sincerely grateful to Dr. David Bradshaw for being my advisor on this project. He was not only a professor but a model of virtue and practical wisdom. I am also grateful for the early encouragement of friends and family members such as Kristi Buhler, who first taught me to dream big, and John Mark Reynolds, who first told me I was a philosopher. Alfred Geier, whom students have characterized as "Zeus in human form," mentored me in philosophical dialogue, while Gary Hartenburg's invaluable feedback helped me transition into graduate school. Timothy Sundell first pushed me toward serious research in metaethics, and Anita Superson helped with early and tough criticism of my project. I am especially grateful to Stefan Bird-Pollan and Dan Breazeale  for saving the day and serving on my committee last minute. Once I began writing in earnest, Lindsay Buhler was the first to read and edit each chapter. Even before a chapter was written, she played the role of Socratic midwife, testing each new idea to see if it was viable or only a "wind egg." Michael Garten was the last to read and edit each chapter, providing incisive objections I can only hope I have adequately overcome. Great strides in the construction of this dissertation would have been impossible without the very practical help of a few others: Dan Sheffler trained me, like his father trained him, in the ways of formatting in Markdown and LaTeX. Also, the University of Kentucky Graduate School hosted a writing boot camp to help folks like me to write intensively for two weeks. Eric Peterson was not only a fellow companion in graduate school but a friend and source of encouragement. Finally, the United Way of the Blue Grass generously donated tuition dollars, books, and the laptop computer on which I wrote this dissertation.  These people, and more whom I forgot to name, helped bring this project to fruition. My late father, Dr. Rich Buhler, received two honorary doctorates for his work in radio. I recently found out that he told others (when I had just started college) that he suspected I would be his first child to receive an earned doctorate. I was happy to learn this; I am even happier now to justify his suspicion. 
 
@@ -204,6 +208,19 @@ I am sincerely grateful to Dr. David Bradshaw for being my advisor on this proje
 
 
 
+
+
+
+
+
+\newpage
+\thispagestyle{empty}
+\tableofcontents
+\thispagestyle{empty}
+
+
+
+
 \newpage
 \thispagestyle{empty}
 \par\vspace*{.3\textheight}
@@ -216,29 +233,17 @@ I am sincerely grateful to Dr. David Bradshaw for being my advisor on this proje
 
 
 
-
-
-
-
-
-\newpage
-\thispagestyle{empty}
-\tableofcontents
-\thispagestyle{empty}
-
 \newpage
 \thispagestyle{empty}
 
-\LARGE
-\textbf{Preface}
-\normalsize
+\noindent\textbf{Preface}\newline
 
 \setlength{\epigraphwidth}{.95\textwidth}
 \begin{epigraphs}
 \qitem{It is all very well to talk of clarity, but when it becomes an obsession it is liable to nip the living thought in the bud.}%
 {---\textsc{Friedrich Waismann, \begin{em} How I See Philosophy \end{em}, 16.}}
 \centering
-\end{epigraphs}
+\end{epigraphs}\newline
 
 
 I went down to graduate school with a decade-long resolution to write on Plato's later dialectic. My resolution was challenged by Philippa Foot's  *Natural Goodness*. The astonishment I felt when first reading her work  can only be compared to my first encounters with the Platonic dialogues: confusion, tempered with delight. 
@@ -519,7 +524,7 @@ There is much to be learned about the linguistic features of generics, but none 
 
 These unexplored frontiers represent fascinating puzzles but do not render generics unsuitable for use in normative and ethical arguments. Nor should the presence of outstanding questions lead one to believe generic propositions are confusing or confused. Rather, their normal acquisition and usage is very familiar, and perhaps inevitable. 
 
-Generic truths are acquired via a normal scientific means of empirical observation, rational reflection, and discussion. This familiar process is certainly revisable. For example, an ethologist who discovers a wolf hunting along may have a normative expectation that the wolf is not healthy. But she cannot know certainly in advance that this is so. She must test the hypothesis. A few reasonable interpretations are available: perhaps the lone wolf is unhealthy; perhaps the initial generic that 'wolves hunt in packs' was false; or perhaps this wolf is actually a new species of wolf. As it happens, in the case of wolves, no known species of wolf hunts alone so there is very strong reason to conclude that a lone wolf is rabid. But the point more generally is that generics are acquired and modified by a familiar, if complicated, process of scientific reasoning. Michael Thompson points out that: there is a "general and thoroughgoing reciprocal mutual interdependence of vital description of the individual and natural historical judgment about the form or kind."[@thompson2004apprehending 52] Put differently, Micah Lott says:
+Generic truths are acquired via a normal scientific means of empirical observation, rational reflection, and discussion. This familiar process is certainly revisable. For example, an ethologist who discovers a wolf hunting alone may have a normative expectation that the wolf is not healthy. But she cannot know certainly in advance that this is so. She must test the hypothesis. A few reasonable interpretations are available: perhaps the lone wolf is unhealthy; perhaps the initial generic that 'wolves hunt in packs' was false; or perhaps this wolf is actually a new species of wolf. As it happens, in the case of wolves, no known species of wolf hunts alone so there is very strong reason to conclude that a lone wolf is rabid. But the point more generally is that generics are acquired and modified by a familiar, if complicated, process of scientific reasoning. Michael Thompson points out that: there is a "general and thoroughgoing reciprocal mutual interdependence of vital description of the individual and natural historical judgment about the form or kind."[@thompson2004apprehending 52] Put differently, Micah Lott says:
 
 >At each stage of an empirical investigation, our observations are mediated by our current understanding of the life form whose members we are observing. At the same time, our observations of those individual members will in turn improve our understanding of the life form itself, which then makes possible even more accurate and extensive future observations.[@lott2012moral 414]
 
@@ -1866,16 +1871,12 @@ Virtue, practical reason, and nature are age-old themes which demand more work t
 
 
 
-
 \backmatter
 
 
-# Back Matter
+# Bibliography
 
-
-## Bibliography
-
-
+**Bibliography**
 
 Andreou, Chrisoula. “Getting on in a Varied World.” _Social Theory and Practice_, vol.32, no. 1 (2006): 61–73.
 
@@ -2219,7 +2220,8 @@ Zammito, John. “Teleology Then and Now: The Question of Kant’s Relevance for
 \newpage
 
 
-## Curriculum Vitae
+# Curriculum Vitae
+
 
 
 \begin{center}
@@ -2227,6 +2229,7 @@ Zammito, John. “Teleology Then and Now: The Question of Kant’s Relevance for
 Keith Buhler
 \normalsize
 
+Curriculum Vitae 2016 
 
 Department of Philosophy   
 
@@ -2234,91 +2237,63 @@ University of Kentucky
 
 Lexington, KY 40506  
 
-keith.buhler@uky.edu   
-
-keithbuhler.com    
-
-562.230.2920  
-
-
 \end{center}
 
 
 
-### EDUCATION
+\noindent EDUCATION
+  
+1. M.A.&nbsp; Philosophy, University of Kentucky, 2014
+2. M.A.&nbsp; Orthodox Theology, University of Balamand, 2012
+3. B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004
 
-M.A.&nbsp; Philosophy, University of Kentucky, 2014     
-M.A.&nbsp; Applied Orthodox Theology, University of Lebanon, 2012         
-B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004\newline
+\noindent EMPLOYMENT
 
+1. Postdoctoral Lecturer, University of Kentucky  Spring 2017
+2. Instructor of Philosophy, Asbury University, 2013-2017  
 
-### EMPLOYMENT
+\noindent RESEARCH
 
-Postdoctoral Lecturer, University of Kentucky,  Spring 2017      
-Instructor of Philosophy, Asbury University, 2013-2017     
-Graduate Teaching Assistant, University of Kentucky, 2012-2016   
-
-### AREA OF SPECIALIZATION 
-Ethics 
-
-### AREAS OF COMPETENCE
-Philosophy of Mind, Ancient Philosophy, and Philosophy of Religion  
+\noindent  Specialization: Ethics    
+\noindent Competence: Philosophy of Mind, Ancient Philosophy, and Philosophy of Religion  
 
 
-
-
-
-### TEACHING (COLLEGE)
+\noindent  UNIVERSITY TEACHING
 
 1. Business Ethics                  (Fall 2016, UK)
-2. Health Care Ethics               (Spring 2015 and Fall 2016, UK)
-3. Introduction to Philosophy       (2013-2014, UK)
+2. Health Care Ethics               (Spring 2015, Fall 2016, UK)
+3. Introduction to Philosophy       (2013-2014, UK, 2014-2017 Asbury)
 4. Introduction to Ethics           (Fall 2013, UK)
 5. Introduction to Logic            (Spring 2013) 
 6. Philosophy of Religion           (Summer 2016, Asbury)
 7. Philosophy of C.S. Lewis         (Fall 2016, Asbury)
 8. Virtue Ethics, Ancient and Modern (Spring 2016, Asbury)
-9. Introduction to Philosophy       (2014-2017, Asbury)
-10. Philosophy of Science           (as TA, summer 2004, Biola University)
+10. Introduction to Logic            (Spring 2013) 
+10. Introduction to Logic           (Fall 2012, UK, under Bob Sandmeyer)
+11. Philosophy of Science           (summer 2004, Biola University, under Nancy Pearcey)
 
 
 
-### TEACHING (SECONDARY SCHOOL)
+\noindent SECONDARY SCHOOL TEACHING
 
-11. Introduction to Philosophy (online course, Freedom Project Academy, 2017)
+12. Introduction to Philosophy (online course, Freedom Project Academy, 2017)
 12. Humanities: 20th Century British Thought (Veritas Academy, KY 2013)
 13. Philosophy: Plato on Being and Knowing (Torrey Academy, CA 2011)
-14. Philosophy: Traditional Logic  (Torrey Academy, CA 2009-2010)
-15. Humanities: Foundations of American Thought  (Torrey Academy, CA 2009-2012)
-16. Humanities: Ancient and Medieval Thought  (Torrey Academy, CA 2008-2012)
-17. Humanities: 20th Century British Thought  (Torrey Academy, CA 2007-2012)
+14. Philosophy: Traditional Logic  (Torrey Academy, 2009-2010)
+15. Humanities: Foundations of American Thought  (Torrey Academy, 2009-2012)
+16. Humanities: Ancient and Medieval Thought  (Torrey Academy, 2008-2012)
+17. Humanities: 20th Century British Thought  (Torrey Academy, 2007-2012)
 18. Philosophy: Great Books Tutor, GATE Program (Willow School of Long Beach, CA 2001-2002)
 19. ESL Tutor  (Etum Academy, CA 2010-2012)
 20. ESL Teacher (Biola University Abroad, Ulaambatar, Mongolia, 2001) 
 
 
 
-### DISSERTATION
-Title: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends*      
-Comittee: David Bradshaw (Chair), Dan Breazeale, Stefan Bird-Pollan, Mark Kightlinger    
-
-Abstract: 
-Philippa Foot and John McDowell are united in the affirmation that virtue is 'natural goodness' for human beings. They are also united in endorsing scientific naturalism.  Nevertheless, they are divided in their rival conceptions of 'nature.' 
-
-This dissertation defends and advances upon Foot's view of natural goodness by appealing to "generic propositions," a little-utilized feature of linguistic theory. Generic life forms and organic functions are just as scientifically respectable as other naturalistic concepts. Human beings are best understood as practical, rational primates. It follows that the ethical and rational norms defining a good human life are a subset of natural norms which can be known as such from an "external" scientific point of view as well as from an "internal" ethical point of view. 
-
-I articulate neo-Aristotelian accounts of virtue and practical reason according to which all practical, rational animals necessarily pursue the (perceived) good and avoid (perceived) evil that is internal to their life form. In short, virtue and practical wisdom are natural ends for human beings. We are practical rational animals capable of reasoning, so we ought to become practically wise, despite varying abilities and life circumstances. The life of virtue is the life spent becoming what we are. 
-
-While the normative force of my view is clear, I secure its naturalistic credentials by examining three influential conceptions of 'nature.' I criticize McDowell's conception, and show how my view is consistent with either of the remaining two. I call my view "recursive naturalism," for practical reasoning, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning. 
-
-### WORKS IN PROGRESS
-
-1. "Organic Naturalism: Teleological Realism in the Foundation of Ethics" (submitted for initial review)
-2. "The Case for Agnosticism about Causal Closure" (submitted for initial review)  
 
 
 
-### PRESENTATIONS
+
+\noindent PRESENTATIONS
 
 1. "Natural Teleology without Theology in Thomas Nagel's *Mind and Cosmos*" Society of Christian Philosophers, University of San Diego, 2016.
 2. "Fairy Tale Nihilism: The Empty Hero in *Kung Fu Panda* and *The Great and Powerful Oz*,”  Faith and Film Conference, Baylor University, 2014.
@@ -2328,7 +2303,7 @@ While the normative force of my view is clear, I secure its naturalistic credent
 6. "Virtue and Imaginative Resistance,” South Carolina Society of Philosophers, University of South Carolina, 2014.
 
 
-### COMMMENTS AND SERVICE
+\noindent COMMMENTS AND SERVICE
 
 1. Comments on David Skowronski's "Inductive Reasoning in Naturalism and Supernaturalism." Society of Christian Philosophers, University of San Diego, 2016.
 3. Session Chair, Ian Ramsey Centre Conference, Oxford University, 2014.
@@ -2339,7 +2314,15 @@ While the normative force of my view is clear, I secure its naturalistic credent
 
 
 
-### ACADEMIC LEADERSHIP
+\noindent AWARDS AND HONORS
+
+1. Travel Funding, University of Kentucky Philosophy Department (2014, 2015, 2016)
+2. Travel Funding, University of Kentucky Graduate School (2014)
+3. Teaching Assistantship, University of Kentucky (2012-2016)  
+4. Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2014)
+
+\noindent ADMINISTRATION AND LEADERSHIP
+
 1. Director of High School Studies (Veritas Academy, 2013-2014)
 2. Master Tutor (Torrey Academy, 2010-2012)
 3. Lecturer (Wheatstone Academy, 2006-2011)
@@ -2347,7 +2330,7 @@ While the normative force of my view is clear, I secure its naturalistic credent
 
 
 
-### INVITED PUBLIC TALKS
+\noindent INVITED PUBLIC TALKS
 
 1. "Morality: Rule-following or New Life?," Wesleyan Society, Lexington KY, 2014.
 2. "Reading Great Books in Classical Education," Veritas Academy, Lexington KY, 2013.
@@ -2358,77 +2341,80 @@ While the normative force of my view is clear, I secure its naturalistic credent
 6. "The Art of Conversation: Conversation with Art," Wheatstone Academy, La Habra, CA 2011.
 5. "Goodness, Truth, and Beauty," St. George Church, CA 2010.
 7. "The Virtue of Constancy," Hope Academy, Yorba Linda, CA 2009.
-8. "Life Experience as a Text: Learning From Initiatives," Biola University, CA 2007.
+8. "Life Experience as a Text: Learning From Initiatives," Biola University, CA 2007.\newline
 
 
 
 
+\noindent GRADUATE COURSEWORK 
+
+\noindent (Professional Development Courses, University of Kentucky)
+
+1. Proseminar on Teaching Philosophy, David Bradshaw.
+2. Preparing Future Faculty, Morris Grubbs.
+
+(Philosophy Courses, University of Kentucky)  
+
+3. Seminar on Post-Kantian Ethics: Fichte and Hegel on Right. Dan Breazeale.
+4. Seminar on Metaethics: Moral Motivation. Anita Superson. 
+5. Seminar on Ethics and Bodily Autonomy. Anita Superson. 
+6. Seminar on Metaethics: Normative Language. Tim Sundell. 
+7. Metaethics (Dissertation residency). David Bradshaw.
+8. Ethical Naturalism (Independent study). David Bradshaw.
+9. MacIntyre and After Virtue (Independent study). David Bradshaw.
+10. Ethics from Hobbes to Feminism. Anita Superson. 
+11. Seminar on Plato's Forms and the Death of Gods (audit). Eric Sanday
+12. Seminar on Plato's *Philebus* and Timaeus. Eric Sanday.
+13. Seminar on Plato’s *Parmenides*. Eric Sanday.
+14. Aristotle and Aristotelians on Mind (Independent study). David Bradshaw.
+15. Ancient Greek Metaphysics. Eric Sanday. 
+16. Seminar on Mind and Imagination. Clare Batty. 
+17. Seminar on Kantian Idealism. Stefan Bird-Pollan.
+18. Seminar on Metaphysical Naturalism. David Bradshaw. 
+19. Philosophy of Religion. David Bradshaw.
+20. Symbolic Logic. Tim Sundell.
 
 
+(Taken at Biola University)   
 
-### GRADUATE COURSEWORK 
-
-### Taken at University of Kentucky
-
-Seminar on Post-Kantian Ethics: Fichte and Hegel on Right. Dan Breazeale.  
-Seminar on Metaethics: Moral Motivation. Anita Superson.     
-Seminar on Ethics and Bodily Autonomy. Anita Superson.   
-Seminar on Metaethics: Normative Language. Tim Sundell.   
-Metaethics (Dissertation residency). David Bradshaw.    
-Ethical Naturalism (Independent study). David Bradshaw.    
-MacIntyre and After Virtue (Independent study). David Bradshaw.    
-Ethics from Hobbes to Feminism. Anita Superson.     
-Seminar on Plato's Forms and the Death of Gods (audit). Eric Sanday  
-Seminar on Plato's *Philebus* and Timaeus. Eric Sanday.   
-Seminar on Plato’s *Parmenides*. Eric Sanday.  
-Aristotle and Aristotelians on Mind (Independent study). David Bradshaw.  
-Ancient Greek Metaphysics. Eric Sanday.     
-Seminar on Mind and Imagination. Clare Batty.    
-Seminar on Kantian Idealism. Stefan Bird-Pollan.   
-Seminar on Metaphysical Naturalism. David Bradshaw.   
-Philosophy of Religion. David Bradshaw.   
-Symbolic Logic. Tim Sundell.
+21. Philosophy of Mind. JP Moreland. 
+22. Metaphysics of Substance and Property. JP Moreland.
+23. Philosophy of Cosmology and Quantum Physics.  John Bloom. \newline
 
 
-### Taken at Biola University 
-Philosophy of Mind. JP Moreland.   
-Metaphysics of Substance and Property. JP Moreland.   
-Philosophy of Cosmology and Quantum Physics.  John Bloom.  
+\noindent LANGUAGES
 
-### Professional Development Courses
-Proseminar on Teaching Philosophy, David Bradshaw.  
-Preparing Future Faculty, Morris Grubbs.\newline  
+\noindent Ancient Greek (proficient)    
+Spanish       (fluent)    
+HTML, CSS, and LaTex (basic)    \newline
 
+\noindent AFFILIATIONS
 
+1. Society of Medieval and Renaissance Philosophy, 2012-present   
+2. American Philosophical Association, 2014-present   
+3. Society of Orthodox Philosophers in America, 2014-present   
+4. International Society for MacIntyrean Enquiry, 2015-present   
+5. National Association of Scholars, 2016-present   \newline   
 
+\noindent REFERENCES
 
+\noindent David Bradshaw, Professor of Philosophy    
+University of Kentucky, 1415 Patterson. [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859-257-7107\newline
 
+\noindent Dan Breazeale, Professor of Philosophy    
+University of Kentucky, 1417 Patterson. [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859-257-4376  \newline
 
-### LANGUAGES
-Reading proficiency in Ancient Greek  
-Speaking fluency in Spanish    
-Basic HTML, CSS, and LaTex  
+\noindent Stefan Bird-Pollan, Associate Professor of Philosophy    
+University of Kentucky, 1421 Patterson. stefanbirdpollan@uky.edu / 859-257-7107  \newline
 
-### AFFILIATIONS
-Torrey Honors Institute (Academic Honors Society) 2004-present      
-Society of Medieval and Renaissance Philosophy, 2013-present      
-American Philosophical Association, 2014-present   
-Society of Orthodox Philosophers in America, 2014-present  
-International Society for MacIntyrean Enquiry, 2015-present       
+\noindent Brandon Look, Research Professor of Philosophy     
+University of Kentucky, 1415 Patterson. look@uky.edu / 859-257-1862    \newline
 
+\noindent John Reynolds, President, The Saint Constantine School     
+6000 Dale Carnegie Lane Houston, TX. [jmnreynolds@saintconstantine.org](emailto:jmnreynolds@saintconstantine.org) / 832-975-7075   \newline  
 
-
-
-### REFERENCES
-|                                                            |                                                                   |
-|-------------------------------------------------------------|--------------------------------------------------------------------|
-| David Bradshaw, Professor of Philosophy                     | John Reynolds, President, The Saint Constantine School                             |
-| University of Kentucky, 1415 Patterson.                 | 6000 Dale Carnegie Lane Houston, TX.                       |
-|  [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859.257.7107   | [jmnreynolds@saintconstantine.org](emailto:jmnreynolds@saintconstantine.org) / 832.975.7075        |
-|                                                             |                                                                    |
-| Dan Breazeale, Professor of Philosophy                    | Chris Bounds, Chair, Philosophy and Religion                      |
-| University of Kentucky, 1417 Patterson.          | Asbury University, One Macklem Drive, Wilmore KY.                 |
-| [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859.257.7109. |
+\noindent Chris Bounds, Chair, Philosophy and Religion    
+Asbury University, One Macklem Drive, Wilmore KY. [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859-858-3511  \newline
 
 
 \newpage
