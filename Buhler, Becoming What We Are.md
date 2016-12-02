@@ -5,7 +5,9 @@
 
 
 
-BECOMING WHAT WE ARE: VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
+BECOMING WHAT WE ARE:    
+
+VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
 
 
 
@@ -53,27 +55,40 @@ Copyright © Keith Buhler 2016
 \thispagestyle{empty}
 
 # Abstract
+\thispagestyle{empty}
+
+
+\begin{center}
+
+ABSTRACT OF DISSERTATION 
+
+BECOMING WHAT WE ARE: VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
+
+\end{center}
 
 \begin{singlespace}
 
-ABSTRACT: This dissertation is about ethical naturalism. I defend and bolster Philippa Foot’s sort of neo-Aristotelian ethical naturalism against that of John McDowell. 
+This dissertation is about ethical naturalism. I defend and bolster Philippa Foot’s sort of neo-Aristotelian ethical naturalism against that of John McDowell. 
 
 Foot and McDowell are united in the affirmation that virtue is ‘natural goodness’ for human beings. They are also united in endorsing scientific naturalism. Nevertheless, they are divided in their rival conceptions of ‘nature.’ McDowell distinguishes “second nature” or the “space of reasons” from “first nature” or the “realm of law.” Foot rejects this division. Even though human practical reasoning is unique in the biological world, she argues that natural goodness is a just as much a feature of “first nature” as life and health. The human goods of excellent practical reasoning and virtuous living are of a piece with other natural goods such as health and well-functioning. 
 
-I defend Foot’s view by appealing to “generic propositions,” a little-utilized feature of linguistic theory. Generic life forms and organic functions are just as scientifically respectable as other naturalistic concepts. I then argue that human beings are best understood as practical, rational primates. It follows that the ethical and rational norms defining a good human life are a subset of natural norms which can be known as such from an “external” scientific point of view as well as from an “internal” ethical point of view. In short, I argue that virtue and practical wisdom are natural ends for human beings. All of us ought to pursue them because of who and what we are, despite varying abilities and life circumstances. 
+I defend Foot’s view by appealing to “generic propositions,” a little-utilized feature of linguistic theory. Generic life forms and organic functions are just as scientifically respectable as other naturalistic concepts. I then argue that human beings are best understood as practical, rational primates. It follows that the ethical and rational norms defining a good human life are a subset of natural norms which can be known as such from an “external” scientific point of view as well as from an “internal” ethical point of view. In short, despite varying abilities and life circumstances, all of us ought to pursue virtue and practical wisdom because of who and what we are. Virtue and practical wisdom are natural ends. 
 
-I then go beyond Foot’s view to articulate neo-Aristotelian accounts of virtue and practical reason. While the normative force of my thesis is clear, I aim to secure its naturalistic credentials by examining three influential conceptions of ‘nature.’ I criticize McDowell’s conception, and show how my view is consistent with either of the remaining two. 
+Going beyond Foot’s view, I articulate novel neo-Aristotelian accounts of virtue and practical reason. While the normative force of my thesis is clear, I aim to secure its naturalistic credentials by examining three influential conceptions of ‘nature.’ I criticize McDowell’s conception, and show how my view is consistent with either of the remaining two. 
 
-I call my view “recursive naturalism,” for practical reasoning, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning.
+The resulting view is called “recursive naturalism” for practical reasoning, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning.\newline
 
-
-
-\par
-
-*KEYWORDS* : ethical naturalism, neo-Aristotelianism, virtue, practical wisdom, nature, natural ends
+KEYWORDS : ethical naturalism, neo-Aristotelianism, virtue, practical wisdom, nature, natural ends
 
 \end{singlespace}
 
+\begin{flushright}
+
+\line(1,0){200}
+
+Signature
+
+\end{flushright}
 
 
 
@@ -90,48 +105,37 @@ I call my view “recursive naturalism,” for practical reasoning, which is nat
 \thispagestyle{empty}
 \begin{center}
 
-
+\par\vspace{.5\textheight}
 
 
 BECOMING WHAT WE ARE: VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
 
 
+
 \par\vspace{.1\textheight}
+
 By
-
-
-
 
 Keith Buhler
 
 \end{center}
 
-\par\vspace{.2\textheight}
+\par\vspace{.5\textheight}
+
 \begin{flushright}
 
 \line(1,0){150}
 
-Dr. David Bradshaw
-
-
-\line(1,0){150}
-
-
-Dr. Stefan Bird-Pollan
+Dissertation Director
 
 \line(1,0){150}
 
 
-Dr. Dan Breazeale
+Director of Graduate Studies
 
 \line(1,0){150}
 
-
-Dr. Mark Kightlinger
-
-
-\line(1,0){150}
-
+Date
 
 \end{flushright}
 
@@ -192,9 +196,12 @@ ACKNOWLEDGMENTS
 \end{center}
 
 
+\begin{singlespace}
+
 I am sincerely grateful to Dr. David Bradshaw for being my advisor on this project. He was not only a professor but a model of virtue and practical wisdom. I am also grateful for the early encouragement of friends and family members such as Kristi Buhler, who first taught me to dream big, and John Mark Reynolds, who first told me I was a philosopher. Alfred Geier, whom students have characterized as "Zeus in human form," mentored me in philosophical dialogue, while Gary Hartenburg's invaluable feedback helped me transition into graduate school. Timothy Sundell first pushed me toward serious research in metaethics, and Anita Superson helped with early and tough criticism of my project. I am especially grateful to Stefan Bird-Pollan and Dan Breazeale  for saving the day and serving on my committee last minute. Once I began writing in earnest, Lindsay Buhler was the first to read and edit each chapter. Even before a chapter was written, she played the role of Socratic midwife, testing each new idea to see if it was viable or only a "wind egg." Michael Garten was the last to read and edit each chapter, providing incisive objections I can only hope I have adequately overcome. Great strides in the construction of this dissertation would have been impossible without the very practical help of a few others: Dan Sheffler trained me, like his father trained him, in the ways of formatting in Markdown and LaTeX. Also, the University of Kentucky Graduate School hosted a writing boot camp to help folks like me to write intensively for two weeks. Eric Peterson was not only a fellow companion in graduate school but a friend and source of encouragement. Finally, the United Way of the Blue Grass generously donated tuition dollars, books, and the laptop computer on which I wrote this dissertation.  These people, and more whom I forgot to name, helped bring this project to fruition. My late father, Dr. Rich Buhler, received two honorary doctorates for his work in radio. I recently found out that he told others (when I had just started college) that he suspected I would be his first child to receive an earned doctorate. I was happy to learn this; I am even happier now to justify his suspicion. 
 
 
+\end{singlespace}
 
 
 
@@ -215,9 +222,14 @@ I am sincerely grateful to Dr. David Bradshaw for being my advisor on this proje
 
 \newpage
 \thispagestyle{empty}
+
+\begin{singlespace}
+
 \tableofcontents
+
 \thispagestyle{empty}
 
+\end{singlespace}
 
 
 
@@ -233,17 +245,23 @@ I am sincerely grateful to Dr. David Bradshaw for being my advisor on this proje
 
 
 
-\newpage
-\thispagestyle{empty}
+# Preface
 
-\noindent\textbf{Preface}\newline
+
+\begin{bf}
+
+Preface
+
+\end{bf}
+
+
 
 \setlength{\epigraphwidth}{.95\textwidth}
 \begin{epigraphs}
 \qitem{It is all very well to talk of clarity, but when it becomes an obsession it is liable to nip the living thought in the bud.}%
 {---\textsc{Friedrich Waismann, \begin{em} How I See Philosophy \end{em}, 16.}}
 \centering
-\end{epigraphs}\newline
+\end{epigraphs}
 
 
 I went down to graduate school with a decade-long resolution to write on Plato's later dialectic. My resolution was challenged by Philippa Foot's  *Natural Goodness*. The astonishment I felt when first reading her work  can only be compared to my first encounters with the Platonic dialogues: confusion, tempered with delight. 
@@ -267,7 +285,7 @@ Though my research focus changed, there remains one respect in which these chapt
 
 \mainmatter
 
-# The Many Sorts of Naturalism
+# Many Sorts of Naturalism
 
 \setlength{\epigraphwidth}{.95\textwidth}
 \begin{epigraphs}
@@ -341,7 +359,7 @@ Social naturalism is the view that normativity and teleology are intrinsic to *h
 
 Organic naturalism, by contrast, is the view that normativity is intrinsic to *organic nature*.  On this alternative, natural properties such as being alive or being healthy are objectively normative, even prior to human evaluation.  Michael Thompson, James Barham, Jennifer Frey, the later MacIntyre, and others are organic naturalists.[For a detailed exposition of the full menu of philosophical options, see @perlman2004teleology. And for particular defenses of natural normativity in the philosophy of science and the philosophy of biology, see: @arnhart1988; @johnson2005; @huneman2006naturalising; @leunissen2010explanation. ] They argue that simply *to be alive* is to possess a natural good; to be healthy is to possess a natural good. Accordingly, death or extinction, sickness or injury would be natural evils. Plants, bacteria, and humans are similar in that thriving involves performing whatever movements are necessary for the organism to survive, develop into species-specific maturity, and reproduce. Organic naturalism insists that the complex biological system on earth cannot be exhaustively and scientifically described without normative concepts and terms. 
 
-McDowell is, by my lights, a social naturalist.[^87] He argues that we are naturally social creatures who can speak, reason, and engage in intentional action by "second nature"[^13] or "the space of reasons."[^14] McDowell's social naturalism grounds ethics in "second nature"  -- human reasoning and all that comes with it. I call his view 'social naturalism' because he also argues that rationality is essentially social; we learn our first language and initial inventory of concepts and beliefs from our family, culture, and education. In this way, McDowell aims to afford a place for norms and reasons in "nature" while still excluding a non-natural realm of divinity or platonic forms. The strength of social naturalism is that it captures the commonsense insight that human beings live in societies and create their own goals.  We not only act but act *on reasons*. The cost of social naturalism, as I shall explain throughout these chapters, is an incorrigible cultural relativism and an undesirable nature/human dualism. \newline
+McDowell is, by my lights, a social naturalist.[^87] He argues that we are naturally social creatures who can speak, reason, and engage in intentional action by "second nature"[^13] or "the space of reasons."[^14] McDowell's social naturalism grounds ethics in "second nature"  -- human reasoning and all that comes with it. I call his view 'social naturalism' because he also argues that rationality is essentially social; we learn our first language and initial inventory of concepts and beliefs from our family, culture, and education. In this way, McDowell aims to afford a place for norms and reasons in "nature" while still excluding a non-natural realm of divinity or platonic forms. The strength of social naturalism is that it captures the commonsense insight that human beings live in societies and create their own goals.  We not only act but act *on reasons*. The cost of social naturalism, as I shall explain throughout these chapters, is an incorrigible cultural relativism and an undesirable nature/human dualism.\newline
 \indent Foot is an organic naturalist. Rationality is unique to humans but is not fundamentally discontinuous with "first nature." The strength of organic naturalism is that it offers a more unified account of humanity's place within nature and promises a firm ground for the objectivity of morality. The cost of organic naturalism seems to be a picture of nature at odds with the scientific picture. For organic naturalism, the question is: Are "natural norms" natural objects like other natural objects? And how do we identify them -- through normal scientific methods or not? \newline
 \indent Even for a moral naturalist, there are a variety of sorts of naturalism on offer. The proper way to understand the debate between Foot's organic naturalism and McDowell's social naturalism is as a negotiation for the conceptual rights to the label 'ethical naturalism' without falling into either bald naturalism or non-naturalism. In what follows, I attempt to move this negotiation forward. I draw primarily on overlapping themes in the writings of Foot, McDowell, Hursthouse, and Alasdair MacIntyre and interact with other sources as needed: from historical sources (Aristotle, Aquinas, Hume), to other ethicists (Bernard Williams, Allan Gibbard) to other neo-Aristotelians (Jennifer Frey, Micah Lott, Chris Toner, James Barham, and Stephen R. Brown). \newline
 \indent My argument is that organic naturalism is more plausible than social naturalism. I make this case by offering interlocking accounts of virtue, practical reason, human nature, and nature in general. My case is intended to be faithful to Foot's view against McDowell's, but I also aim to extend her view. I hope to show that an account can be given of each theme that is plausible in its own right and even more plausible considered as a whole. 
@@ -1860,7 +1878,7 @@ In spite of these admitted shortcomings, my project has been to establish that h
 
 First, it is always dangerous to do moral philosophy *without* considering the theories of other times, places, and cultures, for we are liable to overemphasize pet virtues (or ignore pet vices) peculiar to our time and place. Neo-Aristotelianism draws on the ethical writings of other cultures and other times and so promises to correct lopsided ethical developments in our own time. 
 
-Secondly, neo-Aristotelian ethical naturalism provides a satisfying possible answer to the problem of the relation between nature and reason. It pictures facts and norms as an organic whole, presented to us by the world and studied by all the sciences, including formal or abstract sciences. It even suggests that Aristotle was right to classify ethics as a different sort of science with its own subject matter, its own standards, and its own aims.^[Cf. “For a well schooled man searches for that degree of precision in each kind of study which the nature of the subject at hand admits: is obviously just as foolish to accept arguments of probability from a mathematician has to demand strict demonstrations from an orator.” @aristotle Book I.3] 
+Secondly, neo-Aristotelian ethical naturalism provides a satisfying possible answer to the problem of the relation between nature and reason. It pictures facts and norms as an organic whole, presented to us by the world and studied by all the sciences, including formal or abstract sciences. It even suggests that Aristotle was right to classify ethics as a different sort of science with its own subject matter, its own standards, and its own aims.^[Cf. “For a well schooled man searches for that degree of precision in each kind of study which the nature of the subject at hand admits: is obviously just as foolish to accept arguments of probability from a mathematician has to demand strict demonstrations from an orator.” Aristotle, *Nicomachean Ethics*, Book I.3] 
 
 Neither subsuming ethics under (merely descriptive) disciplines nor subsuming descriptive disciplines into normative categories, neo-Aristotelian theory holds great promise for coordinating the descriptive and normative dimensions of ethics, biology, and other sciences. Perhaps this is part of the explanation why the Footian sort of neo-Aristotelian virtue ethics is rightly enjoying a renaissance in contemporary analytic ethics and beyond. In my view, it is both perfectly compatible with the modern scientific worldview and also useful in political life, bioethics,[@beauchamp2001principles] business,[@beadle2015macintyre] education,[@carr2005virtue] and everyday life. It would be an improvement to almost any area of human life if we were aware of our own vices and worked to expunge them, and if we understood the virtues and pursued them. 
 
@@ -2254,8 +2272,8 @@ Lexington, KY 40506
 
 \noindent RESEARCH
 
-\noindent  Specialization: Ethics    
-\noindent Competence: Philosophy of Mind, Ancient Philosophy, and Philosophy of Religion  
+1. Specialization: Ethics 
+2. Competence: Philosophy of Mind, Ancient Philosophy, and Philosophy of Religion
 
 
 \noindent  UNIVERSITY TEACHING
@@ -2384,37 +2402,26 @@ Lexington, KY 40506
 
 \noindent LANGUAGES
 
-\noindent Ancient Greek (proficient)    
-Spanish       (fluent)    
-HTML, CSS, and LaTex (basic)    \newline
+1. Ancient Greek (proficient)
+2. Spanish       (fluent)
+3. HTML, CSS, and LaTex (basic)
 
 \noindent AFFILIATIONS
 
-1. Society of Medieval and Renaissance Philosophy, 2012-present   
-2. American Philosophical Association, 2014-present   
-3. Society of Orthodox Philosophers in America, 2014-present   
-4. International Society for MacIntyrean Enquiry, 2015-present   
-5. National Association of Scholars, 2016-present   \newline   
+1. Society of Medieval and Renaissance Philosophy, 2012-present
+2. American Philosophical Association, 2014-present
+3. Society of Orthodox Philosophers in America, 2014-present
+4. International Society for MacIntyrean Enquiry, 2015-present
+5. National Association of Scholars, 2016-present   \newline
 
 \noindent REFERENCES
 
-\noindent David Bradshaw, Professor of Philosophy    
-University of Kentucky, 1415 Patterson. [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859-257-7107\newline
-
-\noindent Dan Breazeale, Professor of Philosophy    
-University of Kentucky, 1417 Patterson. [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859-257-4376  \newline
-
-\noindent Stefan Bird-Pollan, Associate Professor of Philosophy    
-University of Kentucky, 1421 Patterson. stefanbirdpollan@uky.edu / 859-257-7107  \newline
-
-\noindent Brandon Look, Research Professor of Philosophy     
-University of Kentucky, 1415 Patterson. look@uky.edu / 859-257-1862    \newline
-
-\noindent John Reynolds, President, The Saint Constantine School     
-6000 Dale Carnegie Lane Houston, TX. [jmnreynolds@saintconstantine.org](emailto:jmnreynolds@saintconstantine.org) / 832-975-7075   \newline  
-
-\noindent Chris Bounds, Chair, Philosophy and Religion    
-Asbury University, One Macklem Drive, Wilmore KY. [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859-858-3511  \newline
+1. David Bradshaw, Professor of Philosophy, University of Kentucky, 1415 Patterson. [dbradsh@uky.edu](emailto:dbradsh@uky.edu). 859-257-7107
+2. Dan Breazeale, Professor of Philosophy, University of Kentucky, 1417 Patterson. [breazeal@uky.edu](emailto:breazeal@uky.edu). 859-257-4376
+3. Stefan Bird-Pollan, Associate Professor of Philosophy, University of Kentucky, 1421 Patterson. stefanbirdpollan@uky.edu. 859-257-7107
+4. Brandon Look, Research Professor of Philosophy, University of Kentucky, 1415 Patterson. look@uky.edu. 859-257-1862
+5. John Reynolds, President, The Saint Constantine School, 6000 Dale Carnegie Lane Houston, TX. [jmnreynolds@saintconstantine.org](emailto:jmnreynolds@saintconstantine.org). 832-975-7075   
+6. Chris Bounds, Chair, Philosophy and Religion, Asbury University, One Macklem Drive, Wilmore KY. [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu). 859-858-3511 
 
 
 \newpage
