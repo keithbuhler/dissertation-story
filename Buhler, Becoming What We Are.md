@@ -38,8 +38,6 @@ By
     
 Keith Buhler
 
-Lexington, Kentucky
-
 Director: Dr. David Bradshaw, Professor of Philosophy
 
 Lexington Kentucky
@@ -54,40 +52,37 @@ Copyright © Keith Buhler 2016
 \newpage
 \thispagestyle{empty}
 
-# Abstract
-\thispagestyle{empty}
-
 
 \begin{center}
 
 ABSTRACT OF DISSERTATION 
 
-BECOMING WHAT WE ARE: VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
 
 \end{center}
 
 \begin{singlespace}
 
-This dissertation is about ethical naturalism. Philippa Foot and John McDowell are united in the affirmation that virtue is ‘natural goodness’ for human beings. Nevertheless, they are divided in their rival conceptions of ‘nature.’ McDowell distinguishes second nature or the "space of reasons" from first nature or the “realm of law.” Foot rejects this division. 
+This dissertation is about ethical naturalism. Philippa Foot and John McDowell both defend contemporary neo-Aristotelian ethics but each represents a rival expression of the same. They are united in the affirmation that virtue is ‘natural goodness’ for human beings; they are divided in their rival conceptions of ‘nature.’ McDowell distinguishes second nature or the "space of reasons" from first nature or the “realm of law.” Foot rejects this division.
 
-On Foot's 'organic naturalism' natural goodness is a just as much a feature of first nature as health is, even though human practical reasoning is unique in the biological world. I defend Foot’s view by appealing to “generic propositions,” a little-utilized feature of linguistic theory. Life forms and functions described in generic statements are intrinsically normative and yet just as scientifically respectable as other naturalistic concepts. Hence, the generic proposition that "humans are practical, rational primates" has both descriptive and normative content. It follows that the ethical and rational norms defining a good human life are a subset of natural norms which can be known as such from an “external” scientific point of view as well as from an “internal” ethical point of view. 
 
-Going beyond Foot’s views, I present a new interlocking neo-Aristotelian account of virtue and practical reason. Virtues are excellences of practical reasoning and natural practice. Virtues enable and partly constitute a good life for human beings. Practical reasoning is the ability to pursue perceived goods and avoid perceived evils in every action. Practical wisdom, which is excellence in practical reasoning, is the master virtue that enables one to succeed in becoming truly human, despite varying abilities and life circumstances. In short, all of us ought to pursue virtue and practical wisdom because of who and what we are; virtue and practical wisdom are natural ends. 
+On Foot's naturalism, natural goodness is a just as much a feature of first nature as health is, even though human practical reasoning is unique in the biological world. I defend Foot’s view by appealing to “generic propositions,” a little-utilized feature of linguistic theory. Life forms and functions described in generic statements are intrinsically normative and yet just as scientifically respectable as other naturalistic concepts. Hence, the generic proposition that "humans are practical, rational primates" has both descriptive and normative content. It follows that the ethical and rational norms defining a good human life are a subset of natural norms which can be known as such from an “external” scientific point of view as well as from an “internal” ethical point of view. 
 
-I aim to secure the naturalistic credentials of my view by examining three influential conceptions of ‘nature,’ criticizing McDowell's conception and showing how my view is consistent with the remaining two. The resulting view is called 'recursive naturalism' because nature recurs within nature when natural beings reason about nature, about themselves, and about their own reasoning.\newline
+Going beyond Foot’s views, I present a new interlocking neo-Aristotelian account of virtue and practical reason. Virtues are excellences of practical reasoning and rational practice. Virtues enable and partly constitute a good life for human beings. Practical reasoning is the ability to pursue perceived goods and avoid perceived evils in every action. Practical wisdom, which is excellence in practical reasoning, is the master virtue that enables one to succeed in becoming truly human, despite varying abilities and life circumstances. In short, all of us ought to pursue virtue and practical wisdom because of what we are; virtue and practical wisdom are natural ends. 
 
-KEYWORDS : ethical naturalism, neo-Aristotelianism, virtue, practical wisdom, natural law, natural ends
+I aim to secure the naturalistic credentials of my view by examining three influential conceptions of ‘nature,’ criticizing McDowell's conception and showing how my view is consistent with the remaining two. The resulting view is called 'recursive naturalism' because nature recurs within nature when natural beings reason about nature, about themselves, and about their own reasoning. \newline
+
+KEYWORDS: ethical naturalism, neo-Aristotelianism, virtue, practical wisdom, natural law, natural ends
 
 \end{singlespace}
 
 \begin{flushright}
 
-\line(1,0){200}
+\underline{\hspace{.5in}Keith Buhler\hspace{.5in}}
 
-Signature
+\underline{\hspace{.3in}December 4, 2016 \hspace{.3in}}
+
 
 \end{flushright}
-
 
 
 
@@ -101,16 +96,21 @@ Signature
 
 \newpage
 \thispagestyle{empty}
+
+
+\hfill \break
+\hfill \break
+\hfill \break
+
 \begin{center}
 
-\par\vspace{.5\textheight}
+BECOMING WHAT WE ARE: 
+
+VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
 
 
-BECOMING WHAT WE ARE: VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
 
-
-
-\par\vspace{.1\textheight}
+\par\vspace{.05\textheight}
 
 By
 
@@ -118,24 +118,31 @@ Keith Buhler
 
 \end{center}
 
-\par\vspace{.5\textheight}
+\begin{singlespace}
+
+\par\vspace{.2\textheight}
 
 \begin{flushright}
 
-\line(1,0){150}
+\underline{{\hspace{.4in}} Dr. David Bradshaw \hspace{.4in}}
 
 Dissertation Director
 
-\line(1,0){150}
+\hfill \break
+
+\underline{{\hspace{.5in}} Dr. Clare Batty {\hspace{.6in}}}
+
+Director of Graduate Studies 
 
 
-Director of Graduate Studies
+\hfill \break
 
-\line(1,0){150}
+\underline{{\hspace{.6in}}December 4, 2016{\hspace{.4in}}}
 
-Date
 
 \end{flushright}
+
+\end{singlespace}
 
 
 
@@ -185,6 +192,7 @@ For Lindsay Elizabeth.
 
 
 # Acknowledgments
+
 \thispagestyle{empty}
 
 \begin{center}
@@ -199,33 +207,18 @@ ACKNOWLEDGMENTS
 I am sincerely grateful to Dr. David Bradshaw for being my advisor on this project. He was not only a professor but a model of virtue and practical wisdom. I am also grateful for the early encouragement of friends and family members such as Kristi Buhler, who first taught me to dream big, and John Mark Reynolds, who first told me I was a philosopher. Alfred Geier, whom students have characterized as "Zeus in human form," mentored me in philosophical dialogue, while Gary Hartenburg's invaluable feedback helped me transition into graduate school. Timothy Sundell first pushed me toward serious research in metaethics, and Anita Superson helped with early and tough criticism of my project. I am especially grateful to Stefan Bird-Pollan and Dan Breazeale  for saving the day and serving on my committee last minute. Once I began writing in earnest, Lindsay Buhler was the first to read and edit each chapter. Even before a chapter was written, she played the role of Socratic midwife, testing each new idea to see if it was viable or only a "wind egg." Michael Garten was the last to read and edit each chapter, providing incisive objections I can only hope I have adequately overcome. Great strides in the construction of this dissertation would have been impossible without the very practical help of a few others: Dan Sheffler trained me, like his father trained him, in the ways of formatting in Markdown and LaTeX. Also, the University of Kentucky Graduate School hosted a writing boot camp to help folks like me to write intensively for two weeks. Eric Peterson was not only a fellow companion in graduate school but a friend and source of encouragement. Finally, the United Way of the Blue Grass generously donated tuition dollars, books, and the laptop computer on which I wrote this dissertation.  These people, and more whom I forgot to name, helped bring this project to fruition. My late father, Dr. Rich Buhler, received two honorary doctorates for his work in radio. I recently found out that he told others (when I had just started college) that he suspected I would be his first child to receive an earned doctorate. I was happy to learn this; I am even happier now to justify his suspicion. 
 
 
-\end{singlespace}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \newpage
 \thispagestyle{empty}
 
-\begin{singlespace}
 
-\tableofcontents
+
+\begin{Table of Contents\par \tableofcontents}
+\end
 
 \thispagestyle{empty}
+
+\addcontentsline{toc}{chapter}{Table of Contents}
 
 \end{singlespace}
 
@@ -241,47 +234,12 @@ I am sincerely grateful to Dr. David Bradshaw for being my advisor on this proje
 \centering
 \end{epigraphs}
 
-
-
-# Preface
-
-
-\begin{bf}
-
-Preface
-
-\end{bf}
-
-
-
-\setlength{\epigraphwidth}{.95\textwidth}
-\begin{epigraphs}
-\qitem{It is all very well to talk of clarity, but when it becomes an obsession it is liable to nip the living thought in the bud.}%
-{---\textsc{Friedrich Waismann, \begin{em} How I See Philosophy \end{em}, 16.}}
-\centering
-\end{epigraphs}
-
-
-I went down to graduate school with a decade-long resolution to write on Plato's later dialectic. My resolution was challenged by Philippa Foot's  *Natural Goodness*. The astonishment I felt when first reading her work  can only be compared to my first encounters with the Platonic dialogues: confusion, tempered with delight. 
-
-
-*Natural Goodness* is one of the rare philosophical monographs that manages to be a work of art. One reviewer warned that it is "so gracefully written that the reader runs the risk of... mistaking the book’s fluidity for shallowness. In fact, the depth... is remarkable."[@sadler2004review] Indeed, it is a delight to read for its elegance and pugnacity, but it is a duty to read for its wisdom and profundity. Building on her prior work in virtue theory, Foot blends metaethics and normative ethics by laying the foundation for what Mark Murphy calls a "secular natural law theory."[@sepnaturallaw]  She argues that living virtuously and wisely is natural goodness for human beings just as hunting in packs is natural goodness for wolves.
-
-The obvious objection to such a thesis is that it inappropriately blends facts and values, that it either "biologizes" ethics or "enchants" science.  This obvious objection (which Foot tackles head on in her monograph) rests on the common notion that nature and science are entirely distinct from values and ethics. This objection is a serious one. But it is more likely to be leveled reflexively by someone who has not wrestled with Foot's argument. John Hacker-Wright is correct to say that "Foot's recent readers have made some rather serious missteps in approaching her work."[@hacker2009natural 321] 
-
-Receiving an initial "cool reception"[@hacker2009natural 309] is not an infallible sign of a classic, but it is one tell-tale sign. It is plain from the literature that too few ethicists and metaethicists have come to grips with the precise details and wide-ranging implications of her argument. For example, James Barham suggests that Foot's *Natural Goodness* and Rosalind Hursthouse's *On Virtue Ethics* are making the same case, but that Hursthouse's "account is the clearer and more detailed of the two."[@sepmoralnaturalism. He says, "Neo-Aristotelian naturalism is articulated at length and along mutually similar lines in two recent monographs, Foot's *Natural Goodness* and Hursthouse's *On Virtue Ethics*."] This comparison is misleading on two fronts. 
-
-First, even though both books are successful in their aims, they have very different aims. Hursthouse's book is intended to render modern virtue ethics conventional; Foot's book is intended to disrupt a hundred years of metaethical convention.[@foot2001natural 5: "For better or worse—and many will say worse—I have in this book the overt aim of setting out a view of moral judgement very different from that of most moral philosophers writing today."] Hursthouse offers an olive branch to deontologists and utilitarians, trading in her formerly combative rhetoric for mutual respect so that iron may sharpen iron. Foot (like Anscombe and MacIntyre) calls into question much of what has passed for modern moral philosophy, naming names and picking fights. 
-
-Secondly, the relative clarity of the two books fits their aims. Hursthouse's overview of virtue ethics is aimed at non-expert graduate and undergraduate students. It therefore exhibits some of the necessary, though unfortunate, style of textbooks: comprehensive, responsible, and occasionally plodding. Foot's "fresh start"[@foot2001natural 5]  is aimed at professional ethicists. It is therefore more comparable to a Platonic dialogue or Humean treatise: Foot plays the Socratic gadfly to the experts with "a swaggering gait and roving eye."   Her book is "crude"[@foot2001natural 1] because it is what Waismann calls a "living thought," digging deep into the soil of our presuppositions. *On Virtue Ethics* is a thoroughly respectable book, but  *Natural Goodness* makes one proud to be a philosopher. 
-
-Happily, some ethicists *have* come to grips with the significance of Foot's case, such as John McDowell and Alasdair MacIntyre. MacIntyre's eventual position begins to look similar to Foot's position, for he defends the importance of human biology to human ethics in his most recent ethical monograph more than he did in *After Virtue*.[@macintyre1999dependent]   By contrast, McDowell's opposition to scientism leads him to disagree with Foot. 
-
-McDowell's and Foot's respective approaches to neo-Aristotelian ethical naturalism represent rival visions of the relation between human beings and nature and hence between ethics and science. The fault line between these rival views is of enormous philosophical and ethical significance. The fault line between these views is the theme of this dissertation. 
-
-Though my research focus changed, there remains one respect in which these chapters might be seen as fulfilling my original resolution to study Plato's later dialectic -- not by examination but by enactment. That is, I aim to construct the argument as a sort of dialogue between author and reader. I take my primary audience to be readers who share (with Foot) an attraction to moral realism about virtue but who share (with McDowell) a commitment to modern science. In order to persuade this kind of audience that the two are not incompatible, I aim to assume nothing they would not assume, and to address first the objections that might arise in their minds.I would have written differently for a different implied audience, but every dialogue must have a limited scope and a definite voice.  For this reason, I have bracketed worthy discussions of supernaturalism and non-naturalism. If my study of the Platonic dialectic has taught me nothing else, it is that one must not only *understand* one's interlocutors but in some sense *become* them.  
-
 \mainmatter
+
+
+
+
+
 
 # Many Sorts of Naturalism
 
@@ -292,6 +250,8 @@ Though my research focus changed, there remains one respect in which these chapt
 \centering
 \end{epigraphs}
 
+
+## Nature and Ethics
 
 This dissertation is about ethical naturalism. But what is 'naturalism'? There is no consensus as to the meaning of the term. Should we then simply stipulate a meaning and move on? I do not think we should. Almost a century ago, Roy Wood Sellars said it well: "Questions of terminology are less superficial than is often supposed. Precision in terminology usually accompanies clear thinking, and is at once its condition and effect."[@sellars1927naturalism.] Sellars is one of many other philosophers over the last hundred years to have taken pains to clarify the difference between his view -- naturalism -- and materialism. Why? Is there any point in labeling any view, much less an ethical view, as "naturalistic"? 
 
@@ -312,7 +272,6 @@ An equal and opposite pitfall would be that ethics might encroach on science. Wh
 There are two main ethical alternatives to naturalism that follow the safer course of accepting the fundamental divide between science and ethics. The first alternative is ethical *non-naturalism*,  classically articulated by G. E. Moore and (more recently) by Russ Shafer-Landau.[@moore; @shafer2003moralrealism] Non-naturalist views argue that (even if moral facts are *realized* by natural facts) moral facts are neither identical to natural facts nor fully reducible to natural facts.  Accordingly, philosophers such as Moore and Shafer-Landau conclude that moral philosophy proceeds independently of the methods of "natural philosophy" (i.e., the natural sciences). Non-naturalism allows one to embrace "robust realism" about morality and practical reasoning.^[Jay Wallace explains robust realism as the "idea that there are facts of the matter about what we have reason to do that are prior to and independent of our deliberations, to which those deliberations are ultimately answerable... [such facts constitute] an objective body of normative truths. @seppracticalreason, section 2. Wallace cites Parfit (2011) and Scanlon (2014).] 
 
 The second alternative -- equally safe for scientific naturalists -- is to reject robust realism.  This alternative encompasses a variety of quite different views, such as as error theory, expressivism, subjectivism, moral nihilism, and perhaps others. The underlying motivation for denying robust realism is the perceived incompatibility of robust ethical realism with the modern scientific worldview. This is evident in anti-realism's main defenders. For example, John Mackie admits that "the main tradition of European moral philosophy” accepts objective values but argues that modern science has overthrown all that. Likewise, Simon Blackburn commends anti-realism because it asks "no more of the world than we already know is there -- the ordinary features of things on the basis of which we make decisions about them, like or dislike them, fear them and avoid them, desire them and seek them out. It asks no more than this: a natural world, and patterns of reaction to it."[@blackburn1985spreading] And Jay Wallace explains that expressivism offers a "naturalistic interpretation of practical reason... that may seem appropriate to the enlightened commitments of the modern scientific world view... it makes no commitment to the objective existence in the world of such allegedly questionable entities as values, norms, or reasons for action."[@seppracticalreason] 
-
 
 
 ## Neo-Aristotelian Ethical Naturalism
@@ -337,13 +296,29 @@ Secondly, the question of whether metaethics and normative ethics are even separ
 
 Rosalind Hursthouse, Alasdair MacIntyre, Philippa Foot, and John McDowell are other good examples of philosophers who think that metaethics and substantive ethics are not ultimately separable. I follow them in this.  My thesis will commend the acquisition of character and epistemic virtues *and* will analyze normative terms in a way consonant with a plausible version of scientific naturalism. 
 
-I think these brief comments are sufficient to demonstrate three truths about neo-Aristotelianism: (a) it is avowedly ambitious and unapologetically unsettling; (b) it faces titanic opposition on terminological and academic grounds no less than philosophical ones; and thus, (c) it is a significant theory in normative ethics and beyond.
+I think these brief comments are sufficient to demonstrate three truths about neo-Aristotelianism: (a) it is avowedly ambitious and equally unsettling; (b) it faces titanic opposition on terminological and academic grounds no less than philosophical ones; and thus, (c) it is a significant theory in normative ethics and beyond.
 
-The remainder of this introduction outlines the specific debate between John McDowell and Philippa Foot and summarizes the conclusions I shall defend. 
+The remainder of this introduction explains why I focus more on Foot's *Natural Goodness* rather than Hursthouse's *On Virtue Ethics*, and provides an initial characterization of the contrast between Foot's and McDowell's rival sorts of ethical naturalism. 
+
+## On Natural Goodness and Virtue Ethics
+
+Philippa Foot's *Natural Goodness* is one of the rare philosophical monographs that manages to be a work of art. One reviewer warned that it is "so gracefully written that the reader runs the risk of... mistaking the book’s fluidity for shallowness. In fact, the depth... is remarkable."[@sadler2004review] Indeed, it is a delight to read for its elegance and pugnacity, but it is a duty to read for its wisdom and profundity. Building on her prior work in virtue theory, Foot blends metaethics and normative ethics by laying the foundation for what Mark Murphy calls a "secular natural law theory."[@sepnaturallaw]  She argues that living virtuously and wisely is natural goodness for human beings just as hunting in packs is natural goodness for wolves.
+
+The obvious objection to such a thesis is that it inappropriately blends facts and values, that it either "biologizes" ethics or "enchants" science.  This obvious objection (which Foot tackles head on in her monograph) rests on the common notion that nature and science are entirely distinct from values and ethics. This objection is a serious one. But it is more likely to be leveled reflexively by someone who has not wrestled with Foot's argument. John Hacker-Wright is correct to say that "Foot's recent readers have made some rather serious missteps in approaching her work."[@hacker2009natural 321] 
+
+Receiving an initial "cool reception"[@hacker2009natural 309] is not an infallible sign of a classic, but it is one tell-tale sign. It is plain from the literature that too few ethicists and metaethicists have come to grips with the precise details and wide-ranging implications of her argument. For example, James Barham suggests that Foot's *Natural Goodness* and Rosalind Hursthouse's *On Virtue Ethics* are making the same case, but that Hursthouse's "account is the clearer and more detailed of the two."[@sepmoralnaturalism. He says, "Neo-Aristotelian naturalism is articulated at length and along mutually similar lines in two recent monographs, Foot's *Natural Goodness* and Hursthouse's *On Virtue Ethics*."] This comparison is misleading on two fronts. 
+
+First, even though both books are successful in their aims, they have very different aims. Hursthouse's book is intended to render modern virtue ethics conventional; Foot's book is intended to disrupt a hundred years of metaethical convention.[@foot2001natural 5: "For better or worse—and many will say worse—I have in this book the overt aim of setting out a view of moral judgement very different from that of most moral philosophers writing today."] Hursthouse offers an olive branch to deontologists and utilitarians, trading in her formerly combative rhetoric for mutual respect so that iron may sharpen iron. Foot (like Anscombe and MacIntyre) calls into question much of what has passed for modern moral philosophy, naming names and picking fights. 
+
+Secondly, the relative clarity of the two books fits their aims. Hursthouse's overview of virtue ethics is aimed at non-expert graduate and undergraduate students. It therefore exhibits some of the necessary, though unfortunate, style of textbooks: comprehensive, responsible, and occasionally plodding. Foot's "fresh start"[@foot2001natural 5]  is aimed at professional ethicists. It is therefore more comparable to a Platonic dialogue or Humean treatise: Foot plays the Socratic gadfly to the experts with "a swaggering gait and roving eye."   Her book is "crude"[@foot2001natural 1] because it is what Waismann calls a "living thought," digging deep into the soil of our presuppositions. *On Virtue Ethics* is a thoroughly respectable book, but  *Natural Goodness* makes one proud to be a philosopher. 
+
+Happily, some ethicists *have* come to grips with the significance of Foot's case. For example, MacIntyre's eventual position begins to look similar to Foot's position, for he defends the importance of human biology to human ethics in his most recent ethical monograph more than he did in *After Virtue*.[@macintyre1999dependent]   
+
+By contrast, McDowell's opposition to scientism leads him to disagree with Foot. McDowell's and Foot's respective approaches to neo-Aristotelian ethical naturalism represent rival visions of the relation between human beings and nature and hence between ethics and science. As I shall show, the fault line between these rival views is of enormous philosophical and ethical significance. The fault line between these views is the theme of this dissertation. 
 
 ## Organic and Social Naturalism
 
-Foot and McDowell are two contemporary representatives of neo-Aristotelianism who are united on the view that some properties (such as virtues) are instances of 'natural goodness' for creatures like us but divided on how to cash out the notion of *natural goodness*. It is worth quoting the opening passage of McDowell's "Two Sorts of Naturalism" to situate the convergence and divergence of their accounts: 
+Foot and McDowell represent rival versions of contemporary neo-Aristotelianism. They are united on the view that some properties (such as virtues) are instances of 'natural goodness' for creatures like us but divided on how to cash out the notion of *natural goodness*. It is worth quoting the opening passage of McDowell's "Two Sorts of Naturalism" to situate the convergence and divergence of their accounts: 
 
 >Philippa Foot has long urged the attractions of ethical naturalism. I applaud the negative part of her point, which is to reject various sorts of subjectivism and supernaturalist rationalism. But I doubt whether we can understand a positive naturalism in the right way without first rectifying a constriction that the concept of nature is liable to undergo in our thinking. Without such preliminaries, what we make of ethical naturalism will not be the radical and satisfying alternative to Mrs Foot’s targets that naturalism can be. Mrs Foot’s writings do not pay much attention to the concept of nature in its own right, and this leaves a risk that her naturalism may seem to belong to this less satisfying variety. I hope an attempt to explain this will be an appropriate token of friendship and admiration.[@mcdowell1998mindvalue 167]
 
@@ -378,9 +353,6 @@ The attraction of this view is that we can avoid the twin dangers of relegating 
 
 
 
-
-
-
 ## Chapter Outline
 
 
@@ -396,6 +368,11 @@ Chapter 6 defends the foregoing account in light of a renewed discussion about n
 
 Chapter 7 concludes with a brief summary of the argument and some reflections on related topics. 
 
+## A Word About Method
+
+I went down to graduate school with a decade-long resolution to write on Plato's later dialectic. This dissertation is on ethical naturalism because Foot's *Natural Goodness* drew me in a new direction. However, I still associate her work with Plato's in at least one way: the astonishment I felt when first reading Foot's *Natural Goodness*  can only be compared to my first encounters with the Platonic dialogues -- confusion tempered with delight.  So, though my research focus changed, there remains one respect in which these chapters might be seen as fulfilling my original resolution to study Plato's later dialectic -- not by examination but by enactment. That is, I aim to construct the following argument as a sort of dialogue between author and reader.  
+
+I mention this to explain why, for the sake of this project, I have bracketed discussions of supernaturalism and non-naturalism. Not that these alternatives do not deserve full consideration, but I take my primary interlocutors to be readers who share (with Foot) an attraction to moral realism about virtue but who share (with McDowell) a commitment to modern science. In order to persuade this kind of interlocutor that the two are not incompatible, I aim to assume nothing they would not assume, and to address first the objections that might arise in their minds. I would have written differently for a different implied audience, but every dialogue must have a limited scope and a definite voice.  If my study of the Platonic dialectic has taught me nothing else, it is that one must not only *understand* one's interlocutors but in some sense *become* them.  
 
 
 
@@ -1842,7 +1819,6 @@ If I were pressed to coin a new term to describe my Footian organic naturalism, 
 
 # Conclusion 
 
-
 \setlength{\epigraphwidth}{.95\textwidth}
 \begin{epigraphs}
 \qitem{Not everything that is last claims to be an end, but only that which is best.}%
@@ -1879,12 +1855,12 @@ Virtue, practical reason, and nature are age-old themes which demand more work t
 
 
 
-
-
 \backmatter
 
 
 # Bibliography
+
+\thispagestyle{plain}
 
 **Bibliography**
 
@@ -1911,6 +1887,8 @@ Arnhart, Larry. “Aristotle’s Biopolitics: A Defense of Biological Teleology 
 Barham, James. "Teleological Realism in Biology." PhD thesis, University of Notre Dame, 2011.
 
 Bailey, Andrew M. “Animalism.” _Philosophy Compass_ 10, no. 12 (2015): 867–83.
+
+\thispagestyle{plain}
 
 Beadle, Ron. “MacIntyre’s Influence on Business Ethics.” In _Handbook of Virtue Ethics in Business and Management_, 1–9. Springer, Dordrecht, 2015.
 
@@ -1943,6 +1921,8 @@ Carlson, Greg N. “A Unified Analysis of the English Bare Plural.” _Linguisti
 Carr, David, and Jan Steutel. _Virtue Ethics and Moral Education_. Routledge, 2005.
 
 Cimpian, Andrei, Amanda C Brandone, and Susan A Gelman. “Generic Statements Require Little Evidence for Acceptance but Have Powerful Implications.” _Cognitive Science_ 34, no. 8 (2010): 1452–82.
+
+\thispagestyle{plain}
 
 Cohen, Ariel. “On the Generic Use of Indefinite Singulars.” _Journal of Semantics_ 18, no. 3 (2001): 183–209.
 
@@ -1984,6 +1964,9 @@ Gelman, Susan, and Lawrence Hirschfeld. “How Biological Is Essentialism.” _F
 
 Gibbard, Allan. “Normative Properties.” _The Southern Journal of Philosophy_ 41, no. S1 (2003): 141–57.
 
+\thispagestyle{plain}
+
+
 ———. _Thinking How to Live_. Harvard University Press, 2009.
 
 ———. _Wise Choices, Apt Feelings: A Theory of Normative Judgment_. Harvard University Press, 1992.
@@ -2012,6 +1995,8 @@ Huang, Yong. “The Self-Centeredness Objection to Virtue Ethics.” _American C
 
 Huneman, Philippe. “Naturalising Purpose: From Comparative Anatomy to the `adventure of Reason’.” _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 37, no. 4 (2006): 649–74.
 
+\thispagestyle{plain}
+
 Hurka, Thomas. _Virtue, Vice, and Value_. Oxford University Press, 2000.
 
 Hursthouse, Rosalind. “Normative Virtue Ethics.” In _How Should One Live?: Essays on the Virtues_, edited by Roger Crisp, 19–33. Oxford University Press, 1996.
@@ -2025,9 +2010,6 @@ Hursthouse, Rosalind. “Normative Virtue Ethics.” In _How Should One Live?: E
 ———. “Neo-Aristotelian Ethical Naturalism.” _The International Encyclopedia of Ethics_, 2013.
 
 ———. “Virtue Ethics.” In _The Stanford Encyclopedia of Philosophy_, edited by Edward N. Zalta, 2013.
-
-
-
 
 
 Jin, Xiangshu, Robert Townley, and Lawrence Shapiro. “Structural Insight into AMPK Regulation: ADP Comes into Play.” _Structure_ 15, no. 10 (2007): 1285–95.
@@ -2050,6 +2032,9 @@ Lennox, James. “Teleology.” _Keywords in Evolutionary Biology_, Harvard Univ
 Leslie, John. “The Theory That the World Exists Because It Should.” _American Philosophical Quarterly_ 7, no. 4 (1970): 286–98.
 
 Leslie, Sarah-Jane. “Generics: Cognition and Acquisition.” _Philosophical Review_ 117, no. 1 (2008): 1–47.
+
+\thispagestyle{plain}
+
 
 Leunissen, Mariska. _Explanation and Teleology in Aristotle’s Science of Nature_. Cambridge University Press, 2010.
 
@@ -2090,6 +2075,7 @@ MacIntyre, Alasdair. “Hume on Is and Ought.” _The Philosophical Review_, 195
 
 ———. _Three Rival Versions of Moral Enquiry_. University of Notre Dame, 1990.
 
+\thispagestyle{plain}
 
 ———. _Macintyre Reader_. Edited by Kelvin Knight. University of Notre Dame, 1998.
 
@@ -2129,6 +2115,9 @@ Millikan, Ruth Garrett."In Defense of Proper Functions." _Philosophy of Science_
 
 ---.  _Language, Thought, and Other Biological Categories: New Foundations for Realism_. MIT press, 1984.
 
+\thispagestyle{plain}
+
+
 Morell, Virginia. “Why Do Animals Sometimes Kill Their Babies?” _National Geographic_, 2014. [http://news.nationalgeographic.com/news/](http://news.nationalgeographic.com/news/2014/03/140328-sloth-bear-zoo-infanticide-chimps-bonobos-animals/).
 
 Murphy, Mark. “The Natural Law Tradition in Ethics.” In _The Stanford Encyclopedia of Philosophy_, edited by Edward N. Zalta, 2011.
@@ -2162,9 +2151,16 @@ Pittendridgh, Colin. "Adaptation, Natural Selection, and Behavior" in *Behavior 
 
 Plantinga, Alvin. _Where the Conflict Really Lies: Science, Religion, and Naturalism_. Oxford University Press, 2011.
 
+\thispagestyle{plain}
+
+
 Prasada, Sandeep, Sangeet Khemlani, Sarah-Jane Leslie, and Sam Glucksberg. “Conceptual Distinctions amongst Generics.” _Cognition_ 126, no. 3 (2013): 405–22.
 
+
 Quinn, Warren. “Rationality and the Human Good.” _Social Philosophy and Policy_ 9, no. 02 (1992): 81–95.
+
+\thispagestyle{plain}
+
 
 Quinn, Warren, and Philippa Foot. _Morality and Action_. Cambridge University Press, 1993.
 
@@ -2198,6 +2194,9 @@ Thompson, Michael. “Apprehending Human Form.” _Royal Institute of Philosophy
 
 Toner, Christopher. “Flourishing and Self-Interest in Virtue Ethics.” PhD Dissertation, University of Notre Dame, 2003.
 
+\thispagestyle{plain}
+
+
 ———. "Sorts of Naturalism: Requirements for a Successful Theory. _Metaphilosophy_, 39 (2):220–250, 2008.
 
 
@@ -2227,19 +2226,22 @@ Woodcock, Scott. “Philippa Foot’s Virtue Ethics Has an Achilles’ Heel.” 
 
 Zammito, John. “Teleology Then and Now: The Question of Kant’s Relevance for Contemporary Controversies over Function in Biology.” _Studies in History and Philosophy of Science Part_ 37, no. 4 (2006): 748–70.
 
+\thispagestyle{plain}
+
+
 \newpage
 
 
-# Curriculum Vitae
+# Vita
 
 
 
 \begin{center}
 \LARGE
-Keith Buhler
+Vita
 \normalsize
 
-Curriculum Vitae 2016 
+Keith Buhler
 
 Department of Philosophy   
 
@@ -2265,12 +2267,12 @@ Lexington, KY 40506
 \noindent RESEARCH
 
 1. Specialization: Ethics 
-2. Competence: Philosophy of Mind, Ancient Philosophy, and Philosophy of Religion
+2. Competence: Philosophy of Mind, History of Philosophy, and Philosophy of Religion
 
 
 \noindent  UNIVERSITY TEACHING
 
-1. Business Ethics                  (Fall 2016, UK)
+1. Business Ethics                  (Fall 2016, Spring 2017 UK)
 2. Health Care Ethics               (Spring 2015, Fall 2016, UK)
 3. Introduction to Philosophy       (2013-2014, UK, 2014-2017 Asbury)
 4. Introduction to Ethics           (Fall 2013, UK)
@@ -2283,6 +2285,7 @@ Lexington, KY 40506
 11. Philosophy of Science           (summer 2004, Biola University, under Nancy Pearcey)
 
 
+\thispagestyle{plain}
 
 \noindent SECONDARY SCHOOL TEACHING
 
@@ -2294,8 +2297,9 @@ Lexington, KY 40506
 16. Humanities: Ancient and Medieval Thought  (Torrey Academy, 2008-2012)
 17. Humanities: 20th Century British Thought  (Torrey Academy, 2007-2012)
 18. Philosophy: Great Books Tutor, GATE Program (Willow School of Long Beach, CA 2001-2002)
+19. Spanish Tutor (Torrey Academy, Private Tutoring, 2007-2008)
 19. ESL Tutor  (Etum Academy, CA 2010-2012)
-20. ESL Teacher (Biola University Abroad, Ulaambatar, Mongolia, 2001) 
+20. ESL Tutor (Biola University Abroad, Ulaambatar, Mongolia, 2001) 
 
 
 
@@ -2338,6 +2342,7 @@ Lexington, KY 40506
 3. Lecturer (Wheatstone Academy, 2006-2011)
 6. Assistant Director (Wheatstone Academy, 2004-2005)
 
+\thispagestyle{plain}
 
 
 \noindent INVITED PUBLIC TALKS
@@ -2391,6 +2396,7 @@ Lexington, KY 40506
 22. Metaphysics of Substance and Property. JP Moreland.
 23. Philosophy of Cosmology and Quantum Physics.  John Bloom. \newline
 
+\thispagestyle{plain}
 
 \noindent LANGUAGES
 
@@ -2405,16 +2411,6 @@ Lexington, KY 40506
 3. Society of Orthodox Philosophers in America, 2014-present
 4. International Society for MacIntyrean Enquiry, 2015-present
 5. National Association of Scholars, 2016-present   \newline
-
-\noindent REFERENCES
-
-1. David Bradshaw, Professor of Philosophy, University of Kentucky, 1415 Patterson. [dbradsh@uky.edu](emailto:dbradsh@uky.edu). 859-257-7107
-2. Dan Breazeale, Professor of Philosophy, University of Kentucky, 1417 Patterson. [breazeal@uky.edu](emailto:breazeal@uky.edu). 859-257-4376
-3. Stefan Bird-Pollan, Associate Professor of Philosophy, University of Kentucky, 1421 Patterson. stefanbirdpollan@uky.edu. 859-257-7107
-4. Brandon Look, Research Professor of Philosophy, University of Kentucky, 1415 Patterson. look@uky.edu. 859-257-1862
-5. John Reynolds, President, The Saint Constantine School, 6000 Dale Carnegie Lane Houston, TX. [jmnreynolds@saintconstantine.org](emailto:jmnreynolds@saintconstantine.org). 832-975-7075   
-6. Chris Bounds, Chair, Philosophy and Religion, Asbury University, One Macklem Drive, Wilmore KY. [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu). 859-858-3511 
-
 
 \newpage
 
