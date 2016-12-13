@@ -1,5 +1,6 @@
 \frontmatter
 \thispagestyle{empty}
+\section*{Title Page}
 \par\vspace*{.1\textheight}
 \begin{center}
 
@@ -56,6 +57,12 @@ Copyright © Keith Buhler 2016
 \begin{center}
 
 ABSTRACT OF DISSERTATION 
+
+
+BECOMING WHAT WE ARE:    
+
+VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
+
 
 
 \end{center}
@@ -195,12 +202,13 @@ For Lindsay Elizabeth.
 
 \thispagestyle{empty}
 
+
+
 \begin{center}
 
 ACKNOWLEDGMENTS
 
 \end{center}
-
 
 \begin{singlespace}
 
@@ -208,19 +216,17 @@ I am sincerely grateful to Dr. David Bradshaw for being my advisor on this proje
 
 
 
-\newpage
 \thispagestyle{empty}
 
+\phantomsection
 
+\tableofcontents
+\newpage 
 
-\begin{Table of Contents\par \tableofcontents}
-\end
-
-\thispagestyle{empty}
-
-\addcontentsline{toc}{chapter}{Table of Contents}
 
 \end{singlespace}
+\thispagestyle{empty}
+
 
 
 
