@@ -56,4 +56,4 @@ or you can use the pandoc-cite-proc with Sublime Text 3 and a big Bibtex file wi
 
 ## Feedback
 
-This is the first (hasty) draft of instructions. Please check out http://keithbuhler.com/writing-tools for updated instructions when they come out -- or leave me a message with questions!
+This is the first (hasty) draft of instructions. Please check out [this post](http://keithbuhler.com/buhlerreport/writing-tools) for updated instructions when they come out -- or leave me a message with questions!
