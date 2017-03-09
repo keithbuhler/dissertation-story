@@ -26,8 +26,8 @@ The humble beginnings of template code (Markdown, Latex, Bib, and CSL) you need 
 
 
 ### Pre-research
-1. Look at the sample dissertation.pdf. Looks nice, yes? 
-2. Look at the sample-dissertation.md. Looks a little messy, but that's the code!
+1. Look at the dissertation-sample.pdf. Looks nice, yes? 
+2. Look at the dissertation-smaple.md. Looks a little messy, but that's the code!
 4. Learn a tiny bit of baby LaTex. The little bit of and LaTex formatting I've included is almost exclusively for the front matter and Table of Contents. I also inserted (optional) epigraphs because epigraphs are cool. 
 
 ### Writing
@@ -42,8 +42,11 @@ The humble beginnings of template code (Markdown, Latex, Bib, and CSL) you need 
 
 
 
-            [^1] to place footnote number
-            [^1]: for the content of footnote
+            to place footnote number in the text.[^1] 
+
+            Anywhere in the document put this: 
+
+            [^1]: This is the content of footnote.
 
 or you can use the pandoc-cite-proc with Sublime Text 3 and a big Bibtex file with all your citations.
 
@@ -54,6 +57,3 @@ or you can use the pandoc-cite-proc with Sublime Text 3 and a big Bibtex file wi
 9. To use Sublime Text 3 (2 or 3 really), create a "build system" and use my "Sample dissertation formatting.latex" file as your initial layout. Replace your last name where it says "YOUR NAME HERE" if you want your last name to appear on the header like the sample. Make sure Sublime knows where your bibliography file is located, where your "Sample CSL" file is located, and where the source dissertation.markdown file is located. 
 10. Build, and you have a dissertation beautifully formatted!
 
-## Feedback
-
-This is the first (hasty) draft of instructions. Please check out [this post](http://keithbuhler.com/buhlerreport/writing-tools) for updated instructions when they come out -- or leave me a message with questions!
