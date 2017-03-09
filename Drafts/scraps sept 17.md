@@ -1,0 +1,13 @@
+The neo-Aristotelian explains ethical norms as extensions of, or tokens of, natural norms, which are both binding on human beings as practical rational animals and not merely invented by human individuals or human cultures. These norms would be natural without being crassly biological; they would be both biological and practical. For example, it might be that some normative propositions such as "you ought to be wise" are brutely normative *natural* facts.^[Admittedly, it sounds rather odd to say that an 'ought' can be a brutely normative natural fact. In chapter 6, I shall dissipate the oddity by offering a thorough discussion of the concept of 'nature.']
+
+
+
+For example, some think that there are no such thing as a "nature", as I have deployed that concept; others think that there are natures but that there is no *human nature*; others think that human nature exists but it has no teleological boundaries; others think that human nature has *some* teleological boundaries, but only reproduction and survival. 
+I concede that human norms are only a beginning, however. Because humans are in control of their actions, the generic truths about "the human" seems to be variable. Perhaps human norms are irrelevant to how you or I or any individual *ought* to live. If so, more work is needed to justify even putatively universal natural human norms. 
+
+
+The natural norms posited are organic norms intrinsic to mundane biological species such as white oak (Quercus alba) and sloth bear (Melursus ursinus). So, if Homo sapiens sapiens is another instance of biological species, there might be natural *human* norms governing humans. The neo-Aristotelian might be able to explain ethical norms as extensions of, or tokens of, natural norms, which are both binding on human beings as practical rational animals and not merely invented by human individuals or human cultures. These norms would be natural without being crassly biological; they would be both biological and practical. 
+
+
+
+Although these major alternatives are quite different, they share one assumption in common: that 'nature' refers to the purely descriptive.If all natural facts are purely descriptive facts, then it follows by definition that non-descriptive things like norms must be either not real or else real but *not natural*.  If norms are not natural, we seem to be committed to a distinct, "non-natural" normative realm above and beyond the world described by science. If, on the other hand, norms are not ultimately real features of the natural world, then they must be reducible to non-normative facts (such as causation events) or else scientists, philosophers, and regular folk simply "project" normativity onto nature.

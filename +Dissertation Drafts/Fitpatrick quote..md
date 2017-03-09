@@ -1,3 +1,0 @@
-# Fitpatrick quote
-
-"... organisms -- unlike non-living natural objects--seem to exhibit a *teleological* organization among their parts, features and activities. This is not to suggest that they were created for a purpose, or even that they were crated at all; nor is it to suggest that the type of process that is given rise to organize complexity in living things--evolution through cumulative natural selection-- is a purposive or end-directed one. The point is just that organisms appear to be integrated systems, the parts and features and activities of which can be said to have *functions* in a sense that implies existing or occurring *for the sake of* certain unifying biological *ends* of the organism--this being a teleological relation."[@fitzpatrick2000teleology 3]
