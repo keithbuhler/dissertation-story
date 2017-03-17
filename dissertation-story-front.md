@@ -1,5 +1,6 @@
 ---
 title: Dissertation Home
+permalink: /index.html/
 ---
 
 1. [About my Dissertation](/phd)
