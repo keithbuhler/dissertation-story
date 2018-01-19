@@ -1,0 +1,13 @@
+{
+    "path" : "$PATH:/Library/TeX/texbin:/usr/local/bin:/opt/local/bin",
+    "cmd": ["pandoc",
+            "--smart",
+            "--chapters",
+            "--bibliography=/latex/bibliography.bib",
+            "--csl=/latex/csl.csl",
+            "--template=/latex/13dissertationformatted.latex",
+            "--latex-engine=xelatex",
+            "-o",
+            "${file/.md/.pdf/}",
+            "$file"]
+}

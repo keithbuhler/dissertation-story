@@ -1,0 +1,17 @@
+### The Moral Outlook
+
+McDowell's third thesis is that question of how to live must be approached from "within" a moral outlook and approached "*via* the notion of a virtuous person."[@mcdowell1979virtue 331] 
+
+McDowell’s solution to the problem of the "vertigo" we feel when contemplating the dependence of our rational concept-application on nothing more than our shared form of life is to simply accept that we cannot think from a third-person, detached, “sideways on” point of view; we can only think from within our point of view. His main opponent, of course, is the notion that morality can be adduced from an objective third-person sort of view. He says, “The cure for the vertigo, then, is to give up on the idea that philosophical thought, about the sorts of practice in question, should be undertaken at some external standpoint, outside our immersion in our familiar forms of life.”[@mcdowell1979virtue 341] This is part of the movement toward his thesis that that virtues are ethical qualities that only make sense ‘from within’, that they lend a certain kind of perceptive ability to their bearers. 
+
+McDowell points out the familiar case of a discussion or disagreement that end at loggerheads, with both parties asking "But don't you see?" Although it is tempting to want to resolve such loggerheads by appeal to a third-personal point of view standing outside either of our forms of life, McDowell thinks it must be resolved, if at all, from firmly within our form of life. That is not to say that persuasion is not possible. He reassures us that the "Don't you see?" question "can often be supplemented with words aimed at persuasion."[@mcdowell1979virtue 342] Rather, persuasion will consist in "bring[ing] someone to see it as one wants", in one or both parties appreciating reasons they may not have seen before. It sometimes takes efforts to make someone see (to make oneself or others see) "the right way to handle a given situation."[@mcdowell1979virtue 342]
+
+
+
+Perhaps, furthermore, to be rational, a genuine reason must be verifiable from an external, “neutral standpoint” open to any rational observer whatsoever. Surely *something*, such as scientific or deductive logical beliefs, are objective in the sense that they look the same to any rational being whatsoever. 
+
+Even here, McDowell undermines the objection as based partly in “vertigo”. It is a “craving for a kind of rationality independently demonstrable as such.”[@mcdowell1979virtue 346] He admits that the intelligibility and consistency of the virtuous person’s way of life are an “orectic state” but not that it is a straightforward desire as much as “a conception of how to live.”
+
+Although McDowell sees another more “subtle non-cognitivism” arising from the ashes, he does not fully develop it. Rather, he says: 
+
+>“I suspect that its origin is a philistine scientism, probably based on the misleading idea that the right of scientific method to rational acceptance is discernible from a more objective standpoint than that from which we seem to perceive the saliences. A scientistic conception of reality is eminently open to dispute. When we ask the metaphysical question whether reality is what science can find out about, we cannot, without begging the question, restrict the materials for an answer to those which science can countenance.”[@mcdowell1979virtue 346]

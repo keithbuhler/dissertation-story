@@ -1,9 +1,14 @@
 ---
 title: Dissertation Home
+<<<<<<< HEAD:dissertation-story-front.md
 permalink: /index.html/
+=======
+permalink: /index
+>>>>>>> origin/gh-pages:index.md
 ---
 
 1. [About my Dissertation](/phd)
-2. [Dissertation Raw Text (Aug 23 Draft)](/5 practical reasoning aug 23.pdf)
-3. [Dissertation Raw (Oct 7)](https://github.com/keithbuhler/dissertation-story/blob/gh-pages/Buhler%2C%20Becoming%20What%20We%20Are.md)
-4. [Dissertation PDF (Oct 7)](https://github.com/keithbuhler/dissertation-story/blob/gh-pages/Buhler%2C%20Becoming%20What%20We%20Are.pdf)
+2. [Dissertation Raw Text](http://www.keithbuhler.com/dissertation-story/Dissertation-sample.md)
+4. [Dissertation PDF](https://github.com/keithbuhler/dissertation-story/Dissertation-sample.pdf.pdf)
+5. [How to format]()
+

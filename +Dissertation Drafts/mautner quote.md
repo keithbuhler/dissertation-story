@@ -1,2 +1,0 @@
-
-Mautner says: "Life is a process whose outcome is the self-reproduction of complex molecular patterns’. Importantly, Life is then a process that requires a constant flow of information, matter and energy."[@mautner2009life 435] 
