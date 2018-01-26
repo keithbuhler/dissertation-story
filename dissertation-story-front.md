@@ -1,10 +1,6 @@
 ---
 title: Dissertation Home
-<<<<<<< HEAD:dissertation-story-front.md
-permalink: /index.html/
-=======
 permalink: /index
->>>>>>> origin/gh-pages:index.md
 ---
 
 1. [About my Dissertation](/phd)
