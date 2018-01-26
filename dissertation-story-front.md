@@ -1,6 +1,6 @@
 ---
 title: Dissertation Home
-permalink: /index
+permalink: http://www.keithbuhler.com/dissertation-story/dissertation-story-front
 ---
 
 1. [About my Dissertation](/phd)
